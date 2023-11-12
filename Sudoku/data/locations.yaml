@@ -1,0 +1,268 @@
+- name: "Puzzle 1: Renban/Quadruples"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 2: Killer"
+  region: Summation Sudoku
+- name: "Puzzle 3: Ratio/Pairs/XV"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 4: Arrow"
+  region: Summation Sudoku
+- name: "Puzzle 5: Thermo Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 6: Between Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 7: Fortress Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 8: Little Killer"
+  region: Summation Sudoku
+- name: "Puzzle 9: Thermo"
+  region: Positional Sudoku
+- name: "Puzzle 10: Odd/Even Killer"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 11: Next to Nine"
+  region: Variant Sudoku
+- name: "Puzzle 12: House of X"
+  region: Positional Sudoku
+- name: "Puzzle 13: Clone Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 14: Quadruples"
+  region: Positional Sudoku
+- name: "Puzzle 15: GAK"
+  region: Parity Sudoku
+- name: "Puzzle 16: Thermo Killer"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 17: Consec Pairs"
+  region: Parity Sudoku
+- name: "Puzzle 18: Shot Thru the Heart"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 19: Point to Next"
+  region: Variant Sudoku
+- name: "Puzzle 20: Thermo Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 21: 129 Columns"
+  region: Classic Sudoku
+- name: "Puzzle 22: German Whispers"
+  region: Parity Sudoku
+- name: "Puzzle 23: Killer Arrow"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 24: Revolution"
+  region: Positional Sudoku
+- name: "Puzzle 25: Sandwich"
+  region: Summation Sudoku
+- name: "Puzzle 26: Antidiagonal"
+  region: Positional Sudoku
+- name: "Puzzle 27: Tilted Windmill"
+  region: Positional Sudoku
+- name: "Puzzle 28: Thermo/Kropki/Killer"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 29: Trio"
+  region: Parity Sudoku
+- name: "Puzzle 30: Between Killer"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 31: Near and Far"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 32: Mathrax"
+  region: Variant Sudoku
+- name: "Puzzle 33: Palindromes"
+  region: Positional Sudoku
+- name: "Puzzle 34: Ascending Order"
+  region: Positional Sudoku
+- name: "Puzzle 35: Arrow Sudoku"
+  region: Summation Sudoku
+- name: "Puzzle 36: Killer Sudoku"
+  region: Summation Sudoku
+- name: "Puzzle 37: Hourglass"
+  region: Parity Sudoku
+- name: "Puzzle 38: Skyscraper"
+  region: Variant Sudoku
+- name: "Puzzle 39: Clock Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 40: NO"
+  region: Classic Sudoku
+- name: "Puzzle 41: Clock Face Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 42: Renban Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 43: Personal Space"
+  region: Parity Sudoku
+- name: "Puzzle 44: Irregular"
+  region: Positional Sudoku
+- name: "Puzzle 45: Bent Diagonals Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 46: Badge"
+  region: Summation Sudoku
+- name: "Puzzle 47: Search Nine"
+  region: Variant Sudoku
+- name: "Puzzle 48: Consecutive Circles Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 49: SquareShapedBox"
+  region: Variant Sudoku
+- name: "Puzzle 50: Consec-Pairrow"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 51: Wheel Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 52: Begun It Has"
+  region: Positional Sudoku
+- name: "Puzzle 53: Slow Thermo"
+  region: Variant Sudoku
+- name: "Puzzle 54: CL Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 55: Stroking My Ego"
+  region: Positional Sudoku
+- name: "Puzzle 56: Consec Pairs"
+  region: Parity Sudoku
+- name: "Puzzle 57: Outside Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 58: 129 Snowflake"
+  region: Classic Sudoku
+- name: "Puzzle 59: Creasing Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 60: Round Off"
+  region: Variant Sudoku
+- name: "Puzzle 61: German Whispers"
+  region: Parity Sudoku
+- name: "Puzzle 62: Arrow"
+  region: Summation Sudoku
+- name: "Puzzle 63: Cupid Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 64: GAS LXIV"
+  region: Parity Sudoku
+- name: "Puzzle 65: X-Sums"
+  region: Summation Sudoku
+- name: "Puzzle 66: Coast to Coast"
+  region: Variant Sudoku
+- name: "Puzzle 67: Quad Wrangle"
+  region: Positional Sudoku
+- name: "Puzzle 68: X Thermo"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 69: Deficit/Surplus Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 70: Did Set Join?"
+  region: Positional Sudoku
+- name: "Puzzle 71: Slot Machine"
+  region: Variant Sudoku
+- name: "Puzzle 72: Position Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 73: Purple Haze"
+  region: Positional Sudoku
+- name: "Puzzle 74: Numbered Rooms"
+  region: Variant Sudoku
+- name: "Puzzle 75: 159 Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 76: Diff Diffs"
+  region: Parity Sudoku
+- name: "Puzzle 77: Kropki Pairs"
+  region: Parity Sudoku
+- name: "Puzzle 78: Rossini Sudoku"
+  region: Variant Sudoku
+- name: "Puzzle 79: TT Krayt Dino"
+  region: Classic Sudoku
+- name: "Puzzle 80: Extra Regions"
+  region: Positional Sudoku
+- name: "Puzzle 81: Three-in-a-row"
+  region: Variant Sudoku
+- name: "Puzzle 82: Triple-Double"
+  region: Parity Sudoku
+- name: "Puzzle 83: Even Sandwich"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 84: Even Sandwich"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 85: To Me, My..."
+  region: Summation Sudoku
+- name: "Puzzle 86: Thermo Quads"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 87: Clone Sudoku"
+  region: Positional Sudoku
+- name: "Puzzle 88: LK/Sandwich/Next To Six"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 89: Made Ya LK"
+  region: Summation Sudoku
+- name: "Puzzle 90: Classic"
+  region: Classic Sudoku
+- name: "Puzzle 91: Multiplication"
+  region: Variant Sudoku
+- name: "Puzzle 92: pi-Seas 5"
+  region: Classic Sudoku
+- name: "Puzzle 93: Windoku"
+  region: Positional Sudoku
+- name: "Puzzle 94: Antiwindoku"
+  region: Positional Sudoku
+- name: "Puzzle 95: Queen"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 96: Odd-Even-Big-Small"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 97: Odd/Even Sudoku"
+  region: Parity Sudoku
+- name: "Puzzle 98: Phortress"
+  region: Positional Sudoku
+- name: "Puzzle 99: Sandwich"
+  region: Summation Sudoku
+- name: "Puzzle 100: Palindrome"
+  region: Positional Sudoku
+- name: "Puzzle 101: Sum More Arrow"
+  region: Summation Sudoku
+- name: "Puzzle 102: O/E Thermo"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 103: Thermo Clones"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 104: Dead or Alive"
+  region: Summation Sudoku
+- name: "Puzzle 105: Quad Max"
+  region: Positional Sudoku
+- name: "Puzzle 106: Quad Max"
+  region: Positional Sudoku
+- name: "Puzzle 107: Quad Max"
+  region: Positional Sudoku
+- name: "Puzzle 108: Zone"
+  region: Variant Sudoku
+- name: "Puzzle 109: Classic Sudoku"
+  region: Classic Sudoku
+- name: "Puzzle 110: Modern Sudoku"
+  region: Summation Sudoku
+- name: "Puzzle 111: Full Rank"
+  region: Variant Sudoku
+- name: "Puzzle 112: Odd Sudoku"
+  region: Parity Sudoku
+- name: "Puzzle 113: Ring of Fire"
+  region: Positional Sudoku
+- name: "Puzzle 114: TOWTBART"
+  region: Variant Sudoku
+- name: "Puzzle 115: Even Sudoku"
+  region: Parity Sudoku
+- name: "Puzzle 116: Sam-ish Sudoku"
+  region: Summation Sudoku
+- name: "Puzzle 117: Thermo"
+  region: Positional Sudoku
+- name: "Puzzle 118: Neighbours"
+  region: Variant Sudoku
+- name: "Puzzle 119: Sagittarius II"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 120: Pairs/Ratio"
+  region: Parity Sudoku
+- name: "Puzzle 121: Gamma and Epsilon"
+  region: Parity Sudoku
+- name: "Puzzle 122: Nein Nines"
+  region: Classic Sudoku
+- name: "Puzzle 123: BOGO"
+  region: Variant Sudoku
+- name: "Puzzle 124: Extra Regions"
+  region: Positional Sudoku
+- name: "Puzzle 125: B1G3 Arrow/Palindrome/Renban/Between Line"
+  region: Multi-Rule Sudoku
+- name: "Puzzle 128: Eeeeevil Sudoku"
+  region: Classic Sudoku
+- name: "Puzzle 133: Classic Sudoku"
+  region: Classic Sudoku
+- name: "GAS Leak row 6 - Box of Krop"
+  region: Victory
+- name: "GAS Leak row 7 - German Whispers"
+  region: Victory
+- name: "GAS Leak row 8 - Point to Next"
+  region: Victory
+- name: "GAS Leak row 9 - Killer"
+  region: Victory
+- name: "GAS Leak row 10 - Arrow"
+  region: Victory
+- name: "GAS Leak row 11 - Group Sums"
+  region: Victory
+- name: "GAS Leak row 12 - Very Mysterious Sudoku"
+  region: Victory
