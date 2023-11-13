@@ -1,0 +1,985 @@
+[
+	{
+		"name": "Great Jagras Assigned Complete 1st",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"place_item": "Great Jagras 2-star Investigation Quest",
+		"requires": []
+	},
+	{
+		"name": "Great Jagras Repeat Quest 1",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras Repeat Quest 2",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras Repeat Quest 3",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras 2-star Investigation Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Great Jagras 2-star Investigation Quest|"
+	},
+	{
+		"name": "Great Jagras 3-star Investigation Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Great Jagras 3-star Investigation Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Assigned Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 1",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 2",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 3",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi 2-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi 2-star Investigation Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi 3-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Tobi-Kadachi 3-star Investigation Quest|"
+	},
+	{
+		"name": "Anjanath Assigned Complete",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 1",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 2",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 3",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath 2-star Investigation Complete",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath 2-star Investigation Quest|"
+	},
+	{
+		"name": "Anjanath 3-star Investigation Quest",
+		"region": "Anjanath",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Anjanath 3-star Investigation Quest|"
+	},
+	{
+		"name": "Rathalos Assigned Complete",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 1",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 2",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 3",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos 2-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos 2-star Investigation Quest|"
+	},
+	{
+		"name": "Rathalos 4-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Rathalos 4-star Investigation Quest|"
+	},
+	{
+		"name": "Azure Rathalos Assigned Complete",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 1",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 2",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 3",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos 2-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos 2-star Investigation Quest|"
+	},
+	{
+		"name": "Azure Rathalos 4-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete","Ancient Forest"],
+		"requires": "|Azure Rathalos 4-star Investigation Quest|"
+	},
+	{
+		"name": "Craft Bone Blade",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Buster Blade",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Bone Slasher",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Chrome Razor",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Giant Jawblade",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Jagras Blade",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Flame Blade",
+		"region": "Rathalos",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Jagras Hacker",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Red Wing",
+		"region": "Rathalos",
+		"category": ["Crafting","Weapon","Great Sword","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Bone Hatchets",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Dual Slicers",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Wild Hatchets",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Chrome Slicers",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Strong Hatchets",
+		"region": "Great Jagras",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Pulsar Hatchets",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Kadachi Claws",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Blazing Hatchets",
+		"region": "Anjanath",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Craft Anja Cyclone",
+		"region": "Anjanath",
+		"category": ["Crafting","Weapon","Dual Blades","Ancient Forest"],
+		"requires": []
+	},
+	{
+	    "name": "Craft Hunter's Bow",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Steel Bow",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Hunter's Shortbow",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Alloy Bow",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Hunter's Proudbow",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Pulsar Bow",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Flying Kadachi Strikebow",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Blazing Bow",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Anja Arch",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Bow","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Bone Kukri",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Steel Knife",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Chief Kukri",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Chrome Slicer",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Grand Barong",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Jagras Edge",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Flame Knife",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Jagras Garotte",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Heat Edge",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Sword & Shield","Ancient Forest"]
+	},
+	{
+	    "name": "Craft Bone Shotel",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Pulsar Shotel",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Kadachi Fang",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Blazing Shotel",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Anja Scimitar",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Wyvern Blade - Fall",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Wyvern Blade - Blood",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Long Sword"]
+	},
+	{
+	    "name": "Craft Bone Bludgeon",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Iron Demon",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Iron Arch Demon",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Fossil Bludgeon",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Grand Rock",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Blazing Hammer",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Anja Striker",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Hammer"]
+	},
+	{
+	    "name": "Craft Bone Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Steel Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Chrome Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Bone Cannon",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Great Bone Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Jagras Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Glutton Gunlance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Rath Gunlance",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Red Rook",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Gunlance"]
+	},
+	{
+	    "name": "Craft Hunter's Rifle",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft High Chain Blitz",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Cross Blitz",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Power Rifle",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Sniper Shot",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Jagras Blitz",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Jagras Fire",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Flame Blitz",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Rathbuster",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Light Bowgun"]
+	},
+	{
+	    "name": "Craft Bone Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Steel Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Chrome Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Hard Bone Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Heavy Bone Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Thunder Lance",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Lightning Spire",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Flame Lance",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Red Tail",
+	    "region": "Rathalos",
+	    "category": ["Crafting","Weapon","Lance"]
+	},
+	{
+	    "name": "Craft Bone Horn",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Great Bagpipe",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Fortissimo",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Hard Bone Horn",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Heavy Bone Horn",
+	    "region": "Great Jagras",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Thunder Gaida",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Lightning Drum",
+	    "region": "Tobi-Kadachi",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Blazing Horn",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+	    "name": "Craft Anja Barone",
+	    "region": "Anjanath",
+	    "category": ["Crafting","Weapon","Hunting Horn"]
+	},
+	{
+		"name": "H1 Craft Bone Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Bone Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Bone Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Bone Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Bone Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Bone Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Alloy Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Alloy Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Alloy Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Alloy Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Alloy Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Alloy Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Jagras Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Jagras Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Jagras Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Jagras Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Jagras Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Jagras Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Kadachi Helm",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Kadachi Mail",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Kadachi Greaves",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Kadachi Helm",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Kadachi Mail",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Kadachi Greaves",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Anja Helm",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Anja Mail",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Anja Greaves",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Anja Helm",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Anja Mail",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Anja Greaves",
+		"region": "Anjanath",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rathalos Helm",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rathalos Mail",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rathalos Greaves",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rathalos Helm",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rathalos Mail",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rathalos Greaves",
+		"region": "Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rath Soul Helm",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rath Soul Mail",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H1 Craft Rath Soul Greaves",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rath Soul Helm",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rath Soul Mail",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "H2 Craft Rath Soul Greaves",
+		"region": "Azure Rathalos",
+		"category": ["Crafting","Armor","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Head Break",
+		"region": "Great Jagras",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Body Break",
+		"region": "Great Jagras",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Tail Break",
+		"region": "Great Jagras",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Head Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Body Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Tail Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Head Break",
+		"region": "Anjanath",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Body Break",
+		"region": "Anjanath",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Tail Break",
+		"region": "Anjanath",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Head Break",
+		"region": "Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Body Break",
+		"region": "Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Tail Break",
+		"region": "Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Wing Break",
+		"region": "Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Head Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Body Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Tail Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Wing Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break","Ancient Forest"],
+		"requires": []
+	}
+]

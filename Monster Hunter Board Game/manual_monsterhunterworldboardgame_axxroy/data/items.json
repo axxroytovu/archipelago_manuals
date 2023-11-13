@@ -1,0 +1,774 @@
+[
+	{
+		"count":1,
+		"name": "Tobi-Kadachi Assigned Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Anjanath Assigned Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rathalos Assigned Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Azure Rathalos Assigned Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Great Jagras 2-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Great Jagras 3-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tobi-Kadachi 2-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tobi-Kadachi 3-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Anjanath 2-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Anjanath 3-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rathalos 2-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rathalos 4-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Azure Rathalos 2-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Azure Rathalos 4-star Investigation Quest",
+		"category": ["Quest", "Ancient Forest"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bone Blade",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Buster Blade",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Slasher",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chrome Razor",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Giant Jawblade",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Jagras Blade",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flame Blade",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Jagras Hacker",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Red Wing",
+		"category": ["Weapon","Craftable", "Ancient Forest","Great Sword"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Hatchets",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dual Slicers",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wild Hatchets",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chrome Slicers",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strong Hatchets",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pulsar Hatchets",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Blazing Hatchets",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Kadachi Claws",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Anja Cyclone",
+		"category": ["Weapon","Craftable", "Ancient Forest","Dual Blades"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hunter's Bow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Steel Bow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hunter's Shortbow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Alloy Bow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hunter's Proudbow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pulsar Bow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flying Kadachi Strikebow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Blazing Bow",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Anja Arch",
+		"category": ["Weapon","Craftable", "Ancient Forest","Bow"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Kukri",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Steel Knife",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chief Kukri",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chrome Slicer",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grand Barong",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Jagras Edge",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Jagras Garotte",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flame Knife",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Heat Edge",
+		"category": ["Weapon","Craftable","Ancient Forest","Sword & Shield"],
+		"useful": true
+	},
+	{
+	    "count":1,
+	    "name": "Bone Shotel",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Pulsar Shotel",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Kadachi Fang",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Blazing Shotel",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Anja Scimitar",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Wyvern Blade - Fall",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Wyvern Blade - Blood",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Long Sword"]
+	},
+	{
+	    "count":1,
+	    "name": "Bone Bludgeon",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Iron Demon",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Fossil Bludgeon",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Iron Arch Demon",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Grand Rock",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Blazing Hammer",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name": "Anja Striker",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hammer"]
+	},
+	{
+	    "count":1,
+	    "name":"Bone Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Steel Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Chrome Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Bone Cannon",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Great Bone Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Jagras Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Glutton Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Rath Gunlance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Red Rook",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Gunlance"]
+	},
+	{
+	    "count":1,
+	    "name":"Hunter's Rifle",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"High Chain Blitz",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Power Rifle",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Cross Blitz",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Sniper Shot",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Jagras Blitz",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Flame Blitz",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Jagras Fire",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Rathbuster",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Light Bowgun"]
+	},
+	{
+	    "count":1,
+	    "name":"Bone Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Steel Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Chrome Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Hard Bone Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Heavy Bone Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Thunder Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Lightning Spire",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Flame Lance",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Red Tail",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Lance"]
+	},
+	{
+	    "count":1,
+	    "name":"Bone Horn",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Great Bagpipe",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Hard Bone Horn",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Fortissimo",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Heavy Bone Horn",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Thunder Gaida",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Lightning Drum",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Blazing Horn",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+	    "count":1,
+	    "name":"Anja Barone",
+	    "category": ["Weapon","Craftable","Hunter's Arsenal","Hunting Horn"]
+	},
+	{
+		"count":2,
+		"name": "Alloy Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Alloy Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Alloy Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Bone Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Bone Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Bone Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Helm",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Mail",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Greaves",
+		"category": ["Armor","Craftable", "Ancient Forest"],
+		"useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Attack Boost",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Ailment Cure",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Shieldspire",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Vigorwasp Spray",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Flashfly Cage",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Rath-of-Meow",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Meowlotov Cocktail",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Plunderblade",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Dodge Boost",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Defense Boost",
+	    "category": ["Palico", "Ancient Forest"],
+	    "useful": true
+	},
+	{
+	    "count": 2,
+	    "name": "Vespoid Attack",
+	    "category": ["Trap", "Ancient Forest"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Paratoad",
+	    "category": ["Trap", "Ancient Forest"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Sleeptoad",
+	    "category": ["Trap", "Ancient Forest"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Poisoncup",
+	    "category": ["Trap", "Ancient Forest"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Nitrotoad",
+	    "category": ["Trap", "Ancient Forest"],
+	    "trap": true
+	},
+	{
+	    "count":3,
+	    "name": "One resource of your choice",
+	    "category": ["Resource"],
+	    "useful": true
+	}
+]
