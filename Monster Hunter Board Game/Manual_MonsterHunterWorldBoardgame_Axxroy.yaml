@@ -1,0 +1,20 @@
+Manual_MonsterHunterWorldBoardgame_Axxroy:
+    progression_balancing: 50
+    accessibility: items
+    exclude_categories: [
+      # Comment out the weapons you want to use
+      #"Great Sword",
+      #"Sword & Shield",
+      "Bow",
+      "Dual Blades",
+      "Long Sword",
+      "Hammer",
+      "Gunlance",
+      "Light Bowgun",
+      "Lance",
+      "Hunting Horn",
+      ""
+    ]
+
+game: Manual_MonsterHunterWorldBoardgame_Axxroy
+name: Name
