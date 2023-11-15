@@ -32,7 +32,7 @@ Make a copy of the sheet for yourself.
 All of the locations in this AP World reference specific puzzles on the "CTC GAS Tracking" and "CTC GAS Leak Tracking" tabs. Navigate to these tabs and expand all of the hidden rows to prepare to play!
 
 ## Archipelago Rules
-Solving each puzzle (links to the puzzle are provided in the spreadsheet) constitutes a check. The goal is to locate a certain number of "Victory Key" items, and complete the Victory Puzzle. Both of these are listed in the generated YAML for your game.
+Solving each puzzle (links to the puzzle are provided in the spreadsheet) constitutes a check. The goal is to locate a certain number of "Victory Key" items, and complete the Victory Puzzle. Both of these are listed in the "Victory" category of the manual tracker.
 
 For this archipelago game, the puzzles are split into multiple regions. Each region has 8 puzzles, for a total of 48 locations.
 - Classic Sudoku: These are your classic 9x9 puzzles with no extra rules. This is the only region available at the beginning of the game.
