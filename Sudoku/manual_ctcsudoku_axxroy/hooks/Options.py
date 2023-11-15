@@ -36,9 +36,9 @@ class GameDuration(Range):
 class ExtraKeysRatio(Range):
     """Ratio of total keys to required keys"""
     display_name = "Extra keys ratio"
-    range_start = 1
-    range_end = 2
-    default = 1.5
+    range_start = 100
+    range_end = 200
+    default = 150
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:

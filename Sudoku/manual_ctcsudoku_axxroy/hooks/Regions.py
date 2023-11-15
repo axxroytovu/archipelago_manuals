@@ -9,4 +9,5 @@ def before_region_table_processed(region_table: dict) -> dict:
 
     for i in range(5):
         region_table[valid_regions[i]]['connects_to'] = [valid_regions[i+1]]
+    region_table["Classic Sudoku"]['connects_to'].append("Victory")
     return region_table

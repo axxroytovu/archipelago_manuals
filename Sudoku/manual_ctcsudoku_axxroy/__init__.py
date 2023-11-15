@@ -62,6 +62,7 @@ class ManualWorld(World):
     location_id_to_name = location_id_to_name
     location_name_to_id = location_name_to_id
     location_name_to_location = location_name_to_location
+    location_count = len(location_table)
 
     def pre_fill(self):
         before_pre_fill(self, self.multiworld, self.player)
@@ -138,14 +139,14 @@ class ManualWorld(World):
                     self.multiworld.push_precollected(starting_item)
                     pool.remove(starting_item)
 
-        extras = len(location_table) - len(pool) - 1 # subtracting 1 because of Victory; seems right
+        pool = before_generate_basic(pool, self, self.multiworld, self.player)
+
+        extras = self.location_count - len(pool) - 1 # subtracting 1 because of Victory; seems right
 
         if extras > 0:
             for i in range(0, extras):
                 extra_item = self.create_item(filler_item_name)
                 pool.append(extra_item)
-
-        pool = before_generate_basic(pool, self, self.multiworld, self.player)
 
         # need to put all of the items in the pool so we can have a full state for placement
         # then will remove specific item placements below from the overall pool

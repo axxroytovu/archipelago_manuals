@@ -1,6 +1,6 @@
 [
     {
-      "count": 100,
+      "count": 1,
       "name": "Victory Key",
       "category": [
         "Key"
@@ -97,7 +97,7 @@
     },
     {
       "name": "Puzzle Skip",
-      "count": 100,
+      "count": 1,
       "category": [
         "Boon"
       ],
@@ -105,10 +105,20 @@
     },
     {
       "name": "Reveal Puzzle Times",
-      "count": 100,
+      "count": 1,
       "category": [
         "Boon"
       ],
       "useful": true
+    },
+    {
+      "name": "Victory 1",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Victory 2",
+      "count": 1,
+      "progression": true
     }
 ]

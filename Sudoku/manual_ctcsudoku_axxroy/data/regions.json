@@ -2,7 +2,7 @@
     "Classic Sudoku": {
         "count": 0,
         "requires": [],
-        "connects_to": ["Positional Sudoku"],
+        "connects_to": ["Positional Sudoku", "Victory"],
         "starting": true
     },
     "Positional Sudoku": {
@@ -29,5 +29,8 @@
         "count": 0,
         "requires": "|Multi-Rule Key|",
         "connects_to": []
+    },
+    "Victory": {
+        "requires": "|Victory Key|"
     }
 }

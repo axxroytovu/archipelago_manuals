@@ -2,6 +2,7 @@
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
 import random
+from copy import copy
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -48,6 +49,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    # print(item_pool)
 
     game_duration = get_option_value(multiworld, player, "game_duration") or 4
 
@@ -63,14 +65,66 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         minutes -= 10
     
     total_puzzles = round(minutes/10)
+    world.location_count = total_puzzles
     total_regions = min([6, int(total_puzzles/5)])
+    # print(total_puzzles, total_regions)
 
     required_keys = round(total_puzzles/10) * 2
-    total_keys = round((get_option_value(multiworld, player, "extra_keys") or 1.5) * required_keys)
+    total_keys = round((get_option_value(multiworld, player, "extra_keys") or 150) * required_keys / 100)
+    
+    victory_key = next(i for i in item_pool if i.name == "Victory Key")
+    puzzle_skip = next(i for i in item_pool if i.name == "Puzzle Skip")
+    reveal_time = next(i for i in item_pool if i.name == "Reveal Puzzle Times")
+    for i in range(1, total_keys):
+        item_pool.append(copy(victory_key))
+    
+    filler = int((total_puzzles - len(item_pool) - 3)/4)
+    for i in range(1, filler):
+        item_pool.append(copy(puzzle_skip))
+    for i in range(1, filler*2):
+        item_pool.append(copy(reveal_time))
 
     regions_order = ["Classic Sudoku"]
     for i in range(5):
         regions_order.append(region_table[regions_order[-1]]["connects_to"][0])
+    
+    regions = {r: {"count": (int(total_puzzles/total_regions) if i < total_regions else 0)} for i, r in enumerate(regions_order)}
+    cur_rgn = 0
+    while sum([r['count'] for r in regions.values()]) < total_puzzles:
+        regions[regions_order[cur_rgn]]['count'] += 1
+        cur_rgn += 1
+        cur_rgn %= total_regions
+    #"place_item": ["Key X"]
+    
+    for i, region in enumerate(multiworld.regions):
+        if region.player != player:
+            continue
+        if region.name == "Victory":
+            # print(region.locations)
+            locations_to_keep = ["__Manual Game Complete__", f"Required Keys: {required_keys}"]
+            possible_victories = [l.name for l in region.locations if "GAS Leak" in l.name]
+            victory_puzzle = random.choice(possible_victories)
+            locations_to_keep.append(victory_puzzle)
+        else:
+            loc_names = [l.name for l in region.locations]
+            random.shuffle(loc_names)
+            try:
+                locations_to_keep = loc_names[:regions[region.name]['count']]
+            except:
+                continue
+        for location in list(region.locations):
+            if location.name not in locations_to_keep:
+                region.locations.remove(location)
+        # print(region.locations)
+    victory1_item = next(i for i in item_pool if i.name == "Victory 1")
+    victory1_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == f"Required Keys: {required_keys}")
+    victory1_location.place_locked_item(victory1_item)
+    victory2_item = next(i for i in item_pool if i.name == "Victory 2")
+    victory2_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_puzzle)
+    victory2_location.place_locked_item(victory2_item)
+    item_pool.remove(victory1_item)
+    item_pool.remove(victory2_item)
+    multiworld.clear_location_cache()
 
     # # shuffle the character item names and pull a subset with a maximum for the option we provided
     # character_names = [name for name in world.item_names]
