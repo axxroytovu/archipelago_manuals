@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
+import random
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -47,12 +48,29 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    # import random
 
-    # total_characters = get_option_value(multiworld, player, "total_characters_to_win_with") or 50
+    game_duration = get_option_value(multiworld, player, "game_duration") or 4
 
-    # if total_characters < 10 or total_characters > 50:
-    #     total_characters = 50
+    if game_duration < 2 or game_duration > 10:
+        game_duration = 4
+    minutes = game_duration * 60
+    
+    if game_duration > 3.5:
+        challenge = True
+        minutes -= 30
+    else:
+        challenge = False
+        minutes -= 10
+    
+    total_puzzles = round(minutes/10)
+    total_regions = min([6, int(total_puzzles/5)])
+
+    required_keys = round(total_puzzles/10) * 2
+    total_keys = round((get_option_value(multiworld, player, "extra_keys") or 1.5) * required_keys)
+
+    regions_order = ["Classic Sudoku"]
+    for i in range(5):
+        regions_order.append(region_table[regions_order[-1]]["connects_to"][0])
 
     # # shuffle the character item names and pull a subset with a maximum for the option we provided
     # character_names = [name for name in world.item_names]

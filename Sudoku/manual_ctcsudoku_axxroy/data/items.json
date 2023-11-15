@@ -1,0 +1,114 @@
+[
+    {
+      "count": 100,
+      "name": "Victory Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Positional Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Parity Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Summation Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Variant Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Multi-Rule Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 1",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 2",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 3",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 4",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 5",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Extra Puzzle 6",
+      "category": [
+        "Trap"
+      ],
+      "trap": true
+    },
+    {
+      "name": "Puzzle Skip",
+      "count": 100,
+      "category": [
+        "Boon"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Reveal Puzzle Times",
+      "count": 100,
+      "category": [
+        "Boon"
+      ],
+      "useful": true
+    }
+]

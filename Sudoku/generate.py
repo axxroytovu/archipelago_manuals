@@ -141,7 +141,7 @@ with open(target_folder / "game.json", 'w') as game_file:
 
 shutil.make_archive(folder_name, 'zip', "./", folder_name)
 os.rename(folder_name+".zip", folder_name+".apworld")
-shutil.rmtree(folder_name)
+#shutil.rmtree(folder_name)
 
 if challenge:
     victory = next(x for x in locations if x['region'] == 'Victory')['name']

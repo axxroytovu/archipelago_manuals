@@ -1,0 +1,33 @@
+{
+    "Classic Sudoku": {
+        "count": 0,
+        "requires": [],
+        "connects_to": ["Positional Sudoku"],
+        "starting": true
+    },
+    "Positional Sudoku": {
+        "count": 0,
+        "requires": "|Positional Key|",
+        "connects_to": ["Parity Sudoku"]
+    },
+    "Parity Sudoku": {
+        "count": 0,
+        "requires": "|Parity Key|",
+        "connects_to": ["Summation Sudoku"]
+    },
+    "Summation Sudoku": {
+        "count": 0,
+        "requires": "|Summation Key|",
+        "connects_to": ["Variant Sudoku"]
+    },
+    "Variant Sudoku": {
+        "count": 0,
+        "requires": "|Variant Key|",
+        "connects_to": ["Multi-Rule Sudoku"]
+    },
+    "Multi-Rule Sudoku": {
+        "count": 0,
+        "requires": "|Multi-Rule Key|",
+        "connects_to": []
+    }
+}
