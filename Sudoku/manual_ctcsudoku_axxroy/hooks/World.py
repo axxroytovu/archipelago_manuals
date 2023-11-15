@@ -124,7 +124,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     victory2_location.place_locked_item(victory2_item)
     item_pool.remove(victory1_item)
     item_pool.remove(victory2_item)
-    multiworld.clear_location_cache()
+    # multiworld.clear_location_cache()
 
     # # shuffle the character item names and pull a subset with a maximum for the option we provided
     # character_names = [name for name in world.item_names]
