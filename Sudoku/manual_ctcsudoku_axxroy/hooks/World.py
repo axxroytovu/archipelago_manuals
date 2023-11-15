@@ -96,7 +96,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     #             locations_to_remove_from_region.append(location)
 
     #     for location in locations_to_remove_from_region:
-    #         region.locations.remove(location)
+    #         egion.locations.remove(location)
                 
     # # modify the victory requirements to only include items that are in the item names list
     # victory_location = multiworld.get_location("__Manual Game Complete__", player)
