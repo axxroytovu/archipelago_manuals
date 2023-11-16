@@ -875,6 +875,20 @@
     ]
   },
   {
+    "name": "Puzzle 126: Odd Sum Pair",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 127: Max Odd/Even Run",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
     "name": "Puzzle 128: Eeeeevil Sudoku",
     "region": "Classic Sudoku",
     "category": [
@@ -882,10 +896,157 @@
     ]
   },
   {
+    "name": "Puzzle 129: Kropki Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 130: Making Lemonade",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 131: Shamrock",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 132: Exclusion Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
     "name": "Puzzle 133: Classic Sudoku",
     "region": "Classic Sudoku",
     "category": [
       "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 134: Summometers",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 135: Even Count",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 136: Killer Sudoku",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 137: TOWTCBBAR",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 138: Arrow",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 139: Consec Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 140: Slasher",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 141: Minmax Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 142: Extra Regions",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 143: Paired Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 144: Big Bands Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 145: Thermo Quads",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 146: Breaking News",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 147: LK Clone",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 148: Between Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 149: Taonetonine/Tatwotween/Tatrioine",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 150: GAS 101 - X Sums",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
     ]
   },
   {
@@ -938,6 +1099,30 @@
   },
   {
     "name": "GAS Leak row 12 - Very Mysterious Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 13 - Hats Wearing Dinos",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 14 - Odd/Even Little Killer",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 15 - Podium",
     "region": "Victory",
     "category": [
       "Victory"
