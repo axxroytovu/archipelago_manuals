@@ -1050,6 +1050,342 @@
     ]
   },
   {
+    "name": "Puzzle 151: Parity Lines",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 152: Parity Lines",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 153: Arrow",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 154: Difference",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 155: Painkillers",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 156: Symmetric Unequal",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 157: Symmetric Unequal",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 158: Out With A Foot",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 159: LK Killer",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 160: XV Pairs Sudoku",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 161: Say Eight!",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 162: Windoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 163: Fortress Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 164: Fourshadowing/That's Three in the Corner",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 167: Return of the Clones",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 168: Irregular Frame",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 169: Answer Eight",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 170: Thing of Shapes",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 171: Quad Max",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 172: Easy as 1, 2, 3",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 173: Summoning Baphomet",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 174: Thermo",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 175: Irregular Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 176: Paying Respect",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 177: Thermo Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 178: Product Sudoku",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 179: Asking For A Friend",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 180: Greater Than",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 181: Triplet Sum",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 182: The Letter K",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 183: True or Lie",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 184: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 185: US Duck Socials",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 186: Kropkidrome",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 187: Palindrome Quads",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 188: Squared Circle",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 189: LK Arrow",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 190: Renban Quads",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 191: Ultimaton",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 192: Greater Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 193: Diagonal Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 194: X-23",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 195: Average Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 196: Thermo Killer",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 197: Wolverine",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 198: Renban",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 199: Consec Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 200: Hawkeye",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
     "name": "GAS Leak row 6 - Box of Krop",
     "region": "Victory",
     "category": [
