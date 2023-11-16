@@ -77,16 +77,26 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     reveal_time = next(i for i in item_pool if i.name == "Reveal Puzzle Times")
     for i in range(1, total_keys):
         item_pool.append(copy(victory_key))
+
+    regions_order = ["Classic Sudoku"]
+    for i in range(5):
+        regions_order.append(region_table[regions_order[-1]]["connects_to"][0])
+    
+    traps = int(total_puzzles/10)
+    items_to_remove = []
+    for item in item_pool:
+        if "Extra Puzzle" in item.name:
+            if int(item.name.split(" ")[2]) > traps:
+                items_to_remove.append(item)
+        
+    for i in items_to_remove:
+        item_pool.remove(i)
     
     filler = int((total_puzzles - len(item_pool) - 3)/4)
     for i in range(1, filler):
         item_pool.append(copy(puzzle_skip))
     for i in range(1, filler*2):
         item_pool.append(copy(reveal_time))
-
-    regions_order = ["Classic Sudoku"]
-    for i in range(5):
-        regions_order.append(region_table[regions_order[-1]]["connects_to"][0])
     
     regions = {r: {"count": (int(total_puzzles/total_regions) if i < total_regions else 0)} for i, r in enumerate(regions_order)}
     cur_rgn = 0
@@ -124,7 +134,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     victory2_location.place_locked_item(victory2_item)
     item_pool.remove(victory1_item)
     item_pool.remove(victory2_item)
-    # multiworld.clear_location_cache()
+    multiworld.clear_location_cache()
 
     # # shuffle the character item names and pull a subset with a maximum for the option we provided
     # character_names = [name for name in world.item_names]

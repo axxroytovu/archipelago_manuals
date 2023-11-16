@@ -141,8 +141,8 @@ class ManualWorld(World):
 
         pool = before_generate_basic(pool, self, self.multiworld, self.player)
 
-        extras = self.location_count - len(pool) - 1 # subtracting 1 because of Victory; seems right
-
+        extras = sum([len(r.locations) for r in self.multiworld.regions if r.player == self.player]) - len(pool) - 3 # subtracting 1 because of Victory; seems right
+        # print(sum([len(r.locations) for r in self.multiworld.regions if r.player == self.player]), self.location_count, len(pool))
         if extras > 0:
             for i in range(0, extras):
                 extra_item = self.create_item(filler_item_name)
