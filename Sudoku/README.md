@@ -15,9 +15,9 @@ All you need for this is:
 - The Archipelago Manual client found in the Announcements channel of the Maunal AP discord server.
 
 ## Getting set up
-Run the `generate.py` file to randomize your build. You can put in the total hours you hope to play for, and it will generate a randomized .apworld and .yaml file for you.
+Download the .yaml and .apworld files from this folder, and load them into your archipelago generator. Modify the .yaml with your slot name and the desired game length.
 
-Common breakpoints:
+Common game length breakpoints:
 - Sync Short: 2 hours (Sudoku really doesn't work below 2 hours)
 - Sync Long: 5 hours
 - Async Short: 7 hours
