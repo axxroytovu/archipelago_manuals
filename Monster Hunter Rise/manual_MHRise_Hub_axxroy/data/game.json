@@ -1,0 +1,10 @@
+{
+	"game": "MHRise_Hub",
+	"creator": "Axxroy",
+	"filler_item_name": "Palico Snuggles",
+	"starting_items": [
+		{"item_categories": ["Weapon"], "random": 1},
+		{"items": ["Quest Rank Star"], "random": 1},
+		{"items": ["Shrine Ruins"], "random": 1}
+	]
+}

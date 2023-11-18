@@ -1,0 +1,254 @@
+[
+	{
+		"count": "7",
+		"name": "Quest Rank Star",
+		"category": ["Quest Rank"],
+		"progression": true
+	},
+	{
+	    "count": "6",
+	    "name": "Master Rank Star",
+	    "category": ["Quest Rank"],
+	    "progression": true
+	},
+	{
+		"count":3,
+		"name": "Shrine Ruins",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Flooded Forest",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Frost Islands",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Sandy Plains",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Lava Caverns",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Rampage & Arena",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Boss Arenas",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Citadel",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Jungle",
+		"category": ["Region"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Head Armor Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Chest Armor Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Leg Armor Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Sword & Shield Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Dual Blades Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Great Sword Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Long Swrod Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Hammer Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Hunting Horn Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Lance Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Gunlance Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Switch Axe Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Charge Blade Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Insect Glaive Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Bow Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Light Bowgun Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Heavy Bowgun Upgrade",
+		"category": ["Equipment","Weapon"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Great Sword Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Long Sword Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Sword & Shield Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Dual Blades Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Lance Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Gunlance Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Hammer Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Hunting Horn Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Switch Axe Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Charge Blade Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Insect Glaive Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Light Bowgun Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Heavy Bowgun Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Bow Switch Skills",
+		"category": ["Switch Skills"],
+		"useful": true
+	}
+]
