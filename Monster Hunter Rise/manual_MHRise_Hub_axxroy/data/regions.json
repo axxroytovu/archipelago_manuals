@@ -1,0 +1,55 @@
+{
+	"1 Star Quests": 	{
+		"starting": true,
+		"connects_to": ["2 Star Quests"],
+		"requires": []
+	},
+	"2 Star Quests": 	{
+		"connects_to": ["3 Star Quests"],
+		"requires": "|Quest Rank Star:2|"
+	},
+	"3 Star Quests": 	{
+		"connects_to": ["4 Star Quests"],
+		"requires": "|Quest Rank Star:3|"
+	},
+	"4 Star Quests": 	{
+		"connects_to": ["5 Star Quests"],
+		"requires": "|Quest Rank Star:4|"
+	},
+	"5 Star Quests": 	{
+		"connects_to": ["6 Star Quests"],
+		"requires": "|Quest Rank Star:5|"
+    },
+    "6 Star Quests": {
+		"connects_to": ["7 Star Quests"],
+		"requires": "|Quest Rank Star:6|"
+    },
+    "7 Star Quests": {
+		"connects_to": ["Master 1 Star Quests"],
+		"requires": "|Quest Rank Star:7|"
+    },
+    "Master 1 Star Quests": {
+		"connects_to": ["Master 2 Star Quests"],
+		"requires": "|Master Rank Star:1|"
+    },
+    "Master 2 Star Quests": {
+		"connects_to": ["Master 3 Star Quests"],
+		"requires": "|Master Rank Star:2|"
+    },
+    "Master 3 Star Quests": {
+		"connects_to": ["Master 4 Star Quests"],
+		"requires": "|Master Rank Star:3|"
+    },
+    "Master 4 Star Quests": {
+		"connects_to": ["Master 5 Star Quests"],
+		"requires": "|Master Rank Star:4|"
+    },
+    "Master 5 Star Quests": {
+		"connects_to": ["Master 6 Star Quests"],
+		"requires": "|Master Rank Star:5|"
+    },
+    "Master 6 Star Quests": {
+		"connects_to": [],
+		"requires": "|Master Rank Star:6|"
+    }
+}
