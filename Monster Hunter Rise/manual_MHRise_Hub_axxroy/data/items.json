@@ -85,6 +85,18 @@
 	},
 	{
 		"count": "10",
+		"name": "Progressive Arm Armor Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Waist Armor Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
 		"name": "Progressive Sword & Shield Upgrade",
 		"category": ["Equipment","Weapon"],
 		"useful": true
@@ -103,7 +115,7 @@
 	},
 	{
 		"count": "10",
-		"name": "Progressive Long Swrod Upgrade",
+		"name": "Progressive Long Sword Upgrade",
 		"category": ["Equipment","Weapon"],
 		"useful": true
 	},
