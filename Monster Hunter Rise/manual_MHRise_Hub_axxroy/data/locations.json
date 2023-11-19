@@ -978,12 +978,6 @@
 		"requires": "|Flooded Forest:3|"
 	},
 	{
-		"name": "Scarlet Tengu in the Shrine Ruins",
-		"region": "Master 2 Star Quests",
-		"category": ["M2* Quests"],
-		"requires": "|Shrine Ruins:3|"
-	},
-	{
 		"name": "The Assault of the Scarlet Tengu",
 		"region": "Master 2 Star Quests",
 		"category": ["M2* Quests"],
@@ -1278,12 +1272,6 @@
 		"requires": "|Lava Caverns:3|"
 	},
 	{
-		"name": "Ice Wolf, Red Moon",
-		"region": "Master 4 Star Quests",
-		"category": ["M4* Quests"],
-		"requires": "|Citadel:3|"
-	},
-	{
 		"name": "Howling Moon",
 		"region": "Master 4 Star Quests",
 		"category": ["M4* Quests"],
@@ -1416,19 +1404,7 @@
 		"requires": "|Shrine Ruins:3|"
 	},
 	{
-		"name": "Gathering of the Qurio",
-		"region": "Master 5 Star Quests",
-		"category": ["M5* Quests"],
-		"requires": "|Citadel:3|"
-	},
-	{
 		"name": "Dark Citadel, White Wheel",
-		"region": "Master 5 Star Quests",
-		"category": ["M5* Quests"],
-		"requires": "|Citadel:3|"
-	},
-	{
-		"name": "Whiteness by Moonlight",
 		"region": "Master 5 Star Quests",
 		"category": ["M5* Quests"],
 		"requires": "|Citadel:3|"
