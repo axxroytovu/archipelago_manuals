@@ -1,4 +1,10 @@
 [
+    {
+        "count": "1",
+        "name": "Victory",
+        "category": ["Victory"],
+        "progression": true
+    },
 	{
 		"count": "7",
 		"name": "Quest Rank Star",

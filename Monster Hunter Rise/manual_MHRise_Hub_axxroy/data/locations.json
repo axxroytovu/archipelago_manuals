@@ -1,5 +1,12 @@
 [
 	{
+	    "name": "Victory",
+	    "region": "1 Star Quests",
+	    "cagegory": ["Victory"],
+	    "requires": "|Victory|",
+	    "victory": true
+	},
+	{
 		"name": "Shady Monster",
 		"region": "1 Star Quests",
 		"category": ["1* Quests"],
@@ -750,7 +757,7 @@
 		"requires": "|Boss Arenas:2|"
 	},
 	{
-		"name": "The Crimson Glow",
+		"name": "The Evil Star from Beyond",
 		"region": "7 Star Quests",
 		"category": ["7* Quests"],
 		"requires": "|Shrine Ruins:2|"
@@ -760,6 +767,12 @@
 		"region": "7 Star Quests",
 		"category": ["7* Quests"],
 		"requires": "|Lava Caverns:2|"
+	},
+	{
+	    "name": "The Avaricious Apex Arzuros",
+	    "region": "7 Star Quests",
+	    "category": ["7* Quests"],
+	    "requires": "|Shrine Ruins:2|"
 	},
 	{
 		"name": "The Devastating Apex Diablos",
@@ -859,6 +872,12 @@
 	},
 	{
 		"name": "Catnap Ruined",
+		"region": "Master 1 Star Quests",
+		"category": ["M1* Quests"],
+		"requires": "|Shrine Ruins:3|"
+	},
+	{
+		"name": "Reap What You Saw",
 		"region": "Master 1 Star Quests",
 		"category": ["M1* Quests"],
 		"requires": "|Shrine Ruins:3|"
@@ -1278,6 +1297,12 @@
 		"requires": "|Citadel:3|"
 	},
 	{
+		"name": "Troublemaking Trio Pt. 2",
+		"region": "Master 4 Star Quests",
+		"category": ["M4* Quests"],
+		"requires": "|Shrine Ruins:3|"
+	},
+	{
 		"name": "Citadel Security",
 		"region": "Master 4 Star Quests",
 		"category": ["M4* Quests"],
@@ -1362,19 +1387,19 @@
 		"requires": "|Shrine Ruins:3|"
 	},
 	{
-		"name": "Leave no Trace Behind",
-		"region": "Master 5 Star Quests",
-		"category": ["M5* Quests"],
-		"requires": "|Jungle:3|"
-	},
-	{
-		"name": "The Frozen Dictator",
+		"name": "Storm of The Kushala Daora",
 		"region": "Master 5 Star Quests",
 		"category": ["M5* Quests"],
 		"requires": "|Frost Islands:3|"
 	},
 	{
-		"name": "Burn Brighter Than the Sun",
+		"name": "Beyond the Silence",
+		"region": "Master 5 Star Quests",
+		"category": ["M5* Quests"],
+		"requires": "|Frost Islands:3|"
+	},
+	{
+		"name": "Emperor of Flame",
 		"region": "Master 5 Star Quests",
 		"category": ["M5* Quests"],
 		"requires": "|Sandy Plains:3|"
@@ -1452,10 +1477,10 @@
 		"requires": "|Jungle:3|"
 	},
 	{
-		"name": "Proof of Courage",
+		"name": "The Devil's Reincarnation",
 		"region": "Master 6 Star Quests",
 		"category": ["M6* Quests"],
 		"requires": "|Boss Arenas:3|",
-		"victory": true
+		"place_item": ["Victory"]
 	}
 ]
