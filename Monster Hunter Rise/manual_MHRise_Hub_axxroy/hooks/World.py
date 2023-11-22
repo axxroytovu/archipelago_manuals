@@ -58,23 +58,41 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     if victory == Victory.option_master_rank:
         world.location_name_to_location["The Devil's Reincarnation"]["place_item"] = ["Victory"]
         world.location_name_to_location["The Allmother"].pop("place_item", "")
+        world.location_name_to_location["Blue, Round, and Cute"].pop("place_item", "")
         return item_pool
     elif victory == Victory.option_high_rank:
         world.location_name_to_location["The Allmother"]["place_item"] = ["Victory"]
         world.location_name_to_location["The Devil's Reincarnation"].pop("place_item", "")
+        world.location_name_to_location["Blue, Round, and Cute"].pop("place_item", "")
         items_to_remove += upgrades * 3
-        random.shuffle(upgrades_weapon)
-        for i, j in zip(upgrades_weapon, [1, 2, 3, 4, 4, 5, 5, 5, 5]):
-            items_to_remove += [i] * j
         items_to_remove += arenas
         items_to_remove += ["Jungle", "Citadel"] * 2
+        items_to_remove += ["Master Rank Star"] * 6
+        random.shuffle(upgrades_weapon)
+        for itm, cnt in zip(upgrades_weapon, [5, 5, 4, 4, 3, 2]):
+            items_to_remove += [itm] * cnt
+        for region in multiworld.regions:
+            if region.player != player:
+                continue
+            if region.name[0] in "M7":
+                for location in list(region.locations):
+                    if location.name != "The Allmother":
+                        region.locations.remove(location)
+    elif victory == Victory.option_low_rank:
+        world.location_name_to_location["The Allmother"].pop("place_item", "")
+        world.location_name_to_location["The Devil's Reincarnation"].pop("place_item", "")
+        world.location_name_to_location["Blue, Round, and Cute"]["place_item"] = ["Victory"]
+        items_to_remove += upgrades * 7
+        items_to_remove += arenas * 2
+        items_to_remove += ["Jungle", "Citadel"] * 1
+        items_to_remove.remove("Shrine Ruins")
         items_to_remove += ["Master Rank Star"] * 6
         for region in multiworld.regions:
             if region.player != player:
                 continue
-            if region.name[0] in "M":
+            if region.name[0] in "M4567":
                 for location in list(region.locations):
-                    if location.name != "The Allmother":
+                    if location.name != "Blue, Round, and Cute":
                         region.locations.remove(location)
     multiworld.clear_location_cache()
     # print(len(items_to_remove), len(item_pool))

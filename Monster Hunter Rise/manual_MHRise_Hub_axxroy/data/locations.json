@@ -1469,5 +1469,485 @@
 		"region": "Master 6 Star Quests",
 		"category": ["M6* Quests"],
 		"requires": "|Boss Arenas:3|"
+	},
+	{
+	    "name": "Shrine Relic: Mountaintop Area 5",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Cliff Area 6",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Mountaintop Area 12",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Archway the Wyvern Nest",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Bridge Area 13",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Archway beteen 7 and 8",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Tree Area 2",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Cave Area 6",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Sprigs Area 7",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Shrine Relic: Waterfall Cliff Area 2",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Frost Islands Relic: Structure Area 7",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Tree Area 1",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Tunnel Area 4",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Cave Area 4",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Melynx house snowman",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Ship Mast Area 8",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Cave Area 11",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Cave Area 5",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Mountaintop Area 9",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Frost Islands Relic: Between areas 9 and 12",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Cliff Area 2",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Fishing main camp",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Mountaintop Area 1",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Sprigs in Area 11",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Bridge between 9 and 10",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Lower Area 5",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Above subcamp 1",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Crevice area 4",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Cave Area 9",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Sandy Plains Relic: Wall Area 12",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Wall Main Camp",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Tree between 4 and 9",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: In the Pyramid lower",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Sprigs between 10 and 11",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Crevice Area 14",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Hole Area 12",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Cliff Sub Camp",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: In the Pyramid upper",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Between 13 and Main Camp",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Flooded Forest Relic: Waterfall Area 7",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Archway Main Camp",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Tree Area 4",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Cliff Area 7",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Pillar Area 13",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Hole Area 14",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Pillar Area 8",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Lower Area 12",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Corner Area 6",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Bridge between 3 and 9",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Lava Caverns Relic: Lower Area 1",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Jungle Relic: Tunnel Area 5",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Stump Area 7",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Top of Area 7",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Building Area 10",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Hole Area 4",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Sprigs Area 2",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Hole Area 7",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Hole between 3 and 8",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Tree Area 8",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Jungle Relic: Secret Map",
+	    "region": "Master 1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Jungle:3|"
+	},
+	{
+	    "name": "Citadel Relic: Cliff Area 3",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Cliff Area 4",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Ruins Area 14",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Cave Area 2",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Cliff Area 5",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Gap in Castle",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Underground Maze",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Tower Top",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Mine Area 13",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Citadel Relic: Tunnel Subcamp 1",
+	    "region": "Master 3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Citadel:3|"
+	},
+	{
+	    "name": "Rampage Relic: Shrine Ruins Area 4",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Rampage Relic: Shrine Ruins Area 3",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Shrine Ruins|"
+	},
+	{
+	    "name": "Rampage Relic: Frost Islands Area 9",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Rampage Relic: Frost Islands Area 6",
+	    "region": "1 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Frost Islands|"
+	},
+	{
+	    "name": "Rampage Relic: Sandy Plains Area 7",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Rampage Relic: Sandy Plains Main Camp",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Sandy Plains|"
+	},
+	{
+	    "name": "Rampage Relic: Flooded Forest Area 2",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Rampage Relic: Flooded Forest Area 7",
+	    "region": "2 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Flooded Forest|"
+	},
+	{
+	    "name": "Rampage Relic: Lava Caverns Area 3",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
+	},
+	{
+	    "name": "Rampage Relic: Lava Caverns Area 11",
+	    "region": "3 Star Quests",
+	    "category": ["Relics"],
+	    "requires": "|Lava Caverns|"
 	}
 ]

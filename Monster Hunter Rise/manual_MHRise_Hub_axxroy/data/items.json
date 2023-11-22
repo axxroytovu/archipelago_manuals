@@ -103,6 +103,12 @@
 	},
 	{
 		"count": "10",
+		"name": "Progressive Talisman Upgrade",
+		"category": ["Equipment","Armor"],
+		"progression": true
+	},
+	{
+		"count": "10",
 		"name": "Progressive Sword and Shield Upgrade",
 		"category": ["Equipment","Weapon"],
 		"useful": true
