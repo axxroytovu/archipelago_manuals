@@ -2,6 +2,7 @@ from base64 import b64encode
 import os
 import random
 import json
+from copy import copy
 
 from .Data import item_table, progressive_item_table, location_table
 from .Game import game_name, filler_item_name, starting_items
@@ -52,13 +53,13 @@ class ManualWorld(World):
     required_client_version = (0, 3, 4)
 
     # These properties are set from the imports of the same name above.
-    item_table = item_table
+    item_table = copy(item_table)
     progressive_item_table = progressive_item_table
     item_id_to_name = item_id_to_name
     item_name_to_id = item_name_to_id
     item_name_to_item = item_name_to_item
     advancement_item_names = advancement_item_names
-    location_table = location_table # this is likely imported from Data instead of Locations because the Game Complete location should not be in here, but is used for lookups
+    location_table = copy(location_table) # this is likely imported from Data instead of Locations because the Game Complete location should not be in here, but is used for lookups
     location_id_to_name = location_id_to_name
     location_name_to_id = location_name_to_id
     location_name_to_location = location_name_to_location
@@ -105,6 +106,8 @@ class ManualWorld(World):
                 
         items_started = []
 
+        pool = before_generate_basic(pool, self, self.multiworld, self.player)
+
         if starting_items:
             for starting_item_block in starting_items:
                 # if there's a condition on having a previous item, check for any of them
@@ -137,19 +140,20 @@ class ManualWorld(World):
                     items_started.append(starting_item)
                     self.multiworld.push_precollected(starting_item)
                     pool.remove(starting_item)
+        
+        loc_count = sum([len(r.locations) for r in self.multiworld.regions if r.player == self.player])
 
-        extras = len(location_table) - len(pool) - 1 # subtracting 1 because of Victory; seems right
+        extras = loc_count - len(pool) - 1 # subtracting 1 because of Victory; seems right
 
         if extras > 0:
             for i in range(0, extras):
                 extra_item = self.create_item(filler_item_name)
                 pool.append(extra_item)
 
-        pool = before_generate_basic(pool, self, self.multiworld, self.player)
-
         # need to put all of the items in the pool so we can have a full state for placement
         # then will remove specific item placements below from the overall pool
         self.multiworld.itempool += pool
+        # print(pool)
 
         # Handle specific item placements using fill_restrictive
         locations_with_placements = [location for location in location_name_to_location.values() if "place_item" in location or "place_item_category" in location]

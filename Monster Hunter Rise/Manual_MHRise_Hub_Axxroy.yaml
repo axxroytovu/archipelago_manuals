@@ -1,6 +1,9 @@
 Manual_MHRise_Hub_Axxroy:
     progression_balancing: 50
     accessibility: items
+    victory_condition: 
+      master_rank: 50
+      high_rank: 0
 
 game: Manual_MHRise_Hub_Axxroy
 name: Axxroy

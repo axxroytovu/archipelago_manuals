@@ -1468,7 +1468,6 @@
 		"name": "The Devil's Reincarnation",
 		"region": "Master 6 Star Quests",
 		"category": ["M6* Quests"],
-		"requires": "|Boss Arenas:3|",
-		"place_item": ["Victory"]
+		"requires": "|Boss Arenas:3|"
 	}
 ]

@@ -32,10 +32,17 @@ class TotalCharactersToWinWith(Range):
     range_start = 10
     range_end = 50
     default = 50
-
+    
+class Victory(Choice):
+    """Choose the victory condition"""
+    display_name = "The final victory quest"
+    option_high_rank = 0
+    option_master_rank = 1
+    default = 1
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["victory_condition"] = Victory
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
