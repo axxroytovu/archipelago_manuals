@@ -82,8 +82,13 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     random.shuffle(regions_order)
     regions_order = ["Classic Sudoku"] + regions_order
     
-    traps = int(total_puzzles/10)
     items_to_remove = []
+    
+    for i in range(total_regions, 6):
+        key_name = regions_order[i].split(" ")[0]+" Key"
+        items_to_remove.append(next(i for i in item_pool if i.name == key_name))
+    
+    traps = int(total_puzzles/10)
     for item in item_pool:
         if "Extra Puzzle" in item.name:
             if int(item.name.split(" ")[2]) > traps:
