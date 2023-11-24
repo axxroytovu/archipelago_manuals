@@ -1386,6 +1386,356 @@
     ]
   },
   {
+    "name": "Puzzle 201: Thermwich",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 202: Christmas Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 203: Inferno",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 204: Inferno",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 206: Whirlwind",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 207: High/Low Sums",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 208: Thermo Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 209: Nova",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 210: Crossover 1",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 211: Kropki Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 212: Search Nine",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 213: XV Sudoku",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 214: Coordinate Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 215: Doubling Lines Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 217: Slot Machine",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 219: Ego",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 220: Arrow Quads",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 221: Killer Sudoku",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 222: Egg",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 223: Counting Cages",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 224: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 225: Echo",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 226: Corner/Edge",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 227: Arrow Sudoku",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 228: Ernst",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 229: Bust",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 230: Clone Regions",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 231: Renban",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 232: Zone",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 233: Non-consecutive",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 234: Equinox",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 235: Pointing Evens",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 236: Consec Pairs",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 237: Morph",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 238: Battenburg",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 239: Diagonal Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 240: Punisher",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 241: Pole Position",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 242: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 243: Multiple Man",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 244: Killer Between",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 245: Outside Parity",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 246: Bullseye",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 247: One By One",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 248: Odd/Even Renban",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 249: Copycat",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 250: Double X",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 251: Extra Regions",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 252: XV",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 253: Heart in a Cage",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
     "name": "GAS Leak row 6 - Box of Krop",
     "region": "Victory",
     "category": [
