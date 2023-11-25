@@ -59,6 +59,11 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         world.location_name_to_location["The Devil's Reincarnation"]["place_item"] = ["Victory"]
         world.location_name_to_location["The Allmother"].pop("place_item", "")
         world.location_name_to_location["Blue, Round, and Cute"].pop("place_item", "")
+        dango = [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
+        random.shuffle(dango)
+        starting_dango = next(i for i in item_pool if i.name == dango[0])
+        multiworld.push_precollected(starting_dango)
+        item_pool.remove(starting_dango)
         return item_pool
     elif victory == Victory.option_high_rank:
         world.location_name_to_location["The Allmother"]["place_item"] = ["Victory"]
@@ -68,6 +73,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         items_to_remove += arenas
         items_to_remove += ["Jungle", "Citadel"] * 2
         items_to_remove += ["Master Rank Star"] * 6
+        items_to_remove += [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
         random.shuffle(upgrades_weapon)
         for itm, cnt in zip(upgrades_weapon, [5, 5, 4, 4, 3, 2]):
             items_to_remove += [itm] * cnt
@@ -87,6 +93,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         items_to_remove += ["Jungle", "Citadel"] * 1
         items_to_remove.remove("Shrine Ruins")
         items_to_remove += ["Master Rank Star"] * 6
+        items_to_remove += [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
         for region in multiworld.regions:
             if region.player != player:
                 continue
