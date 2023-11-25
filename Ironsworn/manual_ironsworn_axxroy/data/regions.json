@@ -1,0 +1,11 @@
+{
+	"Gathering Shards": 	{
+		"starting": true,
+		"connects_to": ["Forging the Key"],
+		"requires": []
+	},
+	"Forging the Key": 	{
+		"connects_to": [],
+		"requires": "|Shard of Reality:10|"
+}
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"count": "10",
+		"name": "Shard of Reality",
+		"category": [],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Stake",
+		"category": ["Weakness"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Ambush",
+		"category": ["Trap"],
+		"trap": true
+	}
+]

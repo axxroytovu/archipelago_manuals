@@ -1,0 +1,206 @@
+[
+	{
+		"region": "Gathering Shards",
+		"name": "Experience 1",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 2",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 3",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 4",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 5",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 6",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 7",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 8",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 9",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 10",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Experience 11",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 12",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 13",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 14",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 15",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 16",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 17",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 18",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 19",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Experience 20",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 1",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 2",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 3",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 4",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 5",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 6",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 7",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 8",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 9",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Forge a Bond 10",
+		"region": "Forging the Key",
+		"category": ["Forging the Key"],
+		"requires": []
+	},
+	{
+		"name": "Quest 1",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|Quest:1|"
+	},
+	{
+		"name": "Quest 2",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|Quest:2|"
+	},
+	{
+		"name": "Quest 3",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|Quest:3|"
+	},
+	{
+		"name": "Quest 4",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|Quest:4|"
+	}
+]
