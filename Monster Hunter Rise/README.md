@@ -6,6 +6,7 @@ Goal: Find all of your quest rank stars, enough location unlocks, and enough wea
 - **Master Rank**: Complete The Devil's Reincarnation (MR 6*)
 - **High Rank**: Complete The Allmother (7*)
 - **Low Rank**: Complete Blue, Round, and Cute (4*)
+- **Village**: Complete Comeuppance (5*)
 
 Each weapon, armor, and talisman rarity tier is unlocked as an item. Each quest rank star is unlocked as an item, and each location is unlocked as an item. The ability to use non-standard switch skills for each weapon is unlocked as an item.
 

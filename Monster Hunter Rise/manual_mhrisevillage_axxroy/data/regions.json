@@ -1,0 +1,31 @@
+{
+  "1 Star Quests": {
+    "starting": true,
+    "connects_to": [
+      "2 Star Quests"
+    ],
+    "requires": []
+  },
+  "2 Star Quests": {
+    "connects_to": [
+      "3 Star Quests"
+    ],
+    "requires": "|Quest Rank Star:2|"
+  },
+  "3 Star Quests": {
+    "connects_to": [
+      "4 Star Quests"
+    ],
+    "requires": "|Quest Rank Star:3|"
+  },
+  "4 Star Quests": {
+    "connects_to": [
+      "5 Star Quests"
+    ],
+    "requires": "|Quest Rank Star:4|"
+  },
+  "5 Star Quests": {
+    "connects_to": [],
+    "requires": "|Quest Rank Star:5|"
+  }
+}

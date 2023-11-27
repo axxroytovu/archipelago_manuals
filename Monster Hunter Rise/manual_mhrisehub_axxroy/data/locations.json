@@ -1,0 +1,2603 @@
+[
+  {
+    "name": "Victory",
+    "region": "1 Star Quests",
+    "cagegory": [
+      "Victory"
+    ],
+    "requires": "|Victory|",
+    "victory": true
+  },
+  {
+    "name": "Shady Monster",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Tired and Feathered",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Jumped in the Frost Islands",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "No cure for the Common Baggi",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "A Snowball's Chance...",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Wroggi Place, Wroggi Time",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "A Grizzly Encounter",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Off the Beaten Path",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Hot Topic Hooligans",
+    "region": "1 Star Quests",
+    "category": [
+      "1* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "I Want Off This Ride",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Way of the Pukei",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "The Flooding Flooded Forest",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "So muddy Hardheaded!",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "A Pale Shadow",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Reinventing the Wheel",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Blasted Basarios!",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "The Path to Royalty",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Dead Ringer",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Dawn of the Kestodon",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Hide, Hide, Hide",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Bouncing Brawlers",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Fried and Baptized",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Beckoning Slumber",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "The Blizzard Blender",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Zigzagging Zapper",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Down 'n' Dirty",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Bully of the Caverns",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Twilit Twin Stars",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "My Muse the Mizutsune",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Champion of the Caverns",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Wavering Moon and Thunder",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "White Knight vs. Hunter",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "A Friend in Need",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "A Few Bumps Along the Way",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Hellfire",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Tail to Tail",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Beastly Chaos",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Disastrously Beautiful",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Rampage & Arena|"
+  },
+  {
+    "name": "Rampage: 2 Star Monster pt 1",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Rampage & Arena|"
+  },
+  {
+    "name": "Rampage: 2 Star Monster pt 2",
+    "region": "2 Star Quests",
+    "category": [
+      "2* Quests"
+    ],
+    "requires": "|Rampage & Arena|"
+  },
+  {
+    "name": "Rampage: 3 Star Monster pt 1",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Rampage & Arena|"
+  },
+  {
+    "name": "Rampage: 3 Star Monster pt 2",
+    "region": "3 Star Quests",
+    "category": [
+      "3* Quests"
+    ],
+    "requires": "|Rampage & Arena|"
+  },
+  {
+    "name": "Rampage: HR Non Apex pt 1",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Rampage: HR Non Apex pt 2",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Rampage: HR Apex pt 1",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Rampage: HR Apex pt 2",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Rampage: HR Apex pt 3",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "The Swirling Gale",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Divine Comedy",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Didn't Get the Memo",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Dancing A-purr-ition",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Frost Islands Arena",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Even Cute Things Have Fangs",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Night of the Khezu",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Dango Duty",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Totally not Cool, Kulu!",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Study the Sword & Shield",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Honing Your Hunting Horn",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Study the Switch Axe",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Learning the Light Bowgun",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Donning Toxicity",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Lost and Found",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Blue, Round, and Cute",
+    "region": "4 Star Quests",
+    "category": [
+      "4* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Foul Play in the Forest",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Rise Above the Mud",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Bowled Over",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Rotten Fruit",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Go Away, Pukei!",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Miner Problem",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Charmed by a Queen",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Restless Swamp",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Grasp the Great Sword",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Honing Your Hammer",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Learn the Lance",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Charge Blade Coalescing",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Hone your Heavy Bowgun",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Bad Review",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Flooded Forest Fiasco",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Shadows over the Frost",
+    "region": "5 Star Quests",
+    "category": [
+      "5* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Skies Flash, Clouds Boom",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "A Somniferous Elegy",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "Sharpening Amber Fangs",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Skies are Gray",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Closer Than it Appears",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "The Abyss Stares Back",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Red Skies at Night",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "A Bewitching Dance",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Do it for the Dango!",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Learn the Long Sword",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Dissect the Dual Blades",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Grasp the Gunlance",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Invoke the Insect Glaive",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Be One with the Bow",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Lava Caverns Sweep",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "Showdown in the Arena",
+    "region": "6 Star Quests",
+    "category": [
+      "6* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "It's Gonna Get You!",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Clad in Hellfire",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "A Muddy Invitation",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Subterranean Disturbances",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "A Resounding Roar",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Evil Afoot",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "Can't Kill it With Fire",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "Serpent Goddess of Thunder",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Boss Arenas:2|"
+  },
+  {
+    "name": "Seared Situation",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "A Quartet of Horns",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Ruckus in the Ruins",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "A Frosty Stalemate",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Fought, Failed, Fired Up",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Occupational Hazards",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Omnidirectional Threats",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "A Whirlwind of a Stage",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Rampage & Arena:2|"
+  },
+  {
+    "name": "Ancient Illusion",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Steely Storm",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "The Emperor of Flame",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "A Blaze Among Beasts",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "May Fire Quell Fury",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Death from Above",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Master Utsushi's Challenge Part 1",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Master Utsushi's Challenge Part 2",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Master Utsushi's Challenge Part 3",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Master Utsushi's Challenge Part 4",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Master Utsushi's Challenge Part 5",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "The Allmother",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Boss Arenas:2|"
+  },
+  {
+    "name": "The Evil Star from Beyond",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Fearsome Apex Rathalos",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "The Avaricious Apex Arzuros",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "The Devastating Apex Diablos",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "The Voltaic Apex Zinogre",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Advanced: Dual Calamities",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Shrine Ruins:2|"
+  },
+  {
+    "name": "Advanced: Monsters in Ink",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Frost Islands:2|"
+  },
+  {
+    "name": "Advanced: Of Storm and Fire",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Sandy Plains:2|"
+  },
+  {
+    "name": "Advanced: Scaredy-Cat",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Flooded Forest:2|"
+  },
+  {
+    "name": "Advanced: The Fallen Comet",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Lava Caverns:2|"
+  },
+  {
+    "name": "Advanced: Proof of Power",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Boss Arenas:2|"
+  },
+  {
+    "name": "Advanced: Those Crowned Apex",
+    "region": "7 Star Quests",
+    "category": [
+      "7* Quests"
+    ],
+    "requires": "|Boss Arenas:2|"
+  },
+  {
+    "name": "It Could be Worse...",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "The Red Rolling Terror",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Barroth to a Great Start",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "BRRRR Plus ZZZzzz Equals?",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "A Sinking Feeling",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Need a Hunter, ASAP",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "You Had Me at Poofy",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Catnap Ruined",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Reap What You Saw",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Uninvited Guest",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Tetranadon Blockade",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Buggin' Out",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "[REDACTED]",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "The Good, the Bad, and Lagombi",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "The Jungle Guidebook",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Supply Line Shell Game",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "M1* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Rumble in the Jungle",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Pent-up Frustrations",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Messed Up Situation",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Shrine Ruined",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Now That's What I Call Great!",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Rampage & Arena:3|"
+  },
+  {
+    "name": "The Queen's Garden",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "The Alabaster Devourer",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Somnacanth Sleep Aid",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Poison Drops in the Sand",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Bird Wyvern Jamboree",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Provoking an Anjanath's Wrath",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Plant Probe Pests",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "The Assault of the Scarlet Tengu",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Sour Grapes",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "A Fond Fur-Well",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "In Pursuit of the Khezuit",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "BZZZZZ or ZZZZzzzz Pt. 2",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "A Shocking, Sloppy Synthesis",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Skulking Among the Sand",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Pinecone Pelting Panic",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "A Dangerous Dare",
+    "region": "Master 2 Star Quests",
+    "category": [
+      "M2* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Shadow in the Jungle",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "A Sandy Spider Nest",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Purging Hatred",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "A Tale of Two Titans",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Rock, Razor, Pincers",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Rampage & Arena:3|"
+  },
+  {
+    "name": "Trial of Almudron",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "My Cenataur Gently Weeps",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "White Knight on Ice",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Oh, My Garsh Harag",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Nocturnal Nuisances",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Keep it Busy",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Pollution Problems",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Soft or Spotty",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Garangolm Gone Mad",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "The Hot and Cold Treatment",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "A Keen-Eyed Observation",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Shady Activity",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Stitching a Wintry Wardrobe",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "In His Master's Footsteps",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Freedom from a Frigid Future",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Troublemaker Trio",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "The Mother of All Medicines!?",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Desert Lost and Found",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Studying Starvation Effects",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Tempering the Fierce",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "M3* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Dark Wings, Dark Work",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Absolute Power",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "A Mighty Need",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Spooky Citadel",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Sacrilegious Thunder Wolf",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "A Thousand Scales of Dread",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Hot Mud in your Eye",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "White Knight, Armored Warrior",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "A Mizutsune's Appeal",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Dust Devil Despot",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "King of the Crumbling Castle",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Pincers Versus Pyro",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "In Search of the Doctor",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "A Slumbering Jungle Espinas",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Tears for Temnocerans",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Howling Moon",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Troublemaking Trio Pt. 2",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Citadel Security",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Twin Sparks in the Dark",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Monju Mashup",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Jade Membrane, Sapphire Clawe",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Thousand Cuts, Totally Crushed",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Give a Girl Some Fluff!",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "A Request From Your Superior",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Power Struggle",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Quit Spooking My Lunch!",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Impassioned Cavern Crawl",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Wicked Wyvern Trilogy",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Buddy Rescue Operation",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Unavoidable Cold",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "An Electrifying Grace",
+    "region": "Master 4 Star Quests",
+    "category": [
+      "M4* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Storm of The Kushala Daora",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Beyond the Silence",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Emperor of Flame",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Settle the Score!",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Bazelgeuse Warning",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Evil Forest",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Blade Cloaked in Darkness",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Dark Citadel, White Wheel",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Crimson Moonlight",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Seismic Scares",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Bombs and Beams",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Life is Full of Ups and Downs",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Hard & Soft Supreme",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "With the Power of Friendship...",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Stats on Statuses, Stat!",
+    "region": "Master 5 Star Quests",
+    "category": [
+      "M5* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "The Devil's Reincarnation",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Shrine Relic: Mountaintop Area 5",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Cliff Area 6",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Mountaintop Area 12",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Archway the Wyvern Nest",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Bridge Area 13",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Archway beteen 7 and 8",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Tree Area 2",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Cave Area 6",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Sprigs Area 7",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Shrine Relic: Waterfall Cliff Area 2",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Frost Islands Relic: Structure Area 7",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Tree Area 1",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Tunnel Area 4",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Cave Area 4",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Melynx house snowman",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Ship Mast Area 8",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Cave Area 11",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Cave Area 5",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Mountaintop Area 9",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Frost Islands Relic: Between areas 9 and 12",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Sandy Plains Relic: Cliff Area 2",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Fishing main camp",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Mountaintop Area 1",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Sprigs in Area 11",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Bridge between 9 and 10",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Lower Area 5",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Above subcamp 1",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Crevice area 4",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Cave Area 9",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Sandy Plains Relic: Wall Area 12",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Flooded Forest Relic: Wall Main Camp",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Tree between 4 and 9",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: In the Pyramid lower",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Sprigs between 10 and 11",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Crevice Area 14",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Hole Area 12",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Cliff Sub Camp",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: In the Pyramid upper",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Between 13 and Main Camp",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Flooded Forest Relic: Waterfall Area 7",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Lava Caverns Relic: Archway Main Camp",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Tree Area 4",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Cliff Area 7",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Pillar Area 13",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Hole Area 14",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Pillar Area 8",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Lower Area 12",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Corner Area 6",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Bridge between 3 and 9",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Lava Caverns Relic: Lower Area 1",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Jungle Relic: Tunnel Area 5",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Stump Area 7",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Top of Area 7",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Building Area 10",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Hole Area 4",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Sprigs Area 2",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Hole Area 7",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Hole between 3 and 8",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Tree Area 8",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Jungle Relic: Secret Map",
+    "region": "Master 1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Citadel Relic: Cliff Area 3",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Cliff Area 4",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Ruins Area 14",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Cave Area 2",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Cliff Area 5",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Gap in Castle",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Underground Maze",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Tower Top",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Mine Area 13",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Citadel Relic: Tunnel Subcamp 1",
+    "region": "Master 3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Rampage Relic: Shrine Ruins Area 4",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Rampage Relic: Shrine Ruins Area 3",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Shrine Ruins|"
+  },
+  {
+    "name": "Rampage Relic: Frost Islands Area 9",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Rampage Relic: Frost Islands Area 6",
+    "region": "1 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Frost Islands|"
+  },
+  {
+    "name": "Rampage Relic: Sandy Plains Area 7",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Rampage Relic: Sandy Plains Main Camp",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Sandy Plains|"
+  },
+  {
+    "name": "Rampage Relic: Flooded Forest Area 2",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Rampage Relic: Flooded Forest Area 7",
+    "region": "2 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Flooded Forest|"
+  },
+  {
+    "name": "Rampage Relic: Lava Caverns Area 3",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Rampage Relic: Lava Caverns Area 11",
+    "region": "3 Star Quests",
+    "category": [
+      "Relics"
+    ],
+    "requires": "|Lava Caverns|"
+  }
+]

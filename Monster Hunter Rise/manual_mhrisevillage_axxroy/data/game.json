@@ -1,0 +1,24 @@
+{
+  "game": "MHRiseVillage",
+  "creator": "Axxroy",
+  "filler_item_name": "Palico Snuggles",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Weapon"
+      ],
+      "random": 2
+    },
+    {
+      "items": [
+        "Quest Rank Star"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Shrine Ruins"
+      ]
+    }
+  ]
+}
