@@ -1,2 +1,9 @@
 
-	{"game": "Ironsworn","creator": "Axxroy","filler_item_name": "Filler"}
+	{
+		"game": "Ironsworn",
+		"creator": "Axxroy",
+		"filler_item_name": "Filler",
+		"starting_items": [
+			{"item_categories": ["Starting"], "random": 3}
+		]
+	}

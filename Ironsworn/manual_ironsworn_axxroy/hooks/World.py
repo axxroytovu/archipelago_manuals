@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
+import random
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -47,42 +48,51 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    # import random
-
-    # total_characters = get_option_value(multiworld, player, "total_characters_to_win_with") or 50
-
-    # if total_characters < 10 or total_characters > 50:
-    #     total_characters = 50
-
-    # # shuffle the character item names and pull a subset with a maximum for the option we provided
-    # character_names = [name for name in world.item_names]
-    # random.shuffle(character_names)
-    # character_names = character_names[0:total_characters]
-
-    # # remove any items that have been added that don't have those item names
-    # item_pool = [item for item in item_pool if item.name in character_names]
+    valid_games = set(["NONE"])
+    for w in multiworld.worlds.values():
+        valid_games.add(w.game)
+    # print(valid_games)
+    items_to_remove = []
+    assets = []
+    current_assets = [i.name for i in multiworld.precollected_items[player]]
+    traps = []
+    quests = []
+    items = []
+    for i in item_pool:
+        idata = world.item_name_to_item[i.name]
+        #print(idata)
+        if "Starting" in idata.get("category", []):
+            items_to_remove.append(i)
+        elif idata.get("game", "NONE") not in valid_games:
+            items_to_remove.append(i)
+        elif "Asset" in idata.get("category", []):
+            assets.append(i)
+        elif "Trap" in idata.get("category", []):
+            traps.append(i)
+        elif "Quest" in idata.get("category", []):
+            quests.append(i)
+        elif "Items" in idata.get("category", []):
+            items.append(i)
     
-    # # remove any locations that have been added that aren't for those items
-    # world.location_id_to_name = {id: name for (id, name) in world.location_id_to_name.items() if name.replace("Beat the Game - ", "") in character_names}
-    # world.location_name_to_id = {name: id for (id, name) in world.location_id_to_name.items()}
-    # world.location_names = world.location_name_to_id.keys()
-
-    # # remove the locations above from the multiworld as well
-    # multiworld.clear_location_cache()
+    random.shuffle(assets)
+    random.shuffle(traps)
+    random.shuffle(quests)
+    random.shuffle(items)
+    asset_index = 0
+    while len(current_assets) < 6:
+        if assets[asset_index].name.split(":")[0] in current_assets:
+            asset_index += 1
+        else:
+            asset = assets.pop(asset_index)
+            current_assets.append(asset.name.split(":")[0])
+    items_to_remove += assets
+    items_to_remove += traps[3:]
+    items_to_remove += quests[5:]
+    items_to_remove += items[9:]
+    # print(items_to_remove)
     
-    # for region in multiworld.regions:
-    #     locations_to_remove_from_region = []
-
-    #     for location in region.locations:
-    #         if location.name.replace("Beat the Game - ", "") not in character_names and location.player == player:
-    #             locations_to_remove_from_region.append(location)
-
-    #     for location in locations_to_remove_from_region:
-    #         region.locations.remove(location)
-                
-    # # modify the victory requirements to only include items that are in the item names list
-    # victory_location = multiworld.get_location("__Manual Game Complete__", player)
-    # victory_location.access_rule = lambda state, items=character_names, p=player: state.has_all(items, p)
+    for i in items_to_remove:
+        item_pool.remove(i)
 
     return item_pool
 

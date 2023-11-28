@@ -6,21 +6,537 @@
 		"progression": true
 	},
 	{
-		"count": "3",
-		"name": "Stake",
-		"category": ["Weakness"],
-		"progression": true
+		"count": "6",
+		"name": "Asset Upgrade",
+		"category": ["Upgrade"],
+		"useful": true
 	},
 	{
-		"count": "5",
-		"name": "Quest",
-		"category": ["Quest"],
-		"progression": true
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "HOUND",
+		"count": "1"
 	},
 	{
-		"count": "3",
-		"name": "Ambush",
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "BLADE-BOUND",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "DANCER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "FATED",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "IMPROVISER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "BRAWLER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "WRIGHT",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SLINGER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "CUTTHROAT",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "COMMUNION",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "LEECH",
+		"count": "1"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A Varou hunting party",
 		"category": ["Trap"],
-		"trap": true
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A raider ship searching for treasure",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - An iron revenant out for blood",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A colony of swamp rats defending their home",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Trap - An Elvish net trap for catching boar",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A lynel charges you from nowhere",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Legend of Zelda"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - An Octoroc pops out of the ground!",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Legend of Zelda"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A moblin hurling explosives",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Legend of Zelda"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A starving wolf pack",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "RAVEN: An intelligent bird from beyond the mountains",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "KINDRED: Another chosen by the aurora to stand beside you",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "MASKED: The grace of the elves guides your path",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "ANIMAL-KIN: The beasts of the world come to your side",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "MAMMOTH: A friend from the north; a guide in the dark",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "THUNDER-BRINGER: The might of the giants swings with you",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "AUGUR: The birds call to you and bring wisdom",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "WARD: The arctic wind brings protection against the end",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "HONORBOUND: The Princess Zelda grants you creedence",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "WEAPONMASTER: A hero of Hyrule grants you their knowledge",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SWORDMASTER: A sword that glows with the light of the triforce",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "IRONCLAD: A blue hyrulean ring that glitters with wards",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SF-FIREBRAND: A blue candle that shoots flame",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 1",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 2",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 3",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 4",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 5",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 6",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 7",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 8",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 9",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Ironsworn Quest 10",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Zelda Quest 1",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Zelda Quest 2",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Zelda Quest 3",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Zelda Quest 4",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Zelda Quest 5",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A bundle of well-made rope",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A whetstone kit",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "An heirloom axe of ancient make",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "An herbalist's kit with healing salves",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A small bag of candies",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A bottle of fine wine",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A small steel mirror",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A 10-minute hourglass",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A vial of troll's blood",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A wooden toy unicorn",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "An ivory flute",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "12 iron spikes",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A crowbar",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A wolf pelt",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A jar of glowworms",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pot of tar",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "An amulet of protection",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A sturdy saddle",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Manacles",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A book of blasphemy",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A sewing kit",
+		"count": "1",
+		"game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "20 green crystals",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Portable explosives",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A bundle of fine arrows",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A magical boomerang",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A silver arrow that can kill anything",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A blue rupee",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A ladder to cross small gaps",
+		"count": "1",
+		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Boots with small wings on them",
+		"count": "1",
+		"game": "The Legend of Zelda"
 	}
 ]
