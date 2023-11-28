@@ -64,6 +64,15 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         starting_dango = next(i for i in item_pool if i.name == dango[0])
         multiworld.push_precollected(starting_dango)
         item_pool.remove(starting_dango)
+        if not (get_option_value(multiworld, player, "shuffle_postgame") or False):
+            for region in multiworld.regions:
+                if region.player != player:
+                    continue
+                if region.name == "Master 6 Star Quests":
+                    for location in list(region.locations):
+                        if location.name != "The Devil's Reincarnation":
+                            region.locations.remove(location)
+            multiworld.clear_location_cache()
         return item_pool
     elif victory == Victory.option_high_rank:
         world.location_name_to_location["The Allmother"]["place_item"] = ["Victory"]
@@ -77,10 +86,14 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         random.shuffle(upgrades_weapon)
         for itm, cnt in zip(upgrades_weapon, [5, 5, 4, 4, 3, 2]):
             items_to_remove += [itm] * cnt
+        if get_option_value(multiworld, player, "shuffle_postgame") or False:
+            cutoff = "M"
+        else:
+            cutoff = "M7"
         for region in multiworld.regions:
             if region.player != player:
                 continue
-            if region.name[0] in "M7":
+            if region.name[0] in cutoff:
                 for location in list(region.locations):
                     if location.name != "The Allmother":
                         region.locations.remove(location)
@@ -94,10 +107,16 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         items_to_remove.remove("Shrine Ruins")
         items_to_remove += ["Master Rank Star"] * 6
         items_to_remove += [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
+        if get_option_value(multiworld, player, "shuffle_postgame") or False:
+            cutoff = "M567"
+            items_to_remove.remove("Frost Islands")
+            items_to_remove.remove("Rampage & Arena")
+        else:
+            cutoff = "M4567"
         for region in multiworld.regions:
             if region.player != player:
                 continue
-            if region.name[0] in "M4567":
+            if region.name[0] in cutoff:
                 for location in list(region.locations):
                     if location.name != "Blue, Round, and Cute":
                         region.locations.remove(location)

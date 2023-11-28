@@ -5,6 +5,7 @@ Manual_MHRiseHub_Axxroy:
       master_rank: 50
       high_rank: 0
       low_rank: 0
+    shuffle_postgame: false
 
 game: Manual_MHRiseHub_Axxroy
 name: Axxroy

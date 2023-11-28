@@ -41,9 +41,14 @@ class Victory(Choice):
     option_low_rank = 3
     default = 1
 
+class ShufflePost(Toggle):
+    """Shuffle quests that usually would only be available after the victory location is found"""
+    display_name = "Suffle post-game quests"
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["victory_condition"] = Victory
+    options["shuffle_postgame"] = ShufflePost
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -2599,5 +2599,245 @@
       "Relics"
     ],
     "requires": "|Lava Caverns|"
+  },
+  {
+    "name": "Retribution",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Back with a Vengeance",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Raining Fire",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "A Single Beam of Moonlight",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Explore the Unexplored",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "The Invisible Predator",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "What Sleeps in the Tower",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "A Mysterious Pale Flame",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Falling into Chaos",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Clashing Swords Upon the Rime",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Risen Chameleos",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Risen Kushala Daora",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Risen Teostra",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Risen Crimson Glow Valstrax",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Sandy Plains:3|"
+  },
+  {
+    "name": "Unreasonable Rage",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Mysterious Glow",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Spine-Tingling Divinity - Reprise",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Destructive Dragon Deity",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Boss Arenas:3|"
+  },
+  {
+    "name": "Legend Resurrected",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "The Ultimate Fight?",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Flooded Forest:3|"
+  },
+  {
+    "name": "Bested by Bazelgeuse",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Frost Islands:3|"
+  },
+  {
+    "name": "Winds that Burn",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Jungle:3|"
+  },
+  {
+    "name": "Mystery Shrouded in Mist",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Bringing Back that Sparkle",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Lava Caverns:3|"
+  },
+  {
+    "name": "Trials of Passion and Composure",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Shrine Ruins:3|"
+  },
+  {
+    "name": "Monster Mash",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Unbridled Mayhem",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Rampage & Arena:3|"
+  },
+  {
+    "name": "Dance of the Fierce Flame",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
+  },
+  {
+    "name": "Four Beast Quartet",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Rampage & Arena:3|"
+  },
+  {
+    "name": "Sticky Secret Sticking Sauce",
+    "region": "Master 6 Star Quests",
+    "category": [
+      "M6* Quests"
+    ],
+    "requires": "|Citadel:3|"
   }
 ]
