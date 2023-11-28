@@ -181,16 +181,14 @@
 	},
 	{
 		"name": "Reforge the Key",
-		"region": "Gathering Shards",
-		"category": ["Quest"],
-		"requires": "|Shard of Reality:10|"
+		"region": "Forging the Key",
+		"category": ["Quest"]
 	},
 	{
 		"name": "Defeat the Arch Demon",
-		"region": "Gathering Shards",
+		"region": "Forging the Key",
 		"victory": true,
-		"category": ["Victory"],
-		"requires": "|Shard of Reality:10|"
+		"category": ["Victory"]
 	},
 	{
 	    "name": "Dungeon Complete 1",

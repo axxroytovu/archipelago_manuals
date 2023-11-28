@@ -785,6 +785,27 @@
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Mountain",
+	    "count": "1",
+	    "game": "The Witness"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Shipwreck",
+	    "count": "1",
+	    "game": "The Witness"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Desert Temple",
+	    "count": "1",
+	    "game": "The Witness"
+	},
+	{
 	    "category": ["Relic"],
 	    "useful": true,
 	    "name": "Resolute Banner",
