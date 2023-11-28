@@ -51,53 +51,53 @@
 	},
 	{
 		"name": "Experience 11",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 12",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 13",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 14",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 15",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 16",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 17",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 18",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 19",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Experience 20",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Forge a Bond 1",
@@ -126,28 +126,28 @@
 	},
 	{
 		"name": "Forge a Bond 6",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Forge a Bond 7",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Forge a Bond 8",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Forge a Bond 9",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Forge a Bond 10",
-		"region": "Forging the Key",
-		"category": ["Forging the Key"]
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
 	},
 	{
 		"name": "Quest 1",
@@ -169,25 +169,75 @@
 	},
 	{
 		"name": "Quest 4",
-		"region": "Forging the Key",
+		"region": "Gathering Shards",
 		"category": ["Quest"],
 		"requires": "|@Quest:4|"
 	},
 	{
 		"name": "Quest 5",
-		"region": "Forging the Key",
+		"region": "Gathering Shards",
 		"category": ["Quest"],
 		"requires": "|@Quest:5|"
 	},
 	{
 		"name": "Reforge the Key",
-		"region": "Forging the Key",
-		"category": ["Quest"]
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|Shard of Reality:10|"
 	},
 	{
 		"name": "Defeat the Arch Demon",
-		"region": "Forging the Key",
+		"region": "Gathering Shards",
 		"victory": true,
-		"category": ["Victory"]
+		"category": ["Victory"],
+		"requires": "|Shard of Reality:10|"
+	},
+	{
+	    "name": "Dungeon Complete 1",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:1|"
+	},
+	{
+	    "name": "Dungeon Complete 2",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:2|"
+	},
+	{
+	    "name": "Dungeon Complete 3",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:3|"
+	},
+	{
+	    "name": "Dungeon Complete 4",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:4|"
+	},
+	{
+	    "name": "Dungeon Secret 1",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:1|"
+	},
+	{
+	    "name": "Dungeon Secret 2",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:2|"
+	},
+	{
+	    "name": "Dungeon Secret 3",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:3|"
+	},
+	{
+	    "name": "Dungeon Secret 4",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:4|"
 	}
 ]

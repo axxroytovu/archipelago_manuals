@@ -141,6 +141,27 @@
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
+		"count": "1",
+		"name": "Ambush - A statue animates and attacks",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Witness"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A barrier with a strange puzzle",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Witness"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A bridge with rotating platforms",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "The Witness"
+	},
+	{
 		"category": ["Asset"],
 		"useful": true,
 		"name": "RAVEN: An intelligent bird from beyond the mountains",
@@ -230,6 +251,34 @@
 		"name": "SF-FIREBRAND: A blue candle that shoots flame",
 		"count": "1",
 		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "LIGHTBEARER: A beam of light from a strange device",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "ARCHER: The precision to snipe a puzzle",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "LOREKEEPER: Mystic stories kept in tiny recordings",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "IMPROVISER: A thousand puzzles and ten thousand solutions",
+		"count": "1",
+		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
@@ -335,6 +384,41 @@
 		"name": "Quest - Zelda Quest 5",
 		"count": "1",
 		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - The Witness Quest 1",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - The Witness Quest 2",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - The Witness Quest 3",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - The Witness Quest 4",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - The Witness Quest 5",
+		"count": "1",
+		"game": "The Witness"
 	},
 	{
 		"category": ["Items"],
@@ -538,5 +622,243 @@
 		"name": "Boots with small wings on them",
 		"count": "1",
 		"game": "The Legend of Zelda"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A blooming water lily",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A box with a mysterious puzzle lock",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A melted pane of glass",
+		"count": "1",
+		"game": "The Witness"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Alva's Rest",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Bleakroot Depths",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Bonewilds",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Darkfall Caves",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Deeproot Bog",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Egan's Folly",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Foulwater Plunge",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Frostmark",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Greathammer Deep",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Holdfast Barrow",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Hollowmount Island",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Icebound Reach",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Lastrock Mine",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Redhome Sanctum",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Sinking Temple",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Smoldering Wood",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Stillgrave Mire",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Stonesong Spire",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Topplekeep",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Trail of Spirits",
+	    "count": "1",
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Resolute Banner",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Avethyin's Journal",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The Black Fang",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Cairn Stone of the Sundered",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Bracer of the First Blood",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Waterskin of Fellowship",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Scarves of the Northern Lights",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Founder's Reliquary",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Sigil of the Broken",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Coin of Favor",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Silverstone Pestle",
+	    "count": 1,
+	    "game": "Manual_Ironsworn_Axxroy"
 	}
 ]

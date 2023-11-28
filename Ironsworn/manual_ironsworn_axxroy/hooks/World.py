@@ -58,6 +58,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     traps = []
     quests = []
     items = []
+    dungeons = []
+    relics = []
     for i in item_pool:
         idata = world.item_name_to_item[i.name]
         #print(idata)
@@ -73,11 +75,17 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
             quests.append(i)
         elif "Items" in idata.get("category", []):
             items.append(i)
+        elif "Dungeon" in idata.get("category", []):
+            dungeons.append(i)
+        elif "Relic" in idata.get("category", []):
+            relics.append(i)
     
     random.shuffle(assets)
     random.shuffle(traps)
     random.shuffle(quests)
     random.shuffle(items)
+    random.shuffle(relics)
+    random.shuffle(dungeons)
     asset_index = 0
     while len(current_assets) < 6:
         if assets[asset_index].name.split(":")[0] in current_assets:
@@ -90,6 +98,20 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     items_to_remove += quests[5:]
     items_to_remove += items[9:]
     # print(items_to_remove)
+    
+    if get_option_value(multiworld, player, "delve") or False:
+        items_to_remove += dungeons[4:]
+        items_to_remove += relics[4:]
+    else:
+        items_to_remove += dungeons
+        items_to_remove += relics
+        for region in multiworld.regions:
+            if region.player != player:
+                continue
+            for location in list(region.locations):
+                if "Dungeon" in world.location_name_to_location[location.name].get("category", []):
+                    region.locations.remove(location)
+        multiworld.clear_location_cache()
     
     for i in items_to_remove:
         item_pool.remove(i)

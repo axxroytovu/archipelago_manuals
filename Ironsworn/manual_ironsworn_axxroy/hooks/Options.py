@@ -33,9 +33,15 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class Delve(Toggle):
+    """Include the Delve expansion?"""
+    display_name = "Include Delve content"
+    default = False
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["delve"] = Delve
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
