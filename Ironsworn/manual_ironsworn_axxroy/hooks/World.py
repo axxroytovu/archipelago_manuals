@@ -48,9 +48,11 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    valid_games = set(["NONE"])
-    for w in multiworld.worlds.values():
-        valid_games.add(w.game)
+    valid_games = get_option_value(multiworld, player, "games_override") or set()
+    valid_games.add("NONE")
+    if valid_games == {"NONE"}:
+        for w in multiworld.worlds.values():
+            valid_games.add(w.game)
     # print(valid_games)
     items_to_remove = []
     assets = []

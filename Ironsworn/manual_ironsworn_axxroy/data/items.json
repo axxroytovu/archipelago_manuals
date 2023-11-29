@@ -14,7 +14,73 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
+		"name": "CAVE LION",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "GIANT SPIDER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "HAWK",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "HORSE",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
 		"name": "HOUND",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "KINDRED",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "MAMMOTH",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "OWL",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "RAVEN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "YOUNG WYVERN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "ALCHEMIST",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "ANIMAL KIN",
 		"count": "1"
 	},
 	{
@@ -26,7 +92,31 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
+		"name": "BONDED",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "COMMANDER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
 		"name": "DANCER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "DEVOTANT",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "EMPOWERED",
 		"count": "1"
 	},
 	{
@@ -38,13 +128,115 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
+		"name": "FORTUNE HUNTER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "HERBALIST",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "HONORBOUND",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
 		"name": "IMPROVISER",
 		"count": "1"
 	},
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
-		"name": "BRAWLER",
+		"name": "INFILTRATOR",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "LOREKEEPER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "LOYALIST",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "OUTCAST",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "PRETENDER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "RIDER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SIGHTED",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SLAYER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SPIRIT-BOUND",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "STORYWEAVER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "TRICKSTER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "VETERAN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "WATERBORN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "WAYFINDER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "WILDBLOOD",
 		"count": "1"
 	},
 	{
@@ -56,7 +248,19 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
-		"name": "SLINGER",
+		"name": "ARCHER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "BERSERKER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "BRAWLER",
 		"count": "1"
 	},
 	{
@@ -68,13 +272,163 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
+		"name": "DUELIST",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "FLETCHER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "IRONCLAD",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "LONG-ARM",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SHIELD-BEARER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SKIRMISHER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SLINGER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SUNDERER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SWORDMASTER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "THUNDER-BRINGER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "AUGUR",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "AWAKENING",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "BIND",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
 		"name": "COMMUNION",
 		"count": "1"
 	},
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
+		"name": "DIVINATION",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "INVOKE",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "KEEN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
 		"name": "LEECH",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "LIGHTBEARER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SCRY",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SHADOW-WALK",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "SWAY",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "TALISMAN",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "TETHER",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "TOTEM",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "VISAGE",
+		"count": "1"
+	},
+	{
+		"category": ["Asset", "Starting"],
+		"useful": true,
+		"name": "WARD",
 		"count": "1"
 	},
 	{
