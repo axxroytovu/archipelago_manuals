@@ -516,6 +516,41 @@
 		"game": "The Witness"
 	},
 	{
+		"count": "1",
+		"name": "Ambush - A flock of Izuchi",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A Khezu on the ceiling",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A chunk of the wall bursts with pressurized hot magma",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Jagras looking for lunch",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A bubble of poisonous gasses",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
 		"category": ["Asset"],
 		"useful": true,
 		"name": "RAVEN: An intelligent bird from beyond the mountains",
@@ -633,6 +668,55 @@
 		"name": "IMPROVISER: A thousand puzzles and ten thousand solutions",
 		"count": "1",
 		"game": "The Witness"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "YOUNG WYVERN: A small Rathalos hatches and bonds with you",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SKIRMISHER: A lance of glittering steel",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "FLETCHER: A collection of powerful coatings for your arrows",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "OWL: A cohoot alights on your shoulder",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "HOUND: A palamute runs up alongside you",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "WEAPONMASTER: Master Utsushi guides your blade",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SLAYER: The skill to track a monster through any terrain",
+		"count": "1",
+		"game": "Manual_MHW_Mauve"
 	},
 	{
 		"category": ["Quest"],
@@ -773,6 +857,41 @@
 		"name": "Quest - The Witness Quest 5",
 		"count": "1",
 		"game": "The Witness"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Monster Hunter Rise Quest 1",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Monster Hunter Rise Quest 2",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Monster Hunter Rise Quest 3",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Monster Hunter Rise Quest 4",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Monster Hunter Rise Quest 5",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
@@ -999,6 +1118,97 @@
 		"game": "The Witness"
 	},
 	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Energy Drink",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Rations",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Throwing Kunai",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Armorskin Potion",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Well-Done Steak",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Poisoned Meat",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Ancient Potion",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Deodorant",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Dash Juice",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Demondrug",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Lagombi Cuirass",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Aknosom Plume",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Gowngoat Thickfur",
+		"count": "1",
+		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
 	    "category": ["Dungeon"],
 	    "progression": true,
 	    "name": "Alva's Rest",
@@ -1160,6 +1370,48 @@
 	    "game": "The Witness"
 	},
 	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Eagle",
+	    "count": "1",
+	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Snake",
+	    "count": "1",
+	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Demon",
+	    "count": "1",
+	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Shrine Ruins",
+	    "count": "1",
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Infernal Springs",
+	    "count": "1",
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Yawning Abyss",
+	    "count": "1",
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
 	    "category": ["Relic"],
 	    "useful": true,
 	    "name": "Resolute Banner",
@@ -1235,5 +1487,61 @@
 	    "name": "Silverstone Pestle",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Powercharm",
+	    "count": 1,
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Armorcharm",
+	    "count": 1,
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Fellvine",
+	    "count": 1,
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Powertalon",
+	    "count": 1,
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Armortalon",
+	    "count": 1,
+	    "game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The Magical Sword",
+	    "count": 1,
+	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The Book of Spells",
+	    "count": 1,
+	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The Triforce of Wisdom",
+	    "count": 1,
+	    "game": "The Legend of Zelda"
 	}
 ]
