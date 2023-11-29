@@ -1,5 +1,5 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, SpecialRange
+from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, SpecialRange, OptionSet
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
@@ -38,10 +38,15 @@ class Delve(Toggle):
     display_name = "Include Delve content"
     default = False
 
+class GamesOverride(OptionSet):
+    """Use this instead of the multiworld's game"""
+    display_name = "List of games for content"
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["delve"] = Delve
+    options["games_override"] = GamesOverride
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
