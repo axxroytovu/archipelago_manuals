@@ -1,0 +1,241 @@
+[
+	{
+		"region": "Gathering Shards",
+		"name": "Experience 1",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 2",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 3",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 4",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 5",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 6",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 7",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 8",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 9",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 10",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 11",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 12",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 13",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 14",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 15",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 16",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 17",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 18",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 19",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Experience 20",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 1",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 2",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 3",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 4",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 5",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 6",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 7",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 8",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 9",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Forge a Bond 10",
+		"region": "Gathering Shards",
+		"category": ["Gathering Shards"]
+	},
+	{
+		"name": "Quest 1",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:1|"
+	},
+	{
+		"name": "Quest 2",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:2|"
+	},
+	{
+		"name": "Quest 3",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:3|"
+	},
+	{
+		"name": "Quest 4",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:4|"
+	},
+	{
+		"name": "Quest 5",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:5|"
+	},
+	{
+		"name": "Reforge the Key",
+		"region": "Forging the Key",
+		"category": ["Quest"]
+	},
+	{
+		"name": "Defeat the Arch Demon",
+		"region": "Forging the Key",
+		"victory": true,
+		"category": ["Victory"]
+	},
+	{
+	    "name": "Dungeon Complete 1",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:1|"
+	},
+	{
+	    "name": "Dungeon Complete 2",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:2|"
+	},
+	{
+	    "name": "Dungeon Complete 3",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:3|"
+	},
+	{
+	    "name": "Dungeon Complete 4",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:4|"
+	},
+	{
+	    "name": "Dungeon Secret 1",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:1|"
+	},
+	{
+	    "name": "Dungeon Secret 2",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:2|"
+	},
+	{
+	    "name": "Dungeon Secret 3",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:3|"
+	},
+	{
+	    "name": "Dungeon Secret 4",
+	    "region": "Gathering Shards",
+	    "category": ["Dungeon"],
+	    "requires": "|@Dungeon:4|"
+	}
+]
