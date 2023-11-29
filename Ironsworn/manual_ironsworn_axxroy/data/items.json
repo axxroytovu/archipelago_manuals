@@ -158,12 +158,6 @@
 	{
 		"category": ["Asset", "Starting"],
 		"useful": true,
-		"name": "LOREKEEPER",
-		"count": "1"
-	},
-	{
-		"category": ["Asset", "Starting"],
-		"useful": true,
 		"name": "LOYALIST",
 		"count": "1"
 	},
@@ -551,6 +545,69 @@
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
+		"count": "1",
+		"name": "Ambush - An autobolt emerges from the ground",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Tunic"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Terry!!! Please don't eat me!",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Tunic"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A horde of crabbos with their nasty pinchers",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Tunic"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A lost echo, angry at its abandonment",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Tunic"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A slorm! Watch out, they explode",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Tunic"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - So many green slimes...",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Stardew Valley"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A wilderness golem stumbles out of the darkness",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Stardew Valley"
+	},
+	{
+		"count": "1",
+		"name": "Trap - A ladder opens beneath your feet to the floor below",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Stardew Valley"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - A horrible mutant fly",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Stardew Valley"
+	},
+	{
 		"category": ["Asset"],
 		"useful": true,
 		"name": "RAVEN: An intelligent bird from beyond the mountains",
@@ -574,7 +631,7 @@
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "ANIMAL-KIN: The beasts of the world come to your side",
+		"name": "ANIMAL KIN: The beasts of the world come to your side",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
@@ -717,6 +774,76 @@
 		"name": "SLAYER: The skill to track a monster through any terrain",
 		"count": "1",
 		"game": "Manual_MHW_Mauve"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "LOREKEEPER: A golden book of mysterious writings",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SWORDMASTER: The librarian's blade, pulsing and horrible",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SF-DEMOLITIONIST: A bundle of dynamite, some fire bombs, and a frost bomb",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SHADOW-WALK: A short prayer can bring you to the far shore",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "DEVOTANT: The heir will grant you power, in exchange for offerings",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "BANNER-SWORN: The scavenger king has made you a deal",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "BONDED: The secrets of true friendship, gift giving!",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "ANIMAL KIN: Marnie's lessons on raising animals flood your mind",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "WATERBORN: Ol' man Willy shares his love of the sea",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "SCRY: A gift of magic from the Wizard",
+		"count": "1",
+		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
@@ -892,6 +1019,76 @@
 		"name": "Quest - Monster Hunter Rise Quest 5",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Tunic Quest 1",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Tunic Quest 2",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Tunic Quest 3",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Tunic Quest 4",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Tunic Quest 5",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Stardew Valley Quest 1",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Stardew Valley Quest 2",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Stardew Valley Quest 3",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Stardew Valley Quest 4",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Quest - Stardew Valley Quest 5",
+		"count": "1",
+		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
@@ -1209,6 +1406,125 @@
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A golden coin",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A firecracker",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A puppet copy of yourself",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A broken-off fang",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A chili pepper",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A red fruit",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A blue fruit",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "An effigy full of coins",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A small card with a mysterious image",
+		"count": "1",
+		"game": "Tunic"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A fiberglass fishing pole",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A set of shears",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A golden scythe",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A large backpack",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Deluxe Fertilizer",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A lightning rod",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A gold brazier",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "A rusty key with 'sewers' written on it",
+		"count": "1",
+		"game": "Stardew Valley"
+	},
+	{
 	    "category": ["Dungeon"],
 	    "progression": true,
 	    "name": "Alva's Rest",
@@ -1412,6 +1728,62 @@
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Fortress of the Eastern Vault",
+	    "count": "1",
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Rooted Ziggurat",
+	    "count": "1",
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Floating Library",
+	    "count": "1",
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Frog's Domain",
+	    "count": "1",
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Deep Mines",
+	    "count": "1",
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Sewers",
+	    "count": "1",
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "The Quarry Mine",
+	    "count": "1",
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Dungeon"],
+	    "progression": true,
+	    "name": "Skull Cavern",
+	    "count": "1",
+	    "game": "Stardew Valley"
+	},
+	{
 	    "category": ["Relic"],
 	    "useful": true,
 	    "name": "Resolute Banner",
@@ -1543,5 +1915,61 @@
 	    "name": "The Triforce of Wisdom",
 	    "count": 1,
 	    "game": "The Legend of Zelda"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Magic Orb",
+	    "count": 1,
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Magic Rod",
+	    "count": 1,
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Magic Dagger",
+	    "count": 1,
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "Hero's Laurels",
+	    "count": 1,
+	    "game": "Tunic"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The chipped amphora",
+	    "count": 1,
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "A dinosaur egg",
+	    "count": 1,
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The ancient sword",
+	    "count": 1,
+	    "game": "Stardew Valley"
+	},
+	{
+	    "category": ["Relic"],
+	    "useful": true,
+	    "name": "The golden mask",
+	    "count": 1,
+	    "game": "Stardew Valley"
 	}
 ]
