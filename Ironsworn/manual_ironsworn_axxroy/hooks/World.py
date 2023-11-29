@@ -55,6 +55,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         for w in multiworld.worlds.values():
             valid_games.add(w.game)
     # print(valid_games)
+    valid_games.add("Manual_Ironsworn_Axxroy")
     items_to_remove = []
     assets = []
     current_assets = [i.name for i in multiworld.precollected_items[player]]

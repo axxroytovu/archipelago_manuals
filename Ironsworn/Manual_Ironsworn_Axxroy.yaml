@@ -1,6 +1,10 @@
 Manual_Ironsworn_Axxroy:
     progression_balancing: 50
     accessibility: items
+    delve: true
+    games_override: []
+    # Valid games: The Legend of Zelda, Manual_MHRiseHub_Axxroy, Tunic, Stardew Valley, The Witness
+    # Setting games_override to ["Everything"] will allow all game content
 
 game: Manual_Ironsworn_Axxroy
 name: Axxroy
