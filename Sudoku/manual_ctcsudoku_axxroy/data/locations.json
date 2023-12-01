@@ -1736,12 +1736,341 @@
     ]
   },
   {
+    "name": "Puzzle 254: Kropki",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 255: BIG3",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 256: Thermo Between",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 257: Palindrome Quads",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 258: Pufferfish",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 259: Number 5 Is Alive",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 260: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 261: Kropnosis",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 262: Rank Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 263: Arrow Sudoku",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 264: Thermoboros",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 265: Box Battle",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 266: Product Arrow Sudoku",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 267: Rock Steady",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 268: Killer Between",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 269: Arrow Sudoku",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 270: Sudoku Make Me A Sandwich",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 271: Kroptween",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 272: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 273: Free Bird",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 274: Even Killer",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 275: Thermo Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 276: You Can Count On Us",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 277: Consecutive/LK",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 278: XV Sudoku",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 279: Lickable Sudoku",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 280: Stacking",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 281: 3.14 22/7 Gas Edition",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 282: Quadruples",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 283: Ordered Sums",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 284: Lockout Lines",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 285: GAS o'clock",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 286: Multiplication",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 287: XV Arrow Sudoku",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 288: Kropki",
+    "region": "Parity Sudoku",
+    "category": [
+      "Parity Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 289: Treasure Hunt",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 290: Pointing Different",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 291: Hi Mark!",
+    "region": "Multi-Rule Sudoku",
+    "category": [
+      "Multi-Rule Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 292: Star Product",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 293: Classic Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 294: How I Set GAS",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 295: Outside",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 296: Palindrome Sudoku",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 297: Chamber of Secrets",
+    "region": "Summation Sudoku",
+    "category": [
+      "Summation Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 298: Over 20",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku"
+    ]
+  },
+  {
+    "name": "Puzzle 299: Skyscrapers",
+    "region": "Positional Sudoku",
+    "category": [
+      "Positional Sudoku"
+    ]
+  },
+  {
     "name": "GAS Leak row 6 - Box of Krop",
     "region": "Victory",
     "category": [
       "Victory"
     ],
     "requires": "|Victory 1|"
+  },
+  {
+    "name": "Puzzle 301: Classy Sudoku",
+    "region": "Classic Sudoku",
+    "category": [
+      "Classic Sudoku"
+    ]
   },
   {
     "name": "GAS Leak row 7 - German Whispers",
@@ -1809,6 +2138,86 @@
   },
   {
     "name": "GAS Leak row 15 - Podium",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 16 - Sum 100",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 17 - Classic",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 18 - Double-Digit Thermo",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 19 - Goodliffe Acquisition Syndrome",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 21 - Odd-Even Bridge",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 22 - Maximin Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 23 - Palindrome/German Whispers Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 25 - Bonus 1: Quadro",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 26 - Bonus 2: Odd Labyrinth",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak row 27 - Bonus 3: Pianissimo v2",
     "region": "Victory",
     "category": [
       "Victory"

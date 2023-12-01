@@ -70,7 +70,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     # print(total_puzzles, total_regions)
 
     required_keys = round(total_puzzles/10) * 2
-    total_keys = round((get_option_value(multiworld, player, "extra_keys") or 150) * required_keys / 100)
+    total_keys = round((100+(get_option_value(multiworld, player, "extra_keys") or 50)) * required_keys / 100)
     
     victory_key = next(i for i in item_pool if i.name == "Victory Key")
     puzzle_skip = next(i for i in item_pool if i.name == "Puzzle Skip")

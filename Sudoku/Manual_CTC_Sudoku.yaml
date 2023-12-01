@@ -5,5 +5,5 @@ Manual_CTCSudoku_Axxroy:
   accessibility: "items"
   # Game's expected duration in hours. Can be between 2 and 10
   game_duration: 4
-  # Total % of victory keys available. Can be between 100% (only the necessary keys) and 200% (2x as many keys)
-  extra_keys: 150
+  # Total % of extra victory keys available. Can be between 0% (only the necessary keys) and 100% (2x as many keys)
+  extra_keys: 50
