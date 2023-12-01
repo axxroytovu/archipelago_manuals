@@ -100,7 +100,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     items_to_remove += assets
     items_to_remove += traps[3:]
     items_to_remove += quests[5:]
-    items_to_remove += items[9:]
+    multiworld.push_precollected(quests[-1])
+    items_to_remove += items[10:]
     # print(items_to_remove)
     
     if get_option_value(multiworld, player, "delve") or False:

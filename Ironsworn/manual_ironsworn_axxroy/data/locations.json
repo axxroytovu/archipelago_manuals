@@ -180,6 +180,12 @@
 		"requires": "|@Quest:5|"
 	},
 	{
+		"name": "Quest 6",
+		"region": "Gathering Shards",
+		"category": ["Quest"],
+		"requires": "|@Quest:6|"
+	},
+	{
 		"name": "Reforge the Key",
 		"region": "Forging the Key",
 		"category": ["Quest"]
