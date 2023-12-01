@@ -6,10 +6,10 @@
 
 Ironsworn for Archipelago is a way to play a solo tabletop roleplaying game while integrated with the Archipelago multi-world randomizer.
 
-From Archipelago.gg:
+Description of Archipelago from Archipelago.gg:
 > This is a cross-game modification system which randomizes different games, then uses the result to build a single unified multi-player game. Items from one game may be present in another, and you will need your fellow players to find items you need in their games to help you complete your own.
 
-From IronswornRPG.com:
+Description of Ironsworn rom IronswornRPG.com:
 > In the Ironsworn tabletop roleplaying game, you are a hero sworn to undertake perilous quests in the dark fantasy setting of the Ironlands. Others live out their lives hardly venturing beyond the walls of their village or steading, but you are different. You will explore untracked wilds, fight desperate battles, forge bonds with isolated communities, and reveal the secrets of this harsh land.
 
 This document provides additional rules, mechanisms, items, monsters, and dungeons for Ironsworn, while the content of this repository includes a `.apworld` file and `.yaml` file for integration with the Archipelago randomizer.
@@ -151,6 +151,14 @@ Ironsworn dungeons are given in the Delve book on page 94.
 
 ##### The Demon
 
+**Rank:** Extreme
+**Theme:** Ravaged
+**Domain:** Underkeep
+
+**Denizens:** Keese [bat] (very common), Stalfos [skeleton] (very common), Digdogger (uncommon), An old man with bombs to sell (rare), Aquamentus (rare)
+
+This dungeon is full of twists and turns, secret doors and dead ends. You may require a key to progress in certain areas, though further exploration may show a secret route around the locked door. If you're lucky, some of the monsters may be kind and let you pass in exchange for some food. 
+
 ##### The Eagle
 
 ##### The Snake
@@ -192,3 +200,64 @@ Ironsworn dungeons are given in the Delve book on page 94.
 ##### The Shipwreck
 
 ### Monsters by Game
+
+#### The Legend of Zelda
+
+##### Aquamentus
+
+**Rank:** Epic
+
+**Features:**
+
+- Bat-like wings
+- A unicorn horn
+- Hard scales that deflect blades
+
+**Drives:**
+
+- Defend his horde
+- Light things on fire
+- Consume flesh
+
+**Tactics:**
+
+- Shoot fireballs out of his mouth
+- Slowly walk back and forth
+- Rely on his armored skin
+- Shoot more fireballs
+
+##### Digdogger
+
+**Rank:** Formidable
+
+**Features:**
+
+- A single piercing eye
+- Impenetrable armor
+- Dozens of spindly legs
+
+**Drives:**
+
+- MULTIPLY
+- Defend its lair
+- Destroy the noisy things
+
+**Tactics:**
+
+- Bounce around randomly crashing into things
+- Scream in frustration
+- Split into 2 smaller copies (each dangerous) when exposed to music
+
+##### Creature Template
+
+**Rank:**
+
+**Features:**
+
+**Drives:**
+
+**Tactics:**
+
+## Licensing
+
+This work is based on Ironsworn (found at www.ironswornrpg.com), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
