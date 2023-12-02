@@ -1,0 +1,47 @@
+{
+	"world map": 	{
+		"starting": true,
+		"connects_to": ["Florio Park Day 1","Florio Park Night 1","Florio Side Path Day","Florio Side Path Night"],
+		"requires": []
+	},
+	"Florio Park Day 1": 	{
+		"connects_to": ["Florio Park Day 2","FPD1-FPN1-FSPD-FSPN","FPD1-FPN1"],
+		"requires": "|Florio Park Day:1|"
+	},
+	"Florio Park Day 2": 	{
+		"connects_to": ["Florio Park Day 3"],
+		"requires": "|Florio Park Day:2|"
+	},
+	"Florio Park Day 3": 	{
+		"connects_to": ["FPD3-FPN1"],
+		"requires": "|Florio Park Day:3|"
+	},
+	"Florio Park Night 1": 	{
+		"connects_to": ["Florio Park Night 2","FPD1-FPN1-FSPD-FSPN","FPD1-FPN1","FPD3-FPN1"],
+		"requires": "|Florio Park Night:1|"
+	},
+	"Florio Park Night 2": 	{
+		"connects_to": [],
+		"requires": "|Florio Park Night:2|"
+	},
+	"Florio Side Path Day": 	{
+		"connects_to": ["FPD1-FPN1-FSPD-FSPN"],
+		"requires": "|Florio Side Path Day|"
+	},
+	"FPD1-FPN1-FSPD-FSPN": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Florio Side Path Night": 	{
+		"connects_to": [],
+		"requires": "|Florio Side Path Night|"
+	},
+	"FPD1-FPN1": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD3-FPN1": 	{
+		"connects_to": [],
+		"requires": []
+}
+}

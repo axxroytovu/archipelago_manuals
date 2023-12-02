@@ -1,0 +1,62 @@
+[
+	{
+		"count": "3",
+		"name": "Florio Park Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Florio Park Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Florio Side Path Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Florio Side Path Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fluffruit",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Scan",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Melody",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Illumina Orb - Florio",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cart Accelerate",
+		"category": ["Tool"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Burst Photo",
+		"category": ["Tool"],
+		"useful": true
+	}
+]
