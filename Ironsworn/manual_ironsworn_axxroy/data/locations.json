@@ -2,152 +2,172 @@
 	{
 		"region": "Gathering Shards",
 		"name": "Experience 1",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"]
 	},
 	{
 		"name": "Experience 2",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"]
 	},
 	{
 		"name": "Experience 3",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"]
 	},
 	{
 		"name": "Experience 4",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"]
 	},
 	{
 		"name": "Experience 5",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"]
 	},
 	{
 		"name": "Experience 6",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:2|"
 	},
 	{
 		"name": "Experience 7",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:2|"
 	},
 	{
 		"name": "Experience 8",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:2|"
 	},
 	{
 		"name": "Experience 9",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:2|"
 	},
 	{
 		"name": "Experience 10",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:2|"
 	},
 	{
 		"name": "Experience 11",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Experience 12",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Experience 13",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Experience 14",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Experience 15",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Experience 16",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:7|"
 	},
 	{
 		"name": "Experience 17",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:7|"
 	},
 	{
 		"name": "Experience 18",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:7|"
 	},
 	{
 		"name": "Experience 19",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:7|"
 	},
 	{
 		"name": "Experience 20",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Experience"],
+	    	"requires": "|Shard of Reality:7|"
 	},
 	{
 		"name": "Forge a Bond 1",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"]
 	},
 	{
 		"name": "Forge a Bond 2",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"]
 	},
 	{
 		"name": "Forge a Bond 3",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"]
 	},
 	{
 		"name": "Forge a Bond 4",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"]
 	},
 	{
 		"name": "Forge a Bond 5",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"]
 	},
 	{
 		"name": "Forge a Bond 6",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Forge a Bond 7",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Forge a Bond 8",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Forge a Bond 9",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Forge a Bond 10",
 		"region": "Gathering Shards",
-		"category": ["Gathering Shards"]
+		"category": ["Bonds"],
+	    	"requires": "|Shard of Reality:5|"
 	},
 	{
 		"name": "Quest 1",
