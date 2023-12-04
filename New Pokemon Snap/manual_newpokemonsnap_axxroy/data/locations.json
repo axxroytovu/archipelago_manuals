@@ -124,5 +124,173 @@
 		"region": "Florio Park Night 2",
 		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
 		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Tangrowth 1",
+		"region": "FPD2-FPN1-FSPN",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Night"],
+		"requires": []
+	},
+	{
+		"name": "Tangrowth 2",
+		"region": "FPD2-FPN1-FSPN",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Tangrowth 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Tangrowth 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Emolga 1",
+		"region": "FPD1-FSPD-FIS2",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": []
+	},
+	{
+		"name": "Emolga 2",
+		"region": "FPD1-FSPD-FIS2",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Fluffruit| OR |Scan| OR |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Emolga 3",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Emolga 4",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Wurmple 1",
+		"region": "FPD1-FSPD",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": []
+	},
+	{
+		"name": "Wurmple 2",
+		"region": "FPD1-FSPD",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Wurmple 3",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Wurmple 4",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Murkrow 1",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": []
+	},
+	{
+		"name": "Murkrow 2",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Murkrow 3",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Murkrow 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Caterpie 1",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": []
+	},
+	{
+		"name": "Caterpie 2",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Caterpie 3",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Caterpie 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Melody| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Heracross 1",
+		"region": "FPD3-FPN2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": []
+	},
+	{
+		"name": "Heracross 2",
+		"region": "FPD3-FPN2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Scan|"
+	},
+	{
+		"name": "Heracross 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Scan| AND |Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Heracross 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Scan| AND |Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Pinsir 1",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": []
+	},
+	{
+		"name": "Pinsir 2",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Pinsir 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Pinsir 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Scan| AND |Fluffruit| AND |Illumina Orb - Florio|"
 	}
 ]

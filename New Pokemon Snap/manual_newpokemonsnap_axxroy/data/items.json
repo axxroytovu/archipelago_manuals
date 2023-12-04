@@ -12,6 +12,12 @@
 		"progression": true
 	},
 	{
+		"count": "2",
+		"name": "Florio Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
 		"count":1,
 		"name": "Florio Side Path Day",
 		"category": ["Map"],

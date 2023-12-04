@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
+from Utils import visualize_regions
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -88,6 +89,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
 def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
+
+    visualize_regions(multiworld.get_region("Menu", player), "my_world.puml")
     pass
 
 # This method is called before the victory location has the victory event placed and locked
