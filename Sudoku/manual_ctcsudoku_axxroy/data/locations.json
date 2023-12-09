@@ -6566,7 +6566,7 @@
     ]
   },
   {
-    "name": "GAS Leak row 6 - Box of Krop",
+    "name": "GAS Leak Row 6 - Box of Krop",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6574,7 +6574,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 7 - German Whispers",
+    "name": "GAS Leak Row 7 - German Whispers",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6582,7 +6582,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 8 - Point to Next",
+    "name": "GAS Leak Row 8 - Point to Next",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6590,7 +6590,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 9 - Killer",
+    "name": "GAS Leak Row 9 - Killer",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6598,7 +6598,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 10 - Arrow",
+    "name": "GAS Leak Row 10 - Arrow",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6606,7 +6606,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 11 - Group Sums",
+    "name": "GAS Leak Row 11 - Group Sums",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6614,7 +6614,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 12 - Very Mysterious Sudoku",
+    "name": "GAS Leak Row 13 - Hats Wearing Dinos",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6622,7 +6622,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 13 - Hats Wearing Dinos",
+    "name": "GAS Leak Row 14 - Odd/Even Little Killer",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6630,7 +6630,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 14 - Odd/Even Little Killer",
+    "name": "GAS Leak Row 16 - Sum 100",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6638,7 +6638,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 15 - Podium",
+    "name": "GAS Leak Row 17 - Classic",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6646,7 +6646,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 16 - Sum 100",
+    "name": "GAS Leak Row 18 - Double-Digit Thermo",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6654,7 +6654,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 17 - Classic",
+    "name": "GAS Leak Row 19 - Goodliffe Acquisition Syndrome",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6662,7 +6662,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 18 - Double-Digit Thermo",
+    "name": "GAS Leak Row 21 - Odd-Even Bridge",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6670,7 +6670,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 19 - Goodliffe Acquisition Syndrome",
+    "name": "GAS Leak Row 22 - Maximin Sudoku",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6678,7 +6678,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 21 - Odd-Even Bridge",
+    "name": "GAS Leak Row 23 - Palindrome/German Whispers Sudoku",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6686,7 +6686,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 22 - Maximin Sudoku",
+    "name": "GAS Leak Row 25 - Quadro",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6694,7 +6694,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 23 - Palindrome/German Whispers Sudoku",
+    "name": "GAS Leak Row 26 - Odd Labyrinth",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6702,7 +6702,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 25 - Bonus 1: Quadro",
+    "name": "GAS Leak Row 27 - Pianissimo v2",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6710,7 +6710,7 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 26 - Bonus 2: Odd Labyrinth",
+    "name": "GAS Leak Row 28 - Skip Counting",
     "region": "Victory",
     "category": [
       "Victory"
@@ -6718,7 +6718,1047 @@
     "requires": "|Victory 1|"
   },
   {
-    "name": "GAS Leak row 27 - Bonus 3: Pianissimo v2",
+    "name": "GAS Leak Row 29 - X or No X?",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 30 - Palindrome",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 31 - Two Clever By Half",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 32 - XV (-)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 33 - Fourtress",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 34 - Cage Range",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 35 - Odd Even Count",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 36 - Multiples",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 37 - HO HO HO HO HO (No L)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 38 - Clone Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 39 - Antiking/Zone Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 40 - [no title]",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 41 - Two Classics (Part One)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 42 - Two Classics (Part Two)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 43 - Doubling Lines",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 44 - Advent of Boxing Day?",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 45 - Arrow Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 46 - Palindrome Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 47 - 13579",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 48 - Fortress",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 49 - Disparity Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 50 - Shaken Clones",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 51 - German Whispers",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 52 - Thermo",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 53 - Sandwich Killer",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 54 - Extra Regions",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 55 - Renban Whispers",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 56 - Arrow",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 57 - Adjacent Sums",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 60 - Prime Rib Sammies",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 61 - Sum Sum Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 62 - Ten of Diamonds",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 63 - No Even Neighbors",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 64 - Entropic Lines",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 65 - German Whispers",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 66 - Palindrome",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 67 - No Even Neighbors",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 68 - Small Difference Loop",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 69 - Krop Thru The <3",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 70 - 0006.5 Killer",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 71 - Skyscraper Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 72 - Classic Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 73 - XV",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 74 - Counting Neighbours",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 75 - 159",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 76 - Distance to 5",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 77 - Killer Fortress",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 78 - Renban",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 79 - Young Tableaux",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 80 - Palindrome",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 81 - X-Sums",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 82 - Multiples",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 83 - Unique Killer",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 84 - Killer Quadruples Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 85 - Vault Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 86 - Lucky Charms Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 87 - X-Sums",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 88 - Difference Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 89 - Long Capsules",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 90 - Palindrome Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 91 - Extra-Leak bonus",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 92 - Renban",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 93 - Kropki Pairs",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 94 - Double Sandwich",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 95 - Harder Puzzle",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 96 - Killer",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 97 - Thermo Whispers Palindrome RSL",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 98 - Slick II: Even Slicker",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 99 - Units Digit Product Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 100 - Diagonal",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 101 - Pencilmark Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 102 - Silent Knight",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 103 - XV",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 104 - Hip to be Square",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 105 - Nonconsecutive Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 106 - Double Extra Regions",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 107 - Wonderful Christmasrhyme",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 108 - Bill Trapped in the GAS Mines",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 109 - Dragon Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 110 - Slow Thermo Gattai",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 111 - Killer Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 112 - Top to Bottom Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 113 - Battleship Sums Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 114 - Average Line Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 115 - O/E Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 116 - Arrow Sequence Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 117 - A Little Extra Regions",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 118 - Princess Cut",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 119 - Lemon Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 120 - Kropki",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 121 - German Whispers",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 122 - Downright Dangerous",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 123 - Hit the Target Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 124 - Slalom Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 125 - Difference/Ratio Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 126 - Double Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 127 - No Three in a Row Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 128 - Thermomegranates",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 129 - Japanese Sums Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 130 - XV Pairs Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 131 - Killer Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 132 - Round Off Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 133 - Renban Walls",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 134 - Diagonal Consecutive Pairs",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 135 - Plus Minus Line Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 136 - Sandwich Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 137 - Difference/Ratio Pairs",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 138 - Kropki Pairs",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 139 - This is an X Parrot",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 140 - Kisses",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 141 - German Whispers",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 142 - Elimination Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 143 - XV (-) Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 144 - Kropki Pairs Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 145 - It Takes 18 to Tango",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 146 - First 2 Odd Sum Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 147 - Echolalia",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 148 - Killer Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 149 - Cabin Fever (for MikoKisai)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 150 - Rossini Sudoku (with negative constraint)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 151 - Ratio Sudoku (with negative constraint)",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 152 - Shutdown",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 153 - Nonconsecutive Spiral Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 154 - XY Differences",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 155 - Out With A Shoulder",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 157 - Region Sum Lines",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 158 - Nabner",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 159 - Bakpao Took Over Two Minutes",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 160 - Max Pair Sudoku",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 161 - Thermo",
+    "region": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory 1|"
+  },
+  {
+    "name": "GAS Leak Row 162 - Perfect Squares Sudoku",
     "region": "Victory",
     "category": [
       "Victory"
