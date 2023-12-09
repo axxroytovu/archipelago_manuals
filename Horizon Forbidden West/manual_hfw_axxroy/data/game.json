@@ -1,0 +1,16 @@
+{
+    "game": "hfw",
+    "player": "Axxroy",
+
+    "filler_item_name": "5 Metal Shards",
+
+    "starting_items": [
+        {
+            "item_categories": ["Weapon"],
+            "random": 1
+        },
+        {
+            "items": ["Aloy's Spear"]
+        }
+    ]
+}

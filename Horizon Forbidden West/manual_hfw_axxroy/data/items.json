@@ -1,0 +1,16 @@
+[ 
+    { 
+        "name": "Aloy's Spear", 
+        "category": [
+            "Weapon"
+        ],
+        "progression": true 
+    },
+    { 
+        "name": "Champion's Spear", 
+        "category": [
+            "Weapon"
+        ],
+        "progression": true 
+    },
+]
