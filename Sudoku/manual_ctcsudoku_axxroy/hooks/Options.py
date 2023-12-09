@@ -38,7 +38,7 @@ class ExtraKeysRatio(Range):
     display_name = "Extra keys ratio"
     range_start = 0
     range_end = 100
-    default = 50
+    default = 25
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
