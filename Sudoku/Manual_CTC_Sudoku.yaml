@@ -1,5 +1,7 @@
 game: Manual_CTCSudoku_Axxroy
-name: Axxroy1
+name: Player{number}
+requires:
+  version: 0.4.4
 Manual_CTCSudoku_Axxroy: 
   progression_balancing: 50
   accessibility: "items"

@@ -15,7 +15,7 @@
         "requires": "|Positional Key|"
     },
     "Comparison Sudoku": {
-        "requires": "|Comparsion Key|"
+        "requires": "|Comparison Key|"
     },
     "Parity Sudoku": {
         "requires": "|Parity Key|"
