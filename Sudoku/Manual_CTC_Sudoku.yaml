@@ -1,9 +1,12 @@
 game: Manual_CTCSudoku_Axxroy
-name: Axxroy1
+name: Player{number}
+requires:
+  version: 0.4.4
 Manual_CTCSudoku_Axxroy: 
   progression_balancing: 50
   accessibility: "items"
   # Game's expected duration in hours. Can be between 2 and 10
   game_duration: 4
-  # Total % of extra victory keys available. Can be between 0% (only the necessary keys) and 100% (2x as many keys)
-  extra_keys: 50
+  # Total % of extra victory keys available. 
+  # Can be between 0% (only the necessary keys) and 100% (2x as many keys)
+  extra_keys: 25

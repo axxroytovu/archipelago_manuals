@@ -37,7 +37,8 @@ Solving each puzzle (links to the puzzle are provided in the spreadsheet) consti
 For this archipelago game, the puzzles are split into multiple regions. Each region has 8 puzzles, for a total of 48 locations.
 - Classic Sudoku: These are your classic 9x9 puzzles with no extra rules. This is the only region available at the beginning of the game.
 - Summation Sudoku: These puzzles rely on addition to meet a certain clue. E.g. Killer sudoku or Arrow sudoku. 
-- Positional Sudoku: These puzzles have additional rules about where certain numbers can be placed. E.g. Thermometer sudoku or Fortress sudoku
+- Positional Sudoku: These puzzles have additional rules about where certain numbers can be placed. E.g. Windoku or Quads sudoku
+- Comparison Sudoku: These puzzles have rules about certain cells being larger or smaller than other cells. E.g Thermometer sudoku or Fortress sudoku
 - Parity Sudoku: These puzzles rely on some kind of A-or-B type parity to be solved. E.g. Kropki sudoku or Even/Odd sudoku
 - Variant Sudoku: These puzzles have unique rules or are significant variations on existing rulesets, and are often one-of-a-kind.
 - Multi-Rule Sudoku: These puzzles have two or more rules applied at once.
