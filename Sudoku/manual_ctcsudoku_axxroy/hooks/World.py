@@ -66,7 +66,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     
     total_puzzles = round(minutes/10)
     world.location_count = total_puzzles
-    total_regions = min([6, int(total_puzzles/5)])
+    total_regions = min([7, int(total_puzzles/5)])
     # print(total_puzzles, total_regions)
 
     required_keys = round(total_puzzles/10) * 2
@@ -78,7 +78,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     for i in range(1, total_keys):
         item_pool.append(copy(victory_key))
 
-    regions_order = ["Positional Sudoku", "Parity Sudoku", "Summation Sudoku", "Variant Sudoku", "Multi-Rule Sudoku"]
+    regions_order = ["Positional Sudoku", "Comparison Sudoku", "Parity Sudoku", "Summation Sudoku", "Variant Sudoku", "Multi-Rule Sudoku"]
     random.shuffle(regions_order)
     regions_order = ["Classic Sudoku"] + regions_order
     
@@ -147,8 +147,6 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     for i in range(1, filler*2):
         if len(item_pool) + 3 < total_locations:
             item_pool.append(copy(reveal_time))
-        
-    multiworld.clear_location_cache()
 
     # # shuffle the character item names and pull a subset with a maximum for the option we provided
     # character_names = [name for name in world.item_names]

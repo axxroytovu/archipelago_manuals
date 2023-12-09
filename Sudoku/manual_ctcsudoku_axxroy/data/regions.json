@@ -6,12 +6,16 @@
             "Summation Sudoku",
             "Variant Sudoku",
             "Multi-Rule Sudoku",
-            "Victory"
+            "Victory",
+            "Comparison Sudoku"
         ],
         "starting": true
     },
     "Positional Sudoku": {
         "requires": "|Positional Key|"
+    },
+    "Comparison Sudoku": {
+        "requires": "|Comparsion Key|"
     },
     "Parity Sudoku": {
         "requires": "|Parity Key|"

@@ -17,6 +17,14 @@
     },
     {
       "count": 1,
+      "name": "Comparison Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Parity Key",
       "category": [
         "Key"
