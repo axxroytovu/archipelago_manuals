@@ -113,9 +113,9 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 1. 
 2. 
-3. 
+3. A drove of Bullfango are rampaging through a nearby valley. They are clearly running away from something more dangerous, and it would take something truly terrifying to scare a Bullfango. Do you confront the stampede and try to calm it down, or hunt for the source of the Bullfangos' fear?
 4. 
-5. 
+5. A wave of refugees has flooded into your hometown after their village was destroyed by a Rathalos. Who do you know that claims they killed a Wyvern years ago? How do you plan to recruit their help?
 
 #### Stardew Valley
 
