@@ -38,7 +38,49 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-    pass
+    regions_to_remove = []
+    locations_to_keep = []
+    victory = get_option_value(multiworld, player, "victory_condition")
+    postgame = get_option_value(multiworld, player, "shuffle_postgame") or False
+    
+    if victory == Victory.option_master_rank:
+        if not postgame: 
+            regions_to_remove = ["Master 6 Star Quests"]
+            locations_to_keep = ["The Devil's Reincarnation"]
+    elif victory == Victory.option_high_rank:
+        if postgame:
+            regions_to_remove = [
+                "Master 1 Star Quests", "Master 2 Star Quests", "Master 3 Star Quests", 
+                "Master 4 Star Quests", "Master 5 Star Quests", "Master 6 Star Quests"
+            ]
+        else:
+            regions_to_remove = [
+                "Master 1 Star Quests", "Master 2 Star Quests", "Master 3 Star Quests", 
+                "Master 4 Star Quests", "Master 5 Star Quests", "Master 6 Star Quests",
+                "7 Star Quests"
+            ]
+            locations_to_keep = ["The Allmother"]
+    elif victory == Victory.option_low_rank:
+        if postgame:
+            regions_to_remove = [
+                "Master 1 Star Quests", "Master 2 Star Quests", "Master 3 Star Quests", 
+                "Master 4 Star Quests", "Master 5 Star Quests", "Master 6 Star Quests",
+                "7 Star Quests", "6 Star Quests", "5 Star Quests"
+            ]
+        else:
+            regions_to_remove = [
+                "Master 1 Star Quests", "Master 2 Star Quests", "Master 3 Star Quests", 
+                "Master 4 Star Quests", "Master 5 Star Quests", "Master 6 Star Quests",
+                "7 Star Quests", "6 Star Quests", "5 Star Quests", "4 Star Quests"
+            ]
+            locations_to_keep = ["Blue, Round, and Cute"]
+    for region in multiworld.regions:
+        if region.player == player and region.name in regions_to_remove:
+            for location in list(region.locations):
+                if location.name not in locations_to_keep:
+                    region.locations.remove(location)
+    if hasattr(multiworld, "clear_location_cache"):
+        multiworld.clear_location_cache()
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
@@ -51,81 +93,56 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     items_to_remove = []
+    
     victory = get_option_value(multiworld, player, "victory_condition")
     upgrades = [i for i, v in world.item_name_to_item.items() if "Equipment" in v.get('category', [])]
     upgrades_weapon = [i for i, v in world.item_name_to_item.items() if "Weapon" in v.get('category', [])]
     arenas = [i for i, v in world.item_name_to_item.items() if "Region" in v.get('category', [])]
+    victory_item = next(i for i in item_pool if i.name == "Victory")
     if victory == Victory.option_master_rank:
-        world.location_name_to_location["The Devil's Reincarnation"]["place_item"] = ["Victory"]
-        world.location_name_to_location["The Allmother"].pop("place_item", "")
-        world.location_name_to_location["Blue, Round, and Cute"].pop("place_item", "")
+        victory_location_name = "The Devil's Reincarnation"
         dango = [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
-        random.shuffle(dango)
+        multiworld.random.shuffle(dango)
         starting_dango = next(i for i in item_pool if i.name == dango[0])
         multiworld.push_precollected(starting_dango)
         item_pool.remove(starting_dango)
-        if not (get_option_value(multiworld, player, "shuffle_postgame") or False):
-            for region in multiworld.regions:
-                if region.player != player:
-                    continue
-                if region.name == "Master 6 Star Quests":
-                    for location in list(region.locations):
-                        if location.name != "The Devil's Reincarnation":
-                            region.locations.remove(location)
-            multiworld.clear_location_cache()
         return item_pool
     elif victory == Victory.option_high_rank:
-        world.location_name_to_location["The Allmother"]["place_item"] = ["Victory"]
-        world.location_name_to_location["The Devil's Reincarnation"].pop("place_item", "")
-        world.location_name_to_location["Blue, Round, and Cute"].pop("place_item", "")
+        victory_location_name = "The Allmother"
         items_to_remove += upgrades * 3
         items_to_remove += arenas
         items_to_remove += ["Jungle", "Citadel"] * 2
         items_to_remove += ["Master Rank Star"] * 6
-        items_to_remove += [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
-        random.shuffle(upgrades_weapon)
+        multiworld.random.shuffle(upgrades_weapon)
         for itm, cnt in zip(upgrades_weapon, [5, 5, 4, 4, 3, 2]):
             items_to_remove += [itm] * cnt
-        if get_option_value(multiworld, player, "shuffle_postgame") or False:
-            cutoff = "M"
-        else:
-            cutoff = "M7"
-        for region in multiworld.regions:
-            if region.player != player:
-                continue
-            if region.name[0] in cutoff:
-                for location in list(region.locations):
-                    if location.name != "The Allmother":
-                        region.locations.remove(location)
     elif victory == Victory.option_low_rank:
-        world.location_name_to_location["The Allmother"].pop("place_item", "")
-        world.location_name_to_location["The Devil's Reincarnation"].pop("place_item", "")
-        world.location_name_to_location["Blue, Round, and Cute"]["place_item"] = ["Victory"]
+        victory_location_name = "Blue, Round, and Cute"
         items_to_remove += upgrades * 7
         items_to_remove += arenas * 2
         items_to_remove += ["Jungle", "Citadel"] * 1
         items_to_remove.remove("Shrine Ruins")
         items_to_remove += ["Master Rank Star"] * 6
-        items_to_remove += [name for name, item in world.item_name_to_item.items() if "Dango" in item.get('category', [])]
+        items_to_remove += ["Quest Rank Star"] * 3
         if get_option_value(multiworld, player, "shuffle_postgame") or False:
-            cutoff = "M567"
             items_to_remove.remove("Frost Islands")
             items_to_remove.remove("Rampage & Arena")
-        else:
-            cutoff = "M4567"
-        for region in multiworld.regions:
-            if region.player != player:
-                continue
-            if region.name[0] in cutoff:
-                for location in list(region.locations):
-                    if location.name != "Blue, Round, and Cute":
-                        region.locations.remove(location)
-    multiworld.clear_location_cache()
     # print(len(items_to_remove), len(item_pool))
     for item_name in items_to_remove:
         item = next(i for i in item_pool if i.name == item_name)
         item_pool.remove(item)
     # print(len(item_pool))
+    
+    location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_location_name)
+    location.place_locked_item(victory_item)
+    item_pool.remove(victory_item)
+    
+    location_count = len(multiworld.get_unfilled_locations(player=player))
+    multiworld.random.shuffle(item_pool)
+    while len(item_pool) > location_count - 1:
+        item = next(i for i in item_pool if world.item_name_to_item[i.name].get('filler', False))
+        item_pool.remove(item)
+    
     return item_pool
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
