@@ -2,13 +2,13 @@
 	{
 		"count": 3,
 		"name": "Florio Park Day",
-		"category": ["Map"],
+		"category": ["Map", "Starting Map"],
 		"progression": true
 	},
 	{
 		"count": 2,
 		"name": "Florio Park Night",
-		"category": ["Map"],
+		"category": ["Map", "Starting Map"],
 		"progression": true
 	},
 	{

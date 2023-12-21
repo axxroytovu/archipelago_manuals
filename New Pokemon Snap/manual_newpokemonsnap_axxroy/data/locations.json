@@ -302,13 +302,13 @@
 	},
 	{
 		"name": "Dodrio 1",
-		"region": "FPD1-FSPD-FPD2",
+		"region": "FPD1-FSPD-FPN2",
 		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
 		"requires": []
 	},
 	{
 		"name": "Dodrio 2",
-		"region": "FPD1-FSPD-FPD2",
+		"region": "FPD1-FSPD-FPN2",
 		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
 		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
 	},
@@ -445,6 +445,199 @@
 		"requires": "|Illumina Orb - Florio|"
 	},
 	{
+		"name": "Hoothoot 1",
+		"region": "FPD1-FPN1-FSPN-FIS2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Hoothoot 2",
+		"region": "FPD1-FPN1-FSPN-FIS2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Night"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Hoothoot 3",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Night"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Hoothoot 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Night"],
+		"requires": "|Melody|"
+	},
+	{
+		"name": "Comfey 1",
+		"region": "FPD1-FSPD-FIS2",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": ""
+	},
+	{
+		"name": "Comfey 2",
+		"region": "FPD1-FSPD-FIS2",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Comfey 3",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Melody| AND |Illumina Orb - Florio| AND |Fluffruit|"
+	},
+	{
+		"name": "Comfey 4",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
+		"requires": "|Melody|"
+	},
+	{
+		"name": "Florges 1",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day"],
+		"requires": ""
+	},
+	{
+		"name": "Florges 2",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Florges 3",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Florges 4",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Combee 1",
+		"region": "FPN1-FSPN-FIS2",
+		"category": ["Florio Park Night","Florio Side Path Night","Florio Illumina Spot"],
+		"requires": ""
+	},
+	{
+		"name": "Combee 2",
+		"region": "FPN1-FSPN-FIS2",
+		"category": ["Florio Park Night","Florio Side Path Night","Florio Illumina Spot"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Combee 3",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night","Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Combee 4",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night","Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Vespiquen 1",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Vespiquen 2",
+		"region": "FPN1-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Vespiquen 3",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Vespiquen 4",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Sylveon 1",
+		"region": "FPD3-FPN2-FIS2-FSPD",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Day"],
+		"requires": ""
+	},
+	{
+		"name": "Sylveon 2",
+		"region": "FPD3-FPN2-FIS2-FSPD",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Day"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody| OR |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Sylveon 3",
+		"region": "Florio Illumina Spot 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Day"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Sylveon 4",
+		"region": "Florio Illumina Spot 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Day"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Shaymin 1",
+		"region": "FPD1-FPN2-FIS2",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Shaymin 2",
+		"region": "Florio Illumina Spot 2",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Shaymin 3",
+		"region": "Florio Illumina Spot 2",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Shaymin 4",
+		"region": "Florio Illumina Spot 2",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|",
+		"place_item": ["Four Star Legendary Photo"]
+	},
+	{
+		"name": "Meganium 1",
+		"region": "Florio Illumina Spot 1",
+		"category": ["Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Meganium 2",
+		"region": "Florio Illumina Spot 1",
+		"category": ["Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Meganium 3",
+		"region": "Florio Illumina Spot 1",
+		"category": ["Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Meganium 4",
+		"region": "Florio Illumina Spot 1",
+		"category": ["Florio Illumina Spot"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
 		"name": "Sample 1",
 		"region": "",
 		"category": [],
@@ -468,4 +661,5 @@
 		"category": [],
 		"requires": ""
 	}
+	/// Vivillon, Magikarp
 ]

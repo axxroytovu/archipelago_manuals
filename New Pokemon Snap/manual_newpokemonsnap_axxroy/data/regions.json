@@ -6,7 +6,7 @@
 			"Florio Park Night 1",
 			"Florio Side Path Day",
 			"Florio Side Path Night",
-			"Florio Illumina 1",
+			"Florio Illumina Spot 1",
 			"Research Camp",
 			"Founja Jungle Day 1",
 			"Founja Jungle Night 1",
@@ -52,23 +52,23 @@
 		"requires": "|Florio Park Night:1|"
 	},
 	"Florio Park Night 2": 	{
-		"connects_to": ["FPD3-FPN2","FPD1-FSPD-FPD2"],
+		"connects_to": ["FPD3-FPN2","FPD1-FSPD-FPN2"],
 		"requires": "|Florio Park Night:2|"
 	},
 	"Florio Side Path Day": 	{
-		"connects_to": ["FSPD-FSPN","FPD1-FSPD","FPD1-FPN1-FSPD"],
+		"connects_to": ["FSPD-FSPN","FPD1-FSPD","FPD1-FPN1-FSPD","FPD3-FPN2-FIS2-FSPD"],
 		"requires": "|Florio Side Path Day|"
 	},
 	"Florio Side Path Night": 	{
 		"connects_to": ["FSPD-FSPN","FPN1-FSPN","FPD2-FPN1-FSPN"],
 		"requires": "|Florio Side Path Night|"
 	},
-	"Florio Illumina 1": 	{
+	"Florio Illumina Spot1": 	{
 		"connects_to": ["Florio Illumina 2"],
 		"requires": "|Florio Illumina Spot:1|"
 	},
-	"Florio Illumina 2": 	{
-		"connects_to": ["FPD1-FSPD-FIS2"],
+	"Florio Illumina Spot 2": 	{
+		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FPN1-FSPN-FIS2","FPN1-FSPN-FIS2","FPD3-FPN2-FIS2-FSPD"],
 		"requires": "|Florio Illumina Spot:2|"
 	},
 	"Research Camp": 	{
@@ -320,11 +320,11 @@
 		"requires": []
 	},
 	"FPD1-FSPD": 	{
-		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FSPD-FPD2"],
+		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FSPD-FPN2"],
 		"requires": []
 	},
 	"FPN1-FSPN": 	{
-		"connects_to": ["FPN1-FSPN-SAD1"],
+		"connects_to": ["FPN1-FSPN-SAD1","FPN1-FSPN-FIS2"],
 		"requires": []
 	},
 	"FPD2-FPN1": 	{
@@ -336,7 +336,7 @@
 		"requires": []
 	},
 	"FPD3-FPN2": 	{
-		"connects_to": [],
+		"connects_to": ["FPD3-FPN2-FIS2-FSPD"],
 		"requires": []
 	},
 	"FSPD-FSPN": 	{
@@ -347,12 +347,12 @@
 		"connects_to": [],
 		"requires": []
 	},
-	"FPD1-FSPD-FPD2":	{
+	"FPD1-FSPD-FPN2":	{
 		"connects_to": [],
 		"requires": []
 	},
 	"FPD2-FPN1-FSPN": 	{
-		"connects_to": [],
+		"connects_to": ["FPD1-FPN1-FSPN-FIS2"],
 		"requires": []
 	},
 	"FPD1-FPN1-MRD1": 	{
@@ -371,11 +371,23 @@
 		"connects_to": [],
 		"requires": []
 	},
+	"FPN1-FSPN-FIS2": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD1-FPN1-FSPN-FIS2": 	{
+		"connects_to": [],
+		"requires": []
+	},
 	"FPD3-FPN1-FSPD-FSPN": 	{
 		"connects_to": ["FPD3-FPN1-FSPD-FSPN-SAD2"],
 		"requires": []
 	},
 	"FPD1-FPN1-FSPD-FSPN": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD3-FPN2-FIS2-FSPD": 	{
 		"connects_to": [],
 		"requires": []
 	},
