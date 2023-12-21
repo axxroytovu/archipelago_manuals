@@ -1,7 +1,38 @@
 {
 	"world map": 	{
 		"starting": true,
-		"connects_to": ["Florio Park Day 1","Florio Park Night 1","Florio Side Path Day","Florio Side Path Night","Florio Illumina 1"],
+		"connects_to": [
+			"Florio Park Day 1",
+			"Florio Park Night 1",
+			"Florio Side Path Day",
+			"Florio Side Path Night",
+			"Florio Illumina 1",
+			"Research Camp",
+			"Founja Jungle Day 1",
+			"Founja Jungle Night 1",
+			"Sweltering Sands Day 1",
+			"Sweltering Sands Night 1",
+			"Blushing Beach Day 1",
+			"Blushing Beach Night 1",
+			"Maricopia Reef Day 1",
+			"Maricopia Reef Night 1",
+			"Undersea 1",
+			"Maricopia Illumina Spot 1",
+			"Volcano 1",
+			"Voluca Illumina Spot 1",
+			"Elsewhere Forest 1",
+			"Belusylva Illumina Spot 1",
+			"Shiver Snowfields Day 1",
+			"Shiver Snowfields Night 1",
+			"Outaway Cave 1",
+			"Durice Illumina Spot 1",
+			"Ruins of Remembrance 1",
+			"Aurus Illumina Spot 1",
+			"Mightywide River Day 1",
+			"Mightywide River Night 1",
+			"Barren Badlands Day 1",
+			"Barren Badlands Night 1"
+		],
 		"requires": []
 	},
 	"Florio Park Day 1": 	{
@@ -17,15 +48,15 @@
 		"requires": "|Florio Park Day:3|"
 	},
 	"Florio Park Night 1": 	{
-		"connects_to": ["Florio Park Night 2","FPD1-FPN1","FPN1-FSPN","FPD2-FPN1","FPD3-FPN1"],
+		"connects_to": ["Florio Park Night 2","FPD1-FPN1","FPN1-FSPN","FPD2-FPN1","FPD3-FPN1","FPN1-FSPD-FSPN"],
 		"requires": "|Florio Park Night:1|"
 	},
 	"Florio Park Night 2": 	{
-		"connects_to": ["FPD3-FPN2"],
+		"connects_to": ["FPD3-FPN2","FPD1-FSPD-FPD2"],
 		"requires": "|Florio Park Night:2|"
 	},
 	"Florio Side Path Day": 	{
-		"connects_to": ["FSPD-FSPN","FPD1-FSPD"],
+		"connects_to": ["FSPD-FSPN","FPD1-FSPD","FPD1-FPN1-FSPD"],
 		"requires": "|Florio Side Path Day|"
 	},
 	"Florio Side Path Night": 	{
@@ -40,16 +71,260 @@
 		"connects_to": ["FPD1-FSPD-FIS2"],
 		"requires": "|Florio Illumina Spot:2|"
 	},
+	"Research Camp": 	{
+		"connects_to": [],
+		"requires": "|Research Camp:1|"
+	},
+	"Founja Jungle Day 1": 	{
+		"connects_to": ["Founja Jungle Day 2"],
+		"requires": "|Founja Jungle Day:1|"
+	},
+	"Founja Jungle Day 2": 	{
+		"connects_to": ["Founja Jungle Day 3"],
+		"requires": "|Founja Jungle Day:2|"
+	},
+	"Founja Jungle Day 3": 	{
+		"connects_to": [],
+		"requires": "|Founja Jungle Day:3|"
+	},
+	"Founja Jungle Night 1": 	{
+		"connects_to": ["Founja Jungle Night 2"],
+		"requires": "|Founja Jungle Night:1|"
+	},
+	"Founja Jungle Night 2": 	{
+		"connects_to": [],
+		"requires": "|Founja Jungle Night:2|"
+	},
+	"Sweltering Sands Day 1": 	{
+		"connects_to": ["Sweltering Sands Day 2","FPN1-FSPN-SAD1"],
+		"requires": "|Sweltering Sands Day:1|"
+	},
+	"Sweltering Sands Day 2": 	{
+		"connects_to": ["Sweltering Sands Day 3","FPD3-FPN1-FSPD-FSPN-SAD2"],
+		"requires": "|Sweltering Sands Day:2|"
+	},
+	"Sweltering Sands Day 3": 	{
+		"connects_to": [],
+		"requires": "|Sweltering Sands Day:3|"
+	},
+	"Sweltering Sands Night 1": 	{
+		"connects_to": ["Sweltering Sands Night 2"],
+		"requires": "|Sweltering Sands Night:1|"
+	},
+	"Sweltering Sands Night 2": 	{
+		"connects_to": [],
+		"requires": "|Sweltering Sands Night:2|"
+	},
+	"Blushing Beach Day 1": 	{
+		"connects_to": ["Blushing Beach Day 2"],
+		"requires": "|Blushing Beach Day:1|"
+	},
+	"Blushing Beach Day 2": 	{
+		"connects_to": ["Blushing Beach Day 3"],
+		"requires": "|Blushing Beach Day:2|"
+	},
+	"Blushing Beach Day 3": 	{
+		"connects_to": [],
+		"requires": "|Blushing Beach Day:3|"
+	},
+	"Blushing Beach Night 1": 	{
+		"connects_to": ["Blushing Beach Night 2"],
+		"requires": "|Blushing Beach Night:1|"
+	},
+	"Blushing Beach Night 2": 	{
+		"connects_to": [],
+		"requires": "|Blushing Beach Night:2|"
+	},
+	"Maricopia Reef Day 1": 	{
+		"connects_to": ["Maricopia Reef Day 2"],
+		"requires": "|Maricopia Reef Day:1|"
+	},
+	"Maricopia Reef Day 2": 	{
+		"connects_to": ["Maricopia Reef Day 3"],
+		"requires": "|Maricopia Reef Day:2|"
+	},
+	"Maricopia Reef Day 3": 	{
+		"connects_to": [],
+		"requires": "|Maricopia Reef Day:3|"
+	},
+	"Maricopia Reef Night 1": 	{
+		"connects_to": ["Maricopia Reef Night 2"],
+		"requires": "|Maricopia Reef Night:1|"
+	},
+	"Maricopia Reef Night 2": 	{
+		"connects_to": [],
+		"requires": "|Maricopia Reef Night:2|"
+	},
+	"Undersea 1": 	{
+		"connects_to": ["Undersea 2"],
+		"requires": "|Undersea:1|"
+	},
+	"Undersea 2": 	{
+		"connects_to": ["Undersea 3"],
+		"requires": "|Undersea:2|"
+	},
+	"Undersea 3": 	{
+		"connects_to": [],
+		"requires": "|Undersea:3|"
+	},
+	"Maricopia Illumina Spot 1": 	{
+		"connects_to": ["Maricopia Illumina Spot 2"],
+		"requires": "|Maricopia Illumina Spot:1|"
+	},
+	"Maricopia Illumina Spot 2": 	{
+		"connects_to": [],
+		"requires": "|Maricopia Illumina Spot:2|"
+	},
+	"Volcano 1": 	{
+		"connects_to": ["Volcano 2"],
+		"requires": "|Volcano:1|"
+	},
+	"Volcano 2": 	{
+		"connects_to": ["Volcano 3"],
+		"requires": "|Volcano:2|"
+	},
+	"Volcano 3": 	{
+		"connects_to": [],
+		"requires": "|Volcano:3|"
+	},
+	"Voluca Illumina Spot 1": 	{
+		"connects_to": ["Voluca Illumina Spot 2"],
+		"requires": "|Voluca Illumina Spot:1|"
+	},
+	"Voluca Illumina Spot 2": 	{
+		"connects_to": [],
+		"requires": "|Voluca Illumina Spot:2|"
+	},
+	"Elsewhere Forest 1": 	{
+		"connects_to": ["Elsewhere Forest 2"],
+		"requires": "|Elsewhere Forest:1|"
+	},
+	"Elsewhere Forest 2": 	{
+		"connects_to": ["Elsewhere Forest 3"],
+		"requires": "|Elsewhere Forest:2|"
+	},
+	"Elsewhere Forest 3": 	{
+		"connects_to": [],
+		"requires": "|Elsewhere Forest:3|"
+	},
+	"Belusylva Illumina Spot 1": 	{
+		"connects_to": ["Belusylva Illumina Spot 2"],
+		"requires": "|Belusylva Illumina Spot:1|"
+	},
+	"Belusylva Illumina Spot 2": 	{
+		"connects_to": [],
+		"requires": "|Belusylva Illumina Spot:2|"
+	},
+	"Shiver Snowfields Day 1": 	{
+		"connects_to": ["Shiver Snowfields Day 2"],
+		"requires": "|Shiver Snowfields Day:1|"
+	},
+	"Shiver Snowfields Day 2": 	{
+		"connects_to": ["Shiver Snowfields Day 3"],
+		"requires": "|Shiver Snowfields Day:2|"
+	},
+	"Shiver Snowfields Day 3": 	{
+		"connects_to": [],
+		"requires": "|Shiver Snowfields Day:3|"
+	},
+	"Shiver Snowfields Night 1": 	{
+		"connects_to": ["Shiver Snowfields Night 2"],
+		"requires": "|Shiver Snowfields Night:1|"
+	},
+	"Shiver Snowfields Night 2": 	{
+		"connects_to": [],
+		"requires": "|Shiver Snowfields Night:2|"
+	},
+	"Outaway Cave 1": 	{
+		"connects_to": ["Outaway Cave 2"],
+		"requires": "|Outaway Cave:1|"
+	},
+	"Outaway Cave 2": 	{
+		"connects_to": ["Outaway Cave 3"],
+		"requires": "|Outaway Cave:2|"
+	},
+	"Outaway Cave 3": 	{
+		"connects_to": [],
+		"requires": "|Outaway Cave:3|"
+	},
+	"Durice Illumina Spot 1": 	{
+		"connects_to": ["Durice Illumina Spot 2"],
+		"requires": "|Durice Illumina Spot:1|"
+	},
+	"Durice Illumina Spot 2": 	{
+		"connects_to": [],
+		"requires": "|Durice Illumina Spot:2|"
+	},
+	"Ruins of Remembrance 1": 	{
+		"connects_to": ["Ruins of Remembrance 2"],
+		"requires": "|Ruins of Remembrance:1|"
+	},
+	"Ruins of Remembrance 2": 	{
+		"connects_to": ["Ruins of Remembrance 3"],
+		"requires": "|Ruins of Remembrance:2|"
+	},
+	"Ruins of Remembrance 3": 	{
+		"connects_to": [],
+		"requires": "|Ruins of Remembrance:3|"
+	},
+	"Aurus Illumina Spot 1": 	{
+		"connects_to": ["Aurus Illumina Spot 2"],
+		"requires": "|Aurus Illumina Spot:1|"
+	},
+	"Aurus Illumina Spot 2": 	{
+		"connects_to": [],
+		"requires": "|Aurus Illumina Spot:2|"
+	},
+	"Mightywide River Day 1": 	{
+		"connects_to": ["Mightywide River Day 2","FPD1-FPN1-MRD1"],
+		"requires": "|Mightywide River Day:1|"
+	},
+	"Mightywide River Day 2": 	{
+		"connects_to": ["Mightywide River Day 3"],
+		"requires": "|Mightywide River Day:2|"
+	},
+	"Mightywide River Day 3": 	{
+		"connects_to": [],
+		"requires": "|Mightywide River Day:3|"
+	},
+	"Mightywide River Night 1": 	{
+		"connects_to": ["Mightywide River Night 2"],
+		"requires": "|Mightywide River Night:1|"
+	},
+	"Mightywide River Night 2": 	{
+		"connects_to": [],
+		"requires": "|Mightywide River Night:2|"
+	},
+	"Barren Badlands Day 1": 	{
+		"connects_to": ["Barren Badlands Day 2"],
+		"requires": "|Barren Badlands Day:1|"
+	},
+	"Barren Badlands Day 2": 	{
+		"connects_to": ["Barren Badlands Day 3"],
+		"requires": "|Barren Badlands Day:2|"
+	},
+	"Barren Badlands Day 3": 	{
+		"connects_to": [],
+		"requires": "|Barren Badlands Day:3|"
+	},
+	"Barren Badlands Night 1": 	{
+		"connects_to": ["Barren Badlands Night 2"],
+		"requires": "|Barren Badlands Night:1|"
+	},
+	"Barren Badlands Night 2": 	{
+		"connects_to": [],
+		"requires": "|Barren Badlands Night:2|"
+	},
 	"FPD1-FPN1": 	{
-		"connects_to": ["FPD1-FPN1-FSPD-FSPN"],
+		"connects_to": ["FPD1-FPN1-FSPD-FSPN","FPD1-FPN1-MRD1","FPD1-FPN1-FSPD"],
 		"requires": []
 	},
 	"FPD1-FSPD": 	{
-		"connects_to": ["FPD1-FSPD-FIS2"],
+		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FSPD-FPD2"],
 		"requires": []
 	},
 	"FPN1-FSPN": 	{
-		"connects_to": [],
+		"connects_to": ["FPN1-FSPN-SAD1"],
 		"requires": []
 	},
 	"FPD2-FPN1": 	{
@@ -65,10 +340,14 @@
 		"requires": []
 	},
 	"FSPD-FSPN": 	{
-		"connects_to": ["FPD3-FPN1-FSPD-FSPN", "FPD1-FPN1-FSPD-FSPN"],
+		"connects_to": ["FPD3-FPN1-FSPD-FSPN", "FPD1-FPN1-FSPD-FSPN","FPN1-FSPD-FSPN"],
 		"requires": []
 	},
 	"FPD1-FSPD-FIS2":	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD1-FSPD-FPD2":	{
 		"connects_to": [],
 		"requires": []
 	},
@@ -76,11 +355,31 @@
 		"connects_to": [],
 		"requires": []
 	},
-	"FPD3-FPN1-FSPD-FSPN": 	{
+	"FPD1-FPN1-MRD1": 	{
 		"connects_to": [],
 		"requires": []
 	},
+	"FPN1-FSPN-SAD1": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPN1-FSPD-FSPN": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD1-FPN1-FSPD": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD3-FPN1-FSPD-FSPN": 	{
+		"connects_to": ["FPD3-FPN1-FSPD-FSPN-SAD2"],
+		"requires": []
+	},
 	"FPD1-FPN1-FSPD-FSPN": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPD3-FPN1-FSPD-FSPN-SAD2": 	{
 		"connects_to": [],
 		"requires": []
 	}

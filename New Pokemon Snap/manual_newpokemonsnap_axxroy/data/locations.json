@@ -1,15 +1,16 @@
 [
 	{
-		"name": "Vivillon 1",
-		"region": "FPD1-FPN1-FSPD-FSPN",
-		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
-		"requires": []
+		"name": "Take 10, 4 star photos of Legendary Pokemon",
+		"region": "World Map",
+		"category": ["Victory"],
+		"requires": "|Four Star Legendary Photo:10|",
+		"place_item": ["The Perfect Photo Album"]
 	},
 	{
-		"name": "Vivillon 2",
-		"region": "Florio Park Day 3",
-		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
-		"requires": []
+		"name": "victory",
+		"victory": true,
+		"region": "World Map",
+		"requires": "|The Perfect Photo Album|"
 	},
 	{
 		"name": "Pichu 1",
@@ -37,44 +38,50 @@
 	},
 	{
 		"name": "Grookey 1",
-		"region": "FPD1-FPN1",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"region": "FPD1-FPN1-MRD1",
+		"category": ["Florio Park Day","Florio Park Night","Mightywide River Day"],
 		"requires": []
 	},
 	{
 		"name": "Grookey 2",
-		"region": "FPD1-FPN1",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"region": "FPD1-FPN1-MRD1",
+		"category": ["Florio Park Day","Florio Park Night","Mightywide River Day"],
 		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
 	},
 	{
 		"name": "Grookey 3",
 		"region": "Florio Park Day 3",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"category": ["Florio Park Day","Florio Park Night","Mightywide River Day"],
 		"requires": "|Melody|"
 	},
 	{
 		"name": "Grookey 4",
 		"region": "Florio Park Day 3",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"category": ["Florio Park Day","Florio Park Night","Mightywide River Day"],
 		"requires": "|Melody|"
 	},
 	{
 		"name": "Scorbunny 1",
-		"region": "FPD3-FPN1",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"region": "FPD3-FPN1-FSPD-FSPN-SAD2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night","Sweltering Sands Day"],
 		"requires": []
 	},
 	{
 		"name": "Scorbunny 2",
-		"region": "FPD3-FPN1",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"region": "FPD3-FPN1-FSPD-FSPN-SAD2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night","Sweltering Sands Day"],
 		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Scorbunny 3",
+		"region": "Sweltering Sands Day 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night","Sweltering Sands Day"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
 	},
 	{
 		"name": "Scorbunny 4",
 		"region": "Florio Park Day 3",
-		"category": ["Florio Park Day","Florio Park Night"],
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day","Florio Side Path Night","Sweltering Sands Day"],
 		"requires": "|Fluffruit|"
 	},
 	{
@@ -271,13 +278,13 @@
 	},
 	{
 		"name": "Pinsir 1",
-		"region": "FPN1-FSPN",
+		"region": "FPN1-FSPN-SAD1",
 		"category": ["Florio Park Night","Florio Side Path Night"],
 		"requires": []
 	},
 	{
 		"name": "Pinsir 2",
-		"region": "FPN1-FSPN",
+		"region": "FPN1-FSPN-SAD1",
 		"category": ["Florio Park Night","Florio Side Path Night"],
 		"requires": "|Fluffruit|"
 	},
@@ -292,5 +299,173 @@
 		"region": "Florio Park Night 2",
 		"category": ["Florio Park Night","Florio Side Path Night"],
 		"requires": "|Scan| AND |Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Dodrio 1",
+		"region": "FPD1-FSPD-FPD2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": []
+	},
+	{
+		"name": "Dodrio 2",
+		"region": "FPD1-FSPD-FPD2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Dodrio 3",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Dodrio 4",
+		"region": "Florio Park Day 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Ducklett 1",
+		"region": "FPD2-FPN1-FSPN",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Ducklett 2",
+		"region": "FPD2-FPN1-FSPN",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Ducklett 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Ducklett 4",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Swanna 1",
+		"region": "FPD1-FPN1",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": ""
+	},
+	{
+		"name": "Swanna 2",
+		"region": "FPD1-FPN1",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Fluffruit| OR |Scan| OR |Florio Park Night|"
+	},
+	{
+		"name": "Swanna 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Swanna 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night"],
+		"requires": "|Melody|"
+	},
+	{
+		"name": "Bidoof 1",
+		"region": "FPD1-FPN1-FSPD",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": ""
+	},
+	{
+		"name": "Bidoof 2",
+		"region": "FPD1-FPN1-FSPD",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Bidoof 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Bidoof 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Tailow 1",
+		"region": "FPD1-FSPD",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": ""
+	},
+	{
+		"name": "Tailow 2",
+		"region": "FPD1-FSPD",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Tailow 3",
+		"region": "Florio Park Day 1",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Melody| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Tailow 4",
+		"region": "Florio Park Day 3",
+		"category": ["Florio Park Day","Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Torterra 1",
+		"region": "FPN1-FSPD-FSPN",
+		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Torterra 2",
+		"region": "Florio Park Night 1",
+		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio| AND |Fluffruit|"
+	},
+	{
+		"name": "Torterra 3",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Torterra 4",
+		"region": "Florio Park Night 2",
+		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Sample 1",
+		"region": "",
+		"category": [],
+		"requires": ""
+	},
+	{
+		"name": "Sample 2",
+		"region": "",
+		"category": [],
+		"requires": ""
+	},
+	{
+		"name": "Sample 3",
+		"region": "",
+		"category": [],
+		"requires": ""
+	},
+	{
+		"name": "Sample 4",
+		"region": "",
+		"category": [],
+		"requires": ""
 	}
 ]

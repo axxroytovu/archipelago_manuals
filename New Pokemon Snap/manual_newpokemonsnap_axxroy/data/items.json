@@ -1,68 +1,260 @@
 [
 	{
-		"count": "3",
+		"count": 3,
 		"name": "Florio Park Day",
 		"category": ["Map"],
 		"progression": true
 	},
 	{
-		"count": "2",
+		"count": 2,
 		"name": "Florio Park Night",
 		"category": ["Map"],
 		"progression": true
 	},
 	{
-		"count": "2",
+		"count": 2,
 		"name": "Florio Illumina Spot",
 		"category": ["Map"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Florio Side Path Day",
 		"category": ["Map"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Florio Side Path Night",
 		"category": ["Map"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
+		"name": "Research Camp",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Founja Jungle Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Founja Jungle Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Sweltering Sands Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Sweltering Sands Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Blushing Beach Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Blushing Beach Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Maricopia Reef Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Maricopia Reef Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Undersea",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Maricopia Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Volcano",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Voluca Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Elsewhere Forest",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Belusylva Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Shiver Snowfields Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Shiver Snowfields Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Outaway Cave",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Durice Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Ruins of Remembrance",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Aurus Illumina Spot",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Mightywide River Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Mightywide River Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Barren Badlands Day",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 2,
+		"name": "Barren Badlands Night",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count": 1,
 		"name": "Fluffruit",
 		"category": ["Tool"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Scan",
 		"category": ["Tool"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Melody",
 		"category": ["Tool"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Illumina Orb - Florio",
 		"category": ["Tool"],
 		"progression": true
 	},
 	{
-		"count":1,
+		"count": 1,
+		"name": "Illumina Orb - Belusylva",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Illumina Orb - Maricopia",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Illumina Orb - Voluca",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Illumina Orb - Durice",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Illumina Orb - Aurus",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": 1,
 		"name": "Cart Accelerate",
 		"category": ["Tool"],
 		"useful": true
 	},
 	{
-		"count":1,
+		"count": 1,
 		"name": "Burst Photo",
 		"category": ["Tool"],
 		"useful": true
+	},
+	{
+		"count": 10,
+		"name": "Four Star Legendary Photo",
+		"category": ["Victory"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "The Perfect Photo Album",
+		"category": ["Victory"],
+		"progression": true
 	}
 ]
