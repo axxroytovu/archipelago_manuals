@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Take 10, 4 star photos of Legendary Pokemon",
-		"region": "World Map",
+		"region": "world map",
 		"category": ["Victory"],
 		"requires": "|Four Star Legendary Photo:10|",
 		"place_item": ["The Perfect Photo Album"]
@@ -9,7 +9,7 @@
 	{
 		"name": "victory",
 		"victory": true,
-		"region": "World Map",
+		"region": "world map",
 		"requires": "|The Perfect Photo Album|"
 	},
 	{
@@ -328,13 +328,13 @@
 		"name": "Ducklett 1",
 		"region": "FPD2-FPN1-FSPN",
 		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Ducklett 2",
 		"region": "FPD2-FPN1-FSPN",
 		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Ducklett 3",
@@ -346,13 +346,13 @@
 		"name": "Ducklett 4",
 		"region": "Florio Park Day 3",
 		"category": ["Florio Park Day", "Florio Park Night", "Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Swanna 1",
 		"region": "FPD1-FPN1",
 		"category": ["Florio Park Day","Florio Park Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Swanna 2",
@@ -376,7 +376,7 @@
 		"name": "Bidoof 1",
 		"region": "FPD1-FPN1-FSPD",
 		"category": ["Florio Park Day","Florio Park Night","Florio Side Path Day"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Bidoof 2",
@@ -400,7 +400,7 @@
 		"name": "Tailow 1",
 		"region": "FPD1-FSPD",
 		"category": ["Florio Park Day","Florio Side Path Day"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Tailow 2",
@@ -424,7 +424,7 @@
 		"name": "Torterra 1",
 		"region": "FPN1-FSPD-FSPN",
 		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Torterra 2",
@@ -436,7 +436,7 @@
 		"name": "Torterra 3",
 		"region": "Florio Park Night 2",
 		"category": ["Florio Park Night","Florio Side Path Day","Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Torterra 4",
@@ -448,7 +448,7 @@
 		"name": "Hoothoot 1",
 		"region": "FPD1-FPN1-FSPN-FIS2",
 		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Hoothoot 2",
@@ -472,7 +472,7 @@
 		"name": "Comfey 1",
 		"region": "FPD1-FSPD-FIS2",
 		"category": ["Florio Park Day","Florio Side Path Day","Florio Illumina Spot"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Comfey 2",
@@ -496,7 +496,7 @@
 		"name": "Florges 1",
 		"region": "Florio Park Day 1",
 		"category": ["Florio Park Day"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Florges 2",
@@ -520,7 +520,7 @@
 		"name": "Combee 1",
 		"region": "FPN1-FSPN-FIS2",
 		"category": ["Florio Park Night","Florio Side Path Night","Florio Illumina Spot"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Combee 2",
@@ -544,7 +544,7 @@
 		"name": "Vespiquen 1",
 		"region": "FPN1-FSPN",
 		"category": ["Florio Park Night","Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Vespiquen 2",
@@ -568,7 +568,7 @@
 		"name": "Sylveon 1",
 		"region": "FPD3-FPN2-FIS2-FSPD",
 		"category": ["Florio Park Day","Florio Park Night","Florio Illumina Spot","Florio Side Path Day"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Sylveon 2",
@@ -641,7 +641,7 @@
 		"name": "Eevee 1",
 		"region": "FPN2-FSPN-FIS2-RC",
 		"category": ["Florio Park Night", "Florio Illumina Spot", "Florio Side Path Night", "Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Eevee 2",
@@ -665,7 +665,7 @@
 		"name": "Pikachu 1",
 		"region": "FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1",
 		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Pikachu 2",
@@ -683,13 +683,13 @@
 		"name": "Pikachu 4",
 		"region": "Research Camp",
 		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
-		"requires": "|Fluffruit| AND |Illumina Orb - Florio"
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
 	},
 	{
 		"name": "Cutiefly 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Cutiefly 2",
@@ -713,7 +713,7 @@
 		"name": "Bunnelby 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Bunnelby 2",
@@ -737,7 +737,7 @@
 		"name": "Stoutland 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Stoutland 2",
@@ -761,7 +761,7 @@
 		"name": "Starly 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Starly 2",
@@ -773,7 +773,7 @@
 		"name": "Starly 3",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Starly 4",
@@ -785,7 +785,7 @@
 		"name": "Meowth 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Meowth 2",
@@ -809,7 +809,7 @@
 		"name": "Audino 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Audino 2",
@@ -833,7 +833,7 @@
 		"name": "Rattata 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Rattata 2",
@@ -857,7 +857,7 @@
 		"name": "Trubbish 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Trubbish 2",
@@ -881,7 +881,7 @@
 		"name": "Sudowoodo 1",
 		"region": "Research Camp",
 		"category": ["Research Camp"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Sudowoodo 2",
@@ -929,7 +929,7 @@
 		"name": "Shroomish 1",
 		"region": "Florio Side Path Day",
 		"category": ["Florio Side Path Day"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Shroomish 2",
@@ -953,7 +953,7 @@
 		"name": "Foongus 1",
 		"region": "Florio Side Path Night",
 		"category": ["Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Foongus 2",
@@ -977,7 +977,7 @@
 		"name": "Snorlax 1",
 		"region": "FSPD-FSPN",
 		"category": ["Florio Side Path Day","Florio Side Path Night"],
-		"requires": ""
+		"requires": []
 	},
 	{
 		"name": "Snorlax 2",

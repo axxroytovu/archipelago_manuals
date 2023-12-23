@@ -3,6 +3,6 @@
 	"creator": "Axxroy",
 	"filler_item_name": "Encouragement",
 	"starting_items": [
-		{"item_categories": ["Map"], "random": 1}
+		{"item_categories": ["Starting Map"], "random": 1}
 	]
 }
