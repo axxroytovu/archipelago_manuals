@@ -638,28 +638,363 @@
 		"requires": "|Illumina Orb - Florio|"
 	},
 	{
-		"name": "Sample 1",
-		"region": "",
-		"category": [],
+		"name": "Eevee 1",
+		"region": "FPN2-FSPN-FIS2-RC",
+		"category": ["Florio Park Night", "Florio Illumina Spot", "Florio Side Path Night", "Research Camp"],
 		"requires": ""
 	},
 	{
-		"name": "Sample 2",
-		"region": "",
-		"category": [],
+		"name": "Eevee 2",
+		"region": "FPN2-FSPN-FIS2-RC",
+		"category": ["Florio Park Night", "Florio Illumina Spot", "Florio Side Path Night", "Research Camp"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Eevee 3",
+		"region": "Research Camp",
+		"category": ["Florio Park Night", "Florio Illumina Spot", "Florio Side Path Night", "Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Eevee 4",
+		"region": "Research Camp",
+		"category": ["Florio Park Night", "Florio Illumina Spot", "Florio Side Path Night", "Research Camp"],
+		"requires": "|Scan| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Pikachu 1",
+		"region": "FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1",
+		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
 		"requires": ""
 	},
 	{
-		"name": "Sample 3",
-		"region": "",
-		"category": [],
+		"name": "Pikachu 2",
+		"region": "FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1",
+		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
+		"requires": "|Fluffruit| OR |Scan| OR |Melody|"
+	},
+	{
+		"name": "Pikachu 3",
+		"region": "Research Camp",
+		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Pikachu 4",
+		"region": "Research Camp",
+		"category": ["Florio Park Night","Florio Illumina Spot", "Florio Side Path Night", "Research Camp", "Maricopia Reef Day", "Blushing Beach Day", "Blushing Beach Night"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio"
+	},
+	{
+		"name": "Cutiefly 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
 		"requires": ""
 	},
 	{
-		"name": "Sample 4",
-		"region": "",
-		"category": [],
+		"name": "Cutiefly 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Cutiefly 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Cutiefly 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Bunnelby 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
 		"requires": ""
+	},
+	{
+		"name": "Bunnelby 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Bunnelby 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Bunnelby 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Stoutland 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Stoutland 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit| OR |Scan|"
+	},
+	{
+		"name": "Stoutland 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Stoutland 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Starly 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Starly 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Starly 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Starly 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Meowth 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Meowth 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Meowth 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan| AND |Fluffruit|"
+	},
+	{
+		"name": "Meowth 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Audino 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Audino 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Audino 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Melody|"
+	},
+	{
+		"name": "Audino 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit| AND |Melody| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Rattata 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Rattata 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Rattata 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Rattata 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Trubbish 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Trubbish 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Trubbish 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Trubbish 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Sudowoodo 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": ""
+	},
+	{
+		"name": "Sudowoodo 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Sudowoodo 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Sudowoodo 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Dedenne 1",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan|"
+	},
+	{
+		"name": "Dedenne 2",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan| AND |Fluffruit|"
+	},
+	{
+		"name": "Dedenne 3",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan| AND |Fluffruit|"
+	},
+	{
+		"name": "Dedenne 4",
+		"region": "Research Camp",
+		"category": ["Research Camp"],
+		"requires": "|Scan| AND |Fluffruit|"
+	},
+	{
+		"name": "Shroomish 1",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day"],
+		"requires": ""
+	},
+	{
+		"name": "Shroomish 2",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Shroomish 3",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day"],
+		"requires": "|Fluffruit|"
+	},
+	{
+		"name": "Shroomish 4",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Foongus 1",
+		"region": "Florio Side Path Night",
+		"category": ["Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Foongus 2",
+		"region": "Florio Side Path Night",
+		"category": ["Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio| AND |Scan|"
+	},
+	{
+		"name": "Foongus 3",
+		"region": "Florio Side Path Night",
+		"category": ["Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio| AND |Melody|"
+	},
+	{
+		"name": "Foongus 4",
+		"region": "Florio Side Path Night",
+		"category": ["Florio Side Path Night"],
+		"requires": "|Illumina Orb - Florio|"
+	},
+	{
+		"name": "Snorlax 1",
+		"region": "FSPD-FSPN",
+		"category": ["Florio Side Path Day","Florio Side Path Night"],
+		"requires": ""
+	},
+	{
+		"name": "Snorlax 2",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day","Florio Side Path Night"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Snorlax 3",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day","Florio Side Path Night"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
+	},
+	{
+		"name": "Snorlax 4",
+		"region": "Florio Side Path Day",
+		"category": ["Florio Side Path Day","Florio Side Path Night"],
+		"requires": "|Fluffruit| AND |Illumina Orb - Florio|"
 	}
-	/// Vivillon, Magikarp
 ]

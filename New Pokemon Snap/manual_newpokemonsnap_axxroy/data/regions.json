@@ -52,7 +52,7 @@
 		"requires": "|Florio Park Night:1|"
 	},
 	"Florio Park Night 2": 	{
-		"connects_to": ["FPD3-FPN2","FPD1-FSPD-FPN2"],
+		"connects_to": ["FPD3-FPN2","FPD1-FSPD-FPN2","FPN2-FSPN-FIS2-RC"],
 		"requires": "|Florio Park Night:2|"
 	},
 	"Florio Side Path Day": 	{
@@ -60,7 +60,7 @@
 		"requires": "|Florio Side Path Day|"
 	},
 	"Florio Side Path Night": 	{
-		"connects_to": ["FSPD-FSPN","FPN1-FSPN","FPD2-FPN1-FSPN"],
+		"connects_to": ["FSPD-FSPN","FPN1-FSPN","FPD2-FPN1-FSPN","FPN2-FSPN-FIS2-RC"],
 		"requires": "|Florio Side Path Night|"
 	},
 	"Florio Illumina Spot1": 	{
@@ -68,11 +68,11 @@
 		"requires": "|Florio Illumina Spot:1|"
 	},
 	"Florio Illumina Spot 2": 	{
-		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FPN1-FSPN-FIS2","FPN1-FSPN-FIS2","FPD3-FPN2-FIS2-FSPD"],
+		"connects_to": ["FPD1-FSPD-FIS2","FPD1-FPN1-FSPN-FIS2","FPN1-FSPN-FIS2","FPD3-FPN2-FIS2-FSPD","FPN2-FSPN-FIS2-RC"],
 		"requires": "|Florio Illumina Spot:2|"
 	},
 	"Research Camp": 	{
-		"connects_to": [],
+		"connects_to": ["FPN2-FSPN-FIS2-RC"],
 		"requires": "|Research Camp:1|"
 	},
 	"Founja Jungle Day 1": 	{
@@ -116,7 +116,7 @@
 		"requires": "|Sweltering Sands Night:2|"
 	},
 	"Blushing Beach Day 1": 	{
-		"connects_to": ["Blushing Beach Day 2"],
+		"connects_to": ["Blushing Beach Day 2","BBD1-MRD1"],
 		"requires": "|Blushing Beach Day:1|"
 	},
 	"Blushing Beach Day 2": 	{
@@ -132,11 +132,11 @@
 		"requires": "|Blushing Beach Night:1|"
 	},
 	"Blushing Beach Night 2": 	{
-		"connects_to": [],
+		"connects_to": ["FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1"],
 		"requires": "|Blushing Beach Night:2|"
 	},
 	"Maricopia Reef Day 1": 	{
-		"connects_to": ["Maricopia Reef Day 2"],
+		"connects_to": ["Maricopia Reef Day 2","BBD1-MRD1"],
 		"requires": "|Maricopia Reef Day:1|"
 	},
 	"Maricopia Reef Day 2": 	{
@@ -343,6 +343,10 @@
 		"connects_to": ["FPD3-FPN1-FSPD-FSPN", "FPD1-FPN1-FSPD-FSPN","FPN1-FSPD-FSPN"],
 		"requires": []
 	},
+	"BBD1-MRD1":	{
+		"connects_to": ["FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1"],
+		"requires": []
+	},
 	"FPD1-FSPD-FIS2":	{
 		"connects_to": [],
 		"requires": []
@@ -391,7 +395,15 @@
 		"connects_to": [],
 		"requires": []
 	},
+	"FPN2-FSPN-FIS2-RC": 	{
+		"connects_to": ["FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1"],
+		"requires": []
+	},
 	"FPD3-FPN1-FSPD-FSPN-SAD2": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"FPN2-FSPN-FIS2-RC-BBD1-BBN2-MRD1": 	{
 		"connects_to": [],
 		"requires": []
 	}
