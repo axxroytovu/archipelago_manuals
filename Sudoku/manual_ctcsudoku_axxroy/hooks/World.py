@@ -126,6 +126,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         for location in list(region.locations):
             if location.name not in locations_to_keep:
                 region.locations.remove(location)
+    if hasattr(multiworld, "clear_location_cache"):
+        multiworld.clear_location_cache()
         # print(region.locations)
     victory1_item = next(i for i in item_pool if i.name == "Victory 1")
     victory1_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == f"Required Keys: {required_keys}")
@@ -136,7 +138,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     item_pool.remove(victory1_item)
     item_pool.remove(victory2_item)
     
-    total_locations = sum([len(r.locations) for r in multiworld.regions if r.player == player])
+    total_locations = len(multiworld.get_unfilled_locations(player=player))
     while len(item_pool) + 3 >= total_locations:
         item = next(i for i in item_pool if i.classification == 0b0010)
         item_pool.remove(item)
