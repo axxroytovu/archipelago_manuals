@@ -1226,7 +1226,7 @@
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Pokemon Red and Blue Quest 1",
+		"name": "Pokemon Red and Blue Quest 5",
 		"count": "1",
 		"game": "Pokemon Red and Blue"
 	},
@@ -1292,13 +1292,6 @@
 		"category": ["Quest"],
 		"progression": true,
 		"game": "Manual_PLA_Miro"
-	},
-	{
-		"category": ["Quest"],
-		"progression": true,
-		"name": "Pokemon Red and Blue Quest 5",
-		"count": "1",
-		"game": "Pokemon Red and Blue"
 	},
 	{
 		"category": ["Items"],

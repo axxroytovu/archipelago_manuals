@@ -115,7 +115,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
             for location in list(region.locations):
                 if "Dungeon" in world.location_name_to_location[location.name].get("category", []):
                     region.locations.remove(location)
-        multiworld.clear_location_cache()
+        if hasattr(multiworld, "clear_location_cache"):
+            multiworld.clear_location_cache()
     
     for i in items_to_remove:
         item_pool.remove(i)
