@@ -608,6 +608,62 @@
 		"game": "Stardew Valley"
 	},
 	{
+		"count": "1",
+		"name": "Ambush - Pkmn R/B - A Team Rocket grunt tries to steal your stuff",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Pkmn R/B - A Lost Hiker challenges you to fight",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Trap - Pkmn R/B - A grid of trash cans that electrocute you",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Trap - Pkmn R/B - A teleport pad sends you to another floor",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Pkmn R/B - The ground rumbles as an Onyx appears",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Pkmn LA - A Drifblim floats down toward you",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Pkmn LA - Ambushed by the Miss Fortune Bandits",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Ambush - Pkmn LA - You're chased by a territorial Carnivine",
+		"category": ["Trap"],
+		"trap": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
 		"category": ["Asset"],
 		"useful": true,
 		"name": "RAVEN - Core - An intelligent bird from beyond the mountains",
@@ -844,6 +900,83 @@
 		"name": "SCRY - Stardew - A gift of magic from the Wizard",
 		"count": "1",
 		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "HAWK - Pkmn R/B - A beautiful Pigeot",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "HORSE - Pkmn R/B - A flaming Rapidash",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "CAVE LION - Pkmn R/B - A fierce Persian",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "ANIMAL-KIN - Pkmn R/B - A pokedex tells you exactly what animals want",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "FATED - Pkmn R/B - You want to be the very best",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Asset"],
+		"useful": true,
+		"name": "TOTEM - Pkmn R/B - A collection of red and white balls",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "HORSE - Pkmn LA - A mystical white Wyrdeer",
+		"category": ["Asset"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "BANNER-SWORN - Pkmn LA - Join the Galaxy Team or one of Hisui's Clans",
+		"category": ["Asset"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "TALISMAN - Pkmn LA - Lady Lucille aids you with mysterious charms",
+		"category": ["Asset"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "HAWK - Pkmn LA - A giant eagle, Braviary",
+		"category": ["Asset"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "BEAR - Pkmn LA - A fierce bear, Ursaluna",
+		"category": ["Asset"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
 	},
 	{
 		"category": ["Quest"],
@@ -1089,6 +1222,83 @@
 		"name": "Stardew Valley Quest 5",
 		"count": "1",
 		"game": "Stardew Valley"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 1",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 1",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 2",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 3",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 4",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Pokemon Legends Arceus Quest 1",
+		"category": ["Quest"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pokemon Legends Arceus Quest 2",
+		"category": ["Quest"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pokemon Legends Arceus Quest 3",
+		"category": ["Quest"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pokemon Legends Arceus Quest 4",
+		"category": ["Quest"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pokemon Legends Arceus Quest 5",
+		"category": ["Quest"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"category": ["Quest"],
+		"progression": true,
+		"name": "Pokemon Red and Blue Quest 5",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
 	},
 	{
 		"category": ["Items"],
@@ -1525,6 +1735,97 @@
 		"game": "Stardew Valley"
 	},
 	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - A bicycle",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - A card key",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - The Silph Scope to see ghosts",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - A pokeball",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - A burn heal",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - An awakening",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Items"],
+		"filler": true,
+		"name": "Pkmn R/B - A gold nugget",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - A soothing balm",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Sitrus Berry",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Survival Charm",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Warding Charm",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Stealth Spray",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Smoke bomb",
+		"category": ["Items"],
+		"filler": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
 	    "category": ["Dungeon"],
 	    "progression": true,
 	    "name": "Core - Alva's Rest",
@@ -1784,6 +2085,69 @@
 	    "game": "Stardew Valley"
 	},
 	{
+		"category": ["Dungeon"],
+		"progression": true,
+		"name": "Pkmn R/B - Pokemon Tower",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Dungeon"],
+		"progression": true,
+		"name": "Pkmn R/B - Power Plant",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Dungeon"],
+		"progression": true,
+		"name": "Pkmn R/B - Rocket Hideout",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Dungeon"],
+		"progression": true,
+		"name": "Pkmn R/B - Mt. Moon",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - The Heartwood",
+		"category": ["Dungeon"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Solaceon Ruins",
+		"category": ["Dungeon"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Wayward Cave",
+		"category": ["Dungeon"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Ancient Quarry",
+		"category": ["Dungeon"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Icepeak Cavern",
+		"category": ["Dungeon"],
+		"progression": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
 	    "category": ["Relic"],
 	    "useful": true,
 	    "name": "Core - Resolute Banner",
@@ -1964,6 +2328,62 @@
 	    "name": "Stardew - The ancient sword",
 	    "count": 1,
 	    "game": "Stardew Valley"
+	},
+	{
+		"category": ["Relic"],
+		"useful": true,
+		"name": "Pkmn R/B - Boulder Badge",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Relic"],
+		"useful": true,
+		"name": "Pkmn R/B - Cascade Badge",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Relic"],
+		"useful": true,
+		"name": "Pkmn R/B - Thunder Badge",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"category": ["Relic"],
+		"useful": true,
+		"name": "Pkmn R/B - Soul Badge",
+		"count": "1",
+		"game": "Pokemon Red and Blue"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - The Azure Flute",
+		"category": ["Relic"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Eternal Ice",
+		"category": ["Relic"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Odd Keystone",
+		"category": ["Relic"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
+	},
+	{
+		"count": "1",
+		"name": "Pkmn LA - Elemental Plate",
+		"category": ["Relic"],
+		"useful": true,
+		"game": "Manual_PLA_Miro"
 	},
 	{
 	    "category": ["Relic"],

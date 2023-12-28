@@ -1,7 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
-import random
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -84,19 +83,19 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         elif "Relic" in idata.get("category", []):
             relics.append(i)
     
-    random.shuffle(assets)
-    random.shuffle(traps)
-    random.shuffle(quests)
-    random.shuffle(items)
-    random.shuffle(relics)
-    random.shuffle(dungeons)
+    world.random.shuffle(assets)
+    world.random.shuffle(traps)
+    world.random.shuffle(quests)
+    world.random.shuffle(items)
+    world.random.shuffle(relics)
+    world.random.shuffle(dungeons)
     asset_index = 0
     while len(current_assets) < 6:
-        if assets[asset_index].name.split(":")[0] in current_assets:
+        if assets[asset_index].name.split(" - ")[0] in current_assets:
             asset_index += 1
         else:
             asset = assets.pop(asset_index)
-            current_assets.append(asset.name.split(":")[0])
+            current_assets.append(asset.name.split(" - ")[0])
     items_to_remove += assets
     items_to_remove += traps[3:]
     items_to_remove += quests[5:]

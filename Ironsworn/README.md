@@ -117,6 +117,22 @@ The following "items" can be sent to you through the Archipelago multiworld:
 4. 
 5. A wave of refugees has flooded into your hometown after their village was destroyed by a Rathalos. Who do you know that claims they killed a Wyvern years ago? How do you plan to recruit their help?
 
+#### Pokemon Legends Arceus
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Pokemon Red and Blue
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
 #### Stardew Valley
 
 1. 
@@ -170,6 +186,26 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 ##### The Shrine Ruins
 
 ##### The Yawning Abyss
+
+#### Pokemon Legends Arceus
+
+##### Ancient Quarry
+
+##### The Heartwood
+
+##### Solaceon Ruins
+
+##### Wayward Cave
+
+#### Pokemon Red and Blue
+
+##### Mt. Moon
+
+##### Pokemon Tower
+
+##### Power Plant
+
+##### Rocket Hideout
 
 #### Stardew Valley
 
@@ -257,6 +293,18 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 **Drives:**
 
 **Tactics:**
+
+### New Assets
+
+#### Bear
+
+*A bear companion tracks your prey.*
+
+- **Relentless**: When your bear chases down big game, you may *Resuppply* with +iron (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.
+- **Indomitable**: When you make the *Companion Endure Harm* move for this bear, add +2 and take +1 momentum on a hit.
+- **Overpowering**: When you *Strike* or *Clash* alongside your bear companion against a pack of foes, add +1 and inflict +1 harm on a hit.
+
+Maximum health +5
 
 ## Licensing
 
