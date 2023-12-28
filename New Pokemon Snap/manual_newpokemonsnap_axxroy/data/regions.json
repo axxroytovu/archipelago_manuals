@@ -16,9 +16,9 @@
 			"Blushing Beach Night 1",
 			"Maricopia Reef Day 1",
 			"Maricopia Reef Night 1",
-			"Undersea 1",
+			"Lental Seafloor 1",
 			"Maricopia Illumina Spot 1",
-			"Volcano 1",
+			"Fireflow Volcano 1",
 			"Voluca Illumina Spot 1",
 			"Elsewhere Forest 1",
 			"Belusylva Illumina Spot 1",
@@ -155,17 +155,17 @@
 		"connects_to": [],
 		"requires": "|Maricopia Reef Night:2|"
 	},
-	"Undersea 1": 	{
-		"connects_to": ["Undersea 2"],
-		"requires": "|Undersea:1|"
+	"Lental Seafloor 1": 	{
+		"connects_to": ["Lental Seafloor 2"],
+		"requires": "|Lental Seafloor:1|"
 	},
-	"Undersea 2": 	{
-		"connects_to": ["Undersea 3"],
-		"requires": "|Undersea:2|"
+	"Lental Seafloor 2": 	{
+		"connects_to": ["Lental Seafloor 3"],
+		"requires": "|Lental Seafloor:2|"
 	},
-	"Undersea 3": 	{
+	"Lental Seafloor 3": 	{
 		"connects_to": [],
-		"requires": "|Undersea:3|"
+		"requires": "|Lental Seafloor:3|"
 	},
 	"Maricopia Illumina Spot 1": 	{
 		"connects_to": ["Maricopia Illumina Spot 2"],
@@ -175,17 +175,17 @@
 		"connects_to": [],
 		"requires": "|Maricopia Illumina Spot:2|"
 	},
-	"Volcano 1": 	{
-		"connects_to": ["Volcano 2"],
-		"requires": "|Volcano:1|"
+	"Fireflow Volcano 1": 	{
+		"connects_to": ["Fireflow Volcano 2"],
+		"requires": "|Fireflow Volcano:1|"
 	},
-	"Volcano 2": 	{
-		"connects_to": ["Volcano 3"],
-		"requires": "|Volcano:2|"
+	"Fireflow Volcano 2": 	{
+		"connects_to": ["Fireflow Volcano 3"],
+		"requires": "|Fireflow Volcano:2|"
 	},
-	"Volcano 3": 	{
+	"Fireflow Volcano 3": 	{
 		"connects_to": [],
-		"requires": "|Volcano:3|"
+		"requires": "|Fireflow Volcano:3|"
 	},
 	"Voluca Illumina Spot 1": 	{
 		"connects_to": ["Voluca Illumina Spot 2"],
