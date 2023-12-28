@@ -427,182 +427,182 @@
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A Varou hunting party",
+		"name": "Ambush - Core - A Varou hunting party",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A raider ship searching for treasure",
+		"name": "Ambush - Core - A raider ship searching for treasure",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - An iron revenant out for blood",
+		"name": "Ambush - Core - An iron revenant out for blood",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A colony of swamp rats defending their home",
+		"name": "Ambush - Core - A colony of swamp rats defending their home",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Trap - An Elvish net trap for catching boar",
+		"name": "Trap - Core - An Elvish net trap for catching boar",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A lynel charges you from nowhere",
+		"name": "Ambush - TLoZ - A lynel charges you from nowhere",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Legend of Zelda"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - An Octoroc pops out of the ground!",
+		"name": "Ambush - TLoZ - An Octoroc pops out of the ground!",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Legend of Zelda"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A moblin hurling explosives",
+		"name": "Trap - TLoZ - A moblin hurling explosives",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Legend of Zelda"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A starving wolf pack",
+		"name": "Ambush - Core - A starving wolf pack",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A statue animates and attacks",
+		"name": "Ambush - Witness - A statue animates and attacks",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Witness"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A barrier with a strange puzzle",
+		"name": "Trap - Witness - A barrier with a strange puzzle",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Witness"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A bridge with rotating platforms",
+		"name": "Trap - Witness - A bridge with rotating platforms",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "The Witness"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A flock of Izuchi",
+		"name": "Ambush - MH Rise - A flock of Izuchi",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A Khezu on the ceiling",
+		"name": "Ambush - MH Rise - A Khezu on the ceiling",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A chunk of the wall bursts with pressurized hot magma",
+		"name": "Trap - MH Rise - A chunk of the wall bursts with pressurized hot magma",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - Jagras looking for lunch",
+		"name": "Ambush - MH Rise - Jagras looking for lunch",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A bubble of poisonous gasses",
+		"name": "Trap - MH Rise - A bubble of poisonous gasses",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - An autobolt emerges from the ground",
+		"name": "Ambush - Tunic - An autobolt emerges from the ground",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Tunic"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - Terry!!! Please don't eat me!",
+		"name": "Ambush - Tunic - Terry!!! Please don't eat me!",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Tunic"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A horde of crabbos with their nasty pinchers",
+		"name": "Ambush - Tunic - A horde of crabbos with their nasty pinchers",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Tunic"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A lost echo, angry at its abandonment",
+		"name": "Ambush - Tunic - A lost echo, angry at its abandonment",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Tunic"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A slorm! Watch out, they explode",
+		"name": "Ambush - Tunic - A slorm! Watch out, they explode",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Tunic"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - So many green slimes...",
+		"name": "Ambush - Stardew - So many green slimes...",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Stardew Valley"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A wilderness golem stumbles out of the darkness",
+		"name": "Ambush - Stardew - A wilderness golem stumbles out of the darkness",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Stardew Valley"
 	},
 	{
 		"count": "1",
-		"name": "Trap - A ladder opens beneath your feet to the floor below",
+		"name": "Trap - Stardew - A ladder opens beneath your feet to the floor below",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Stardew Valley"
 	},
 	{
 		"count": "1",
-		"name": "Ambush - A horrible mutant fly",
+		"name": "Ambush - Stardew - A horrible mutant fly",
 		"category": ["Trap"],
 		"trap": true,
 		"game": "Stardew Valley"
@@ -610,1365 +610,1365 @@
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "RAVEN: An intelligent bird from beyond the mountains",
+		"name": "RAVEN - Core - An intelligent bird from beyond the mountains",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "KINDRED: Another chosen by the aurora to stand beside you",
+		"name": "KINDRED - Core - Another chosen by the aurora to stand beside you",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "MASKED: The grace of the elves guides your path",
+		"name": "MASKED - Core - The grace of the elves guides your path",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "ANIMAL KIN: The beasts of the world come to your side",
+		"name": "ANIMAL KIN - Core - The beasts of the world come to your side",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "MAMMOTH: A friend from the north; a guide in the dark",
+		"name": "MAMMOTH - Core - A friend from the north; a guide in the dark",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "THUNDER-BRINGER: The might of the giants swings with you",
+		"name": "THUNDER-BRINGER - Core - The might of the giants swings with you",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "AUGUR: The birds call to you and bring wisdom",
+		"name": "AUGUR - Core - The birds call to you and bring wisdom",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "WARD: The arctic wind brings protection against the end",
+		"name": "WARD - Core - The arctic wind brings protection against the end",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "HONORBOUND: The Princess Zelda grants you creedence",
+		"name": "HONORBOUND - TLoZ - The Princess Zelda grants you creedence",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "WEAPONMASTER: A hero of Hyrule grants you their knowledge",
+		"name": "WEAPONMASTER - TLoZ - A hero of Hyrule grants you their knowledge",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SWORDMASTER: A sword that glows with the light of the triforce",
+		"name": "SWORDMASTER - TLoZ - A sword that glows with the light of the triforce",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "IRONCLAD: A blue hyrulean ring that glitters with wards",
+		"name": "IRONCLAD - TLoZ - A blue hyrulean ring that glitters with wards",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SF-FIREBRAND: A blue candle that shoots flame",
+		"name": "FIREBRAND [SF] - TLoZ - A blue candle that shoots flame",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "LIGHTBEARER: A beam of light from a strange device",
+		"name": "LIGHTBEARER - Witness - A beam of light from a strange device",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "ARCHER: The precision to snipe a puzzle",
+		"name": "ARCHER - Witness - The precision to snipe a puzzle",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "LOREKEEPER: Mystic stories kept in tiny recordings",
+		"name": "LOREKEEPER - Witness - Mystic stories kept in tiny recordings",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "IMPROVISER: A thousand puzzles and ten thousand solutions",
+		"name": "IMPROVISER - Witness - A thousand puzzles and ten thousand solutions",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "YOUNG WYVERN: A small Rathalos hatches and bonds with you",
+		"name": "YOUNG WYVERN - MH Rise - A small Rathalos hatches and bonds with you",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SKIRMISHER: A lance of glittering steel",
+		"name": "SKIRMISHER - MH Rise - A lance of glittering steel",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "FLETCHER: A collection of powerful coatings for your arrows",
+		"name": "FLETCHER - MH Rise - A collection of powerful coatings for your arrows",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "OWL: A cohoot alights on your shoulder",
+		"name": "OWL - MH Rise - A cohoot alights on your shoulder",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "HOUND: A palamute runs up alongside you",
+		"name": "HOUND - MH Rise - A palamute runs up alongside you",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "WEAPONMASTER: Master Utsushi guides your blade",
+		"name": "WEAPONMASTER - MH Rise - Master Utsushi guides your blade",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SLAYER: The skill to track a monster through any terrain",
+		"name": "SLAYER - MH World - The skill to track a monster through any terrain",
 		"count": "1",
 		"game": "Manual_MHW_Mauve"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "LOREKEEPER: A golden book of mysterious writings",
+		"name": "LOREKEEPER - Tunic - A golden book of mysterious writings",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SWORDMASTER: The librarian's blade, pulsing and horrible",
+		"name": "SWORDMASTER - Tunic - The librarian's blade, pulsing and horrible",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SF-DEMOLITIONIST: A bundle of dynamite, some fire bombs, and a frost bomb",
+		"name": "DEMOLITIONIST [SF] - Tunic - A bundle of dynamite, some fire bombs, and a frost bomb",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SHADOW-WALK: A short prayer can bring you to the far shore",
+		"name": "SHADOW-WALK - Tunic - A short prayer can bring you to the far shore",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "DEVOTANT: The heir will grant you power, in exchange for offerings",
+		"name": "DEVOTANT - Tunic - The heir will grant you power, in exchange for offerings",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "BANNER-SWORN: The scavenger king has made you a deal",
+		"name": "BANNER-SWORN - Tunic - The scavenger king has made you a deal",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "BONDED: The secrets of true friendship, gift giving!",
+		"name": "BONDED - Stardew - The secrets of true friendship, gift giving!",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "ANIMAL KIN: Marnie's lessons on raising animals flood your mind",
+		"name": "ANIMAL KIN - Stardew - Marnie's lessons on raising animals flood your mind",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "WATERBORN: Ol' man Willy shares his love of the sea",
+		"name": "WATERBORN - Stardew - Ol' man Willy shares his love of the sea",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Asset"],
 		"useful": true,
-		"name": "SCRY: A gift of magic from the Wizard",
+		"name": "SCRY - Stardew - A gift of magic from the Wizard",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 1",
+		"name": "Ironsworn Quest 1",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 2",
+		"name": "Ironsworn Quest 2",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 3",
+		"name": "Ironsworn Quest 3",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 4",
+		"name": "Ironsworn Quest 4",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 5",
+		"name": "Ironsworn Quest 5",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 6",
+		"name": "Ironsworn Quest 6",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 7",
+		"name": "Ironsworn Quest 7",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 8",
+		"name": "Ironsworn Quest 8",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 9",
+		"name": "Ironsworn Quest 9",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Ironsworn Quest 10",
+		"name": "Ironsworn Quest 10",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Zelda Quest 1",
+		"name": "The Legend of Zelda Quest 1",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Zelda Quest 2",
+		"name": "The Legend of Zelda Quest 2",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Zelda Quest 3",
+		"name": "The Legend of Zelda Quest 3",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Zelda Quest 4",
+		"name": "The Legend of Zelda Quest 4",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Zelda Quest 5",
+		"name": "The Legend of Zelda Quest 5",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - The Witness Quest 1",
+		"name": "The Witness Quest 1",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - The Witness Quest 2",
+		"name": "The Witness Quest 2",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - The Witness Quest 3",
+		"name": "The Witness Quest 3",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - The Witness Quest 4",
+		"name": "The Witness Quest 4",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - The Witness Quest 5",
+		"name": "The Witness Quest 5",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Monster Hunter Rise Quest 1",
+		"name": "Monster Hunter Rise Quest 1",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Monster Hunter Rise Quest 2",
+		"name": "Monster Hunter Rise Quest 2",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Monster Hunter Rise Quest 3",
+		"name": "Monster Hunter Rise Quest 3",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Monster Hunter Rise Quest 4",
+		"name": "Monster Hunter Rise Quest 4",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Monster Hunter Rise Quest 5",
+		"name": "Monster Hunter Rise Quest 5",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Tunic Quest 1",
+		"name": "Tunic Quest 1",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Tunic Quest 2",
+		"name": "Tunic Quest 2",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Tunic Quest 3",
+		"name": "Tunic Quest 3",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Tunic Quest 4",
+		"name": "Tunic Quest 4",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Tunic Quest 5",
+		"name": "Tunic Quest 5",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Stardew Valley Quest 1",
+		"name": "Stardew Valley Quest 1",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Stardew Valley Quest 2",
+		"name": "Stardew Valley Quest 2",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Stardew Valley Quest 3",
+		"name": "Stardew Valley Quest 3",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Stardew Valley Quest 4",
+		"name": "Stardew Valley Quest 4",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Quest"],
 		"progression": true,
-		"name": "Quest - Stardew Valley Quest 5",
+		"name": "Stardew Valley Quest 5",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A bundle of well-made rope",
+		"name": "Core - A bundle of well-made rope",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A whetstone kit",
+		"name": "Core - A whetstone kit",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "An heirloom axe of ancient make",
+		"name": "Core - An heirloom axe of ancient make",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "An herbalist's kit with healing salves",
+		"name": "Core - An herbalist's kit with healing salves",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A small bag of candies",
+		"name": "Core - A small bag of candies",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A bottle of fine wine",
+		"name": "Core - A bottle of fine wine",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A small steel mirror",
+		"name": "Core - A small steel mirror",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A 10-minute hourglass",
+		"name": "Core - A 10-minute hourglass",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A vial of troll's blood",
+		"name": "Core - A vial of troll's blood",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A wooden toy unicorn",
+		"name": "Core - A wooden toy unicorn",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "An ivory flute",
+		"name": "Core - An ivory flute",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "12 iron spikes",
+		"name": "Core - 12 iron spikes",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A crowbar",
+		"name": "Core - A crowbar",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A wolf pelt",
+		"name": "Core - A wolf pelt",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A jar of glowworms",
+		"name": "Core - A jar of glowworms",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Pot of tar",
+		"name": "Core - Pot of tar",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "An amulet of protection",
+		"name": "Core - An amulet of protection",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A sturdy saddle",
+		"name": "Core - A sturdy saddle",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Manacles",
+		"name": "Core - Manacles",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A book of blasphemy",
+		"name": "Core - A book of blasphemy",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A sewing kit",
+		"name": "Core - A sewing kit",
 		"count": "1",
 		"game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "20 green crystals",
+		"name": "TLoZ - 20 green crystals",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Portable explosives",
+		"name": "TLoZ - Portable explosives",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A bundle of fine arrows",
+		"name": "TLoZ - A bundle of fine arrows",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A magical boomerang",
+		"name": "TLoZ - A magical boomerang",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A silver arrow that can kill anything",
+		"name": "TLoZ - A silver arrow that can kill anything",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A blue rupee",
+		"name": "TLoZ - A blue rupee",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A ladder to cross small gaps",
+		"name": "TLoZ - A ladder to cross small gaps",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Boots with small wings on them",
+		"name": "TLoZ - Boots with small wings on them",
 		"count": "1",
 		"game": "The Legend of Zelda"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A blooming water lily",
+		"name": "Witness - A blooming water lily",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A box with a mysterious puzzle lock",
+		"name": "Witness - A box with a mysterious puzzle lock",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A melted pane of glass",
+		"name": "Witness - A melted pane of glass",
 		"count": "1",
 		"game": "The Witness"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Energy Drink",
+		"name": "MH Rise - Energy Drink",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Rations",
+		"name": "MH Rise - Rations",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Throwing Kunai",
+		"name": "MH Rise - Throwing Kunai",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Armorskin Potion",
+		"name": "MH Rise - Armorskin Potion",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Well-Done Steak",
+		"name": "MH Rise - Well-Done Steak",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Poisoned Meat",
+		"name": "MH Rise - Poisoned Meat",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Ancient Potion",
+		"name": "MH Rise - Ancient Potion",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Deodorant",
+		"name": "MH Rise - Deodorant",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Dash Juice",
+		"name": "MH Rise - Dash Juice",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Demondrug",
+		"name": "MH Rise - Demondrug",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Lagombi Cuirass",
+		"name": "MH Rise - Lagombi Cuirass",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Aknosom Plume",
+		"name": "MH Rise - Aknosom Plume",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Gowngoat Thickfur",
+		"name": "MH Rise - Gowngoat Thickfur",
 		"count": "1",
 		"game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A golden coin",
+		"name": "Tunic - A golden coin",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A firecracker",
+		"name": "Tunic - A firecracker",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A puppet copy of yourself",
+		"name": "Tunic - A puppet copy of yourself",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A broken-off fang",
+		"name": "Tunic - A broken-off fang",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A chili pepper",
+		"name": "Tunic - A chili pepper",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A red fruit",
+		"name": "Tunic - A red fruit",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A blue fruit",
+		"name": "Tunic - A blue fruit",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "An effigy full of coins",
+		"name": "Tunic - An effigy full of coins",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A small card with a mysterious image",
+		"name": "Tunic - A small card with a mysterious image",
 		"count": "1",
 		"game": "Tunic"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A fiberglass fishing pole",
+		"name": "Stardew - A fiberglass fishing pole",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A set of shears",
+		"name": "Stardew - A set of shears",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A golden scythe",
+		"name": "Stardew - A golden scythe",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A large backpack",
+		"name": "Stardew - A large backpack",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "Deluxe Fertilizer",
+		"name": "Stardew - Deluxe Fertilizer",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A lightning rod",
+		"name": "Stardew - A lightning rod",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A gold brazier",
+		"name": "Stardew - A gold brazier",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 		"category": ["Items"],
 		"filler": true,
-		"name": "A rusty key with 'sewers' written on it",
+		"name": "Stardew - A rusty key with 'sewers' written on it",
 		"count": "1",
 		"game": "Stardew Valley"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Alva's Rest",
+	    "name": "Core - Alva's Rest",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Bleakroot Depths",
+	    "name": "Core - Bleakroot Depths",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Bonewilds",
+	    "name": "Core - Bonewilds",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Darkfall Caves",
+	    "name": "Core - Darkfall Caves",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Deeproot Bog",
+	    "name": "Core - Deeproot Bog",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Egan's Folly",
+	    "name": "Core - Egan's Folly",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Foulwater Plunge",
+	    "name": "Core - Foulwater Plunge",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Frostmark",
+	    "name": "Core - Frostmark",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Greathammer Deep",
+	    "name": "Core - Greathammer Deep",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Holdfast Barrow",
+	    "name": "Core - Holdfast Barrow",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Hollowmount Island",
+	    "name": "Core - Hollowmount Island",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Icebound Reach",
+	    "name": "Core - Icebound Reach",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Lastrock Mine",
+	    "name": "Core - Lastrock Mine",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Redhome Sanctum",
+	    "name": "Core - Redhome Sanctum",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Sinking Temple",
+	    "name": "Core - Sinking Temple",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Smoldering Wood",
+	    "name": "Core - Smoldering Wood",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Stillgrave Mire",
+	    "name": "Core - Stillgrave Mire",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Stonesong Spire",
+	    "name": "Core - Stonesong Spire",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Topplekeep",
+	    "name": "Core - Topplekeep",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Trail of Spirits",
+	    "name": "Core - Trail of Spirits",
 	    "count": "1",
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Mountain",
+	    "name": "Witness - The Mountain",
 	    "count": "1",
 	    "game": "The Witness"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Shipwreck",
+	    "name": "Witness - The Shipwreck",
 	    "count": "1",
 	    "game": "The Witness"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Desert Temple",
+	    "name": "Witness - The Desert Temple",
 	    "count": "1",
 	    "game": "The Witness"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Eagle",
+	    "name": "TLoZ - The Eagle",
 	    "count": "1",
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Snake",
+	    "name": "TLoZ - The Snake",
 	    "count": "1",
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Demon",
+	    "name": "TLoZ - The Demon",
 	    "count": "1",
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Shrine Ruins",
+	    "name": "MH Rise - The Shrine Ruins",
 	    "count": "1",
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Infernal Springs",
+	    "name": "MH Rise - The Infernal Springs",
 	    "count": "1",
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Yawning Abyss",
+	    "name": "MH Rise - The Yawning Abyss",
 	    "count": "1",
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Fortress of the Eastern Vault",
+	    "name": "Tunic - The Fortress of the Eastern Vault",
 	    "count": "1",
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Rooted Ziggurat",
+	    "name": "Tunic - The Rooted Ziggurat",
 	    "count": "1",
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Floating Library",
+	    "name": "Tunic - The Floating Library",
 	    "count": "1",
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Frog's Domain",
+	    "name": "Tunic - The Frog's Domain",
 	    "count": "1",
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Deep Mines",
+	    "name": "Stardew - The Deep Mines",
 	    "count": "1",
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Sewers",
+	    "name": "Stardew - The Sewers",
 	    "count": "1",
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "The Quarry Mine",
+	    "name": "Stardew - The Quarry Mine",
 	    "count": "1",
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Dungeon"],
 	    "progression": true,
-	    "name": "Skull Cavern",
+	    "name": "Stardew - Skull Cavern",
 	    "count": "1",
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Resolute Banner",
+	    "name": "Core - Resolute Banner",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Avethyin's Journal",
+	    "name": "Core - Avethyin's Journal",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The Black Fang",
+	    "name": "Core - The Black Fang",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Cairn Stone of the Sundered",
+	    "name": "Core - Cairn Stone of the Sundered",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Bracer of the First Blood",
+	    "name": "Core - Bracer of the First Blood",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Waterskin of Fellowship",
+	    "name": "Core - Waterskin of Fellowship",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Scarves of the Northern Lights",
+	    "name": "Core - Scarves of the Northern Lights",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Founder's Reliquary",
+	    "name": "Core - Founder's Reliquary",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Sigil of the Broken",
+	    "name": "Core - Sigil of the Broken",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Coin of Favor",
+	    "name": "Core - Coin of Favor",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Silverstone Pestle",
+	    "name": "Core - Silverstone Pestle",
 	    "count": 1,
 	    "game": "Manual_Ironsworn_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Powercharm",
+	    "name": "MH Rise - Powercharm",
 	    "count": 1,
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Armorcharm",
+	    "name": "MH Rise - Armorcharm",
 	    "count": 1,
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Fellvine",
+	    "name": "MH Rise - Fellvine",
 	    "count": 1,
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Powertalon",
+	    "name": "MH Rise - Powertalon",
 	    "count": 1,
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Armortalon",
+	    "name": "MH Rise - Armortalon",
 	    "count": 1,
 	    "game": "Manual_MHRiseHub_Axxroy"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The Magical Sword",
+	    "name": "TLoZ - The Magical Sword",
 	    "count": 1,
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The Book of Spells",
+	    "name": "TLoZ - The Book of Spells",
 	    "count": 1,
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The Triforce of Wisdom",
+	    "name": "TLoZ - The Triforce of Wisdom",
 	    "count": 1,
 	    "game": "The Legend of Zelda"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Magic Orb",
+	    "name": "Tunic - Magic Orb",
 	    "count": 1,
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Magic Rod",
+	    "name": "Tunic - Magic Rod",
 	    "count": 1,
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Magic Dagger",
+	    "name": "Tunic - Magic Dagger",
 	    "count": 1,
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "Hero's Laurels",
+	    "name": "Tunic - Hero's Laurels",
 	    "count": 1,
 	    "game": "Tunic"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The chipped amphora",
+	    "name": "Stardew - The chipped amphora",
 	    "count": 1,
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "A dinosaur egg",
+	    "name": "Stardew - A dinosaur egg",
 	    "count": 1,
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The ancient sword",
+	    "name": "Stardew - The ancient sword",
 	    "count": 1,
 	    "game": "Stardew Valley"
 	},
 	{
 	    "category": ["Relic"],
 	    "useful": true,
-	    "name": "The golden mask",
+	    "name": "Stardew - The golden mask",
 	    "count": 1,
 	    "game": "Stardew Valley"
 	}
