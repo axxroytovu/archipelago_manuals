@@ -55,6 +55,15 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
             valid_games.add(w.game)
     # print(valid_games)
     valid_games.add("Manual_Ironsworn_Axxroy")
+    
+    duplicate_games = {
+        "Manual_PLAlpha_Miro": "Manual_PLA_Miro",
+    }
+    
+    for k, v in duplicate_games.items():
+        if k in valid_games:
+            valid_games.add(v)
+    
     items_to_remove = []
     assets = []
     current_assets = [i.name for i in multiworld.precollected_items[player]]
