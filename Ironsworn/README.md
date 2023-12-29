@@ -88,6 +88,14 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 ### Quests by Game
 
+#### Final Fantasy XIV
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
 #### Ironsworn
 
 1. A mystic comes to your town wielding strange new powers. They are deeply changed, wielding strange abilities from beyond the aurora. What new powers do they wield? Why do you oppose their plans?
@@ -158,6 +166,16 @@ The following "items" can be sent to you through the Archipelago multiworld:
 5. 
 
 ### Dungeons by Game
+
+#### Final Fantasy XIV
+
+##### Dzemael Darkhold
+
+##### Hullbreaker Isle
+
+##### The Sunken Temple of Qarn
+
+##### The Thousand Maws of Toto-Rak
 
 #### Ironsworn
 

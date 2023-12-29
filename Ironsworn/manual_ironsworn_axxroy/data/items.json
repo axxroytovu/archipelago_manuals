@@ -1028,7 +1028,52 @@
         ],
         "count": "1",
         "game": "Tunic",
-        "name": "SWORDMASTER - Tunic - The librarian's blade, pulsing and horrible",
+        "name": "SWORDMASTER - Tunic - The librarian's blade",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "SKIRMISHER - FFXIV - Alberic's lessons on Dragoon tactics",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "SPRITE [SF] - FFXIV - A moogle companion",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "SHADOW-WALK - FFXIV - Oboro's training to become a Ninja",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "KINDRED - FFXIV - The black mage Y'shtola Rhul",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
         "useful": true
     },
     {
@@ -1443,6 +1488,42 @@
         "count": "1",
         "game": "Tunic",
         "name": "Tunic - The Rooted Ziggurat",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - The Sunken Temple of Qarn",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Hullbreaker Isle",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Dzemael Darkhold",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - The Thousand Maws of Toto-Rak",
         "progression": true
     },
     {
@@ -2122,6 +2203,96 @@
     },
     {
         "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Goshenite Bracelet"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Fossilized Dragon Bone"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Ok' Vundu Vana Painting"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Yasha Bracelets of Aiming"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Carbonweave Apron of Crafting"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Wind-up Ardbert Minion"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Scaevan Tassets"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Gridanian Grimoire"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Nitrobrew"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Hallowed Ramie Cloth"
+    },
+    {
+        "category": [
             "Quest"
         ],
         "count": "1",
@@ -2527,6 +2698,51 @@
     },
     {
         "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV Quest 1",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV Quest 2",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV Quest 3",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV Quest 4",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV Quest 5",
+        "progression": true
+    },
+    {
+        "category": [
             "Relic"
         ],
         "count": 1,
@@ -2842,6 +3058,42 @@
     },
     {
         "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Excalibur Zeta",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Anemos Seventh Hell Armor",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Augmented Soulscourge",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "FFXIV - Gysahl Greens",
+        "useful": true
+    },
+    {
+        "category": [
             "Trap"
         ],
         "count": "1",
@@ -3144,6 +3396,51 @@
         "count": "1",
         "game": "Tunic",
         "name": "Ambush - Tunic - Terry!!! Please don't eat me!",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "Ambush - FFXIV - You get caught in an Ifrit trial",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "Trap - FFXIV - The ground below you blinks with a targeting reticle",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "Trap - FFXIV - Caught by a pair of Sahagin",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "Ambush - FFXIV - A plant turns out to be a cactaur",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Manual_FFXIV_Silasary",
+        "name": "Ambush - FFXIV - Surrounded by Imperial forces",
         "trap": true
     },
     {
