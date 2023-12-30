@@ -18,6 +18,4 @@ In order to complete a quest, you must have enough stars for that quest and have
 
 You start the game with 1 quest star, either Shrine Ruins or Frost Islands, and one random weapon.
 
-You must use the starting Kamura Armor until you get at least 1 rarity unlock for a given armor piece.
-
 You can use any petalace.
