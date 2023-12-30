@@ -177,8 +177,10 @@ def set_rules(base: World, world: MultiWorld, player: int):
         else:  # item access is in dict form
             return checkRequireDictForArea(state, area)
 
+    used_location_names = []
     # Region access rules
     for region in regionMap.keys():
+        used_location_names.extend([l.name for l in world.get_region(region, player).locations])
         if region != "Menu":
             for exitRegion in world.get_region(region, player).exits:
                 def fullRegionCheck(state, region=regionMap[region]):
@@ -188,6 +190,9 @@ def set_rules(base: World, world: MultiWorld, player: int):
 
     # Location access rules
     for location in base.location_table:
+        if location["name"] not in used_location_names:
+            continue
+
         locFromWorld = world.get_location(location["name"], player)
 
         locationRegion = regionMap[location["region"]] if "region" in location else None
