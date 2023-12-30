@@ -106,7 +106,6 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         starting_dango = next(i for i in item_pool if i.name == dango[0])
         multiworld.push_precollected(starting_dango)
         item_pool.remove(starting_dango)
-        return item_pool
     elif victory == Victory.option_high_rank:
         victory_location_name = "The Allmother"
         items_to_remove += upgrades * 3
@@ -142,6 +141,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     while len(item_pool) > location_count - 1:
         item = next(i for i in item_pool if world.item_name_to_item[i.name].get('filler', False))
         item_pool.remove(item)
+    
+    world.add_filler_items(item_pool, [])
     
     return item_pool
 

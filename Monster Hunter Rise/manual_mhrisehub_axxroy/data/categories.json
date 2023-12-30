@@ -1,0 +1,8 @@
+{
+    "Equipment": {
+        "hidden": true
+    },
+    "Example Yaml-option category": {
+        "yaml_option": ["DLC_enabled"]
+    }
+}
