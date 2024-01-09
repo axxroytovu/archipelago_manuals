@@ -88,6 +88,19 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 ### Quests by Game
 
+#### DOOM (1993 and II)
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
 #### Final Fantasy XIV
 
 1. 
@@ -124,6 +137,14 @@ The following "items" can be sent to you through the Archipelago multiworld:
 3. A drove of Bullfango are rampaging through a nearby valley. They are clearly running away from something more dangerous, and it would take something truly terrifying to scare a Bullfango. Do you confront the stampede and try to calm it down, or hunt for the source of the Bullfangos' fear?
 4. 
 5. A wave of refugees has flooded into your hometown after their village was destroyed by a Rathalos. Who do you know that claims they killed a Wyvern years ago? How do you plan to recruit their help?
+
+#### Overcooked! 2
+
+1. 
+2. 
+3. 
+4. 
+5. 
 
 #### Pokemon Legends Arceus
 
@@ -167,6 +188,26 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 ### Dungeons by Game
 
+#### DOOM 1993
+
+##### Deimos Lab
+
+##### Hangar
+
+##### Nuclear Plant
+
+##### Toxin Refinery
+
+#### DOOM II
+
+##### The Citadel
+
+##### The Factory
+
+##### The Pit
+
+##### THe Waste Tunnels
+
 #### Final Fantasy XIV
 
 ##### Dzemael Darkhold
@@ -204,6 +245,16 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 ##### The Shrine Ruins
 
 ##### The Yawning Abyss
+
+#### Overcooked! 2
+
+##### Glazed Glacier Grotto
+
+##### Melting Magma Mountain
+
+##### Moreish Mines
+
+##### Munch Mansion
 
 #### Pokemon Legends Arceus
 
