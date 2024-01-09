@@ -1,7 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld
-import random
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -56,6 +55,15 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
             valid_games.add(w.game)
     # print(valid_games)
     valid_games.add("Manual_Ironsworn_Axxroy")
+    
+    duplicate_games = {
+        "Manual_PLAlpha_Miro": "Manual_PLA_Miro",
+    }
+    
+    for k, v in duplicate_games.items():
+        if k in valid_games:
+            valid_games.add(v)
+    
     items_to_remove = []
     assets = []
     current_assets = [i.name for i in multiworld.precollected_items[player]]
@@ -84,23 +92,24 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
         elif "Relic" in idata.get("category", []):
             relics.append(i)
     
-    random.shuffle(assets)
-    random.shuffle(traps)
-    random.shuffle(quests)
-    random.shuffle(items)
-    random.shuffle(relics)
-    random.shuffle(dungeons)
+    world.random.shuffle(assets)
+    world.random.shuffle(traps)
+    world.random.shuffle(quests)
+    world.random.shuffle(items)
+    world.random.shuffle(relics)
+    world.random.shuffle(dungeons)
     asset_index = 0
     while len(current_assets) < 6:
-        if assets[asset_index].name.split(":")[0] in current_assets:
+        if assets[asset_index].name.split(" - ")[0] in current_assets:
             asset_index += 1
         else:
             asset = assets.pop(asset_index)
-            current_assets.append(asset.name.split(":")[0])
+            current_assets.append(asset.name.split(" - ")[0])
     items_to_remove += assets
     items_to_remove += traps[3:]
     items_to_remove += quests[5:]
-    items_to_remove += items[9:]
+    multiworld.push_precollected(quests[-1])
+    items_to_remove += items[10:]
     # print(items_to_remove)
     
     if get_option_value(multiworld, player, "delve") or False:
@@ -115,7 +124,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
             for location in list(region.locations):
                 if "Dungeon" in world.location_name_to_location[location.name].get("category", []):
                     region.locations.remove(location)
-        multiworld.clear_location_cache()
+        if hasattr(multiworld, "clear_location_cache"):
+            multiworld.clear_location_cache()
     
     for i in items_to_remove:
         item_pool.remove(i)
