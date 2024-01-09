@@ -3,8 +3,21 @@ Manual_Ironsworn_Axxroy:
     accessibility: items
     delve: true
     games_override: []
-    # Valid games: The Legend of Zelda, Manual_MHRiseHub_Axxroy, Tunic, Stardew Valley, The Witness
-    # Setting games_override to ["Everything"] will allow all game content
+    # Valid games: 
+    # The Legend of Zelda 
+    # Manual_MHRiseHub_Axxroy
+    # Tunic
+    # Stardew Valley
+    # The Witness
+    # Overcooked! 2
+    # Manual_FFXIV_Silasary
+    # Pokemon Red and Blue
+    # Manual_PLA_Miro and Manual_PLAlpha_Miro
+    # DOOM II
+    # DOOM 1993
+    
+    # Setting games_override to ["Everything"] will force all game content
+    # Setting games_override to [] will pull the valid games from the multiworld
 
 game: Manual_Ironsworn_Axxroy
 name: Axxroy

@@ -983,7 +983,7 @@
         ],
         "count": "1",
         "game": "Tunic",
-        "name": "BANNER-SWORN - Tunic - The scavenger king has made you a deal",
+        "name": "REVENANT - Tunic - A visit to the Hero's Grave",
         "useful": true
     },
     {
@@ -1074,6 +1074,141 @@
         "count": "1",
         "game": "Manual_FFXIV_Silasary",
         "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "KINDRED - Overcooked - A small crocodile chef",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "SWAY - Overcooked - YES CHEF!",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "ALCHEMIST - Overcooked - Strange potions like 'pizza' and 'burrito'",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "HOUND - Overcooked - Kevin comes to join you",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "ROVER [SF] - Overcooked - Is that a bus!?",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "HONORBOUND - DOOM 93 - All is clear. I know what must be done... and my weapon is very, very large.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "BERSERKER - DOOM 93 - RIP AND TEAR",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "VISAGE - DOOM 93 - When knee deep in the dead, the only thing they fear is you.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "IRONCLAD - DOOM 93 - Always use every bit your armor gives you.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "SLAYER - DOOM 93 - You are huge. That means you have huge guts.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "REVENANT - DOOM II - Even facing oblivion can not stop your quest",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "IRONCLAD - DOOM II - You know how to depend on your armor",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "VETERAN - DOOM II - Death surrounds me, yet, in my head I hear something that soudns like angels.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "SLAYER - DOOM II - You are huge. That means you have huge guts.",
+        "useful": true
+    },
+    {
+        "category": [
+            "Asset"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "GUNNER [SF] - DOOM II - The Super Shotgun",
         "useful": true
     },
     {
@@ -1524,6 +1659,114 @@
         "count": "1",
         "game": "Manual_FFXIV_Silasary",
         "name": "FFXIV - The Thousand Maws of Toto-Rak",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Munch Mansion",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Melting Magma Mountain",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Glazed Glacier Grotto",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Moreish Mines",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Deimos Lab",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Toxin Refinery",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Nuclear Plant",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Hangar",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - The Waste Tunnels",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - The Pit",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - The Factory",
+        "progression": true
+    },
+    {
+        "category": [
+            "Dungeon"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - The Citadel",
         "progression": true
     },
     {
@@ -2293,6 +2536,222 @@
     },
     {
         "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Butcher's knife"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Fire extinguisher"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Crate of ingredients"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Overcooked! 2",
+        "name": "Overcooked - White pressed apron"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "Overcooked! 2",
+        "name": "Overcooked - Wheelchair"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Shotgun with no ammo"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A stimpack"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A medkit"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A supercharger"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - An armor bonus hologram"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A metallic backpack"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A computer tablet with a strange map"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A yellow keycard"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - A blue keycard"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A chainsaw"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - Shotgun with no ammo"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A stimpack"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A medkit"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A supercharger"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - An armor bonus hologram"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A metallic backpack"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A computer tablet with a strange map"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A yellow keycard"
+    },
+    {
+        "category": [
+            "Items"
+        ],
+        "count": "1",
+        "filler": true,
+        "game": "DOOM II",
+        "name": "DOOM II - A blue keycard"
+    },
+    {
+        "category": [
             "Quest"
         ],
         "count": "1",
@@ -2743,6 +3202,141 @@
     },
     {
         "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked Quest 1",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked Quest 2",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked Quest 3",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked Quest 4",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked Quest 5",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM Quest 1",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM Quest 2",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM Quest 3",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM Quest 4",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM Quest 5",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM Quest 6",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM Quest 7",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM Quest 8",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM Quest 9",
+        "progression": true
+    },
+    {
+        "category": [
+            "Quest"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM Quest 10",
+        "progression": true
+    },
+    {
+        "category": [
             "Relic"
         ],
         "count": 1,
@@ -3094,6 +3688,105 @@
     },
     {
         "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "The Witness",
+        "name": "Witness - Swampy Boots",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "The Witness",
+        "name": "Witness - A Functioning Brain",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Overcooked - The Necro-nomnom-icon",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Soul Sphere",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Invincibility Artifact",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - Blur Artifact",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "DOOM 93 - BFG 9000",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - Soul Sphere",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - Invincibility Artifact",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - Blur Artifact",
+        "useful": true
+    },
+    {
+        "category": [
+            "Relic"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "DOOM II - BFG 9000",
+        "useful": true
+    },
+    {
+        "category": [
             "Trap"
         ],
         "count": "1",
@@ -3441,6 +4134,87 @@
         "count": "1",
         "game": "Manual_FFXIV_Silasary",
         "name": "Ambush - FFXIV - Surrounded by Imperial forces",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "Overcooked! 2",
+        "name": "Ambush - Overcooked - The night of the unbread",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "Ambush - DOOM - A pair of revenants",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "Ambush - DOOM - A Hellknight",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "Ambush - DOOM - Zombie soldiers",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM 1993",
+        "name": "Ambush - DOOM - A cacodemon",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "Ambush - DOOM - Three imps",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "Ambush - DOOM - A Baron of Hell",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "Ambush - DOOM - A horde of lost souls",
+        "trap": true
+    },
+    {
+        "category": [
+            "Trap"
+        ],
+        "count": "1",
+        "game": "DOOM II",
+        "name": "Ambush - DOOM - Two Zombie Sergeants",
         "trap": true
     },
     {
