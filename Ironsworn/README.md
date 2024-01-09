@@ -180,9 +180,9 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 #### The Witness
 
-1. 
-2. 
-3. 
+1. Strage lines begin to appear throughout the environment. Tracing one with your finger causes it to glow, and completing it causes doors and passageways to open where none previously existed. Who from your community is terrifyingly adept at finding and abusing these passageways? How are they abusing this power within the community?
+2. A small boat regularly appears at a local dock with no one driving it. If someone enters the boat, it starts to sail away out of sight. When the boat returns, it is empty again. Where have the townsfolk started saying the boat takes people? Whose son got taken away by the boat, never to return?
+3. The town dog started behaving sluggishly, eventually curling up in the town square. When folk went to check on him, the dog was completely turned to stone. What has you worried that the petrification may spread to the rest of the town? What tales do you know of a forest witch who can cure petrification?
 4. 
 5. 
 
