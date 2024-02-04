@@ -1,0 +1,27 @@
+{
+	"Menu": 	{
+		"starting": true,
+		"connects_to": ["Boulder Forest","Volcanic Caverns","Crater Lake","Shivering Crypts","Erlpenki Coliseum"],
+		"requires": []
+	},
+	"Boulder Forest": 	{
+		"connects_to": [],
+		"requires": "|Boulder Forest|"
+	},
+	"Volcanic Caverns": 	{
+		"connects_to": [],
+		"requires": "|Volcanic Caverns|"
+	},
+	"Crater Lake": 	{
+		"connects_to": [],
+		"requires": "|Crater Lake|"
+	},
+	"Shivering Crypts": 	{
+		"connects_to": [],
+		"requires": "|Shivering Crypts|"
+	},
+	"Erlpenki Coliseum": 	{
+		"connects_to": [],
+		"requires": "|Erlpenki Coliseum|"
+}
+}

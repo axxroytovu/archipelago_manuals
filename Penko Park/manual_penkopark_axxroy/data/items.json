@@ -1,0 +1,80 @@
+[
+	{
+		"count":1,
+		"name": "Erlpenki Coliseum",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boulder Forest",
+		"category": ["Map","Starter Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Volcanic Caverns",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crater Lake",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shivering Crypts",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Penko Ball",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Grabby Hand - Spirit World",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Leaf Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Water Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ice Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Path Switcher",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crown Song",
+		"category": ["Song"],
+		"progression": true
+	}
+]
