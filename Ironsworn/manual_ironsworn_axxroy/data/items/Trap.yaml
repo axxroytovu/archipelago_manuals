@@ -1,0 +1,108 @@
+DOOM 1993:
+- description: A pair of revenants
+  name: Ambush
+- description: A Hellknight
+  name: Ambush
+- description: Zombie soldiers
+  name: Ambush
+- description: A cacodemon
+  name: Ambush
+DOOM II:
+- description: Three imps
+  name: Ambush
+- description: A Baron of Hell
+  name: Ambush
+- description: A horde of lost souls
+  name: Ambush
+- description: Two Zombie Sergeants
+  name: Ambush
+Manual_FFXIV_Silasary:
+- description: You get caught in an Ifrit trial
+  name: Ambush
+- description: The ground below you blinks with a targeting reticle
+  name: Trap
+- description: Caught by a pair of Sahagin
+  name: Trap
+- description: A plant turns out to be a cactaur
+  name: Ambush
+- description: Surrounded by Imperial forces
+  name: Ambush
+Manual_Ironsworn_Axxroy:
+- description: A Varou hunting party
+  name: Ambush
+- description: A colony of swamp rats defending their home
+  name: Ambush
+- description: A raider ship searching for treasure
+  name: Ambush
+- description: A starving wolf pack
+  name: Ambush
+- description: An iron revenant out for blood
+  name: Ambush
+- description: An Elvish net trap for catching boar
+  name: Trap
+Manual_MHRiseHub_Axxroy:
+- description: A Khezu on the ceiling
+  name: Ambush
+- description: A flock of Izuchi
+  name: Ambush
+- description: Jagras looking for lunch
+  name: Ambush
+- description: A bubble of poisonous gasses
+  name: Trap
+- description: A chunk of the wall bursts with pressurized hot magma
+  name: Trap
+Manual_PLA_Miro:
+- description: A Drifblim floats down toward you
+  name: Ambush
+- description: Ambushed by the Miss Fortune Bandits
+  name: Ambush
+- description: You're chased by a territorial Carnivine
+  name: Ambush
+Overcooked! 2:
+- description: The night of the unbread
+  name: Ambush
+Pokemon Red and Blue:
+- description: A Lost Hiker challenges you to fight
+  name: Ambush
+- description: A Team Rocket grunt tries to steal your stuff
+  name: Ambush
+- description: The ground rumbles as an Onyx appears
+  name: Ambush
+- description: A grid of trash cans that electrocute you
+  name: Trap
+- description: A teleport pad sends you to another floor
+  name: Trap
+Stardew Valley:
+- description: A horrible mutant fly
+  name: Ambush
+- description: A wilderness golem stumbles out of the darkness
+  name: Ambush
+- description: So many green slimes...
+  name: Ambush
+- description: A ladder opens beneath your feet to the floor below
+  name: Trap
+The Legend of Zelda:
+- description: A lynel charges you from nowhere
+  name: Ambush
+- description: An Octoroc pops out of the ground!
+  name: Ambush
+- description: A moblin hurling explosives
+  name: Trap
+The Witness:
+- description: A statue animates and attacks
+  name: Ambush
+- description: A barrier with a strange puzzle
+  name: Trap
+- description: A bridge with rotating platforms
+  name: Trap
+Tunic:
+- description: A horde of crabbos with their nasty pinchers
+  name: Ambush
+- description: A lost echo, angry at its abandonment
+  name: Ambush
+- description: A slorm! Watch out, they explode
+  name: Ambush
+- description: An autobolt emerges from the ground
+  name: Ambush
+- description: Terry!!! Please don't eat me!
+  name: Ambush

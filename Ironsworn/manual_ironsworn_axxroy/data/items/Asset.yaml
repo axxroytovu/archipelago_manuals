@@ -1,0 +1,215 @@
+Starting:
+- ALCHEMIST
+- ANIMAL KIN
+- ARCHER
+- AUGUR
+- AWAKENING
+- BERSERKER
+- BIND
+- BLADE-BOUND
+- BONDED
+- BRAWLER
+- CAVE LION
+- COMMANDER
+- COMMUNION
+- CUTTHROAT
+- DANCER
+- DEVOTANT
+- DIVINATION
+- DUELIST
+- EMPOWERED
+- FATED
+- FLETCHER
+- FORTUNE HUNTER
+- GIANT SPIDER
+- HAWK
+- HERBALIST
+- HONORBOUND
+- HORSE
+- HOUND
+- IMPROVISER
+- INFILTRATOR
+- INVOKE
+- IRONCLAD
+- KEEN
+- KINDRED
+- LEECH
+- LIGHTBEARER
+- LONG-ARM
+- LOYALIST
+- MAMMOTH
+- OUTCAST
+- OWL
+- PRETENDER
+- RAVEN
+- RIDER
+- SCRY
+- SHADOW-WALK
+- SHIELD-BEARER
+- SIGHTED
+- SKIRMISHER
+- SLAYER
+- SLINGER
+- SPIRIT-BOUND
+- STORYWEAVER
+- SUNDERER
+- SWAY
+- SWORDMASTER
+- TALISMAN
+- TETHER
+- THUNDER-BRINGER
+- TOTEM
+- TRICKSTER
+- VETERAN
+- VISAGE
+- WARD
+- WATERBORN
+- WAYFINDER
+- WILDBLOOD
+- WRIGHT
+- YOUNG WYVERN
+Manual_Ironsworn_Axxroy:
+- description: The beasts of the world come to your side
+  name: ANIMAL KIN
+- description: The birds call to you and bring wisdom
+  name: AUGUR
+- description: Another chosen by the aurora to stand beside you
+  name: KINDRED
+- description: A friend from the north; a guide in the dark
+  name: MAMMOTH
+- description: The grace of the elves guides your path
+  name: MASKED
+- description: An intelligent bird from beyond the mountains
+  name: RAVEN
+- description: The might of the giants swings with you
+  name: THUNDER-BRINGER
+- description: The arctic wind brings protection against the end
+  name: WARD
+Manual_MHRiseHub_Axxroy:
+- description: A collection of powerful coatings for your arrows
+  name: FLETCHER
+- description: A palamute runs up alongside you
+  name: HOUND
+- description: A cohoot alights on your shoulder
+  name: OWL
+- description: A lance of glittering steel
+  name: SKIRMISHER
+- description: Master Utsushi guides your blade
+  name: WEAPONMASTER
+- description: A small Rathalos hatches and bonds with you
+  name: YOUNG WYVERN
+Manual_MHW_Mauve:
+- description: The skill to track a monster through any terrain
+  name: SLAYER
+Manual_PLA_Miro:
+- description: Join the Galaxy Team or one of Hisui's Clans
+  name: BANNER-SWORN
+- description: A fierce bear, Ursaluna
+  name: BEAR
+- description: A giant eagle, Braviary
+  name: HAWK
+- description: A mystical white Wyrdeer
+  name: HORSE
+- description: Lady Lucille aids you with mysterious charms
+  name: TALISMAN
+Pokemon Red and Blue:
+- description: A pokedex tells you exactly what animals want
+  name: ANIMAL-KIN
+- description: A fierce Persian
+  name: CAVE LION
+- description: You want to be the very best
+  name: FATED
+- description: A beautiful Pigeot
+  name: HAWK
+- description: A flaming Rapidash
+  name: HORSE
+- description: A collection of red and white balls
+  name: TOTEM
+Stardew Valley:
+- description: Marnie's lessons on raising animals flood your mind
+  name: ANIMAL KIN
+- description: The secrets of true friendship, gift giving!
+  name: BONDED
+- description: A gift of magic from the Wizard
+  name: SCRY
+- description: Ol' man Willy shares his love of the sea
+  name: WATERBORN
+The Legend of Zelda:
+- description: A blue candle that shoots flame
+  name: FIREBRAND [SF]
+- description: The Princess Zelda grants you creedence
+  name: HONORBOUND
+- description: A blue hyrulean ring that glitters with wards
+  name: IRONCLAD
+- description: A sword that glows with the light of the triforce
+  name: SWORDMASTER
+- description: A hero of Hyrule grants you their knowledge
+  name: WEAPONMASTER
+The Witness:
+- description: The precision to snipe a puzzle
+  name: ARCHER
+- description: A thousand puzzles and ten thousand solutions
+  name: IMPROVISER
+- description: A beam of light from a strange device
+  name: LIGHTBEARER
+- description: Mystic stories kept in tiny recordings
+  name: LOREKEEPER
+Tunic:
+- description: A visit to the Hero's Grave
+  name: REVENANT
+- description: A bundle of dynamite, some fire bombs, and a frost bomb
+  name: DEMOLITIONIST [SF]
+- description: The heir will grant you power, in exchange for offerings
+  name: DEVOTANT
+- description: A golden book of mysterious writings
+  name: LOREKEEPER
+- description: A short prayer can bring you to the far shore
+  name: SHADOW-WALK
+- description: The librarian's blade
+  name: SWORDMASTER
+Manual_FFXIV_Silasary:
+- description: Alberic's lessons on Dragoon tactics
+  name: SKIRMISHER
+- description: A moogle companion
+  name: SPRITE [SF]
+- description: Oboro's training to become a Ninja
+  name: SHADOW-WALK
+- description: The black mage Y'shtola Rhul
+  name: KINDRED
+- description: A machinist's handgonne
+  name: GUNNER [SF]
+Overcooked! 2:
+- description: A small crocodile chef
+  name: KINDRED
+- description: YES CHEF!
+  name: SWAY
+- description: Strange potions like 'pizza' and 'burrito'
+  name: ALCHEMIST
+- description: Kevin comes to join you
+  name: HOUND
+- description: Is that a bus!?
+  name: ROVER [SF]
+DOOM 1993:
+- description: All is clear. I know what must be done... and my weapon is very, very
+    large.
+  name: HONORBOUND
+- description: RIP AND TEAR
+  name: BERSERKER
+- description: When knee deep in the dead, the only thing they fear is you.
+  name: VISAGE
+- description: Always use every bit your armor gives you.
+  name: IRONCLAD
+- description: You are huge. That means you have huge guts.
+  name: SLAYER
+DOOM II:
+- description: Even facing oblivion can not stop your quest
+  name: REVENANT
+- description: You know how to depend on your armor
+  name: IRONCLAD
+- description: Death surrounds me, yet, in my head I hear something that soudns like
+    angels.
+  name: VETERAN
+- description: You are huge. That means you have huge guts.
+  name: SLAYER
+- description: The Super Shotgun
+  name: GUNNER [SF]

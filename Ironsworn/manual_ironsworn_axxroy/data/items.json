@@ -1,4228 +1,4230 @@
 [
-    {
-        "category": [],
-        "count": "10",
-        "name": "Shard of Reality",
-        "progression": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "ALCHEMIST",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "ANIMAL KIN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "ARCHER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "AUGUR",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "AWAKENING",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "BERSERKER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "BIND",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "BLADE-BOUND",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "BONDED",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "BRAWLER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "CAVE LION",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "COMMANDER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "COMMUNION",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "CUTTHROAT",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "DANCER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "DEVOTANT",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "DIVINATION",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "DUELIST",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "EMPOWERED",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "FATED",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "FLETCHER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "FORTUNE HUNTER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "GIANT SPIDER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "HAWK",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "HERBALIST",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "HONORBOUND",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "HORSE",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "HOUND",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "IMPROVISER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "INFILTRATOR",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "INVOKE",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "IRONCLAD",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "KEEN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "KINDRED",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "LEECH",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "LIGHTBEARER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "LONG-ARM",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "LOYALIST",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "MAMMOTH",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "OUTCAST",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "OWL",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "PRETENDER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "RAVEN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "RIDER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SCRY",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SHADOW-WALK",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SHIELD-BEARER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SIGHTED",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SKIRMISHER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SLAYER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SLINGER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SPIRIT-BOUND",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "STORYWEAVER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SUNDERER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SWAY",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "SWORDMASTER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "TALISMAN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "TETHER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "THUNDER-BRINGER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "TOTEM",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "TRICKSTER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "VETERAN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "VISAGE",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "WARD",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "WATERBORN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "WAYFINDER",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "WILDBLOOD",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "WRIGHT",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset",
-            "Starting"
-        ],
-        "count": "1",
-        "name": "YOUNG WYVERN",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "ANIMAL KIN - Core - The beasts of the world come to your side",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "AUGUR - Core - The birds call to you and bring wisdom",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "KINDRED - Core - Another chosen by the aurora to stand beside you",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "MAMMOTH - Core - A friend from the north; a guide in the dark",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "MASKED - Core - The grace of the elves guides your path",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "RAVEN - Core - An intelligent bird from beyond the mountains",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "THUNDER-BRINGER - Core - The might of the giants swings with you",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "WARD - Core - The arctic wind brings protection against the end",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "FLETCHER - MH Rise - A collection of powerful coatings for your arrows",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "HOUND - MH Rise - A palamute runs up alongside you",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "OWL - MH Rise - A cohoot alights on your shoulder",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "SKIRMISHER - MH Rise - A lance of glittering steel",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "WEAPONMASTER - MH Rise - Master Utsushi guides your blade",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "YOUNG WYVERN - MH Rise - A small Rathalos hatches and bonds with you",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_MHW_Mauve",
-        "name": "SLAYER - MH World - The skill to track a monster through any terrain",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "BANNER-SWORN - Pkmn LA - Join the Galaxy Team or one of Hisui's Clans",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "BEAR - Pkmn LA - A fierce bear, Ursaluna",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "HAWK - Pkmn LA - A giant eagle, Braviary",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "HORSE - Pkmn LA - A mystical white Wyrdeer",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "TALISMAN - Pkmn LA - Lady Lucille aids you with mysterious charms",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "ANIMAL-KIN - Pkmn R/B - A pokedex tells you exactly what animals want",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "CAVE LION - Pkmn R/B - A fierce Persian",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "FATED - Pkmn R/B - You want to be the very best",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "HAWK - Pkmn R/B - A beautiful Pigeot",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "HORSE - Pkmn R/B - A flaming Rapidash",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "TOTEM - Pkmn R/B - A collection of red and white balls",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "ANIMAL KIN - Stardew - Marnie's lessons on raising animals flood your mind",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "BONDED - Stardew - The secrets of true friendship, gift giving!",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "SCRY - Stardew - A gift of magic from the Wizard",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "WATERBORN - Stardew - Ol' man Willy shares his love of the sea",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "FIREBRAND [SF] - TLoZ - A blue candle that shoots flame",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "HONORBOUND - TLoZ - The Princess Zelda grants you creedence",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "IRONCLAD - TLoZ - A blue hyrulean ring that glitters with wards",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "SWORDMASTER - TLoZ - A sword that glows with the light of the triforce",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "WEAPONMASTER - TLoZ - A hero of Hyrule grants you their knowledge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "ARCHER - Witness - The precision to snipe a puzzle",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "IMPROVISER - Witness - A thousand puzzles and ten thousand solutions",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "LIGHTBEARER - Witness - A beam of light from a strange device",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "LOREKEEPER - Witness - Mystic stories kept in tiny recordings",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "REVENANT - Tunic - A visit to the Hero's Grave",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "DEMOLITIONIST [SF] - Tunic - A bundle of dynamite, some fire bombs, and a frost bomb",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "DEVOTANT - Tunic - The heir will grant you power, in exchange for offerings",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "LOREKEEPER - Tunic - A golden book of mysterious writings",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "SHADOW-WALK - Tunic - A short prayer can bring you to the far shore",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "SWORDMASTER - Tunic - The librarian's blade",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "SKIRMISHER - FFXIV - Alberic's lessons on Dragoon tactics",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "SPRITE [SF] - FFXIV - A moogle companion",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "SHADOW-WALK - FFXIV - Oboro's training to become a Ninja",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "KINDRED - FFXIV - The black mage Y'shtola Rhul",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "KINDRED - Overcooked - A small crocodile chef",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "SWAY - Overcooked - YES CHEF!",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "ALCHEMIST - Overcooked - Strange potions like 'pizza' and 'burrito'",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "HOUND - Overcooked - Kevin comes to join you",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "ROVER [SF] - Overcooked - Is that a bus!?",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "HONORBOUND - DOOM 93 - All is clear. I know what must be done... and my weapon is very, very large.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "BERSERKER - DOOM 93 - RIP AND TEAR",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "VISAGE - DOOM 93 - When knee deep in the dead, the only thing they fear is you.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "IRONCLAD - DOOM 93 - Always use every bit your armor gives you.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "SLAYER - DOOM 93 - You are huge. That means you have huge guts.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "REVENANT - DOOM II - Even facing oblivion can not stop your quest",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "IRONCLAD - DOOM II - You know how to depend on your armor",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "VETERAN - DOOM II - Death surrounds me, yet, in my head I hear something that soudns like angels.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "SLAYER - DOOM II - You are huge. That means you have huge guts.",
-        "useful": true
-    },
-    {
-        "category": [
-            "Asset"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "GUNNER [SF] - DOOM II - The Super Shotgun",
-        "useful": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Alva's Rest",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Bleakroot Depths",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Bonewilds",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Darkfall Caves",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Deeproot Bog",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Egan's Folly",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Foulwater Plunge",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Frostmark",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Greathammer Deep",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Holdfast Barrow",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Hollowmount Island",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Icebound Reach",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Lastrock Mine",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Redhome Sanctum",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Sinking Temple",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Smoldering Wood",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Stillgrave Mire",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Stonesong Spire",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Topplekeep",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Trail of Spirits",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - The Infernal Springs",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - The Shrine Ruins",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - The Yawning Abyss",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Ancient Quarry",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Icepeak Cavern",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Solaceon Ruins",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - The Heartwood",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Wayward Cave",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Mt. Moon",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Pokemon Tower",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Power Plant",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Rocket Hideout",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew - Skull Cavern",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew - The Deep Mines",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew - The Quarry Mine",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew - The Sewers",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Demon",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Eagle",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Snake",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Witness - The Desert Temple",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Witness - The Mountain",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Witness - The Shipwreck",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic - The Floating Library",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic - The Fortress of the Eastern Vault",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic - The Frog's Domain",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic - The Rooted Ziggurat",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - The Sunken Temple of Qarn",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Hullbreaker Isle",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Dzemael Darkhold",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - The Thousand Maws of Toto-Rak",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Munch Mansion",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Melting Magma Mountain",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Glazed Glacier Grotto",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Moreish Mines",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Deimos Lab",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Toxin Refinery",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Nuclear Plant",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Hangar",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - The Waste Tunnels",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - The Pit",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - The Factory",
-        "progression": true
-    },
-    {
-        "category": [
-            "Dungeon"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - The Citadel",
-        "progression": true
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - 12 iron spikes"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A 10-minute hourglass"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A book of blasphemy"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A bottle of fine wine"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A bundle of well-made rope"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A crowbar"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A jar of glowworms"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A sewing kit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A small bag of candies"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A small steel mirror"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A sturdy saddle"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A vial of troll's blood"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A whetstone kit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A wolf pelt"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - A wooden toy unicorn"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - An amulet of protection"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - An heirloom axe of ancient make"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - An herbalist's kit with healing salves"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - An ivory flute"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Manacles"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Pot of tar"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Aknosom Plume"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Ancient Potion"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Armorskin Potion"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Dash Juice"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Demondrug"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Deodorant"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Energy Drink"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Gowngoat Thickfur"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Lagombi Cuirass"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Poisoned Meat"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Rations"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Throwing Kunai"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Well-Done Steak"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - A soothing balm"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Sitrus Berry"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Smoke bomb"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Stealth Spray"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Survival Charm"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Warding Charm"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - A bicycle"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - A burn heal"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - A card key"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - A gold nugget"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - A pokeball"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - An awakening"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - The Silph Scope to see ghosts"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A fiberglass fishing pole"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A gold brazier"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A golden scythe"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A large backpack"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A lightning rod"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A rusty key with 'sewers' written on it"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - A set of shears"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Stardew Valley",
-        "name": "Stardew - Deluxe Fertilizer"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - 20 green crystals"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - A blue rupee"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - A bundle of fine arrows"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - A ladder to cross small gaps"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - A magical boomerang"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - A silver arrow that can kill anything"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - Boots with small wings on them"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - Portable explosives"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Witness",
-        "name": "Witness - A blooming water lily"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Witness",
-        "name": "Witness - A box with a mysterious puzzle lock"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "The Witness",
-        "name": "Witness - A melted pane of glass"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A blue fruit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A broken-off fang"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A chili pepper"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A firecracker"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A golden coin"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A puppet copy of yourself"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A red fruit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - A small card with a mysterious image"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Tunic",
-        "name": "Tunic - An effigy full of coins"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Goshenite Bracelet"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Fossilized Dragon Bone"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Ok' Vundu Vana Painting"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Yasha Bracelets of Aiming"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Carbonweave Apron of Crafting"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Wind-up Ardbert Minion"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Scaevan Tassets"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Gridanian Grimoire"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Nitrobrew"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Hallowed Ramie Cloth"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Butcher's knife"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Fire extinguisher"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Crate of ingredients"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Overcooked! 2",
-        "name": "Overcooked - White pressed apron"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "Overcooked! 2",
-        "name": "Overcooked - Wheelchair"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Shotgun with no ammo"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A stimpack"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A medkit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A supercharger"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - An armor bonus hologram"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A metallic backpack"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A computer tablet with a strange map"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A yellow keycard"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - A blue keycard"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A chainsaw"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - Shotgun with no ammo"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A stimpack"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A medkit"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A supercharger"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - An armor bonus hologram"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A metallic backpack"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A computer tablet with a strange map"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A yellow keycard"
-    },
-    {
-        "category": [
-            "Items"
-        ],
-        "count": "1",
-        "filler": true,
-        "game": "DOOM II",
-        "name": "DOOM II - A blue keycard"
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 10",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 6",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 7",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 8",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ironsworn Quest 9",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Monster Hunter Rise Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Monster Hunter Rise Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Monster Hunter Rise Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Monster Hunter Rise Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Monster Hunter Rise Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pokemon Legends Arceus Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pokemon Legends Arceus Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pokemon Legends Arceus Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pokemon Legends Arceus Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pokemon Legends Arceus Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pokemon Red and Blue Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pokemon Red and Blue Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pokemon Red and Blue Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pokemon Red and Blue Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pokemon Red and Blue Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew Valley Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew Valley Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew Valley Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew Valley Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Stardew Valley Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "The Legend of Zelda Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "The Legend of Zelda Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "The Legend of Zelda Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "The Legend of Zelda Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "The Legend of Zelda Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "The Witness Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "The Witness Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "The Witness Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "The Witness Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "The Witness Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Tunic Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM Quest 1",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM Quest 2",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM Quest 3",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM Quest 4",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM Quest 5",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM Quest 6",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM Quest 7",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM Quest 8",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM Quest 9",
-        "progression": true
-    },
-    {
-        "category": [
-            "Quest"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM Quest 10",
-        "progression": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Avethyin's Journal",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Bracer of the First Blood",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Cairn Stone of the Sundered",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Coin of Favor",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Founder's Reliquary",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Resolute Banner",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Scarves of the Northern Lights",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Sigil of the Broken",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Silverstone Pestle",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - The Black Fang",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Core - Waterskin of Fellowship",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Armorcharm",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Armortalon",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Fellvine",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Powercharm",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "MH Rise - Powertalon",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Elemental Plate",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Eternal Ice",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - Odd Keystone",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Pkmn LA - The Azure Flute",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Boulder Badge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Cascade Badge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Soul Badge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Pkmn R/B - Thunder Badge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Stardew Valley",
-        "name": "Stardew - A dinosaur egg",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Stardew Valley",
-        "name": "Stardew - The ancient sword",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Stardew Valley",
-        "name": "Stardew - The chipped amphora",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Stardew Valley",
-        "name": "Stardew - The golden mask",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Book of Spells",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Magical Sword",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "The Legend of Zelda",
-        "name": "TLoZ - The Triforce of Wisdom",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Tunic",
-        "name": "Tunic - Hero's Laurels",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Tunic",
-        "name": "Tunic - Magic Dagger",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Tunic",
-        "name": "Tunic - Magic Orb",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": 1,
-        "game": "Tunic",
-        "name": "Tunic - Magic Rod",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Excalibur Zeta",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Anemos Seventh Hell Armor",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Augmented Soulscourge",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "FFXIV - Gysahl Greens",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Witness - Swampy Boots",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Witness - A Functioning Brain",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Overcooked - The Necro-nomnom-icon",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Soul Sphere",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Invincibility Artifact",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - Blur Artifact",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "DOOM 93 - BFG 9000",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - Soul Sphere",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - Invincibility Artifact",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - Blur Artifact",
-        "useful": true
-    },
-    {
-        "category": [
-            "Relic"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "DOOM II - BFG 9000",
-        "useful": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ambush - Core - A Varou hunting party",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ambush - Core - A colony of swamp rats defending their home",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ambush - Core - A raider ship searching for treasure",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ambush - Core - A starving wolf pack",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Ambush - Core - An iron revenant out for blood",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_Ironsworn_Axxroy",
-        "name": "Trap - Core - An Elvish net trap for catching boar",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Ambush - MH Rise - A Khezu on the ceiling",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Ambush - MH Rise - A flock of Izuchi",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Ambush - MH Rise - Jagras looking for lunch",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Trap - MH Rise - A bubble of poisonous gasses",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_MHRiseHub_Axxroy",
-        "name": "Trap - MH Rise - A chunk of the wall bursts with pressurized hot magma",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Ambush - Pkmn LA - A Drifblim floats down toward you",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Ambush - Pkmn LA - Ambushed by the Miss Fortune Bandits",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_PLA_Miro",
-        "name": "Ambush - Pkmn LA - You're chased by a territorial Carnivine",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Ambush - Pkmn R/B - A Lost Hiker challenges you to fight",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Ambush - Pkmn R/B - A Team Rocket grunt tries to steal your stuff",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Ambush - Pkmn R/B - The ground rumbles as an Onyx appears",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Trap - Pkmn R/B - A grid of trash cans that electrocute you",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Pokemon Red and Blue",
-        "name": "Trap - Pkmn R/B - A teleport pad sends you to another floor",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Ambush - Stardew - A horrible mutant fly",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Ambush - Stardew - A wilderness golem stumbles out of the darkness",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Ambush - Stardew - So many green slimes...",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Stardew Valley",
-        "name": "Trap - Stardew - A ladder opens beneath your feet to the floor below",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "Ambush - TLoZ - A lynel charges you from nowhere",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "Ambush - TLoZ - An Octoroc pops out of the ground!",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Legend of Zelda",
-        "name": "Trap - TLoZ - A moblin hurling explosives",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Ambush - Witness - A statue animates and attacks",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Trap - Witness - A barrier with a strange puzzle",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "The Witness",
-        "name": "Trap - Witness - A bridge with rotating platforms",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Ambush - Tunic - A horde of crabbos with their nasty pinchers",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Ambush - Tunic - A lost echo, angry at its abandonment",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Ambush - Tunic - A slorm! Watch out, they explode",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Ambush - Tunic - An autobolt emerges from the ground",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Tunic",
-        "name": "Ambush - Tunic - Terry!!! Please don't eat me!",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "Ambush - FFXIV - You get caught in an Ifrit trial",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "Trap - FFXIV - The ground below you blinks with a targeting reticle",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "Trap - FFXIV - Caught by a pair of Sahagin",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "Ambush - FFXIV - A plant turns out to be a cactaur",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Manual_FFXIV_Silasary",
-        "name": "Ambush - FFXIV - Surrounded by Imperial forces",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "Overcooked! 2",
-        "name": "Ambush - Overcooked - The night of the unbread",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "Ambush - DOOM - A pair of revenants",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "Ambush - DOOM - A Hellknight",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "Ambush - DOOM - Zombie soldiers",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM 1993",
-        "name": "Ambush - DOOM - A cacodemon",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "Ambush - DOOM - Three imps",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "Ambush - DOOM - A Baron of Hell",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "Ambush - DOOM - A horde of lost souls",
-        "trap": true
-    },
-    {
-        "category": [
-            "Trap"
-        ],
-        "count": "1",
-        "game": "DOOM II",
-        "name": "Ambush - DOOM - Two Zombie Sergeants",
-        "trap": true
-    },
-    {
-        "category": [
-            "Upgrade"
-        ],
-        "count": "6",
-        "name": "Asset Upgrade",
-        "useful": true
-    }
+  {
+    "name": "BERSERKER - DOOM 1993 - RIP AND TEAR",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "HONORBOUND - DOOM 1993 - All is clear. I know what must be done... and my weapon is very, very large.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "IRONCLAD - DOOM 1993 - Always use every bit your armor gives you.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "SLAYER - DOOM 1993 - You are huge. That means you have huge guts.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "VISAGE - DOOM 1993 - When knee deep in the dead, the only thing they fear is you.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "GUNNER [SF] - DOOM II - The Super Shotgun",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "IRONCLAD - DOOM II - You know how to depend on your armor",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "REVENANT - DOOM II - Even facing oblivion can not stop your quest",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "SLAYER - DOOM II - You are huge. That means you have huge guts.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "VETERAN - DOOM II - Death surrounds me, yet, in my head I hear something that soudns like angels.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "KINDRED - FFXIV - The black mage Y'shtola Rhul",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "SHADOW-WALK - FFXIV - Oboro's training to become a Ninja",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "SKIRMISHER - FFXIV - Alberic's lessons on Dragoon tactics",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "SPRITE [SF] - FFXIV - A moogle companion",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "ANIMAL KIN - Core - The beasts of the world come to your side",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "AUGUR - Core - The birds call to you and bring wisdom",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "KINDRED - Core - Another chosen by the aurora to stand beside you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MAMMOTH - Core - A friend from the north; a guide in the dark",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MASKED - Core - The grace of the elves guides your path",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "RAVEN - Core - An intelligent bird from beyond the mountains",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "THUNDER-BRINGER - Core - The might of the giants swings with you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "WARD - Core - The arctic wind brings protection against the end",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "FLETCHER - MH Rise - A collection of powerful coatings for your arrows",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "HOUND - MH Rise - A palamute runs up alongside you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "OWL - MH Rise - A cohoot alights on your shoulder",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "SKIRMISHER - MH Rise - A lance of glittering steel",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "WEAPONMASTER - MH Rise - Master Utsushi guides your blade",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "YOUNG WYVERN - MH Rise - A small Rathalos hatches and bonds with you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "SLAYER - Manual_MHW_Mauve - The skill to track a monster through any terrain",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHW_Mauve"
+  },
+  {
+    "name": "BANNER-SWORN - Pkmn LA - Join the Galaxy Team or one of Hisui's Clans",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "BEAR - Pkmn LA - A fierce bear, Ursaluna",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "HAWK - Pkmn LA - A giant eagle, Braviary",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "HORSE - Pkmn LA - A mystical white Wyrdeer",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "TALISMAN - Pkmn LA - Lady Lucille aids you with mysterious charms",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "ALCHEMIST - Overcooked! 2 - Strange potions like 'pizza' and 'burrito'",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "HOUND - Overcooked! 2 - Kevin comes to join you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "KINDRED - Overcooked! 2 - A small crocodile chef",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "ROVER [SF] - Overcooked! 2 - Is that a bus!?",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "SWAY - Overcooked! 2 - YES CHEF!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "ANIMAL-KIN - Pkmn R/B - A pokedex tells you exactly what animals want",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "CAVE LION - Pkmn R/B - A fierce Persian",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "FATED - Pkmn R/B - You want to be the very best",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "HAWK - Pkmn R/B - A beautiful Pigeot",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "HORSE - Pkmn R/B - A flaming Rapidash",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "TOTEM - Pkmn R/B - A collection of red and white balls",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "ANIMAL KIN - Stardew - Marnie's lessons on raising animals flood your mind",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "BONDED - Stardew - The secrets of true friendship, gift giving!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "SCRY - Stardew - A gift of magic from the Wizard",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "WATERBORN - Stardew - Ol' man Willy shares his love of the sea",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "ALCHEMIST",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "ANIMAL KIN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "ARCHER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "AUGUR",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "AWAKENING",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "BERSERKER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "BIND",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "BLADE-BOUND",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "BONDED",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "BRAWLER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "CAVE LION",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "COMMANDER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "COMMUNION",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "CUTTHROAT",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "DANCER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "DEVOTANT",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "DIVINATION",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "DUELIST",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "EMPOWERED",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "FATED",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "FLETCHER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "FORTUNE HUNTER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "GIANT SPIDER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "HAWK",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "HERBALIST",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "HONORBOUND",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "HORSE",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "HOUND",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "IMPROVISER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "INFILTRATOR",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "INVOKE",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "IRONCLAD",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "KEEN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "KINDRED",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "LEECH",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "LIGHTBEARER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "LONG-ARM",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "LOYALIST",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "MAMMOTH",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "OUTCAST",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "OWL",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "PRETENDER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "RAVEN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "RIDER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SCRY",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SHADOW-WALK",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SHIELD-BEARER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SIGHTED",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SKIRMISHER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SLAYER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SLINGER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SPIRIT-BOUND",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "STORYWEAVER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SUNDERER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SWAY",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "SWORDMASTER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "TALISMAN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "TETHER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "THUNDER-BRINGER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "TOTEM",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "TRICKSTER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "VETERAN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "VISAGE",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "WARD",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "WATERBORN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "WAYFINDER",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "WILDBLOOD",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "WRIGHT",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "YOUNG WYVERN",
+    "category": [
+      "Asset",
+      "Starting"
+    ],
+    "count": "1",
+    "useful": true
+  },
+  {
+    "name": "FIREBRAND [SF] - TLoZ - A blue candle that shoots flame",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "HONORBOUND - TLoZ - The Princess Zelda grants you creedence",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "IRONCLAD - TLoZ - A blue hyrulean ring that glitters with wards",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "SWORDMASTER - TLoZ - A sword that glows with the light of the triforce",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "WEAPONMASTER - TLoZ - A hero of Hyrule grants you their knowledge",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "ARCHER - The Witness - The precision to snipe a puzzle",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "IMPROVISER - The Witness - A thousand puzzles and ten thousand solutions",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "LIGHTBEARER - The Witness - A beam of light from a strange device",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "LOREKEEPER - The Witness - Mystic stories kept in tiny recordings",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "DEMOLITIONIST [SF] - Tunic - A bundle of dynamite, some fire bombs, and a frost bomb",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "DEVOTANT - Tunic - The heir will grant you power, in exchange for offerings",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "LOREKEEPER - Tunic - A golden book of mysterious writings",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "REVENANT - Tunic - A visit to the Hero's Grave",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "SHADOW-WALK - Tunic - A short prayer can bring you to the far shore",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "SWORDMASTER - Tunic - The librarian's blade",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "DOOM 1993 - Deimos Lab",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Hangar",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Nuclear Plant",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Toxin Refinery",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM II - The Citadel",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - The Factory",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - The Pit",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - The Waste Tunnels",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "FFXIV - Dzemael Darkhold",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Hullbreaker Isle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - The Sunken Temple of Qarn",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - The Thousand Maws of Toto-Rak",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Core - Alva's Rest",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Bleakroot Depths",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Bonewilds",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Darkfall Caves",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Deeproot Bog",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Egan's Folly",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Foulwater Plunge",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Frostmark",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Greathammer Deep",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Holdfast Barrow",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Hollowmount Island",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Icebound Reach",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Lastrock Mine",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Redhome Sanctum",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Sinking Temple",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Smoldering Wood",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Stillgrave Mire",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Stonesong Spire",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Topplekeep",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Trail of Spirits",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MH Rise - The Infernal Springs",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - The Shrine Ruins",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - The Yawning Abyss",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Pkmn LA - Ancient Quarry",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Icepeak Cavern",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Solaceon Ruins",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - The Heartwood",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Wayward Cave",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Overcooked! 2 - Glazed Glacier Grotto",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Melting Magma Mountain",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Moreish Mines",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Munch Mansion",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn R/B - Mt. Moon",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Pokemon Tower",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Power Plant",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Rocket Hideout",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Stardew - Skull Cavern",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The Deep Mines",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The Quarry Mine",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The Sewers",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "TLoZ - The Demon",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - The Eagle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - The Snake",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "The Witness - The Desert Temple",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness - The Mountain",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness - The Shipwreck",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Tunic - The Floating Library",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - The Fortress of the Eastern Vault",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - The Frog's Domain",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - The Rooted Ziggurat",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "DOOM 1993 - A blue keycard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A computer tablet with a strange map",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A medkit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A metallic backpack",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A stimpack",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A supercharger",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - A yellow keycard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - An armor bonus hologram",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Shotgun with no ammo",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM II - A blue keycard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A chainsaw",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A computer tablet with a strange map",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A medkit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A metallic backpack",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A stimpack",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A supercharger",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - A yellow keycard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - An armor bonus hologram",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - Shotgun with no ammo",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "FFXIV - Carbonweave Apron of Crafting",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Fossilized Dragon Bone",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Goshenite Bracelet",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Gridanian Grimoire",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Hallowed Ramie Cloth",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Nitrobrew",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Ok' Vundu Vana Painting",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Scaevan Tassets",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Wind-up Ardbert Minion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Yasha Bracelets of Aiming",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Core - 12 iron spikes",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A 10-minute hourglass",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A book of blasphemy",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A bottle of fine wine",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A bundle of well-made rope",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A crowbar",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A jar of glowworms",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A sewing kit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A small bag of candies",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A small steel mirror",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A sturdy saddle",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A vial of troll's blood",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A whetstone kit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A wolf pelt",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - A wooden toy unicorn",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - An amulet of protection",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - An heirloom axe of ancient make",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - An herbalist's kit with healing salves",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - An ivory flute",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Manacles",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Pot of tar",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MH Rise - Aknosom Plume",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Ancient Potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Armorskin Potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Dash Juice",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Demondrug",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Deodorant",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Energy Drink",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Gowngoat Thickfur",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Lagombi Cuirass",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Poisoned Meat",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Rations",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Throwing Kunai",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Well-Done Steak",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Pkmn LA - A soothing balm",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Sitrus Berry",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Smoke bomb",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Stealth Spray",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Survival Charm",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Warding Charm",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Overcooked! 2 - Butcher's knife",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Crate of ingredients",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Fire extinguisher",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - Wheelchair",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 - White pressed apron",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn R/B - A bicycle",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - A burn heal",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - A card key",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - A gold nugget",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - A pokeball",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - An awakening",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - The Silph Scope to see ghosts",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Stardew - A fiberglass fishing pole",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A gold brazier",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A golden scythe",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A large backpack",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A lightning rod",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A rusty key with 'sewers' written on it",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - A set of shears",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - Deluxe Fertilizer",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "TLoZ - 20 green crystals",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - A blue rupee",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - A bundle of fine arrows",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - A ladder to cross small gaps",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - A magical boomerang",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - A silver arrow that can kill anything",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - Boots with small wings on them",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - Portable explosives",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "The Witness - A blooming water lily",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness - A box with a mysterious puzzle lock",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness - A melted pane of glass",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Tunic - A blue fruit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A broken-off fang",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A chili pepper",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A firecracker",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A golden coin",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A puppet copy of yourself",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A red fruit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - A small card with a mysterious image",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - An effigy full of coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "DOOM 1993 Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM II Quest 10",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II Quest 6",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II Quest 7",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II Quest 8",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II Quest 9",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "FFXIV Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Core Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 10",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 6",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 7",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 8",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core Quest 9",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MH Rise Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Pkmn LA Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Overcooked! 2 Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Overcooked! 2 Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn R/B Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Stardew Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "TLoZ Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "The Witness Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Tunic Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "DOOM 1993 - BFG 9000",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Blur Artifact",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Invincibility Artifact",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM 1993 - Soul Sphere",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "DOOM II - BFG 9000",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - Blur Artifact",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - Invincibility Artifact",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "DOOM II - Soul Sphere",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "FFXIV - Anemos Seventh Hell Armor",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Augmented Soulscourge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Excalibur Zeta",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "FFXIV - Gysahl Greens",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Core - Avethyin's Journal",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Bracer of the First Blood",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Cairn Stone of the Sundered",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Coin of Favor",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Founder's Reliquary",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Resolute Banner",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Scarves of the Northern Lights",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Sigil of the Broken",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Silverstone Pestle",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - The Black Fang",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Core - Waterskin of Fellowship",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "MH Rise - Armorcharm",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Armortalon",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Fellvine",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Powercharm",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "MH Rise - Powertalon",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Pkmn LA - Elemental Plate",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Eternal Ice",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - Odd Keystone",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Pkmn LA - The Azure Flute",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Overcooked! 2 - The Necro-nomnom-icon",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn R/B - Boulder Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Cascade Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Soul Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Pkmn R/B - Thunder Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Stardew - A dinosaur egg",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The ancient sword",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The chipped amphora",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Stardew - The golden mask",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "TLoZ - The Book of Spells",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - The Magical Sword",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "TLoZ - The Triforce of Wisdom",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "The Witness - A Functioning Brain",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "The Witness - Swampy Boots",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Tunic - Hero's Laurels",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - Magic Dagger",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - Magic Orb",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Tunic - Magic Rod",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Ambush - DOOM 1993 - A Hellknight",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "Ambush - DOOM 1993 - A cacodemon",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "Ambush - DOOM 1993 - A pair of revenants",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "Ambush - DOOM 1993 - Zombie soldiers",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM 1993"
+  },
+  {
+    "name": "Ambush - DOOM II - A Baron of Hell",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "Ambush - DOOM II - A horde of lost souls",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "Ambush - DOOM II - Three imps",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "Ambush - DOOM II - Two Zombie Sergeants",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "DOOM II"
+  },
+  {
+    "name": "Ambush - FFXIV - A plant turns out to be a cactaur",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Ambush - FFXIV - Surrounded by Imperial forces",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Ambush - FFXIV - You get caught in an Ifrit trial",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Trap - FFXIV - Caught by a pair of Sahagin",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Trap - FFXIV - The ground below you blinks with a targeting reticle",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_FFXIV_Silasary"
+  },
+  {
+    "name": "Ambush - Core - A Varou hunting party",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Ambush - Core - A colony of swamp rats defending their home",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Ambush - Core - A raider ship searching for treasure",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Ambush - Core - A starving wolf pack",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Ambush - Core - An iron revenant out for blood",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Trap - Core - An Elvish net trap for catching boar",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_Ironsworn_Axxroy"
+  },
+  {
+    "name": "Ambush - MH Rise - A Khezu on the ceiling",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Ambush - MH Rise - A flock of Izuchi",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Ambush - MH Rise - Jagras looking for lunch",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Trap - MH Rise - A bubble of poisonous gasses",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Trap - MH Rise - A chunk of the wall bursts with pressurized hot magma",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_MHRiseHub_Axxroy"
+  },
+  {
+    "name": "Ambush - Pkmn LA - A Drifblim floats down toward you",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Ambush - Pkmn LA - Ambushed by the Miss Fortune Bandits",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Ambush - Pkmn LA - You're chased by a territorial Carnivine",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Ambush - Overcooked! 2 - The night of the unbread",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Overcooked! 2"
+  },
+  {
+    "name": "Ambush - Pkmn R/B - A Lost Hiker challenges you to fight",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Ambush - Pkmn R/B - A Team Rocket grunt tries to steal your stuff",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Ambush - Pkmn R/B - The ground rumbles as an Onyx appears",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Trap - Pkmn R/B - A grid of trash cans that electrocute you",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Trap - Pkmn R/B - A teleport pad sends you to another floor",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Ambush - Stardew - A horrible mutant fly",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Ambush - Stardew - A wilderness golem stumbles out of the darkness",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Ambush - Stardew - So many green slimes...",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Trap - Stardew - A ladder opens beneath your feet to the floor below",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Stardew Valley"
+  },
+  {
+    "name": "Ambush - TLoZ - A lynel charges you from nowhere",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "Ambush - TLoZ - An Octoroc pops out of the ground!",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "Trap - TLoZ - A moblin hurling explosives",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Legend of Zelda"
+  },
+  {
+    "name": "Ambush - The Witness - A statue animates and attacks",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Trap - The Witness - A barrier with a strange puzzle",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Trap - The Witness - A bridge with rotating platforms",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "The Witness"
+  },
+  {
+    "name": "Ambush - Tunic - A horde of crabbos with their nasty pinchers",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Ambush - Tunic - A lost echo, angry at its abandonment",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Ambush - Tunic - A slorm! Watch out, they explode",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Ambush - Tunic - An autobolt emerges from the ground",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Ambush - Tunic - Terry!!! Please don't eat me!",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Tunic"
+  },
+  {
+    "name": "Asset Upgrade",
+    "category": [
+      "Upgrade"
+    ],
+    "count": "6",
+    "useful": true
+  },
+  {
+    "name": "Shard of Reality",
+    "category": [
+      "Victory"
+    ],
+    "count": "10",
+    "progression": true
+  }
 ]
