@@ -90,6 +90,51 @@
     "game": "DOOM II"
   },
   {
+    "name": "FATED - Hollow Knight - Ghost of Hallownest, you possess the strength to enact an end of your choosing.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "MASKED - Hollow Knight - A mask! A face! Does it need one? Does it not? To define. To focus. To exist.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "REVENANT - Hollow Knight - Sometimes we leave our regrets behind in the world, like black stains.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "SHADOW-KIN - Hollow Knight - That pulsing emptiness... Truly, it has been transformed by the revelations it found.",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "SHADOW-WALK - Hollow Knight - ...Void... Power... Without unity...",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
     "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
     "category": [
       "Asset"
@@ -1278,6 +1323,42 @@
     "game": "DOOM II"
   },
   {
+    "name": "Hollow Knight - Colosseum of Fools",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Deepnest",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - The Hive",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - White Palace",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
     "name": "FFXIV - Dzemael Darkhold",
     "category": [
       "Dungeon"
@@ -1933,6 +2014,96 @@
     "count": "1",
     "filler": true,
     "game": "DOOM II"
+  },
+  {
+    "name": "Hollow Knight - Fury of the Fallen",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Hallownest Seal",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Lifeblood Heart",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Longnail",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Lumafly Lantern",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Map and Quill",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Mask Shard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Mothwing Cloak",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Rancid Egg",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Vessel Fragment",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Hollow Knight"
   },
   {
     "name": "FFXIV - Carbonweave Apron of Crafting",
@@ -2835,6 +3006,51 @@
     "game": "DOOM II"
   },
   {
+    "name": "Hollow Knight Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Hollow Knight"
+  },
+  {
     "name": "FFXIV Quest 1",
     "category": [
       "Quest"
@@ -3402,6 +3618,42 @@
     "game": "DOOM II"
   },
   {
+    "name": "Hollow Knight - Delicate Flower",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Godtuner",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - Hunter's Mark",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Hollow Knight - King's Brand",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Hollow Knight"
+  },
+  {
     "name": "FFXIV - Anemos Seventh Hell Armor",
     "category": [
       "Relic"
@@ -3850,6 +4102,51 @@
     "count": "1",
     "trap": true,
     "game": "DOOM II"
+  },
+  {
+    "name": "Ambush - Hollow Knight - A Soul Twister",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Ambush - Hollow Knight - A lesser Mawlek",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Ambush - Hollow Knight - Two Aspids",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Trap - Hollow Knight - A bed of crooked spikes",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Hollow Knight"
+  },
+  {
+    "name": "Trap - Hollow Knight - A pool of acid water",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Hollow Knight"
   },
   {
     "name": "Ambush - FFXIV - A plant turns out to be a cactaur",

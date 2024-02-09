@@ -213,3 +213,14 @@ DOOM II:
   name: SLAYER
 - description: The Super Shotgun
   name: GUNNER [SF]
+Hollow Knight:
+- name: MASKED
+  description: A mask! A face! Does it need one? Does it not? To define. To focus. To exist.
+- name: REVENANT
+  description: Sometimes we leave our regrets behind in the world, like black stains.
+- name: SHADOW-KIN
+  description: That pulsing emptiness... Truly, it has been transformed by the revelations it found. 
+- name: FATED
+  description: Ghost of Hallownest, you possess the strength to enact an end of your choosing.
+- name: SHADOW-WALK
+  description: ...Void... Power... Without unity...
