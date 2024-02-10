@@ -224,3 +224,14 @@ Hollow Knight:
   description: Ghost of Hallownest, you possess the strength to enact an end of your choosing.
 - name: SHADOW-WALK
   description: ...Void... Power... Without unity...
+Minecraft:
+- name: ALCHEMIST
+  description: A blaze rod brewing stand
+- name: OUTCAST
+  description: You learned how to survive in the open wilderness
+- name: WRIGHT
+  description: Craft, it's... in the name
+- name: WILDBLOOD
+  description: Exploring the wilds to find adventure
+- name: SHIELD-BEARER
+  description: A robust shield with your personal banner
