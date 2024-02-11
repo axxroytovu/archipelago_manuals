@@ -2156,10 +2156,27 @@
     ]
   },
   {
+    "name": "Puzzle 299 - Skyscraper",
+    "region": "Comparison Sudoku",
+    "category": [
+      "Comparison Sudoku",
+      "April Fools"
+    ]
+  },
+  {
+    "name": "Puzzle 300 - Kakuro",
+    "region": "Variant Sudoku",
+    "category": [
+      "Variant Sudoku",
+      "April Fools"
+    ]
+  },
+  {
     "name": "Puzzle 301 - Classy Sudoku",
     "region": "Classic Sudoku",
     "category": [
-      "Classic Sudoku"
+      "Classic Sudoku",
+      "April Fools"
     ]
   },
   {
@@ -4735,28 +4752,32 @@
     "name": "Puzzle 666.1 - Big Fish",
     "region": "Variant Sudoku",
     "category": [
-      "Variant Sudoku"
+      "Variant Sudoku",
+      "April Fools"
     ]
   },
   {
     "name": "Puzzle 666.2 - April Fools, 2023",
     "region": "Variant Sudoku",
     "category": [
-      "Variant Sudoku"
+      "Variant Sudoku",
+      "April Fools"
     ]
   },
   {
     "name": "Puzzle 666.3 - It's April, Phil",
     "region": "Parity Sudoku",
     "category": [
-      "Parity Sudoku"
+      "Parity Sudoku",
+      "April Fools"
     ]
   },
   {
     "name": "Puzzle 666.4 - Snailed It!",
     "region": "Classic Sudoku",
     "category": [
-      "Classic Sudoku"
+      "Classic Sudoku",
+      "April Fools"
     ]
   },
   {
