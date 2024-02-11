@@ -46,9 +46,13 @@ def before_set_rules(world: World, multiworld: MultiWorld, player: int):
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     pass
+    
+# The item pool before starting items are processed, in case you want to see the raw item pool at that stage
+def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    return item_pool
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
-def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # print(item_pool)
 
     game_duration = get_option_value(multiworld, player, "game_duration") or 4
@@ -183,8 +187,8 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     return item_pool
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
-def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
-    pass
+def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    return item_pool
 
 # This method is called before the victory location has the victory event placed and locked
 def before_pre_fill(world: World, multiworld: MultiWorld, player: int):
@@ -209,3 +213,11 @@ def before_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld,
 # This is called after slot data is set and provides the slot data at the time, in case you want to check and modify it after Manual is done with it
 def after_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld, player: int) -> dict:
     return slot_data
+    
+# This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
+def before_generate_basic(world: World, multiworld: MultiWorld, player: int) -> list:
+    pass
+
+# This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
+def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
+    pass
