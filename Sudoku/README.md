@@ -38,9 +38,9 @@ For this archipelago game, the puzzles are split into multiple regions. Each reg
 - Classic Sudoku: These are your classic 9x9 puzzles with no extra rules. This is the only region available at the beginning of the game.
 - Summation Sudoku: These puzzles rely on addition to meet a certain clue. E.g. Killer sudoku or Arrow sudoku. 
 - Positional Sudoku: These puzzles have additional rules about where certain numbers can be placed. E.g. Windoku or Quads sudoku
-- Comparison Sudoku: These puzzles have rules about certain cells being larger or smaller than other cells. E.g Thermometer sudoku or Fortress sudoku
+- Comparison Sudoku: These puzzles have rules about certain cells having values larger or smaller than other cells. E.g Thermometer sudoku or Fortress sudoku
 - Parity Sudoku: These puzzles rely on some kind of A-or-B type parity to be solved. E.g. Kropki sudoku or Even/Odd sudoku
-- Variant Sudoku: These puzzles have unique rules or are significant variations on existing rulesets, and are often one-of-a-kind.
+- Variant Sudoku: These puzzles have unique rules or are significant variations on existing rulesets, and are often one of a kind.
 - Multi-Rule Sudoku: These puzzles have two or more rules applied at once.
 
 All of the variant regions must be unlocked by finding their respective Key item.
@@ -52,7 +52,7 @@ Reveal Puzzle Average Time: This box allows you to click the "show time" checkma
 Puzzle Skip: This allows you to skip a particularly difficult puzzle and receive its check regardless. Puzzle skips cannot be used on the Victory Gauntlet.
 
 ### Traps
-Extra Puzzle: You may get assigned an extra puzzle. Once you finish your current puzzle, you must complete any assigned trap puzzles before you can move on to your next check puzzle. Puzzle Skips can be used to negate a trap if necessary.
+Extra Puzzle: You may get assigned an extra puzzle. Once you finish your current puzzle, you must complete any assigned trap puzzles before you can move on to your next check puzzle. To complete a trap puzzle, choose a puzzle from the backlog that isn't assigned to you this game and complete it. You can choose randomly, or feel free to choose a puzzle that looks interesting, or even choose a puzzle you've completed for a previous game and want a second chance at. Puzzle Skips can be used to negate a trap if necessary.
 
 ### Filler
 Party Hat: Wooo!

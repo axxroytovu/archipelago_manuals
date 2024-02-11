@@ -10,3 +10,7 @@ Manual_CTCSudoku_Axxroy:
   # Total % of extra victory keys available. 
   # Can be between 0% (only the necessary keys) and 100% (2x as many keys)
   extra_keys: 25
+  # Some puzzles are jokes or silly extra puzzles. If you want to include these puzzles,
+  # enable this option. This does not guarantee that you will be assigned an april fools
+  # puzzle, just that they are allowed in the pool.
+  april_fools: false
