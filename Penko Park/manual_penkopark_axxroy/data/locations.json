@@ -396,6 +396,444 @@
 	    "requires": "|Progressive Grabber:2|"
 	},
 	{
+		"name": "Penki - Volcanic Caverns",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Fungler - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Fungler - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Plopp - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Plopp - Explode",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gasofant - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Gasofant - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Krabbl - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Krabbl - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Krabbl - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Dampfling - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Dampfling - Explode",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Spork - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spork - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Leaf Song|"
+	},
+	{
+		"name": "Onipap - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Onipap - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Lobo - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Happy",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Tubako - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Tubako - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Tubor - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Keepekoo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Keepeko - Moving",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Keepeko - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Guarded",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Helge - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Motter - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Motter - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Motter - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Goato - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goato - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rumple - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rumple - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Rumple - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Slaidi - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Slaidi - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rosolord - Hidden",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rosolord - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Turfo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Turfo - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Spink - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spink - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spink - Afraid",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Spink - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Akakai - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Akakai - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Monte - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goomer - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goomer - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Hilo - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Hilo - Happy",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Hilo - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Bronko - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Bronko - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Eulo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Eulo - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Eulo - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Crown Song|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost TL",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabbers:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost TR",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabbers:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost BL",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabbers:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost BR",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabbers:2|"
+	},
+	{
 		"name": "Penki - Erlpenki Coliseum",
 		"region": "Erlpenki Coliseum",
 		"category": ["Erlpenki Coliseum"],
