@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Penki - Boulder Forest",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
 		"name": "Schnog - Guarded",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
@@ -15,13 +21,19 @@
 		"name": "Babok - Neutral",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Progressive Grabby Hand - Spirit World|"
+		"requires": "|Progressive Grabber|"
 	},
 	{
 		"name": "Babok - Scared",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Progressive Grabby Hand - Spirit World| AND |Penko Ball|"
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Babok - Singing",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Progressive Grabber| AND |Lava Song|"
 	},
 	{
 		"name": "Koyk - Neutral",
@@ -36,28 +48,22 @@
 		"requires": "|Penko Ball|"
 	},
 	{
-		"name": "Penki - Boulder Forest",
-		"region": "Boulder Forest",
-		"category": ["Boulder Forest"],
-		"requires": []
-	},
-	{
 		"name": "Dubbel - Asleep",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
-		"name": "Dubbel - Neutral",
+		"name": "Dubbel - Special",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Penko Ball|"
+		"requires": "|Leaf Song|"
 	},
 	{
 		"name": "Dubbel - Singing",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Leaf Song|"
+		"requires": "|Penko Ball|"
 	},
 	{
 		"name": "Agog - Neutral",
@@ -115,31 +121,31 @@
 	},
 	{
 		"name": "Berlbub - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Berlbub - Angry",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Penko Ball|"
 	},
 	{
 		"name": "Berlbub - Asleep",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Smoll - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Smoll - Angry",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
@@ -151,37 +157,37 @@
 	},
 	{
 		"name": "Kappo - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
-		"name": "Kappo - Singing",
-		"region": "Boulder Forest",
+		"name": "Kappo - Happy",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Water Song|"
 	},
 	{
 		"name": "Hokori - Asleep",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Hokori - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Buranchi - Guarded",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Buranchi - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Penko Ball|"
 	},
@@ -189,11 +195,11 @@
 		"name": "Shromp - Guarded",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Leaf Song|"
+		"requires": "|Progressive Grabber|"
 	},
 	{
 		"name": "Shromp - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
@@ -211,7 +217,7 @@
 	},
 	{
 		"name": "Citru - Asleep",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
@@ -225,71 +231,71 @@
 		"name": "Citru - Neutral",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Path Switcher|"
+		"requires": []
 	},
 	{
 		"name": "Gnapho - Neutral",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": "|Path Switcher|"
+		"requires": []
 	},
 	{
 		"name": "Gnapho - Asleep",
-		"region": "Boulder Forest",
-		"category": ["Boulder Forest"],
-		"requires": "|Path Switcher|"
-	},
-	{
-		"name": "Gnapholee - Guarded",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
+		"name": "Gnapholee - Guarded",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
 		"name": "Gnapholee - Playful",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Penko Ball|"
 	},
 	{
 		"name": "Gnapholee - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
-		"requires": "|Penko Ball|"
+		"requires": []
 	},
 	{
 		"name": "Slonko - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Slonko - Singing",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Ice Song|"
 	},
 	{
 		"name": "Hollo - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
-		"name": "Hollo - Singing",
-		"region": "Boulder Forest",
+		"name": "Hollo - Angry",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": "|Crown Song|"
 	},
 	{
 		"name": "Okiel - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
 	{
 		"name": "Wamu - Neutral",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
@@ -303,11 +309,11 @@
 		"name": "Pirko - Afraid",
 		"region": "Boulder Forest",
 		"category": ["Boulder Forest"],
-		"requires": []
+		"requires": "|Penko Ball|"
 	},
 	{
 		"name": "Pirko - Asleep",
-		"region": "Boulder Forest",
+		"region": "Boulder Forest Alternate Paths",
 		"category": ["Boulder Forest"],
 		"requires": []
 	},
@@ -366,6 +372,30 @@
 		"requires": "|Penko Ball|"
 	},
 	{
+	    "name": "Boulder Forest Ghost TL",
+	    "region": "Boulder Forest",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost TR",
+	    "region": "Boulder Forest Alternate Paths",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost BL",
+	    "region": "Boulder Forest Alternate Paths",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost BR",
+	    "region": "Boulder Forest",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
 		"name": "Penki - Erlpenki Coliseum",
 		"region": "Erlpenki Coliseum",
 		"category": ["Erlpenki Coliseum"],
@@ -375,25 +405,25 @@
 		"name": "Erlpenki - Asleep",
 		"region": "Erlpenki Coliseum",
 		"category": ["Erlpenki Coliseum"],
-		"requires": "|Progressive Grabby Hand - Spirit World|"
+		"requires": "|Progressive Grabber|"
 	},
 	{
 		"name": "Erlpenki - Angry",
 		"region": "Erlpenki Coliseum",
 		"category": ["Erlpenki Coliseum"],
-		"requires": "|Progressive Grabby Hand - Spirit World| AND |Crown Song|"
+		"requires": "|Progressive Grabber| AND |Crown Song| AND |Penko Ball|"
 	},
 	{
 		"name": "Erlpenki - Neutral",
 		"region": "Erlpenki Coliseum",
 		"category": ["Erlpenki Coliseum"],
-		"requires": "|Progressive Grabby Hand - Spirit World| AND |Crown Song|"
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
 	},
 	{
 		"name": "Erlpenki - Playful",
 		"region": "Erlpenki Coliseum",
 		"victory": true,
 		"category": ["Erlpenki Coliseum"],
-		"requires": "|Progressive Grabby Hand - Spirit World:2| AND |Crown Song|"
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
 	}
 ]
