@@ -1,0 +1,110 @@
+[
+	{
+		"count":1,
+		"name": "Erlpenki Coliseum",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boulder Forest",
+		"category": ["Map","Starter Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Volcanic Caverns",
+		"category": ["Map","Starter Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crater Lake",
+		"category": ["Map","Starter Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shivering Crypts",
+		"category": ["Map","Starter Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Penko Ball",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Grabber",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Braking",
+		"category": ["Tool"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Upgraded Accelerator",
+		"category": ["Tool"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Leaf Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Water Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ice Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lava Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crown Song",
+		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boulder Forest Alternate Paths",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Volcanic Caverns Alternate Paths",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crater Lake Alternate Paths",
+		"category": ["Map"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shivering Crypts Alternate Paths",
+		"category": ["Map"],
+		"progression": true
+	}
+]

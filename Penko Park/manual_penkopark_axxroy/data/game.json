@@ -1,0 +1,9 @@
+{
+    "game": "PenkoPark",
+    "creator": "Axxroy",
+    "filler_item_name": "Blurry cryptid photo",
+    "starting_items":
+    [
+        {"item_categories":["Starter Map"],"random":1}
+    ]
+}

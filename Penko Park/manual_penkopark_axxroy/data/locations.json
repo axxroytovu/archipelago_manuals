@@ -1,0 +1,1881 @@
+[
+	{
+		"name": "Penki - Boulder Forest",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Schnog - Guarded",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Schnog - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Babok - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Babok - Scared",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Babok - Singing",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Progressive Grabber| AND |Lava Song|"
+	},
+	{
+		"name": "Koyk - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Koyk - Flying",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Dubbel - Asleep",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Dubbel - Special",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Leaf Song|"
+	},
+	{
+		"name": "Dubbel - Singing",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Agog - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Omomo - Guarded",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Omomo - Singing",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Nauplti - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Nauplti - Angry",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Aco - Flying",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Aco - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Yaga - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Yaga - Singing",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Berlbub - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Berlbub - Angry",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Berlbub - Asleep",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Smoll - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Smoll - Angry",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Smoll - Asleep",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Kappo - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Kappo - Happy",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Hokori - Asleep",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Hokori - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Buranchi - Guarded",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Buranchi - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Shromp - Guarded",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Shromp - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Boggo - Guarded",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Boggo - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Citru - Asleep",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Citru - Special",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Citru - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Gnapho - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Gnapho - Asleep",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Gnapholee - Guarded",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gnapholee - Playful",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gnapholee - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Slonko - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Slonko - Singing",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Hollo - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Hollo - Angry",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": "|Crown Song|"
+	},
+	{
+		"name": "Okiel - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Wamu - Neutral",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Pirko - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Pirko - Afraid",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Pirko - Asleep",
+		"region": "Boulder Forest Alternate Paths",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Papilo - Guarded",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Papilo - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Grogro - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Grogro - Asleep",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Grogro - Angry",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Moru - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Moru - Surprised",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Mudgunk - Neutral",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": []
+	},
+	{
+		"name": "Mudgunk - Surprised",
+		"region": "Boulder Forest",
+		"category": ["Boulder Forest"],
+		"requires": "|Penko Ball|"
+	},
+	{
+	    "name": "Boulder Forest Ghost TL",
+	    "region": "Boulder Forest",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost TR",
+	    "region": "Boulder Forest Alternate Paths",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost BL",
+	    "region": "Boulder Forest Alternate Paths",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+	    "name": "Boulder Forest Ghost BR",
+	    "region": "Boulder Forest",
+	    "category": ["Boulder Forest"],
+	    "requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Penki - Volcanic Caverns",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Fungler - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Fungler - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Plopp - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Plopp - Explode",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gasofant - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Gasofant - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Krabbl - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Krabbl - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Krabbl - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Dampfling - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Dampfling - Explode",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Spork - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spork - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Leaf Song|"
+	},
+	{
+		"name": "Onipap - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Onipap - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Lobo - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Lobo - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Happy",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Doug - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Knuspers - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Tubako - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Tubako - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Tubor - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Keepekoo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Keepeko - Moving",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Keepeko - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Guarded",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Helge - Angry",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Helge - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Motter - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Motter - Singing",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Motter - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Goato - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goato - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rumple - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rumple - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Rumple - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Slaidi - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Slaidi - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rosolord - Hidden",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Rosolord - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Turfo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Turfo - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Spink - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spink - Asleep",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Spink - Afraid",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Spink - Guarded",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Akakai - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Akakai - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Monte - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goomer - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Goomer - Flying",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Hilo - Neutral",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Hilo - Happy",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Hilo - Asleep",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Bronko - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Bronko - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Eulo - Neutral",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Eulo - Afraid",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": []
+	},
+	{
+		"name": "Eulo - Happy",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Crown Song|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost TL",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost TR",
+		"region": "Volcanic Caverns Alternate Paths",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost BL",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Volcanic Caverns Ghost BR",
+		"region": "Volcanic Caverns",
+		"category": ["Volcanic Caverns"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Penki - Crater Lake",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Manclam - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Manclam - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Manclam - Singing",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Blingo - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Blingo - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Alggo - Asleep",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Alggo - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Bear - Asleep",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Bear - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Issy - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Issy - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Issy - Angry",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Specki - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Specki - Explode",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Specki - Afraid",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Coco - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Coco - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Coco - Happy",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Jellor - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Jellor - Special",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Poropic - Happy",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Poropic - Explode",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Poropic - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Moebio - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Moebio - Special",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Pebbol - Guarded",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Pebbol - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Calci - Guarded",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Calci - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Calci - Singing",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Shaboo - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Shaboo - Angry",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Shaboo - Special",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Uekmeup - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Uekmeup - Happy",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Uekmeup - Moving",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Nhorelle - Guarded",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Nhorelle - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Eufonio - Asleep",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Eufonio - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Wooblorn - Neurtral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Wooblorn - Asleep",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Gotto - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Gotto - Singing",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Crown Song|"
+	},
+	{
+		"name": "Gotto - Special",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gewurm - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Frosh - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Frosh - Happy",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Fropp - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Fropp - Singing",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Fropp - Special",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Fropp - Asleep",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Monkl - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Monkl - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Monkl - Angry",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Yeto - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Yeto - Asleep",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Yeto - Special",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Leaf Song|"
+	},
+	{
+		"name": "Dave - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Dave - Happy",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Dave - Flying",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Dave - Special",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Crobb - Guarded",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Crobb - Neutral",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Crobb - Angry",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Abe - Neutral",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Abe - Singing",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Abe - Special",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": []
+	},
+	{
+		"name": "Crater Lake Ghost TL",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Crater Lake Ghost TR",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Crater Lake Ghost BL",
+		"region": "Crater Lake",
+		"category": ["Crater Lake"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Crater Lake Ghost BR",
+		"region": "Crater Lake Alternate Paths",
+		"category": ["Crater Lake"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Penki - Shivering Crypts",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jim - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jim - Singing",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Jim - Asleep",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Trepp - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Trepp - Happy",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Trepp - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Roggen - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Roggen - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Grillo - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Grillo - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Grillo - Asleep",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Rubertus - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Rubertus - Guarded",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Pyenki - Guarded",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Pyenki - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Pyenki - Angry",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Eggritt - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Eggritt - Special",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Eggritt - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Fezri - Asleep",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Fezri - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Fezri - Special",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball| AND |Ice Song|"
+	},
+	{
+		"name": "Groosel - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Groosel - Angry",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Mirkosch - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Mirkosch - Angry",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Haag - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Haag - Explode",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Haag - Angry",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Haag - Singing",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball| AND |Crown Song|"
+	},
+	{
+		"name": "Stein - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Stein - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Mama - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Mama - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Mama - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Kekec - Guarded",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Kekec - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Leaf Song|"
+	},
+	{
+		"name": "Kekec - Happy",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Schnekk - Guarded",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Schnekk - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Ice Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Wendigut - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Wendigut - Happy",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Wendigut - Guarded",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Bricko - Guarded",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Bricko - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Bricko - Happy",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Bricko - Flying",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Ice Song|"
+	},
+	{
+		"name": "Jubdrup - Asleep",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jubdrup - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jubdrup - Happy",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Jubdrup - Singing",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Beetrok - Asleep",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Beetrock - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Baby - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Baby - Afraid",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Baby - Happy",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Angel - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Angel - Special",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Boumann - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Boumann - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Lava Song|"
+	},
+	{
+		"name": "Krupuk - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Krupuk - Angry",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Bohn - Guarded",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Bohn - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Water Song|"
+	},
+	{
+		"name": "Bohn - Happy",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Water Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Po - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Po - Special",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Po - Happy",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Dimitri - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Dimitri - Singing",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Tuff - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Tuff - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jeanette - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jeanette - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Jean - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jean - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Jean - Special",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Orkel - Neutral",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Orkel - Afraid",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Orkel - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Orkel - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Hotto - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Hotto - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Hotto - Asleep",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Gelati - Neutral",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Gelati - Angry",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": "|Penko Ball|"
+	},
+	{
+		"name": "Gelati - Afraid",
+		"region": "Shivering Crypts",
+		"category": ["Shivering Crypts"],
+		"requires": []
+	},
+	{
+		"name": "Shivering Crypts Ghost TL",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Shivering Crypts Ghost TR",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Shivering Crypts Ghost BL",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Shivering Crypts Ghost BR",
+		"region": "Shivering Crypts Alternate Paths",
+		"category": ["Shivering Crypts"],
+		"requires": "|Progressive Grabber:2|"
+	},
+	{
+		"name": "Penki - Erlpenki Coliseum",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": []
+	},
+	{
+		"name": "Erlpenki - Asleep",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber|"
+	},
+	{
+		"name": "Erlpenki - Angry",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber| AND |Crown Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki - Neutral",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki - Playful",
+		"region": "Erlpenki Coliseum",
+		"victory": true,
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki Coliseum Ghost TL",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki Coliseum Ghost TR",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki Coliseum Ghost BL",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
+	},
+	{
+		"name": "Erlpenki Coliseum Ghost BR",
+		"region": "Erlpenki Coliseum",
+		"category": ["Erlpenki Coliseum"],
+		"requires": "|Progressive Grabber:2| AND |Crown Song| AND |Penko Ball|"
+	}
+]
