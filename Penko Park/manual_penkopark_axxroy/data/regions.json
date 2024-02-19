@@ -1,5 +1,5 @@
 {
-	"Menu": 	{
+	"Map": 	{
 		"starting": true,
 		"connects_to": ["Boulder Forest","Volcanic Caverns","Crater Lake","Shivering Crypts","Erlpenki Coliseum"],
 		"requires": []

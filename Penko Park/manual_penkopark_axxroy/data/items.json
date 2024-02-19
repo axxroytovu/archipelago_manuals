@@ -14,19 +14,19 @@
 	{
 		"count":1,
 		"name": "Volcanic Caverns",
-		"category": ["Map"],
+		"category": ["Map","Starter Map"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Crater Lake",
-		"category": ["Map"],
+		"category": ["Map","Starter Map"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Shivering Crypts",
-		"category": ["Map"],
+		"category": ["Map","Starter Map"],
 		"progression": true
 	},
 	{
@@ -86,25 +86,25 @@
 	{
 		"count":1,
 		"name": "Boulder Forest Alternate Paths",
-		"category": ["Tool"],
+		"category": ["Map"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Volcanic Caverns Alternate Paths",
-		"category": ["Tool"],
+		"category": ["Map"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Crater Lake Alternate Paths",
-		"category": ["Tool"],
+		"category": ["Map"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Shivering Crypts Alternate Paths",
-		"category": ["Tool"],
+		"category": ["Map"],
 		"progression": true
 	}
 ]
