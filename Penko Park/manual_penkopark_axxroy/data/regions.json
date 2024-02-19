@@ -5,20 +5,36 @@
 		"requires": []
 	},
 	"Boulder Forest": 	{
-		"connects_to": [],
+		"connects_to": ["Boulder Forest Alternate Paths"],
 		"requires": "|Boulder Forest|"
 	},
-	"Volcanic Caverns": 	{
+	"Boulder Forest Alternate Paths": 	{
 		"connects_to": [],
+		"requires": "|Boulder Forest Alternate Paths|"
+	},
+	"Volcanic Caverns": 	{
+		"connects_to": ["Volcanic Caverns Alternate Paths"],
 		"requires": "|Volcanic Caverns|"
 	},
-	"Crater Lake": 	{
+	"Volcanic Caverns Alternate Paths": 	{
 		"connects_to": [],
+		"requires": "|Volcanic Caverns Alternate Paths|"
+	},
+	"Crater Lake": 	{
+		"connects_to": ["Crater Lake Alternate Paths"],
 		"requires": "|Crater Lake|"
 	},
-	"Shivering Crypts": 	{
+	"Crater Lake Alternate Paths": 	{
 		"connects_to": [],
+		"requires": "|Crater Lake Alternate Paths|"
+	},
+	"Shivering Crypts": 	{
+		"connects_to": ["Shivering Crypts Alternate Paths"],
 		"requires": "|Shivering Crypts|"
+	},
+	"Shivering Crypts Alternate Paths": 	{
+		"connects_to": [],
+		"requires": "|Shivering Crypts Alternate Paths|"
 	},
 	"Erlpenki Coliseum": 	{
 		"connects_to": [],

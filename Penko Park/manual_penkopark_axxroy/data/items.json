@@ -37,9 +37,21 @@
 	},
 	{
 		"count": "2",
-		"name": "Progressive Grabby Hand - Spirit World",
+		"name": "Progressive Grabber",
 		"category": ["Tool"],
 		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Braking",
+		"category": ["Tool"],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Upgraded Accelerator",
+		"category": ["Tool"],
+		"useful": true
 	},
 	{
 		"count":1,
@@ -61,20 +73,38 @@
 	},
 	{
 		"count":1,
-		"name": "Fire Song",
+		"name": "Lava Song",
 		"category": ["Song"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Path Switcher",
-		"category": ["Tool"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Crown Song",
 		"category": ["Song"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Boulder Forest Alternate Paths",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Volcanic Caverns Alternate Paths",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crater Lake Alternate Paths",
+		"category": ["Tool"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shivering Crypts Alternate Paths",
+		"category": ["Tool"],
 		"progression": true
 	}
 ]
