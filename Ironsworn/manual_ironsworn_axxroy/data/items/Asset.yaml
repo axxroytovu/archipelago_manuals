@@ -235,3 +235,14 @@ Minecraft:
   description: Exploring the wilds to find adventure
 - name: SHIELD-BEARER
   description: A robust shield with your personal banner
+Factorio:
+- name: GIANT SPIDER
+  description: A strange metal spider from another world
+- name: WARD
+  description: Complex metal cannons form a protective barrier
+- name: ALCHEMIST
+  description: Science involves chemicals and explosions
+- name: WRIGHT
+  description: THE FACTORY HUMS WITH POWER
+- name: SCRY
+  description: Powerful radar scans for hostile threats and useful resources

@@ -128,3 +128,14 @@ Minecraft:
   description: Is that skeleton riding a spider?
 - name: Ambush
   description: An Enderman around a corner. Do you look?
+Factorio:
+- name: Ambush
+  description: A swarm of biters
+- name: Ambush
+  description: A pair of spitter guards
+- name: Ambush
+  description: WORMS
+- name: Trap
+  description: A live grenade appears from nowhere
+- name: Trap
+  description: Evolution! The next enemies you meet are stronger
