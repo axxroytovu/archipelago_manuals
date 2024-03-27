@@ -246,3 +246,14 @@ Factorio:
   description: THE FACTORY HUMS WITH POWER
 - name: SCRY
   description: Powerful radar scans for hostile threats and useful resources
+Kingdom Hearts 2:
+- name: SHADOW-KIN
+  description: Corrupted by the Heartless
+- name: RITUALIST
+  description: An expert at magical skills
+- name: SHADOW WALK
+  description: Move between the veil of the multiworlds
+- name: FIREBRAND [SF]
+  description: Firaga!
+- name: KINDRED
+  description: A duck wearing a shirt with a magic staff

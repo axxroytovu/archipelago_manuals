@@ -139,3 +139,9 @@ Factorio:
   description: A live grenade appears from nowhere
 - name: Trap
   description: Evolution! The next enemies you meet are stronger
+Kingdom Hearts 2:
+- name: Ambush
+  description: A swarm of minor heartless
+- name: Ambush
+  description: A horde of nobodies
+- name: Trap
