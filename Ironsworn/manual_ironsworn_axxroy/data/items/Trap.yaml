@@ -145,3 +145,14 @@ Kingdom Hearts 2:
 - name: Ambush
   description: A horde of nobodies
 - name: Trap
+Pokemon Emerald:
+- name: Ambush
+  description: A pair of team magma grunts
+- name: Ambush
+  description: A camoflaged Kecleon blocks your path
+- name: Ambush
+  description: A flock of hungry Wingull
+- name: Trap
+  description: Heavy volcanic ash begins falling from the sky
+- name: Trap
+  description: A powerful electric barrier blocks your path
