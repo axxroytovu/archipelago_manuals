@@ -58,6 +58,7 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     
     duplicate_games = {
         "Manual_PLAlpha_Miro": "Manual_PLA_Miro",
+        "TUNIC": "Tunic"
     }
     
     for k, v in duplicate_games.items():

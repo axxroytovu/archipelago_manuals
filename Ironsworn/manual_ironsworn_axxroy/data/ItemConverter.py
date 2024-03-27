@@ -105,6 +105,18 @@ def load_yaml(file):
     with open(file, 'r') as yaml_file:
         data = yaml.safe_load(yaml_file)
     item_list = []
+    if file.stem == "Quest":
+        for game, quest_count in data.items():
+            for i in range(quest_count):
+                item_list.append(item(
+                    yamlmode=True,
+                    count=1,
+                    category=["Quest"],
+                    mode="progression",
+                    game=game,
+                    name=str(i+1)
+                ))
+        return item_list
     for game, item_set in data.items():
         for itm in item_set:
             if game == "Starting":
