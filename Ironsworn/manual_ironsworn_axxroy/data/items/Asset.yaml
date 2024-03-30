@@ -279,3 +279,21 @@ Rogue Legacy:
   description: Barbarian class unlocked
 - name: DIVINATION
   description: As the castle reveals itself, patterns emerge
+Risk of Rain 2:
+- name: REVENANT
+  description: You will die, but the planet keeps you alive
+- name: BATTLE-SCARRED
+  description: No one survives the planet without injury
+- name: COMBAT BOT [SF]
+  description: Colonel Droneman sends his regards
+- name: IMPROVISOR
+  description: You can never be sure what your next life will bring
+- name: LEECH
+  description: All these trinkets, so much power
+A Short Hike:
+- name: WAYFINDER
+  description: Hiking expert
+- name: LONG-ARM
+  description: Beachstickball master
+- name: SWAY
+  description: Knowing people lets you help them

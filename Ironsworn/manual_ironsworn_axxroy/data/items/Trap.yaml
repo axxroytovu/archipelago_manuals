@@ -167,3 +167,19 @@ Rogue Legacy:
   description: A Corrupt Knight come to cleanse the castle
 - name: Ambush
   description: A Plinkie begins launching fireballs
+Risk of Rain 2:
+- name: Ambush
+  description: Four Lemurians
+- name: Ambush
+  description: A stone golem
+- name: Trap
+  description: Chunks of earth begin to float and form strange geography
+- name: Ambush
+  description: A bighorn bison, undisturbed
+A Short Hike:
+- name: Trap
+  description: A sudden snowstorm
+- name: Trap
+  description: A ranger in a strange hat questions your travel permits
+- name: Trap
+  description: You lose service/connection to something
