@@ -268,3 +268,14 @@ Pokemon Emerald:
   description: You want to be the very best
 - description: A sturdy Donphan
   name: MAMMOTH
+Rogue Legacy:
+- name: BATTLE-SCARRED
+  description: The wounds of a hundred lifetimes
+- name: EMPOWERED
+  description: Of a great and noble lineage
+- name: REVENANT
+  description: Marked by death
+- name: SUNDERER
+  description: Barbarian class unlocked
+- name: DIVINATION
+  description: As the castle reveals itself, patterns emerge

@@ -156,3 +156,14 @@ Pokemon Emerald:
   description: Heavy volcanic ash begins falling from the sky
 - name: Trap
   description: A powerful electric barrier blocks your path
+Rogue Legacy:
+- name: Trap
+  description: A timer begins with a shiny chest across an obstacle
+- name: Ambush
+  description: A floating Scout eye
+- name: Ambush
+  description: A pair of McRibs
+- name: Ambush
+  description: A Corrupt Knight come to cleanse the castle
+- name: Ambush
+  description: A Plinkie begins launching fireballs
