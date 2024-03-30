@@ -183,3 +183,12 @@ A Short Hike:
   description: A ranger in a strange hat questions your travel permits
 - name: Trap
   description: You lose service/connection to something
+Sonic Adventure 2 Battle:
+- name: Trap
+  description: A boost pad sends you flying
+- name: Ambush
+  description: A horde of G.U.N. robots
+- name: Trap
+  description: A dark chao steals something from you
+- name: Trap
+  description: A random cutscene starts playing
