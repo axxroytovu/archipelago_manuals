@@ -214,3 +214,14 @@ Super Mario World:
   description: A spinning blade on a rail
 - name: Trap
   description: Bouncing lava bubbles
+Super Metroid:
+- name: Trap
+  description: A pool of acid
+- name: Ambush
+  description: A trio of space pirates
+- name: Ambush
+  description: Geemer swarm
+- name: Trap
+  description: A pit of spikes
+- name: Ambush
+  description: Mini-Kraid

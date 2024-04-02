@@ -330,3 +330,14 @@ Super Mario World:
   description: The never ending battle for the Mushroom Kingdom
 - name: WARD
   description: A super star grants protection
+Super Metroid:
+- name: DEMOLITIONIST [SF]
+  description: A collection of power bombs
+- name: LIGHTBEARER
+  description: A plasma beam
+- name: FORTUNE HUNTER
+  description: A mercenary's life
+- name: GIANT SPIDER
+  description: A strangely friendly metroid
+- name: SCRY
+  description: Is that an in-game map?
