@@ -308,3 +308,25 @@ Sonic Adventure 2 Battle:
   description: Gloves that amplify your strength
 - name: WARD
   description: A green bubble of invincibility
+Super Mario 64:
+- name: INFILTRATOR
+  description: The skills to get deep in the castle
+- name: FIREBRAND [SF]
+  description: A fireflower
+- name: BRAWLER
+  description: The incredible skill of jumping on enemies' heads
+- name: VETERAN
+  description: The never ending battle for the Mushroom Kingdom
+- name: HONORBOUND
+  description: Princess Peach has been kidnapped!
+Super Mario World:
+- name: HORSE
+  description: A Yoshi!!
+- name: HONORBOUND
+  description: Princess Peach has been kidnapped!
+- name: BRAWLER
+  description: The incredible skill of jumping on enemies' heads
+- name: VETERAN
+  description: The never ending battle for the Mushroom Kingdom
+- name: WARD
+  description: A super star grants protection

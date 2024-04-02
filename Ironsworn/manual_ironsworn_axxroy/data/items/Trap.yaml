@@ -192,3 +192,25 @@ Sonic Adventure 2 Battle:
   description: A dark chao steals something from you
 - name: Trap
   description: A random cutscene starts playing
+Super Mario 64:
+- name: Ambush
+  description: BOO!
+- name: Ambush
+  description: A horde of Goombas
+- name: Trap
+  description: A bob-omb about to explode
+- name: Trap
+  description: A lake of lava
+- name: Ambush
+  description: Big Bully charges you
+Super Mario World:
+- name: Trap
+  description: A piranha plant
+- name: Ambush
+  description: A trio of Hammer Bros
+- name: Ambush
+  description: A stack of Goombas
+- name: Trap
+  description: A spinning blade on a rail
+- name: Trap
+  description: Bouncing lava bubbles
