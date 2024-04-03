@@ -225,3 +225,25 @@ Super Metroid:
   description: A pit of spikes
 - name: Ambush
   description: Mini-Kraid
+Terraria:
+- name: Ambush
+  description: The Eye of Cthulhu
+- name: Ambush
+  description: The Moon Lord
+- name: Ambush
+  description: Skeletron
+- name: Trap
+  description: A pile of cacti
+- name: Trap
+  description: A pit opens to the spider cave
+Timespinner:
+- name: Ambush
+  description: A meteor sparrow
+- name: Trap
+  description: Neurotoxin butterflies
+- name: Trap
+  description: Falling machine parts
+- name: Ambush
+  description: A Cheveur
+- name: Ambush
+  description: A host of royal guards

@@ -341,3 +341,23 @@ Super Metroid:
   description: A strangely friendly metroid
 - name: SCRY
   description: Is that an in-game map?
+Terraria:
+- name: WEAPONMASTER
+  description: Over 100 different weapons!
+- name: WRIGHT
+  description: A strange crafting station
+- name: TALISMAN
+  description: A whole menu of accessories
+- name: TETHER
+  description: The distilled essence of a biome
+Timespinner:
+- name: RAVEN
+  description: A talking raven tries to sell you trinkets
+- name: DEVOTANT
+  description: The Eternal Mother guides you
+- name: SLINGER
+  description: Two magical orbs float around you
+- name: SHADOW-WALK
+  description: Twin pyramids let you jump between gates
+- name: SIGHTED
+  description: Knowledge from the future
