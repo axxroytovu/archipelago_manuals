@@ -1,5 +1,32 @@
 [
   {
+    "name": "LONG-ARM - A Short Hike - Beachstickball master",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "SWAY - A Short Hike - Knowing people lets you help them",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "WAYFINDER - A Short Hike - Hiking expert",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "A Short Hike"
+  },
+  {
     "name": "BERSERKER - DOOM 1993 - RIP AND TEAR",
     "category": [
       "Asset"
@@ -90,6 +117,51 @@
     "game": "DOOM II"
   },
   {
+    "name": "ALCHEMIST - Factorio - Science involves chemicals and explosions",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "GIANT SPIDER - Factorio - A strange metal spider from another world",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "SCRY - Factorio - Powerful radar scans for hostile threats and useful resources",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "WARD - Factorio - Complex metal cannons form a protective barrier",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "WRIGHT - Factorio - THE FACTORY HUMS WITH POWER",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
     "name": "FATED - Hollow Knight - Ghost of Hallownest, you possess the strength to enact an end of your choosing.",
     "category": [
       "Asset"
@@ -133,6 +205,51 @@
     "count": "1",
     "useful": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "FIREBRAND [SF] - Kingdom Hearts 2 - Firaga!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "KINDRED - Kingdom Hearts 2 - A duck wearing a shirt with a magic staff",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "RITUALIST - Kingdom Hearts 2 - An expert at magical skills",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "SHADOW WALK - Kingdom Hearts 2 - Move between the veil of the multiworlds",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "SHADOW-KIN - Kingdom Hearts 2 - Corrupted by the Heartless",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
@@ -360,6 +477,51 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "ALCHEMIST - Minecraft - A blaze rod brewing stand",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "OUTCAST - Minecraft - You learned how to survive in the open wilderness",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "SHIELD-BEARER - Minecraft - A robust shield with your personal banner",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "WILDBLOOD - Minecraft - Exploring the wilds to find adventure",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "WRIGHT - Minecraft - Craft, it's... in the name",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "ALCHEMIST - Overcooked! 2 - Strange potions like 'pizza' and 'burrito'",
     "category": [
       "Asset"
@@ -403,6 +565,51 @@
     "count": "1",
     "useful": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "ANIMAL-KIN - Pkmn Em - A collection of strange candies that animals seem to love",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "FATED - Pkmn Em - You want to be the very best",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "HAWK - Pkmn Em - A sleek Swellow",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "MAMMOTH - Pkmn Em - A sturdy Donphan",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "WATERBORN - Pkmn Em - 7.8/10 too much water",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
   },
   {
     "name": "ANIMAL-KIN - Pkmn R/B - A pokedex tells you exactly what animals want",
@@ -457,6 +664,141 @@
     "count": "1",
     "useful": true,
     "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "BATTLE-SCARRED - Risk of Rain 2 - No one survives the planet without injury",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "COMBAT BOT [SF] - Risk of Rain 2 - Colonel Droneman sends his regards",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "IMPROVISOR - Risk of Rain 2 - You can never be sure what your next life will bring",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "LEECH - Risk of Rain 2 - All these trinkets, so much power",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "REVENANT - Risk of Rain 2 - You will die, but the planet keeps you alive",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "BATTLE-SCARRED - Rogue Legacy - The wounds of a hundred lifetimes",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "DIVINATION - Rogue Legacy - As the castle reveals itself, patterns emerge",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "EMPOWERED - Rogue Legacy - Of a great and noble lineage",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "REVENANT - Rogue Legacy - Marked by death",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "SUNDERER - Rogue Legacy - Barbarian class unlocked",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "BRAWLER - SA2B - Training from Knuckles",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SIDEKICK [SF] - SA2B - A friendly fox who knows everything",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "THUNDER-BRINGER - SA2B - Gloves that amplify your strength",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "WARD - SA2B - A green bubble of invincibility",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "WAYFINDER - SA2B - Gotta go fast",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
   },
   {
     "name": "ANIMAL KIN - Stardew - Marnie's lessons on raising animals flood your mind",
@@ -1116,6 +1458,177 @@
     "useful": true
   },
   {
+    "name": "BRAWLER - Super Mario 64 - The incredible skill of jumping on enemies' heads",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "FIREBRAND [SF] - Super Mario 64 - A fireflower",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "HONORBOUND - Super Mario 64 - Princess Peach has been kidnapped!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "INFILTRATOR - Super Mario 64 - The skills to get deep in the castle",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "VETERAN - Super Mario 64 - The never ending battle for the Mushroom Kingdom",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "BRAWLER - Super Mario World - The incredible skill of jumping on enemies' heads",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "HONORBOUND - Super Mario World - Princess Peach has been kidnapped!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "HORSE - Super Mario World - A Yoshi!!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "VETERAN - Super Mario World - The never ending battle for the Mushroom Kingdom",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "WARD - Super Mario World - A super star grants protection",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "DEMOLITIONIST [SF] - Super Metroid - A collection of power bombs",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "FORTUNE HUNTER - Super Metroid - A mercenary's life",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "GIANT SPIDER - Super Metroid - A strangely friendly metroid",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "LIGHTBEARER - Super Metroid - A plasma beam",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "SCRY - Super Metroid - Is that an in-game map?",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "TALISMAN - Terraria - A whole menu of accessories",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "TETHER - Terraria - The distilled essence of a biome",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "WEAPONMASTER - Terraria - Over 100 different weapons!",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "WRIGHT - Terraria - A strange crafting station",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
     "name": "FIREBRAND [SF] - TLoZ - A blue candle that shoots flame",
     "category": [
       "Asset"
@@ -1197,6 +1710,51 @@
     "game": "The Witness"
   },
   {
+    "name": "DEVOTANT - Timespinner - The Eternal Mother guides you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "RAVEN - Timespinner - A talking raven tries to sell you trinkets",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "SHADOW-WALK - Timespinner - Twin pyramids let you jump between gates",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "SIGHTED - Timespinner - Knowledge from the future",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "SLINGER - Timespinner - Two magical orbs float around you",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
     "name": "DEMOLITIONIST [SF] - Tunic - A bundle of dynamite, some fire bombs, and a frost bomb",
     "category": [
       "Asset"
@@ -1249,6 +1807,33 @@
     "count": "1",
     "useful": true,
     "game": "Tunic"
+  },
+  {
+    "name": "A Short Hike - Blackwood Trail",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Hawk Peak",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Meteor Lake",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
   },
   {
     "name": "DOOM 1993 - Deimos Lab",
@@ -1323,6 +1908,33 @@
     "game": "DOOM II"
   },
   {
+    "name": "Factorio - A biter hive",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Crashed spaceship",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Underground worm tunnels",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
     "name": "Hollow Knight - Colosseum of Fools",
     "category": [
       "Dungeon"
@@ -1357,6 +1969,42 @@
     "count": "1",
     "progression": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "Kingdom Hearts 2 - Memory's Castle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - The Castle of Nothing",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - The Edge of the World",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - The Hollow Bastion",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "FFXIV - Dzemael Darkhold",
@@ -1647,6 +2295,87 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Minecraft - Ancient City",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Desert Pyramid",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - End City",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Jungle Temple",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Mineshaft",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Nether Fortress",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Ocean Monument",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Pillager Outpost",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Stronghold",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Overcooked! 2 - Glazed Glacier Grotto",
     "category": [
       "Dungeon"
@@ -1681,6 +2410,51 @@
     "count": "1",
     "progression": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn Em - Abandoned Ship",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Mirage Tower",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Seafloor Cavern",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Team Aqual Hideout",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Team Magma Hideout",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
   },
   {
     "name": "Pkmn R/B - Mt. Moon",
@@ -1719,6 +2493,114 @@
     "game": "Pokemon Red and Blue"
   },
   {
+    "name": "Risk of Rain 2 - Abyssal Depths",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Bulwark's Ambry",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Siren's Call Wreckage",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Void Fields",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Rogue Legacy - Castle Hamson",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - The Castle Dungeon",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - The Forest",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - The Tower",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "SA2B - A.R.K.",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Downtown San Francisco",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Eggman's Desert Base",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Island Military Complex",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
     "name": "Stardew - Skull Cavern",
     "category": [
       "Dungeon"
@@ -1753,6 +2635,150 @@
     "count": "1",
     "progression": true,
     "game": "Stardew Valley"
+  },
+  {
+    "name": "Super Mario 64 - Big Boo's Haunt",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Cool Cool Mountain",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Jolly Roger Bay",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Tick Tock Clock",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario World - Forest of Illusion",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - Ghost Ship",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - Ghostly Castle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - Koopa Castle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Metroid - Crashed Ship",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Flooded Maridia",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Norfair Caverns",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Tourian Laboratory",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Terraria - The Dungeon",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Hallowed Temple",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Lihzhard Temple",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Underground Jungle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
   },
   {
     "name": "TLoZ - The Demon",
@@ -1809,6 +2835,42 @@
     "game": "The Witness"
   },
   {
+    "name": "Timespinner - Amadeus' Laboratory",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Caves of Banishment",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Royal Towers",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Temporal Gyre",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
     "name": "Tunic - The Floating Library",
     "category": [
       "Dungeon"
@@ -1843,6 +2905,96 @@
     "count": "1",
     "progression": true,
     "game": "Tunic"
+  },
+  {
+    "name": "A Short Hike - A bucket",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - A compass",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - A fishing rod",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - One Walkie Talkie",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Pickaxe",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Running shoes",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Shovel",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Small coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Sunhat",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Wristwatch",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
   },
   {
     "name": "DOOM 1993 - A blue keycard",
@@ -2016,6 +3168,78 @@
     "game": "DOOM II"
   },
   {
+    "name": "Factorio - A canister of rocket fuel",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - A fish",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - A pistol",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Grenade",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Night vision goggles",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Poison capsule",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Slowdown capsule",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Steel pickaxe",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Factorio"
+  },
+  {
     "name": "Hollow Knight - Fury of the Fallen",
     "category": [
       "Items"
@@ -2104,6 +3328,60 @@
     "count": "1",
     "filler": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A bangle charged with energy",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A mysterious keychain",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A powerful elixir",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A staff topped with a hat",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - Large shield",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - Pouch of coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "FFXIV - Carbonweave Apron of Crafting",
@@ -2556,6 +3834,123 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Minecraft - A few diamonds",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - A mysterious potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Bedroll",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Chest with crafting supplies",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Crossbow",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Firework Rocket",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Fishing Rod",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Flint and Steel",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Shulker Box",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Spyglass",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Tipped Arrow",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Trident",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Two Ender Pearls",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Overcooked! 2 - Butcher's knife",
     "category": [
       "Items"
@@ -2599,6 +3994,87 @@
     "count": "1",
     "filler": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn Em - A bottle of milk",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - A sack full of volcanic ash",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - A shining heart scale",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - A strange fossil",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - A strange yellow shard",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - An item finder",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Coin case for holding coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Devon Scope",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Go-Goggles",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Emerald"
   },
   {
     "name": "Pkmn R/B - A bicycle",
@@ -2662,6 +4138,294 @@
     "count": "1",
     "filler": true,
     "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Risk of Rain 2 - Bundle of fireworks",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Crowbar",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Medkit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Old war stealthkit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Power Elixir",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Razorwire",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Red Whip",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Repulsion armor",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Shuriken",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Squid Polyp",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Stun grenade",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Rogue Legacy - A bag of golden coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A bottle of blue liquid",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A deed for a land plot",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A ghostly scythe",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A hundred small daggers",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A locked diary",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A roast chicken",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A talking wooden training dummy",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - A throwing axe",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - Spiked balls that bounce off walls",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "SA2B - 10 Golden Rings",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - A blue cannon",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - A flaming bracelet",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - A glowing metal device",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - A sphere with an image inside",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Energizing rod",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Gloves with spikes",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Glowing crystals",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Miniature animals",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Strange, unnatural fruits",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - White footwear",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Sonic Adventure 2 Battle"
   },
   {
     "name": "Stardew - A fiberglass fishing pole",
@@ -2734,6 +4498,276 @@
     "count": "1",
     "filler": true,
     "game": "Stardew Valley"
+  },
+  {
+    "name": "Super Mario 64 - 10 golden coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - 5 blue coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - 8 red coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - A glowing star",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - A green mushroom",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - A man-sized cannon",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario World - 5 small coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A dragon coin",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A fire flower",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A green mushroom",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A red mushroom",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A solid cloud",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A yellow cape",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - Yoshi Fruits",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Metroid - A batch of missiles",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - A piece of Ridley's shell",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - A shiny metal helmet",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - An e-tank",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Jump boots",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Spherical bombs",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Terraria - Beenades",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Boom Shuriken",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Cloud in a Bottle",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Copper Shortsword",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Enchanted Boomerang",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Fledgling Wings",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Grappling Hook",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Gravitation Potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Hermes Boots",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - Rocket Boots",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Terraria"
   },
   {
     "name": "TLoZ - 20 green crystals",
@@ -2835,6 +4869,96 @@
     "game": "The Witness"
   },
   {
+    "name": "Timespinner - Ancient coin",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Antidote",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Bird statue",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Cheveur drumstick",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Elemental Beads",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Gas mask",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Jewelry box",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Lachiemi Sun",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Pendulum",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Plasma Core",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Timespinner"
+  },
+  {
     "name": "Tunic - A blue fruit",
     "category": [
       "Items"
@@ -2916,6 +5040,51 @@
     "game": "Tunic"
   },
   {
+    "name": "A Short Hike Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "A Short Hike"
+  },
+  {
     "name": "DOOM 1993 Quest 1",
     "category": [
       "Quest"
@@ -2961,7 +5130,7 @@
     "game": "DOOM 1993"
   },
   {
-    "name": "DOOM II Quest 10",
+    "name": "DOOM II Quest 1",
     "category": [
       "Quest"
     ],
@@ -2970,7 +5139,7 @@
     "game": "DOOM II"
   },
   {
-    "name": "DOOM II Quest 6",
+    "name": "DOOM II Quest 2",
     "category": [
       "Quest"
     ],
@@ -2979,7 +5148,7 @@
     "game": "DOOM II"
   },
   {
-    "name": "DOOM II Quest 7",
+    "name": "DOOM II Quest 3",
     "category": [
       "Quest"
     ],
@@ -2988,7 +5157,7 @@
     "game": "DOOM II"
   },
   {
-    "name": "DOOM II Quest 8",
+    "name": "DOOM II Quest 4",
     "category": [
       "Quest"
     ],
@@ -2997,13 +5166,58 @@
     "game": "DOOM II"
   },
   {
-    "name": "DOOM II Quest 9",
+    "name": "DOOM II Quest 5",
     "category": [
       "Quest"
     ],
     "count": "1",
     "progression": true,
     "game": "DOOM II"
+  },
+  {
+    "name": "Factorio Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Factorio"
   },
   {
     "name": "Hollow Knight Quest 1",
@@ -3049,6 +5263,51 @@
     "count": "1",
     "progression": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "Kingdom Hearts 2 Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "FFXIV Quest 1",
@@ -3276,6 +5535,51 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Minecraft Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Overcooked! 2 Quest 1",
     "category": [
       "Quest"
@@ -3319,6 +5623,51 @@
     "count": "1",
     "progression": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn Em Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Pokemon Emerald"
   },
   {
     "name": "Pkmn R/B Quest 1",
@@ -3366,6 +5715,141 @@
     "game": "Pokemon Red and Blue"
   },
   {
+    "name": "Risk of Rain 2 Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Rogue Legacy Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "SA2B Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
     "name": "Stardew Quest 1",
     "category": [
       "Quest"
@@ -3409,6 +5893,186 @@
     "count": "1",
     "progression": true,
     "game": "Stardew Valley"
+  },
+  {
+    "name": "Super Mario 64 Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario World Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Metroid Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Terraria Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Terraria"
   },
   {
     "name": "TLoZ Quest 1",
@@ -3501,6 +6165,51 @@
     "game": "The Witness"
   },
   {
+    "name": "Timespinner Quest 1",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner Quest 2",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner Quest 3",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner Quest 4",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner Quest 5",
+    "category": [
+      "Quest"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Timespinner"
+  },
+  {
     "name": "Tunic Quest 1",
     "category": [
       "Quest"
@@ -3544,6 +6253,24 @@
     "count": "1",
     "progression": true,
     "game": "Tunic"
+  },
+  {
+    "name": "A Short Hike - Golden Feather",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Shell Necklace",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "A Short Hike"
   },
   {
     "name": "DOOM 1993 - BFG 9000",
@@ -3618,6 +6345,42 @@
     "game": "DOOM II"
   },
   {
+    "name": "Factorio - Energy Shield",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Exoskeleton",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Portable Fusion Reactor",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Factorio - Sidertron Remote",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Factorio"
+  },
+  {
     "name": "Hollow Knight - Delicate Flower",
     "category": [
       "Relic"
@@ -3652,6 +6415,42 @@
     "count": "1",
     "useful": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A Charm to summon an ally",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A Keyblade",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - The Genie's Lamp",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - Zeus' bolt",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "FFXIV - Anemos Seventh Hell Armor",
@@ -3870,6 +6669,51 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Minecraft - Dragon Egg",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Elytra",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Enchanted Book",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Golden Apple",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - Nether Star",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Overcooked! 2 - The Necro-nomnom-icon",
     "category": [
       "Relic"
@@ -3877,6 +6721,60 @@
     "count": "1",
     "useful": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "Pkmn Em - A HM that contains Strength",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - A Meteorite",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Balance Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - Stone Badge",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn Em - The Red Orb",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Pkmn R/B - A HM that contains Rock Smash",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Pokemon Red and Blue"
   },
   {
     "name": "Pkmn R/B - Boulder Badge",
@@ -3915,6 +6813,105 @@
     "game": "Pokemon Red and Blue"
   },
   {
+    "name": "Risk of Rain 2 - Beads of Fealty",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Elite Aspect",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Essence of Heresy",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Risk of Rain 2 - Spare Drone Parts",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Rogue Legacy - Calypso's Compass",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - Chestplate of Vampirism",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - Hermes' Boots",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Rogue Legacy - Hyperion's Ring",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "SA2B - Chaos Emeralds",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Goal Ring",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Master Emerald",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
     "name": "Stardew - A dinosaur egg",
     "category": [
       "Relic"
@@ -3949,6 +6946,150 @@
     "count": "1",
     "useful": true,
     "game": "Stardew Valley"
+  },
+  {
+    "name": "Super Mario 64 - Metal Cap",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Vanish Cap",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Wing Cap",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Yellow [!] Block",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario World - A 3 up",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A green pipe",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - A yellow [!] button",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Mario World - Invincibility Star",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Super Metroid - Gravity Suit",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Rainbow Beam",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - Varia Suit",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Super Metroid - X-ray Visor",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Terraria - The Last Prism",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Meowmere",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Terrarian (Yo-yo)",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Terraria - The Zenith",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Terraria"
   },
   {
     "name": "TLoZ - The Book of Spells",
@@ -3996,6 +7137,42 @@
     "game": "The Witness"
   },
   {
+    "name": "Timespinner - Soul Scanner",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Succubus Hairpin",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Talaria Attachment",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Timespinner - Timespinner Wheel",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Timespinner"
+  },
+  {
     "name": "Tunic - Hero's Laurels",
     "category": [
       "Relic"
@@ -4030,6 +7207,33 @@
     "count": "1",
     "useful": true,
     "game": "Tunic"
+  },
+  {
+    "name": "Trap - A Short Hike - A ranger in a strange hat questions your travel permits",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "Trap - A Short Hike - A sudden snowstorm",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "Trap - A Short Hike - You lose service/connection to something",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "A Short Hike"
   },
   {
     "name": "Ambush - DOOM 1993 - A Hellknight",
@@ -4104,6 +7308,51 @@
     "game": "DOOM II"
   },
   {
+    "name": "Ambush - Factorio - A pair of spitter guards",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Ambush - Factorio - A swarm of biters",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Ambush - Factorio - WORMS",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Trap - Factorio - A live grenade appears from nowhere",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Factorio"
+  },
+  {
+    "name": "Trap - Factorio - Evolution! The next enemies you meet are stronger",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Factorio"
+  },
+  {
     "name": "Ambush - Hollow Knight - A Soul Twister",
     "category": [
       "Trap"
@@ -4147,6 +7396,33 @@
     "count": "1",
     "trap": true,
     "game": "Hollow Knight"
+  },
+  {
+    "name": "Ambush - Kingdom Hearts 2 - A horde of nobodies",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Ambush - Kingdom Hearts 2 - A swarm of minor heartless",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Trap - Kingdom Hearts 2 - ",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Kingdom Hearts 2"
   },
   {
     "name": "Ambush - FFXIV - A plant turns out to be a cactaur",
@@ -4320,6 +7596,51 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Ambush - Minecraft - An Enderman around a corner. Do you look?",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Ambush - Minecraft - Hissssssssssss.... BOOM!",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Ambush - Minecraft - Is that skeleton riding a spider?",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Trap - Minecraft - A pressure plate clicks",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Trap - Minecraft - A slot in the wall with an arrow dispenser",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Ambush - Overcooked! 2 - The night of the unbread",
     "category": [
       "Trap"
@@ -4327,6 +7648,51 @@
     "count": "1",
     "trap": true,
     "game": "Overcooked! 2"
+  },
+  {
+    "name": "Ambush - Pkmn Em - A camoflaged Kecleon blocks your path",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Ambush - Pkmn Em - A flock of hungry Wingull",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Ambush - Pkmn Em - A pair of team magma grunts",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Trap - Pkmn Em - A powerful electric barrier blocks your path",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Emerald"
+  },
+  {
+    "name": "Trap - Pkmn Em - Heavy volcanic ash begins falling from the sky",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Emerald"
   },
   {
     "name": "Ambush - Pkmn R/B - A Lost Hiker challenges you to fight",
@@ -4374,6 +7740,123 @@
     "game": "Pokemon Red and Blue"
   },
   {
+    "name": "Ambush - Risk of Rain 2 - A bighorn bison, undisturbed",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Ambush - Risk of Rain 2 - A stone golem",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Ambush - Risk of Rain 2 - Four Lemurians",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Trap - Risk of Rain 2 - Chunks of earth begin to float and form strange geography",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Risk of Rain 2"
+  },
+  {
+    "name": "Ambush - Rogue Legacy - A Corrupt Knight come to cleanse the castle",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Ambush - Rogue Legacy - A Plinkie begins launching fireballs",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Ambush - Rogue Legacy - A floating Scout eye",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Ambush - Rogue Legacy - A pair of McRibs",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Trap - Rogue Legacy - A timer begins with a shiny chest across an obstacle",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Rogue Legacy"
+  },
+  {
+    "name": "Ambush - SA2B - A horde of G.U.N. robots",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "Trap - SA2B - A boost pad sends you flying",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "Trap - SA2B - A dark chao steals something from you",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "Trap - SA2B - A random cutscene starts playing",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
     "name": "Ambush - Stardew - A horrible mutant fly",
     "category": [
       "Trap"
@@ -4408,6 +7891,186 @@
     "count": "1",
     "trap": true,
     "game": "Stardew Valley"
+  },
+  {
+    "name": "Ambush - Super Mario 64 - A horde of Goombas",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Ambush - Super Mario 64 - BOO!",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Ambush - Super Mario 64 - Big Bully charges you",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Trap - Super Mario 64 - A bob-omb about to explode",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Trap - Super Mario 64 - A lake of lava",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Ambush - Super Mario World - A stack of Goombas",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Ambush - Super Mario World - A trio of Hammer Bros",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Trap - Super Mario World - A piranha plant",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Trap - Super Mario World - A spinning blade on a rail",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Trap - Super Mario World - Bouncing lava bubbles",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Mario World"
+  },
+  {
+    "name": "Ambush - Super Metroid - A trio of space pirates",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Ambush - Super Metroid - Geemer swarm",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Ambush - Super Metroid - Mini-Kraid",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Trap - Super Metroid - A pit of spikes",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Trap - Super Metroid - A pool of acid",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Super Metroid"
+  },
+  {
+    "name": "Ambush - Terraria - Skeletron",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Ambush - Terraria - The Eye of Cthulhu",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Ambush - Terraria - The Moon Lord",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Trap - Terraria - A pile of cacti",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Terraria"
+  },
+  {
+    "name": "Trap - Terraria - A pit opens to the spider cave",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Terraria"
   },
   {
     "name": "Ambush - TLoZ - A lynel charges you from nowhere",
@@ -4462,6 +8125,51 @@
     "count": "1",
     "trap": true,
     "game": "The Witness"
+  },
+  {
+    "name": "Ambush - Timespinner - A Cheveur",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Ambush - Timespinner - A host of royal guards",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Ambush - Timespinner - A meteor sparrow",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Trap - Timespinner - Falling machine parts",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Timespinner"
+  },
+  {
+    "name": "Trap - Timespinner - Neurotoxin butterflies",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Timespinner"
   },
   {
     "name": "Ambush - Tunic - A horde of crabbos with their nasty pinchers",

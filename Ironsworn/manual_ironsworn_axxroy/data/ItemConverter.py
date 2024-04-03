@@ -12,7 +12,9 @@ class item:
         "The Legend of Zelda": "TLoZ",
         "Stardew Valley": "Stardew",
         "Manual_PLA_Miro": "Pkmn LA",
-        "Manual_MHRiseHub_Axxroy": "MH Rise"
+        "Manual_MHRiseHub_Axxroy": "MH Rise",
+        "Sonic Adventure 2 Battle": "SA2B",
+        "Pokemon Emerald": "Pkmn Em"
     }
     
     def __init__(self, name, category=[], count="1", game="Starting", progression=False,
