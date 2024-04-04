@@ -1,0 +1,249 @@
+DOOM 1993:
+- description: A pair of revenants
+  name: Ambush
+- description: A Hellknight
+  name: Ambush
+- description: Zombie soldiers
+  name: Ambush
+- description: A cacodemon
+  name: Ambush
+DOOM II:
+- description: Three imps
+  name: Ambush
+- description: A Baron of Hell
+  name: Ambush
+- description: A horde of lost souls
+  name: Ambush
+- description: Two Zombie Sergeants
+  name: Ambush
+Manual_FFXIV_Silasary:
+- description: You get caught in an Ifrit trial
+  name: Ambush
+- description: The ground below you blinks with a targeting reticle
+  name: Trap
+- description: Caught by a pair of Sahagin
+  name: Trap
+- description: A plant turns out to be a cactaur
+  name: Ambush
+- description: Surrounded by Imperial forces
+  name: Ambush
+Manual_Ironsworn_Axxroy:
+- description: A Varou hunting party
+  name: Ambush
+- description: A colony of swamp rats defending their home
+  name: Ambush
+- description: A raider ship searching for treasure
+  name: Ambush
+- description: A starving wolf pack
+  name: Ambush
+- description: An iron revenant out for blood
+  name: Ambush
+- description: An Elvish net trap for catching boar
+  name: Trap
+Manual_MHRiseHub_Axxroy:
+- description: A Khezu on the ceiling
+  name: Ambush
+- description: A flock of Izuchi
+  name: Ambush
+- description: Jagras looking for lunch
+  name: Ambush
+- description: A bubble of poisonous gasses
+  name: Trap
+- description: A chunk of the wall bursts with pressurized hot magma
+  name: Trap
+Manual_PLA_Miro:
+- description: A Drifblim floats down toward you
+  name: Ambush
+- description: Ambushed by the Miss Fortune Bandits
+  name: Ambush
+- description: You're chased by a territorial Carnivine
+  name: Ambush
+Overcooked! 2:
+- description: The night of the unbread
+  name: Ambush
+Pokemon Red and Blue:
+- description: A Lost Hiker challenges you to fight
+  name: Ambush
+- description: A Team Rocket grunt tries to steal your stuff
+  name: Ambush
+- description: The ground rumbles as an Onyx appears
+  name: Ambush
+- description: A grid of trash cans that electrocute you
+  name: Trap
+- description: A teleport pad sends you to another floor
+  name: Trap
+Stardew Valley:
+- description: A horrible mutant fly
+  name: Ambush
+- description: A wilderness golem stumbles out of the darkness
+  name: Ambush
+- description: So many green slimes...
+  name: Ambush
+- description: A ladder opens beneath your feet to the floor below
+  name: Trap
+The Legend of Zelda:
+- description: A lynel charges you from nowhere
+  name: Ambush
+- description: An Octoroc pops out of the ground!
+  name: Ambush
+- description: A moblin hurling explosives
+  name: Trap
+The Witness:
+- description: A statue animates and attacks
+  name: Ambush
+- description: A barrier with a strange puzzle
+  name: Trap
+- description: A bridge with rotating platforms
+  name: Trap
+Tunic:
+- description: A horde of crabbos with their nasty pinchers
+  name: Ambush
+- description: A lost echo, angry at its abandonment
+  name: Ambush
+- description: A slorm! Watch out, they explode
+  name: Ambush
+- description: An autobolt emerges from the ground
+  name: Ambush
+- description: Terry!!! Please don't eat me!
+  name: Ambush
+Hollow Knight:
+- name: Ambush
+  description: A Soul Twister
+- name: Trap
+  description: A pool of acid water
+- name: Trap
+  description: A bed of crooked spikes
+- name: Ambush
+  description: A lesser Mawlek
+- name: Ambush
+  description: Two Aspids
+Minecraft:
+- name: Ambush
+  description: Hissssssssssss.... BOOM!
+- name: Trap
+  description: A pressure plate clicks
+- name: Trap
+  description: A slot in the wall with an arrow dispenser
+- name: Ambush
+  description: Is that skeleton riding a spider?
+- name: Ambush
+  description: An Enderman around a corner. Do you look?
+Factorio:
+- name: Ambush
+  description: A swarm of biters
+- name: Ambush
+  description: A pair of spitter guards
+- name: Ambush
+  description: WORMS
+- name: Trap
+  description: A live grenade appears from nowhere
+- name: Trap
+  description: Evolution! The next enemies you meet are stronger
+Kingdom Hearts 2:
+- name: Ambush
+  description: A swarm of minor heartless
+- name: Ambush
+  description: A horde of nobodies
+- name: Trap
+Pokemon Emerald:
+- name: Ambush
+  description: A pair of team magma grunts
+- name: Ambush
+  description: A camoflaged Kecleon blocks your path
+- name: Ambush
+  description: A flock of hungry Wingull
+- name: Trap
+  description: Heavy volcanic ash begins falling from the sky
+- name: Trap
+  description: A powerful electric barrier blocks your path
+Rogue Legacy:
+- name: Trap
+  description: A timer begins with a shiny chest across an obstacle
+- name: Ambush
+  description: A floating Scout eye
+- name: Ambush
+  description: A pair of McRibs
+- name: Ambush
+  description: A Corrupt Knight come to cleanse the castle
+- name: Ambush
+  description: A Plinkie begins launching fireballs
+Risk of Rain 2:
+- name: Ambush
+  description: Four Lemurians
+- name: Ambush
+  description: A stone golem
+- name: Trap
+  description: Chunks of earth begin to float and form strange geography
+- name: Ambush
+  description: A bighorn bison, undisturbed
+A Short Hike:
+- name: Trap
+  description: A sudden snowstorm
+- name: Trap
+  description: A ranger in a strange hat questions your travel permits
+- name: Trap
+  description: You lose service/connection to something
+Sonic Adventure 2 Battle:
+- name: Trap
+  description: A boost pad sends you flying
+- name: Ambush
+  description: A horde of G.U.N. robots
+- name: Trap
+  description: A dark chao steals something from you
+- name: Trap
+  description: A random cutscene starts playing
+Super Mario 64:
+- name: Ambush
+  description: BOO!
+- name: Ambush
+  description: A horde of Goombas
+- name: Trap
+  description: A bob-omb about to explode
+- name: Trap
+  description: A lake of lava
+- name: Ambush
+  description: Big Bully charges you
+Super Mario World:
+- name: Trap
+  description: A piranha plant
+- name: Ambush
+  description: A trio of Hammer Bros
+- name: Ambush
+  description: A stack of Goombas
+- name: Trap
+  description: A spinning blade on a rail
+- name: Trap
+  description: Bouncing lava bubbles
+Super Metroid:
+- name: Trap
+  description: A pool of acid
+- name: Ambush
+  description: A trio of space pirates
+- name: Ambush
+  description: Geemer swarm
+- name: Trap
+  description: A pit of spikes
+- name: Ambush
+  description: Mini-Kraid
+Terraria:
+- name: Ambush
+  description: The Eye of Cthulhu
+- name: Ambush
+  description: The Moon Lord
+- name: Ambush
+  description: Skeletron
+- name: Trap
+  description: A pile of cacti
+- name: Trap
+  description: A pit opens to the spider cave
+Timespinner:
+- name: Ambush
+  description: A meteor sparrow
+- name: Trap
+  description: Neurotoxin butterflies
+- name: Trap
+  description: Falling machine parts
+- name: Ambush
+  description: A Cheveur
+- name: Ambush
+  description: A host of royal guards
