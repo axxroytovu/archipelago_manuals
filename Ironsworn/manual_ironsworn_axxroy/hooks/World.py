@@ -75,17 +75,18 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     
     items_to_remove = []
     assets = []
-    current_assets = [i.name for i in multiworld.precollected_items[player]]
+    current_assets = []
     traps = []
     quests = []
     items = []
     dungeons = []
     relics = []
+    starting = []
     for i in item_pool:
         idata = world.item_name_to_item[i.name]
         #print(idata)
         if "Starting" in idata.get("category", []):
-            items_to_remove.append(i)
+            starting.append(i)
         elif override and idata.get("game", "NONE") not in valid_games:
             items_to_remove.append(i)
         elif "Asset" in idata.get("category", []):
@@ -107,14 +108,22 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     world.random.shuffle(items)
     world.random.shuffle(relics)
     world.random.shuffle(dungeons)
+    world.random.shuffle(starting)
     asset_index = 0
-    while len(current_assets) < 6:
+    while len(current_assets) < 3:
         if assets[asset_index].name.split(" - ")[0] in current_assets:
             asset_index += 1
         else:
             asset = assets.pop(asset_index)
             current_assets.append(asset.name.split(" - ")[0])
+    starting_index = 0
+    while len(current_assets) < 6:
+        if starting[starting_index].name not in current_assets:
+            multiworld.push_precollected(starting[starting_index])
+            current_assets.append(starting[starting_index].name)
+        starting_index += 1
     items_to_remove += assets
+    items_to_remove += starting
     items_to_remove += traps[3:]
     items_to_remove += quests[5:]
     multiworld.push_precollected(quests[-1])
@@ -138,7 +147,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     
     for i in items_to_remove:
         item_pool.remove(i)
-
 
     return item_pool
 
