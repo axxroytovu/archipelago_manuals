@@ -8,16 +8,8 @@
     "progression": true
   },
   {
-    "count": "7",
+    "count": "13",
     "name": "Quest Rank Star",
-    "category": [
-      "Quest Rank"
-    ],
-    "progression": true
-  },
-  {
-    "count": "6",
-    "name": "Master Rank Star",
     "category": [
       "Quest Rank"
     ],
