@@ -29,10 +29,10 @@ from ..Helpers import is_option_enabled, get_option_value
 class Victory(Choice):
     """Choose the victory condition"""
     display_name = "The final victory quest"
-    option_high_rank = 0
-    option_master_rank = 1
-    option_low_rank = 2
-    default = 1
+    option_high_rank = 1
+    option_master_rank = 2
+    option_low_rank = 0
+    default = 2
 
 class ShufflePost(Toggle):
     """Shuffle quests that usually would only be available after the victory location is found"""
