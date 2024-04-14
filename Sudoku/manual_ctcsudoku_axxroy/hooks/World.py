@@ -54,6 +54,8 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # print(item_pool)
+    if hasattr(multiworld, "re_gen_passthrough"):
+        return item_pool
 
     game_duration = get_option_value(multiworld, player, "game_duration") or 4
 
