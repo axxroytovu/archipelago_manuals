@@ -26,29 +26,31 @@ from ..Helpers import is_option_enabled, get_option_value
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
-    
 class Victory(Choice):
     """Choose the victory condition"""
     display_name = "The final victory quest"
     option_high_rank = 0
     option_master_rank = 1
-    option_low_rank = 3
+    option_low_rank = 2
     default = 1
 
 class ShufflePost(Toggle):
     """Shuffle quests that usually would only be available after the victory location is found"""
     display_name = "Suffle post-game quests"
 
+class QuestDensity(Choice):
+    """Modifies the number of quests you need to complete"""
+    display_name = "Quest density"
+    option_reduced = 0
+    option_normal = 1
+    option_insane = 2
+    default = 1
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["victory_condition"] = Victory
     options["shuffle_postgame"] = ShufflePost
+    options["quest_density"] = QuestDensity
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
