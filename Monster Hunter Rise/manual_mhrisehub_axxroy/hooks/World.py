@@ -37,6 +37,9 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
+    if hasattr(multiworld, "re_gen_passthrough"):
+        return
+
     regions_to_remove = []
     locations_to_keep = []
     victory = get_option_value(multiworld, player, "victory_condition")
@@ -171,7 +174,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
             break
         item_pool.remove(item)
     i = 1
-    angle = 13/upgrade_levels
+    angle = 10/upgrade_levels
     idx = 0
     multiworld.random.shuffle(upgrades_weapon)
     while len(item_pool) > location_count - 1:
@@ -189,7 +192,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         except StopIteration:
             pass
         idx += 1
-    print([len([i for i in item_pool if i.name == n]) for n in upgrades_weapon])
+    #print([len([i for i in item_pool if i.name == n]) for n in upgrades_weapon])
 
     return item_pool
 
