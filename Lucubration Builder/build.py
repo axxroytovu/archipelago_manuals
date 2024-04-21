@@ -13,7 +13,7 @@ def zipdir(path, ziph):
                        os.path.relpath(os.path.join(root, file), 
                                        os.path.join(path, '..')))
 
-with open("lucubrate.yaml", 'r') as config_file:
+with open("tasks.yaml", 'r') as config_file:
     y_data = yaml.safe_load(config_file)
 
 j_items = []
@@ -39,7 +39,7 @@ for task in y_data["tasks"]:
             })
         j_items.append({
             "name": f"Progressive {book_name}",
-            "category": [task.get("category", "Reading")] + ["Starting"] * task.get("Starting", False),
+            "category": [task.get("category", "Reading")],
             "progression": True,
             "count": item_count
         })
@@ -62,7 +62,7 @@ for task in y_data["tasks"]:
             })
         j_items.append({
             "name": f"Progressive {practice_name}",
-            "category": [task.get("category", "Practice")] + ["Starting"] * task.get("Starting", False),
+            "category": [task.get("category", "Practice")],
             "progression": True,
             "count": item_count
         })
@@ -83,7 +83,7 @@ for task in y_data["tasks"]:
                 })
             j_items.append({
                 "name": f"Progressive {i_name}",
-                "category": [task.get("category", task["name"])] + ["Starting"] * task.get("Starting", False),
+                "category": [task.get("category", task["name"])],
                 "progression": True,
                 "count": cpi
             })
@@ -100,7 +100,7 @@ for task in y_data["tasks"]:
                 })
         j_items.append({
             "name": f"Progressive {w_name}",
-            "category": [task.get("category", "Workout")] + ["Starting"] * task.get("Starting", False),
+            "category": [task.get("category", "Workout")],
             "count": task["repetitions"],
             "progression": True
         })
@@ -127,7 +127,7 @@ for task in y_data["tasks"]:
                 })
         j_items.append({
             "name": f"Progressive {item_name}",
-            "category": [task.get("category", "Projects")] + ["Starting"] * task.get("Starting", False),
+            "category": [task.get("category", "Projects")],
             "count": max_checks,
             "progression": True
         })
@@ -205,3 +205,15 @@ with zipfile.ZipFile(gamename.lower()+".apworld", "w", zipfile.ZIP_DEFLATED) as 
     zipdir(gamename.lower()+"/", zipf)
 
 shutil.rmtree(gamename.lower())
+
+with open(gamename+".yaml", "w") as yfile:
+    yaml.dump({
+        "name": y_data['meta']['player_name'],
+        "description": "Built with Axxroy's Lucubration Builder",
+        "game": gamename,
+        gamename: {
+            "progression_balancing": 0,
+            "accessibility": "items"
+        }
+    },
+    yfile)
