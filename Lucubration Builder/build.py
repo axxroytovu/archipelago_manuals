@@ -1,6 +1,17 @@
 import yaml
 import numpy as np
 import json
+import zipfile
+import os
+import shutil
+
+def zipdir(path, ziph):
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            ziph.write(os.path.join(root, file), 
+                       os.path.relpath(os.path.join(root, file), 
+                                       os.path.join(path, '..')))
 
 with open("lucubrate.yaml", 'r') as config_file:
     y_data = yaml.safe_load(config_file)
@@ -47,7 +58,7 @@ for task in y_data["tasks"]:
                 "requires": f"|Progressive {practice_name}:{item_count}|"
             })
         j_items.append({
-            "name": f"|Progressive {practice_name}:{item_count}|",
+            "name": f"Progressive {practice_name}",
             "category": [task.get("category", "Practice")] + ["Starting"] * task.get("Starting", False),
             "progression": True,
             "count": item_count
@@ -112,5 +123,62 @@ for task in y_data["tasks"]:
             "progression": True
         })
                
-print(json.dumps(j_locations, indent=2))
-print(json.dumps(j_items, indent=2)) 
+location_count = len(j_locations)
+item_count = sum([i.get("count", 1) for i in j_items]) 
+print(location_count, item_count)
+victory_count = int(location_count - item_count)//2
+j_locations.append({
+    "name": "Victory",
+    "category": ["Victory"],
+    "requires": "|Victory|",
+    "victory": True
+})
+j_locations.append({
+    "name": f"Collect {victory_count} Productivity",
+    "category": ["Victory"],
+    "requires": f"|Productivity:{victory_count}|",
+    "place_item": ["Victory"]
+})
+j_items.append({
+    "name": "Victory",
+    "category": ["Victory"],
+    "count": 1,
+    "progression": True
+})
+j_items.append({
+    "name": "Productivity",
+    "category": ["Victory"],
+    "count": victory_count,
+    "progression": True
+})
+
+gamename = f"Manual_Tasks_{y_data['meta']['player_name']}"
+
+ofile = next(f for f in os.listdir(".") if ".apworld" in f and "stable" in f)
+ofolder = ofile.split(".")[0]
+
+with zipfile.ZipFile(ofile, "r") as zfile:
+    zfile.extractall("")
+
+with open(ofolder+"/data/items.json", "w") as item_file:
+    json.dump(j_items, item_file, indent=2)
+
+with open(ofolder+"/data/locations.json", "w") as location_file:
+    json.dump(j_locations, location_file, indent=2)
+
+with open(ofolder+"/data/regions.json", "w") as region_file:
+    json.dump(dict(), region_file)
+
+with open(ofolder+"/data/game.json", "w") as game_file:
+    json.dump({
+        "game": "Tasks",
+        "creator": y_data["meta"]["player_name"],
+        "filler_item_name": "Extrinsic Motivation"
+    }, game_file, indent=2)
+
+os.rename(ofolder, gamename.lower())
+
+with zipfile.ZipFile(gamename.lower()+".apworld", "w", zipfile.ZIP_DEFLATED) as zipf:
+    zipdir(gamename.lower()+"/", zipf)
+
+shutil.rmtree(gamename.lower())
