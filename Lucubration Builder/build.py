@@ -19,6 +19,7 @@ with open("lucubrate.yaml", 'r') as config_file:
 j_items = []
 j_locations = []
 j_game = []
+starting_items = []
 
 # build each project type
 for task in y_data["tasks"]:
@@ -42,6 +43,8 @@ for task in y_data["tasks"]:
             "progression": True,
             "count": item_count
         })
+        if task.get("starting", False):
+            starting_items.append(f"Progressive {book_name}")
     elif task["type"] == "practice-general":
         if "hours" in task:
             checks = task["hours"] * y_data["meta"]["checks_per_hour"]
@@ -63,6 +66,8 @@ for task in y_data["tasks"]:
             "progression": True,
             "count": item_count
         })
+        if task.get("starting", False):
+            starting_items.append(f"Progressive {practice_name}")
     elif task["type"] == "practice-specific":
         if "hours_per_item" in task:
             cpi = task["hours_per_item"] * y_data["meta"]["checks_per_hour"]
@@ -82,6 +87,8 @@ for task in y_data["tasks"]:
                 "progression": True,
                 "count": cpi
             })
+            if task.get("starting", False):
+                starting_items.append(f"Progressive {i_name}")
     elif task["type"] == "workout":
         w_name = task["name"]
         for i in range(task["repetitions"]):
@@ -97,6 +104,8 @@ for task in y_data["tasks"]:
             "count": task["repetitions"],
             "progression": True
         })
+        if task.get("starting", False):
+            starting_items.append(f"Progressive {w_name}")
     elif task["type"] == "tied-projects":
         max_checks = 0
         item_name = task["name"]
@@ -122,10 +131,18 @@ for task in y_data["tasks"]:
             "count": max_checks,
             "progression": True
         })
+        if task.get("starting", False):
+            starting_items.append(f"Progressive {item_name}")
                
 location_count = len(j_locations)
 item_count = sum([i.get("count", 1) for i in j_items]) 
-print(location_count, item_count)
+#print(location_count, item_count)
+starting_items_count = sum([i.get("count", 1) for i in j_items if i["name"] in starting_items])
+if starting_items_count == 0:
+    starting_items = [i["name"] for i in j_items]
+elif starting_items_count < 5:
+    raise ValueError("Not enough starting items defined")
+
 victory_count = int(location_count - item_count)//2
 j_locations.append({
     "name": "Victory",
@@ -173,7 +190,13 @@ with open(ofolder+"/data/game.json", "w") as game_file:
     json.dump({
         "game": "Tasks",
         "creator": y_data["meta"]["player_name"],
-        "filler_item_name": "Extrinsic Motivation"
+        "filler_item_name": "Extrinsic Motivation",
+        "starting_items": [
+            {
+                "items": starting_items,
+                "random": 5
+            }
+        ]
     }, game_file, indent=2)
 
 os.rename(ofolder, gamename.lower())
