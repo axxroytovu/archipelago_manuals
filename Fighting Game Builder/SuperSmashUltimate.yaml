@@ -1,8 +1,7 @@
 meta:
   player_name: Player
-  traps: false
-  # Creates a number of checks per hour of work
-  macguffin_name: Spirit
+  game_name: SmashUltimate
+  victory_macguffin_name: Spirit
   starting_characters:
   - Mario
   - Donkey Kong
@@ -11,11 +10,12 @@ meta:
   - Kirby
   character_subset: 25
   character_name: Fighter
+  filler_name: Sticker
 game_modes:
 - name: Online Play
   type: character-based
   match_name: Smash
-  victory_count: 5
+  victory_count: 3
 - name: Vs NPC
   type: character-based
   match_name: Smash
@@ -28,7 +28,6 @@ game_modes:
 - name: Cruel Smash
   type: score-based
   max_score: 6
-  breakpoint: 1
 - name: Mob Smash
   type: character-based
   match_name: Contest
@@ -100,7 +99,7 @@ characters:
 - Bowser Jr.
 - Duck Hunt
 - Ryu
-- Ken Masters*
+- Ken Masters
 - Cloud Strife
 - Corrin
 - Bayonetta
