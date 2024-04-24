@@ -213,4 +213,5 @@ for file in scriptdir.glob("*.yaml"):
         },
         yfile)
     logger.info("%s completed with %d locations and %d items.",gamename, location_count, item_count)
+shutil.rmtree(tempfolder, ignore_errors=True)
 logger.info("All valid files completed.")
