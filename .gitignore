@@ -164,3 +164,4 @@ cython_debug/
 # don't include generated files for safety
 manual*.apworld
 manual*.yaml
+**/.temp
