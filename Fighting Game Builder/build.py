@@ -1,6 +1,5 @@
 import json
 import logging
-import os
 import sys
 import shutil
 import zipfile
@@ -15,9 +14,7 @@ system_encoding = sys.getdefaultencoding()
 
 logger = logging.getLogger(scriptdir.name)
 logging.basicConfig(level=logging.INFO, format="%(name)s - %(message)s")
-if os.path.exists(tempfolder):
-    shutil.rmtree(tempfolder)
-
+shutil.rmtree(tempfolder, ignore_errors=True)
 
 logger.info("Generating Manual AP Worlds:")
 
