@@ -38,13 +38,35 @@ for file in scriptdir.glob("*.yaml"):
     starting_items = []
 
     game_meta = y_data['meta']
-    playable_alias = game_meta.get("playable_alias", "Character")
+    game_name = game_meta["game_name"]
+    playable_alias = game_meta.get("playable_alias", "character")
     global_characters = y_data.get('characters', [])
-
+    # parse for global characters
+    for char in global_characters:
+        j_items.append({
+            "name": char,
+            "category": ["characters"],
+            "progression": True,
+            "count": 1
+        })
+    start_char_global = game_meta.get("starting_characters", 1)
+    if isinstance(start_char_global, int):
+        starting_items.append({
+            "item_categories": ["characters"],
+            "random": start_char_global
+        })
+    elif isinstance(game_meta["starting_characters"], list):
+        starting_items.append({
+            "items": game_meta["starting_characters"]
+        })
+    else:
+        raise ValueError("Mode values of starting_characters malformed.")
+    
     # build each game type
     for mode in y_data["game_modes"]:
         mode_name = mode.get('name')
-        if "type" not in mode:
+        mode_type = mode.get('type', None)
+        if not mode_type:
             raise ValueError(f"Game Mode {mode_name} does not have an associated type")
         
         if mode.get("starting", False):
@@ -56,18 +78,18 @@ for file in scriptdir.glob("*.yaml"):
             "count": 1
             })
 
-        if mode["type"] == "character-based":
+        if mode_type == "character-based":
             # if this mode is not the starting mode, add requested to pool
             if mode.get("starting", False):
                 all_mode_characters = mode.get('characters', [])
-                starting_mode_playables = mode.get('starting_characters', [])
-                if isinstance(starting_mode_playables, int):
+                start_char_mode = mode.get('starting_characters', [])
+                if isinstance(start_char_mode, int):
                     starting_items.append({
                     "item_categories": [f"{mode_name} {playable_alias}"],
-                        "random": starting_mode_playables
+                        "random": start_char_mode
                     })
                 else:
-                    for playable in starting_mode_playables:
+                    for playable in start_char_mode:
                             starting_items.append({
                                 "items": [f"{mode_name} - {playable}"]
                             })
@@ -79,67 +101,38 @@ for file in scriptdir.glob("*.yaml"):
                 })
 
             match_name = mode.get("match_name", "match")
-            if "characters" in mode:
-                characters = [f"{mode_name} - {char}" for char in mode['characters']]
-                for char in characters:
-                    j_items.append({
-                        "name": char,
-                        "category": [f"{mode_name} {playable_alias}"],
-                        "progression": True,
-                        "count": 1
-                    })
-            elif "characters" in y_data:
-                characters = y_data['characters']
-            else:
-                raise ValueError(f"Character set not defined for mode {mode_name}")
-            for char in characters:
+            # if there are mode specific characters
+            mode_characters = mode.get("characters", [])
+            # remove duplicates from global characters
+            mode_characters = set(mode_characters).difference(global_characters)
+            if not ( mode_characters or global_characters ):
+                raise ValueError(f"Character set not defined for mode {mode_name} and globally within {game_name}")
+            for char in mode_characters:
+                j_items.append({
+                    "name": f"{mode_name} - {char}",
+                    "category": [f"{mode_name} {playable_alias}"],
+                    "progression": True,
+                    "count": 1
+                })
+            for char in global_characters:
                 for i in range(mode.get("victory_count", 1)):
                     j_locations.append({
                         "name": f"{char} {match_name} {i+1}",
                         "category": [mode_name],
                         "requires": f"|{mode_name}| AND |{char}|"
                     })
-        elif mode["type"] == "score-based":
+        elif mode_type == "score-based":
             bp = mode.get("breakpoint", 1)
-            for score in range(0, mode["max_score"], bp):
+            for score in range(bp, mode["max_score"], bp):
                 percent = int(100 * score/mode["max_score"])
-                if "characters" in y_data and percent:
-                    j_locations.append({
-                        "name": f"{mode_name} - Reach score {score+bp}",
-                        "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |@{playable_alias}:{percent}%|"
-                    })
-                else:
-                    j_locations.append({
-                        "name": f"{mode_name} - Reach score {score+bp}",
-                        "category": [mode_name],
-                        "requires": f"|{mode_name}|"
-                    })
+                j_locations.append({
+                    "name": f"{mode_name} - Reach score {score+bp}",
+                    "category": [mode_name],
+                    "requires": f"|{mode_name}|{' AND |@%s:%d\%|'.format(playable_alias, percent) if global_characters else ''}"
+                })
         else:
             raise ValueError(f"Game Mode {mode_name} uses an invalid mode type")
-    if "characters" in y_data:
-        for char in y_data["characters"]:
-            j_items.append({
-                "name": char,
-                "category": ["characters"],
-                "progression": True,
-                "count": 1
-            })
-        if "starting_characters" in game_meta:
-            if isinstance(game_meta["starting_characters"], list):
-                starting_items.append({
-                    "items": game_meta["starting_characters"]
-                })
-            elif isinstance(game_meta["starting_characters"], int):
-                starting_items.append({
-                    "item_categories": [playable_alias],
-                    "random": game_meta["starting_characters"]
-                })
-        else:
-            starting_items.append({
-                "item_categories": [playable_alias],
-                "random": 1
-            })
+
 
     location_count = len(j_locations)
     item_count = sum([i.get("count", 1) for i in j_items])
