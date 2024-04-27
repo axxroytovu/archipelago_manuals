@@ -9,8 +9,8 @@ meta:
   - Link
   - Yoshi
   - Kirby
-  character_subset: 25
-  character_name: Fighter
+  #character_subset: 25
+  playable-alias: Fighter
   filler_name: Sticker
 game_modes:
 - name: Online Play
@@ -33,6 +33,10 @@ game_modes:
   type: character-based
   match_name: Contest
   victory_count: 1
+- name: Smashdown
+  type: character-based
+  match_name: Contest
+  victory_count: 89
 characters:
 - Mario
 - Donkey Kong

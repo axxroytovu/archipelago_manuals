@@ -12,6 +12,7 @@ scriptdir = Path(__file__).parent
 tempfolder = scriptdir / '.temp'
 system_encoding = sys.getdefaultencoding()
 
+
 logger = logging.getLogger(scriptdir.name)
 logging.basicConfig(level=logging.INFO, format="%(name)s - %(message)s")
 shutil.rmtree(tempfolder, ignore_errors=True)
@@ -36,38 +37,46 @@ for file in scriptdir.glob("*.yaml"):
     j_game = []
     starting_items = []
 
-    c_name = y_data['meta'].get("character_name", "Character")
+    game_meta = y_data['meta']
+    playable_alias = game_meta.get("playable_alias", "Character")
+    global_characters = y_data.get('characters', [])
 
     # build each game type
     for mode in y_data["game_modes"]:
-        mode_name = mode.get('name', 'All')
+        mode_name = mode.get('name')
         if "type" not in mode:
             raise ValueError(f"Game Mode {mode_name} does not have an associated type")
-        elif mode["type"] == "character-based":
-            j_items.append({
-                "name": mode_name,
-                "category": ["Game Modes"],
-                "progression": True,
-                "count": 1
+        
+        if mode.get("starting", False):
+            starting_items.append({"items": [mode_name]})
+        j_items.append({
+            "name": mode_name,
+            "category": ["Game Modes"],
+            "progression": True,
+            "count": 1
             })
+
+        if mode["type"] == "character-based":
+            # if this mode is not the starting mode, add requested to pool
             if mode.get("starting", False):
-                starting_items.append({"items": [mode_name]})
-                if "characters" in mode:
-                    if "starting_characters" in mode:
-                        if isinstance(mode["starting_characters"], list):
+                all_mode_characters = mode.get('characters', [])
+                starting_mode_playables = mode.get('starting_characters', [])
+                if isinstance(starting_mode_playables, int):
+                    starting_items.append({
+                    "item_categories": [f"{mode_name} {playable_alias}"],
+                        "random": starting_mode_playables
+                    })
+                else:
+                    for playable in starting_mode_playables:
                             starting_items.append({
-                                "items": [f"{mode_name} - {char}" for char in mode['starting_characters']]
+                                "items": [f"{mode_name} - {playable}"]
                             })
-                        elif isinstance(mode["starting_characters"], int):
-                            starting_items.append({
-                                "item_categories": [f"{mode_name} {c_name}"],
-                                "random": mode['starting_characters']
-                            })
-                    else:
-                        starting_items.append({
-                            "item_categories": [f"{mode_name} {c_name}"],
-                            "random": 1
-                        })
+            # otherwise assign a random mode and character
+            else:
+                starting_items.append({
+                    "item_categories": [f"{mode_name} {playable_alias}"],
+                    "random": game_meta.get('starting pool', 1)
+                })
 
             match_name = mode.get("match_name", "match")
             if "characters" in mode:
@@ -75,7 +84,7 @@ for file in scriptdir.glob("*.yaml"):
                 for char in characters:
                     j_items.append({
                         "name": char,
-                        "category": [f"{mode_name} {c_name}"],
+                        "category": [f"{mode_name} {playable_alias}"],
                         "progression": True,
                         "count": 1
                     })
@@ -91,14 +100,6 @@ for file in scriptdir.glob("*.yaml"):
                         "requires": f"|{mode_name}| AND |{char}|"
                     })
         elif mode["type"] == "score-based":
-            j_items.append({
-                "name": mode_name,
-                "category": ["Game Modes"],
-                "progression": True,
-                "count": 1
-            })
-            if mode.get("starting", False):
-                starting_items.append({"items": [mode_name]})
             bp = mode.get("breakpoint", 1)
             for score in range(0, mode["max_score"], bp):
                 percent = int(100 * score/mode["max_score"])
@@ -106,7 +107,7 @@ for file in scriptdir.glob("*.yaml"):
                     j_locations.append({
                         "name": f"{mode_name} - Reach score {score+bp}",
                         "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |@{c_name}:{percent}%|"
+                        "requires": f"|{mode_name}| AND |@{playable_alias}:{percent}%|"
                     })
                 else:
                     j_locations.append({
@@ -120,21 +121,23 @@ for file in scriptdir.glob("*.yaml"):
         for char in y_data["characters"]:
             j_items.append({
                 "name": char,
-                "category": [c_name],
+                "category": ["characters"],
                 "progression": True,
                 "count": 1
             })
-        if "starting_characters" in y_data["meta"]:
-            if isinstance(y_data["meta"]["starting_characters"], list):
-                starting_items.append({"items": y_data["meta"]["starting_characters"]})
-            elif isinstance(y_data["meta"]["starting_characters"], int):
+        if "starting_characters" in game_meta:
+            if isinstance(game_meta["starting_characters"], list):
                 starting_items.append({
-                    "item_categories": [c_name],
-                    "random": y_data["meta"]["starting_characters"]
+                    "items": game_meta["starting_characters"]
+                })
+            elif isinstance(game_meta["starting_characters"], int):
+                starting_items.append({
+                    "item_categories": [playable_alias],
+                    "random": game_meta["starting_characters"]
                 })
         else:
             starting_items.append({
-                "item_categories": [c_name],
+                "item_categories": [playable_alias],
                 "random": 1
             })
 
@@ -142,7 +145,7 @@ for file in scriptdir.glob("*.yaml"):
     item_count = sum([i.get("count", 1) for i in j_items])
 
     victory_count = int(location_count - item_count)//2
-    macguffin_name = y_data["meta"].get("victory_macguffin_name", "Trophy")
+    macguffin_name = game_meta.get("victory_macguffin_name", "Trophy")
     j_locations.append({
         "name": "Victory",
         "category": ["Victory"],
@@ -168,7 +171,7 @@ for file in scriptdir.glob("*.yaml"):
         "progression": True
     })
 
-    gamename = f"Manual_{y_data['meta']['game_name']}_{y_data['meta']['player_name']}"
+    gamename = f"Manual_{game_meta['game_name']}_{game_meta['player_name']}"
     ofile = next(scriptdir.glob("*stable*.apworld"))
     ofolder = tempfolder / ofile.stem
 
@@ -189,9 +192,9 @@ for file in scriptdir.glob("*.yaml"):
 
     with open(ofolder/'data'/'game.json', "w", encoding=system_encoding) as game_file:
         json.dump({
-            "game": y_data['meta']['game_name'],
-            "creator": y_data["meta"]["player_name"],
-            "filler_item_name": y_data["meta"].get("filler_name", "Nothing"),
+            "game": game_meta['game_name'],
+            "creator": game_meta["player_name"],
+            "filler_item_name": game_meta.get("filler_name", "Nothing"),
             "starting_items": starting_items
         }, game_file, indent=2)
 
@@ -203,7 +206,7 @@ for file in scriptdir.glob("*.yaml"):
 
     with open(gamename+".yaml", "w", encoding=system_encoding) as yfile:
         yaml.dump({
-            "name": y_data['meta']['player_name'],
+            "name": game_meta['player_name'],
             "description": "Built with Axxroy's Fighting Game Builder",
             "game": gamename,
             gamename: {

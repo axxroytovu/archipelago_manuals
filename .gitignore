@@ -162,6 +162,6 @@ cython_debug/
 #.idea/
 
 # don't include generated files for safety
-manual*.apworld
-manual*.yaml
+/Fighting Game Builder/manual*.apworld
+/Fighting Game Builder/manual*.yaml
 **/.temp
