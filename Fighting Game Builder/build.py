@@ -40,28 +40,29 @@ for file in scriptdir.glob("*.yaml"):
     game_meta = y_data['meta']
     game_name = game_meta["game_name"]
     playable_alias = game_meta.get("playable_alias", "character")
-    global_characters = y_data.get('characters', [])
-    # parse for global characters
-    for char in global_characters:
-        j_items.append({
-            "name": char,
-            "category": ["characters"],
-            "progression": True,
-            "count": 1
-        })
+    char_global = {*y_data.get('characters', {})}
+
     start_char_global = game_meta.get("starting_characters", 1)
     if isinstance(start_char_global, int):
         starting_items.append({
             "item_categories": ["characters"],
             "random": start_char_global
         })
-    elif isinstance(game_meta["starting_characters"], list):
+    elif isinstance(game_meta["starting_characters"], set):
+        char_global |= start_char_global
         starting_items.append({
-            "items": game_meta["starting_characters"]
+            "items": list(start_char_global)
         })
     else:
         raise ValueError("Mode values of starting_characters malformed.")
-    
+        # parse for global characters
+    for char in char_global:
+        j_items.append({
+            "name": char,
+            "category": ["characters"],
+            "progression": True,
+            "count": 1
+        })
     # build each game type
     for mode in y_data["game_modes"]:
         mode_name = mode.get('name')
@@ -81,8 +82,7 @@ for file in scriptdir.glob("*.yaml"):
         if mode_type == "character-based":
             # if this mode is not the starting mode, add requested to pool
             if mode.get("starting", False):
-                all_mode_characters = mode.get('characters', [])
-                start_char_mode = mode.get('starting_characters', [])
+                start_char_mode = {*mode.get('starting_characters', {})}
                 if isinstance(start_char_mode, int):
                     starting_items.append({
                     "item_categories": [f"{mode_name} {playable_alias}"],
@@ -102,11 +102,9 @@ for file in scriptdir.glob("*.yaml"):
 
             match_name = mode.get("match_name", "match")
             # if there are mode specific characters
-            mode_characters = mode.get("characters", [])
+            mode_characters = {*mode.get("characters", {})}
             # remove duplicates from global characters
-            mode_characters = set(mode_characters).difference(global_characters)
-            if not ( mode_characters or global_characters ):
-                raise ValueError(f"Character set not defined for mode {mode_name} and globally within {game_name}")
+            mode_characters = mode_characters - char_global
             for char in mode_characters:
                 j_items.append({
                     "name": f"{mode_name} - {char}",
@@ -114,7 +112,6 @@ for file in scriptdir.glob("*.yaml"):
                     "progression": True,
                     "count": 1
                 })
-            for char in global_characters:
                 for i in range(mode.get("victory_count", 1)):
                     j_locations.append({
                         "name": f"{char} {match_name} {i+1}",
@@ -128,7 +125,7 @@ for file in scriptdir.glob("*.yaml"):
                 j_locations.append({
                     "name": f"{mode_name} - Reach score {score+bp}",
                     "category": [mode_name],
-                    "requires": f"|{mode_name}|{' AND |@%s:%d\%|'.format(playable_alias, percent) if global_characters else ''}"
+                    "requires": f"|{mode_name}|{f' AND |@{playable_alias}:{percent}%|' if char_global else ''}"
                 })
         else:
             raise ValueError(f"Game Mode {mode_name} uses an invalid mode type")
