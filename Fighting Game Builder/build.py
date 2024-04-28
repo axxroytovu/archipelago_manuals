@@ -172,10 +172,10 @@ for file in scriptdir.glob("*.yaml"):
         zfile.extractall(tempfolder)
 
     with open(ofolder/'data'/'items.json', "w", encoding=system_encoding) as item_file:
-        json.dump(j_items, item_file, indent=2)
+        json.dump(j_items, item_file, indent=2, sort_keys=False)
 
     with open(ofolder/'data'/'locations.json', "w", encoding=system_encoding) as location_file:
-        json.dump(j_locations, location_file, indent=2)
+        json.dump(j_locations, location_file, indent=2, sort_keys=False)
 
     with open(ofolder/'data'/'regions.json', "w", encoding=system_encoding) as region_file:
         json.dump(dict(), region_file)
@@ -186,7 +186,7 @@ for file in scriptdir.glob("*.yaml"):
             "creator": game_meta["player_name"],
             "filler_item_name": game_meta.get("filler_name", "Nothing"),
             "starting_items": starting_items
-        }, game_file, indent=2)
+        }, game_file, indent=2, sort_keys=False)
 
     finalpath = tempfolder / Path(gamename.lower()+'.apworld')
 
@@ -204,7 +204,7 @@ for file in scriptdir.glob("*.yaml"):
                 "accessibility": "items"
             }
         },
-        yfile)
+        yfile, sort_keys=False)
     logger.info("%s completed with %d locations and %d items.",gamename, location_count, item_count)
 shutil.rmtree(tempfolder, ignore_errors=True)
 logger.info("All valid files completed.")
