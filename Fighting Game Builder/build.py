@@ -48,7 +48,8 @@ for file in scriptdir.glob("*.yaml"):
             "item_categories": ["characters"],
             "random": start_char_global
         })
-    elif isinstance(game_meta["starting_characters"], set):
+    elif isinstance(start_char_global, list):
+        start_char_global = set(start_char_global)
         char_global |= start_char_global
         starting_items.append({
             "items": list(start_char_global)
@@ -160,7 +161,7 @@ for file in scriptdir.glob("*.yaml"):
         "progression": True
     })
 
-    gamename = f"Manual_{game_meta['game_name']}_{game_meta['player_name']}"
+    gamename = f"manual_{game_meta['game_name']}_{game_meta['player_name']}"
     ofile = next(scriptdir.glob("*stable*.apworld"))
     ofolder = tempfolder / ofile.stem
 
@@ -193,7 +194,7 @@ for file in scriptdir.glob("*.yaml"):
     shutil.move(finalpath.with_suffix(finalpath.suffix + '.zip'), scriptdir / finalpath.name)
     shutil.rmtree(tempfolder / ofile.stem)
 
-    with open(gamename+".yaml", "w", encoding=system_encoding) as yfile:
+    with open(scriptdir / Path(gamename).with_suffix(".yaml"), "w", encoding=system_encoding) as yfile:
         yaml.dump({
             "name": game_meta['player_name'],
             "description": "Built with Axxroy's Fighting Game Builder",
