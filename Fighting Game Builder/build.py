@@ -89,10 +89,9 @@ for file in scriptdir.glob("*.yaml"):
                         "random": start_char_mode
                     })
                 else:
-                    for playable in start_char_mode:
-                            starting_items.append({
-                                "items": [f"{mode_name} - {playable}"]
-                            })
+                    starting_items.append({
+                        "items": [f"{mode_name} - {playable}" for playable in start_char_mode]
+                    })
             # otherwise assign a random mode and character
             else:
                 starting_items.append({
