@@ -45,7 +45,7 @@ for file in scriptdir.glob("*.yaml"):
     start_char_global = game_meta.get("starting_characters", None)
     if isinstance(start_char_global, int):
         starting_items.append({
-            "item_categories": ["characters"],
+            "item_categories": [playable_alias],
             "random": start_char_global
         })
     elif isinstance(start_char_global, list):
@@ -58,7 +58,7 @@ for file in scriptdir.glob("*.yaml"):
     for char in char_global:
         j_items.append({
             "name": char,
-            "category": ["characters"],
+            "category": [playable_alias],
             "progression": True,
             "count": 1
         })
@@ -94,9 +94,10 @@ for file in scriptdir.glob("*.yaml"):
             mode_characters = {*mode.get("characters", set())}
             # remove duplicates from global characters
             mode_characters = mode_characters - char_global
+            mode_characters = {f"{mode_name} - {m_ch}" for m_ch in mode_characters}
             for char in mode_characters:
                 j_items.append({
-                    "name": f"{mode_name} - {char}",
+                    "name": f"{char}",
                     "category": [f"{mode_name} {playable_alias}"],
                     "progression": True,
                     "count": 1
@@ -105,7 +106,14 @@ for file in scriptdir.glob("*.yaml"):
                     j_locations.append({
                         "name": f"{char} {match_name} {i+1}",
                         "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |{mode_name} - {char}|"
+                        "requires": f"|{mode_name}| AND |{char}|"
+                    })
+            for char in char_global:
+                for i in range(mode.get("victory_count", 1)):
+                    j_locations.append({
+                        "name": f"{char} {match_name} {i+1}",
+                        "category": [mode_name],
+                        "requires": f"|{mode_name}| AND |{char}|"
                     })
         elif mode_type == "score-based":
             if mode.get("starting", False):
