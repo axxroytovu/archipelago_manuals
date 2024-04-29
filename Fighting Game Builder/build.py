@@ -189,10 +189,10 @@ for file in scriptdir.glob("*.yaml"):
         }, game_file, indent=2, sort_keys=False)
 
     finalpath = tempfolder / Path(gamename.lower()+'.apworld')
-
-    shutil.make_archive(finalpath, 'zip', root_dir=tempfolder)
+    shutil.move(tempfolder / ofile.stem, tempfolder / finalpath.stem)
+    shutil.make_archive(str(finalpath), 'zip', root_dir= tempfolder, base_dir= finalpath.stem)
     shutil.move(finalpath.with_suffix(finalpath.suffix + '.zip'), scriptdir / finalpath.name)
-    shutil.rmtree(tempfolder / ofile.stem)
+    shutil.rmtree(tempfolder / finalpath.stem)
 
     with open(scriptdir / Path(gamename).with_suffix(".yaml"), "w", encoding=system_encoding) as yfile:
         yaml.dump({
