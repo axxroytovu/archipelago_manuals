@@ -40,9 +40,9 @@ for file in scriptdir.glob("*.yaml"):
     game_meta = y_data['meta']
     game_name = game_meta["game_name"]
     playable_alias = game_meta.get("playable_alias", "character")
-    char_global = {*y_data.get('characters', {})}
+    char_global = {*y_data.get('characters', set())}
 
-    start_char_global = game_meta.get("starting_characters", 1)
+    start_char_global = game_meta.get("starting_characters", None)
     if isinstance(start_char_global, int):
         starting_items.append({
             "item_categories": ["characters"],
@@ -54,8 +54,6 @@ for file in scriptdir.glob("*.yaml"):
         starting_items.append({
             "items": list(start_char_global)
         })
-    else:
-        raise ValueError("Mode values of starting_characters malformed.")
         # parse for global characters
     for char in char_global:
         j_items.append({
@@ -70,9 +68,6 @@ for file in scriptdir.glob("*.yaml"):
         mode_type = mode.get('type', None)
         if not mode_type:
             raise ValueError(f"Game Mode {mode_name} does not have an associated type")
-        
-        if mode.get("starting", False):
-            starting_items.append({"items": [mode_name]})
         j_items.append({
             "name": mode_name,
             "category": ["Game Modes"],
@@ -81,33 +76,27 @@ for file in scriptdir.glob("*.yaml"):
             })
 
         if mode_type == "character-based":
-            # if this mode is not the starting mode, add requested to pool
+            # if mode is set to starting, add either the specified or a random # of characters to starting
             if mode.get("starting", False):
-                start_char_mode = {*mode.get('starting_characters', {})}
+                start_char_mode = mode.get('starting_characters', None)
                 if isinstance(start_char_mode, int):
                     starting_items.append({
                     "item_categories": [f"{mode_name} {playable_alias}"],
                         "random": start_char_mode
                     })
-                else:
+                elif isinstance(start_char_mode, list):
                     starting_items.append({
-                        "items": [f"{mode_name} - {playable}" for playable in start_char_mode]
+                        "items": [f"{mode_name} - {playable}" for playable in set(start_char_mode)]
                     })
-            # otherwise assign a random mode and character
-            else:
-                starting_items.append({
-                    "item_categories": [f"{mode_name} {playable_alias}"],
-                    "random": game_meta.get('starting pool', 1)
-                })
 
             match_name = mode.get("match_name", "match")
             # if there are mode specific characters
-            mode_characters = {*mode.get("characters", {})}
+            mode_characters = {*mode.get("characters", set())}
             # remove duplicates from global characters
             mode_characters = mode_characters - char_global
             for char in mode_characters:
                 j_items.append({
-                    "name": f"{mode_name} - {char}",
+                    "name": f"{char}",
                     "category": [f"{mode_name} {playable_alias}"],
                     "progression": True,
                     "count": 1
@@ -119,8 +108,10 @@ for file in scriptdir.glob("*.yaml"):
                         "requires": f"|{mode_name}| AND |{char}|"
                     })
         elif mode_type == "score-based":
+            if mode.get("starting", False):
+                starting_items.append({"items": [mode_name]})
             bp = mode.get("breakpoint", 1)
-            for score in range(bp, mode["max_score"], bp):
+            for score in range(0, mode["max_score"], bp):
                 percent = int(100 * score/mode["max_score"])
                 j_locations.append({
                     "name": f"{mode_name} - Reach score {score+bp}",
