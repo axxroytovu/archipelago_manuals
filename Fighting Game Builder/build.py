@@ -96,7 +96,7 @@ for file in scriptdir.glob("*.yaml"):
             mode_characters = mode_characters - char_global
             for char in mode_characters:
                 j_items.append({
-                    "name": f"{char}",
+                    "name": f"{mode_name} - {char}",
                     "category": [f"{mode_name} {playable_alias}"],
                     "progression": True,
                     "count": 1
@@ -105,7 +105,7 @@ for file in scriptdir.glob("*.yaml"):
                     j_locations.append({
                         "name": f"{char} {match_name} {i+1}",
                         "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |{char}|"
+                        "requires": f"|{mode_name}| AND |{mode_name} - {char}|"
                     })
         elif mode_type == "score-based":
             if mode.get("starting", False):
