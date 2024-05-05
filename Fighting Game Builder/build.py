@@ -1,138 +1,140 @@
-import yaml
-import numpy as np
 import json
-import zipfile
-import os
+import logging
+import sys
 import shutil
+import zipfile
 from pathlib import Path
 
-def zipdir(path, ziph):
-    # ziph is zipfile handle
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            ziph.write(os.path.join(root, file), 
-                       os.path.relpath(os.path.join(root, file), 
-                                       os.path.join(path, '..')))
+import yaml
 
-for file in Path(".").glob("*.yaml"):
-    with open(file, 'r') as config_file:
+CURRENT_VERSION = 1
+scriptdir = Path(__file__).parent
+tempfolder = scriptdir / '.temp'
+system_encoding = sys.getdefaultencoding()
+
+
+logger = logging.getLogger(scriptdir.name)
+logging.basicConfig(level=logging.INFO, format="%(name)s - %(message)s")
+shutil.rmtree(tempfolder, ignore_errors=True)
+
+logger.info("Generating Manual AP Worlds:")
+
+for file in scriptdir.glob("*.yaml"):
+    with open(file, 'r', encoding=system_encoding) as config_file:
         y_data = yaml.safe_load(config_file)
-    if 'meta' not in y_data or 'game_modes' not in y_data:
+    # explicit compatibility check
+    if 'template_version' not in y_data or y_data['template_version'] < CURRENT_VERSION:
+        # expected skips
+        logger.debug("Skipping %s...", file.name)
         continue
-    
+    # malformed yaml root check, unexpected skips
+    if not all(key in y_data for key in ['meta', 'game_modes']):
+        raise ValueError(f"Missing/unsupported root keys in {file.name}")
+    logger.info("Processing %s...", file.name)
+
     j_items = []
     j_locations = []
     j_game = []
     starting_items = []
-    
 
-    c_name = y_data['meta'].get("character_name", "Character")
-    
+    game_meta = y_data['meta']
+    game_name = game_meta["game_name"]
+    playable_alias = game_meta.get("playable_alias", "character")
+    char_global = {*y_data.get('characters', set())}
+
+    start_char_global = game_meta.get("starting_characters", None)
+    if isinstance(start_char_global, int):
+        starting_items.append({
+            "item_categories": [playable_alias],
+            "random": start_char_global
+        })
+    elif isinstance(start_char_global, list):
+        start_char_global = set(start_char_global)
+        char_global |= start_char_global
+        starting_items.append({
+            "items": list(start_char_global)
+        })
+        # parse for global characters
+    for char in char_global:
+        j_items.append({
+            "name": char,
+            "category": [playable_alias],
+            "progression": True,
+            "count": 1
+        })
     # build each game type
     for mode in y_data["game_modes"]:
-        if "type" not in mode:
-            raise ValueError(f"Game Mode {mode['name']} does not have an associated type")
-        elif mode["type"] == "character-based":
-            j_items.append({
-                "name": mode["name"],
-                "category": ["Game Modes"],
-                "progression": True,
-                "count": 1
+        mode_name = mode.get('name')
+        mode_type = mode.get('type', None)
+        if not mode_type:
+            raise ValueError(f"Game Mode {mode_name} does not have an associated type")
+        j_items.append({
+            "name": mode_name,
+            "category": ["Game Modes"],
+            "progression": True,
+            "count": 1
             })
+
+        if mode_type == "character-based":
+            # if mode is set to starting, add either the specified or a random # of characters to starting
             if mode.get("starting", False):
-                starting_items.append({"items": [mode["name"]]})
-                if "characters" in mode:
-                    if "starting_characters" in mode:
-                        if isinstance(mode["starting_characters"], list):
-                            starting_items.append({
-                                "items": [f"{mode['name']} - {char}" for char in mode['starting_characters']]
-                            })
-                        elif isinstance(mode["starting_characters"], int):
-                            starting_items.append({
-                                "item_categories": [f"{mode['name']} {c_name}"],
-                                "random": mode['starting_characters']
-                            })
-                    else:
-                        starting_items.append({
-                            "item_categories": [f"{mode['name']} {c_name}"],
-                            "random": 1
-                        })
-                            
+                start_char_mode = mode.get('starting_characters', None)
+                if isinstance(start_char_mode, int):
+                    starting_items.append({
+                    "item_categories": [f"{mode_name} {playable_alias}"],
+                        "random": start_char_mode
+                    })
+                elif isinstance(start_char_mode, list):
+                    starting_items.append({
+                        "items": [f"{mode_name} - {playable}" for playable in set(start_char_mode)]
+                    })
+                starting_items.append({"items": [mode_name]})
+
             match_name = mode.get("match_name", "match")
-            if "characters" in mode:
-                characters = [f"{mode['name']} - {char}" for char in mode['characters']]
-                for char in characters:
+            # if there are mode specific characters
+            mode_characters = {*mode.get("characters", set())}
+            # remove duplicates from global characters
+            if mode_characters:
+                specific_mode_characters = mode_characters - char_global
+                global_mode_characters = mode_characters - specific_mode_characters
+                char_items = [(char, f"{mode_name} - {char}") for char in specific_mode_characters] +\
+                    [(char, char) for char in global_mode_characters]
+                for char in specific_mode_characters:
                     j_items.append({
-                        "name": char,
-                        "category": [f"{mode['name']} {c_name}"],
+                        "name": f"{mode_name} - {char}",
+                        "category": [f"{mode_name} {playable_alias}"],
                         "progression": True,
                         "count": 1
                     })
-            elif "characters" in y_data:
-                characters = y_data['characters']
             else:
-                raise ValueError(f"Character set not defined for mode {mode['name']}")
-            for char in characters:
+                char_items = [(char, char) for char in char_global]
+            for char, item in char_items:
                 for i in range(mode.get("victory_count", 1)):
                     j_locations.append({
-                        "name": f"{char} {match_name} {i+1}",
-                        "category": [mode['name']],
-                        "requires": f"|{mode['name']}| AND |{char}|"
+                        "name": f"{mode_name} {char} {match_name} {i+1}",
+                        "category": [mode_name],
+                        "requires": f"|{mode_name}| AND |{item}|"
                     })
-        elif mode["type"] == "score-based":
-            j_items.append({
-                "name": mode["name"],
-                "category": ["Game Modes"],
-                "progression": True,
-                "count": 1
-            })
+        elif mode_type == "score-based":
             if mode.get("starting", False):
-                starting_items.append({"items": [mode["name"]]})
+                starting_items.append({"items": [mode_name]})
             bp = mode.get("breakpoint", 1)
             for score in range(0, mode["max_score"], bp):
                 percent = int(100 * score/mode["max_score"])
-                if "characters" in y_data and percent:
-                    j_locations.append({
-                        "name": f"{mode['name']} - Reach score {score+bp}",
-                        "category": [mode['name']],
-                        "requires": f"|{mode['name']}| AND |@{c_name}:{percent}%|"
-                    })
-                else:
-                    j_locations.append({
-                        "name": f"{mode['name']} - Reach score {score+bp}",
-                        "category": [mode['name']],
-                        "requires": f"|{mode['name']}|"
-                    })
-        else:
-            raise ValueError(f"Game Mode {mode['name']} uses an invalid mode type")
-    if "characters" in y_data:
-        for char in y_data["characters"]:
-            j_items.append({
-                "name": char,
-                "category": [c_name],
-                "progression": True,
-                "count": 1
-            })
-        if "starting_characters" in y_data["meta"]:
-            if isinstance(y_data["meta"]["starting_characters"], list):
-                starting_items.append({"items": y_data["meta"]["starting_characters"]})
-            elif isinstance(y_data["meta"]["starting_characters"], int): 
-                starting_items.append({
-                    "item_categories": [c_name],
-                    "random": y_data["meta"]["starting_characters"]
+                j_locations.append({
+                    "name": f"{mode_name} - Reach score {score+bp}",
+                    "category": [mode_name],
+                    "requires": f"|{mode_name}|{f' AND |@{playable_alias}:{percent}%|' if char_global and percent else ''}"
                 })
         else:
-            starting_items.append({
-                "item_categories": [c_name],
-                "random": 1
-            })
-                   
+            raise ValueError(f"Game Mode {mode_name} uses an invalid mode type")
+
+
     location_count = len(j_locations)
-    item_count = sum([i.get("count", 1) for i in j_items]) 
-    print(location_count, item_count)
-    
-    victory_count = int(location_count - item_count)//2
-    macguffin_name = y_data["meta"].get("victory_macguffin_name", "Trophy")
+    item_count = sum([i.get("count", 1) for i in j_items])
+
+    victory_count = int(location_count - item_count)//4
+    macguffin_name = game_meta.get("victory_macguffin_name", "Trophy")
     j_locations.append({
         "name": "Victory",
         "category": ["Victory"],
@@ -157,45 +159,43 @@ for file in Path(".").glob("*.yaml"):
         "count": victory_count,
         "progression": True
     })
-    
-    gamename = f"Manual_{y_data['meta']['game_name']}_{y_data['meta']['player_name']}"
-    
-    ofile = next(f for f in os.listdir(".") if ".apworld" in f and "stable" in f)
-    ofolder = ofile.split(".")[0]
-    
-    #print(json.dumps(j_items, indent=2))
-    #print(json.dumps(j_locations, indent=2))
-    
+
+    gamename = f"Manual_{game_meta['game_name']}_{game_meta['player_name']}"
+    ofile = next(scriptdir.glob("*stable*.apworld"))
+    ofolder = tempfolder / ofile.stem
+
+    logger.debug(json.dumps(j_items, indent=2))
+    logger.debug(json.dumps(j_locations, indent=2))
+
     with zipfile.ZipFile(ofile, "r") as zfile:
-        zfile.extractall("")
-    
-    with open(ofolder+"/data/items.json", "w") as item_file:
-        json.dump(j_items, item_file, indent=2)
-    
-    with open(ofolder+"/data/locations.json", "w") as location_file:
-        json.dump(j_locations, location_file, indent=2)
-    
-    with open(ofolder+"/data/regions.json", "w") as region_file:
+        zfile.extractall(tempfolder)
+
+    with open(ofolder/'data'/'items.json', "w", encoding=system_encoding) as item_file:
+        json.dump(j_items, item_file, indent=2, sort_keys=False)
+
+    with open(ofolder/'data'/'locations.json', "w", encoding=system_encoding) as location_file:
+        json.dump(j_locations, location_file, indent=2, sort_keys=False)
+
+    with open(ofolder/'data'/'regions.json', "w", encoding=system_encoding) as region_file:
         json.dump(dict(), region_file)
-    
-    with open(ofolder+"/data/game.json", "w") as game_file:
+
+    with open(ofolder/'data'/'game.json', "w", encoding=system_encoding) as game_file:
         json.dump({
-            "game": y_data['meta']['game_name'],
-            "creator": y_data["meta"]["player_name"],
-            "filler_item_name": y_data["meta"].get("filler_name", "Nothing"),
+            "game": game_meta['game_name'],
+            "creator": game_meta["player_name"],
+            "filler_item_name": game_meta.get("filler_name", "Nothing"),
             "starting_items": starting_items
-        }, game_file, indent=2)
-    
-    os.rename(ofolder, gamename.lower())
-    
-    with zipfile.ZipFile(gamename.lower()+".apworld", "w", zipfile.ZIP_DEFLATED) as zipf:
-        zipdir(gamename.lower()+"/", zipf)
-    
-    shutil.rmtree(gamename.lower())
-    
-    with open(gamename+".yaml", "w") as yfile:
+        }, game_file, indent=2, sort_keys=False)
+
+    finalpath = tempfolder / Path(gamename.lower()+'.apworld')
+    shutil.move(tempfolder / ofile.stem, tempfolder / finalpath.stem)
+    shutil.make_archive(str(finalpath), 'zip', root_dir= tempfolder, base_dir= finalpath.stem)
+    shutil.move(finalpath.with_suffix(finalpath.suffix + '.zip'), scriptdir / finalpath.name)
+    shutil.rmtree(tempfolder / finalpath.stem)
+
+    with open(scriptdir / Path(gamename).with_suffix(".yaml"), "w", encoding=system_encoding) as yfile:
         yaml.dump({
-            "name": y_data['meta']['player_name'],
+            "name": game_meta['player_name']+"{number}",
             "description": "Built with Axxroy's Fighting Game Builder",
             "game": gamename,
             gamename: {
@@ -203,4 +203,7 @@ for file in Path(".").glob("*.yaml"):
                 "accessibility": "items"
             }
         },
-        yfile)
+        yfile, sort_keys=False)
+    logger.info("%s completed with %d locations and %d items.",gamename, location_count, item_count)
+shutil.rmtree(tempfolder, ignore_errors=True)
+logger.info("All valid files completed.")

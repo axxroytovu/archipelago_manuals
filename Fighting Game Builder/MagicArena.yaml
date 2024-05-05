@@ -1,8 +1,9 @@
+template_version: 1
 meta:
   player_name: Axxroy
   game_name: MagicArena
   victory_macguffin_name: Rank Up
-  character_name: Deck
+  playable_alias: Deck
   filler_name: Bulk Common
 game_modes:
 - name: Standard

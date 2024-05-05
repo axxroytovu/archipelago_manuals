@@ -1,3 +1,4 @@
+template_version: 1
 meta:
   player_name: Player
   game_name: SmashUltimate
@@ -8,8 +9,8 @@ meta:
   - Link
   - Yoshi
   - Kirby
-  character_subset: 25
-  character_name: Fighter
+  #character_subset: 25
+  playable-alias: Fighter
   filler_name: Sticker
 game_modes:
 - name: Online Play
