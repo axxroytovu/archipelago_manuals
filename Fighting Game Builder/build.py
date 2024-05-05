@@ -88,32 +88,32 @@ for file in scriptdir.glob("*.yaml"):
                     starting_items.append({
                         "items": [f"{mode_name} - {playable}" for playable in set(start_char_mode)]
                     })
+                starting_items.append({"items": [mode_name]})
 
             match_name = mode.get("match_name", "match")
             # if there are mode specific characters
             mode_characters = {*mode.get("characters", set())}
             # remove duplicates from global characters
-            mode_characters = mode_characters - char_global
-            mode_characters = {f"{mode_name} - {m_ch}" for m_ch in mode_characters}
-            for char in mode_characters:
-                j_items.append({
-                    "name": f"{char}",
-                    "category": [f"{mode_name} {playable_alias}"],
-                    "progression": True,
-                    "count": 1
-                })
-                for i in range(mode.get("victory_count", 1)):
-                    j_locations.append({
-                        "name": f"{char} {match_name} {i+1}",
-                        "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |{char}|"
+            if mode_characters:
+                specific_mode_characters = mode_characters - char_global
+                global_mode_characters = mode_characters - specific_mode_characters
+                char_items = [(char, f"{mode_name} - {char}") for char in specific_mode_characters] +\
+                    [(char, char) for char in global_mode_characters]
+                for char in specific_mode_characters:
+                    j_items.append({
+                        "name": f"{mode_name} - {char}",
+                        "category": [f"{mode_name} {playable_alias}"],
+                        "progression": True,
+                        "count": 1
                     })
-            for char in char_global:
+            else:
+                char_items = [(char, char) for char in char_global]
+            for char, item in char_items:
                 for i in range(mode.get("victory_count", 1)):
                     j_locations.append({
-                        "name": f"{char} {match_name} {i+1}",
+                        "name": f"{mode_name} {char} {match_name} {i+1}",
                         "category": [mode_name],
-                        "requires": f"|{mode_name}| AND |{char}|"
+                        "requires": f"|{mode_name}| AND |{item}|"
                     })
         elif mode_type == "score-based":
             if mode.get("starting", False):
@@ -124,7 +124,7 @@ for file in scriptdir.glob("*.yaml"):
                 j_locations.append({
                     "name": f"{mode_name} - Reach score {score+bp}",
                     "category": [mode_name],
-                    "requires": f"|{mode_name}|{f' AND |@{playable_alias}:{percent}%|' if char_global else ''}"
+                    "requires": f"|{mode_name}|{f' AND |@{playable_alias}:{percent}%|' if char_global and percent else ''}"
                 })
         else:
             raise ValueError(f"Game Mode {mode_name} uses an invalid mode type")
@@ -133,7 +133,7 @@ for file in scriptdir.glob("*.yaml"):
     location_count = len(j_locations)
     item_count = sum([i.get("count", 1) for i in j_items])
 
-    victory_count = int(location_count - item_count)//2
+    victory_count = int(location_count - item_count)//4
     macguffin_name = game_meta.get("victory_macguffin_name", "Trophy")
     j_locations.append({
         "name": "Victory",
@@ -160,7 +160,7 @@ for file in scriptdir.glob("*.yaml"):
         "progression": True
     })
 
-    gamename = f"manual_{game_meta['game_name']}_{game_meta['player_name']}"
+    gamename = f"Manual_{game_meta['game_name']}_{game_meta['player_name']}"
     ofile = next(scriptdir.glob("*stable*.apworld"))
     ofolder = tempfolder / ofile.stem
 
@@ -195,7 +195,7 @@ for file in scriptdir.glob("*.yaml"):
 
     with open(scriptdir / Path(gamename).with_suffix(".yaml"), "w", encoding=system_encoding) as yfile:
         yaml.dump({
-            "name": game_meta['player_name'],
+            "name": game_meta['player_name']+"{number}",
             "description": "Built with Axxroy's Fighting Game Builder",
             "game": gamename,
             gamename: {
