@@ -10,7 +10,7 @@ meta:
   - Chun-Li
   - Guile
   #character_subset: 25
-  playable-alias: Fighter
+  character_alias: Fighter
   filler_name: Dropped Combo
 game_modes:
 - name: Fighting Ground
@@ -24,7 +24,7 @@ game_modes:
   starting: true
 - name: World Tour
   type: story-based
-  chapters: 15
+  chapter_count: 15
   checks_per_chapter: 5
 characters:
 - Akuma

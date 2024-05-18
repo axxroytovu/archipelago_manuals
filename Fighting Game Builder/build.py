@@ -39,13 +39,13 @@ for file in scriptdir.glob("*.yaml"):
 
     game_meta = y_data['meta']
     game_name = game_meta["game_name"]
-    playable_alias = game_meta.get("playable_alias", "character")
+    character_alias = game_meta.get("character_alias", "Character")
     char_global = {*y_data.get('characters', set())}
 
     start_char_global = game_meta.get("starting_characters", None)
     if isinstance(start_char_global, int):
         starting_items.append({
-            "item_categories": [playable_alias],
+            "item_categories": [character_alias],
             "random": start_char_global
         })
     elif isinstance(start_char_global, list):
@@ -58,7 +58,7 @@ for file in scriptdir.glob("*.yaml"):
     for char in char_global:
         j_items.append({
             "name": char,
-            "category": [playable_alias],
+            "category": [character_alias],
             "progression": True,
             "count": 1
         })
@@ -68,29 +68,41 @@ for file in scriptdir.glob("*.yaml"):
         mode_type = mode.get('type', None)
         if not mode_type:
             raise ValueError(f"Game Mode {mode_name} does not have an associated type")
-        j_items.append({
-            "name": mode_name,
-            "category": ["Game Modes"],
-            "progression": True,
-            "count": 1
-            })
 
         if mode_type == "character-based":
+            j_items.append({
+                "name": mode_name,
+                "category": ["Game Modes"],
+                "progression": True,
+                "count": 1
+                })
+            sub_character_alias = mode.get("character_alias", character_alias)
             # if mode is set to starting, add either the specified or a random # of characters to starting
             if mode.get("starting", False):
                 start_char_mode = mode.get('starting_characters', None)
                 if isinstance(start_char_mode, int):
                     starting_items.append({
-                    "item_categories": [f"{mode_name} {playable_alias}"],
+                    "item_categories": [f"{mode_name} {sub_character_alias}"],
                         "random": start_char_mode
                     })
                 elif isinstance(start_char_mode, list):
                     starting_items.append({
                         "items": [f"{mode_name} - {playable}" for playable in set(start_char_mode)]
                     })
+                elif "starting_characters" not in game_meta:
+                    if "characters" in mode:
+                        starting_items.append({
+                            "item_categories": [f"{mode_name} {sub_character_alias}"],
+                            "random": 5
+                        })
+                    else:
+                        starting_items.append({
+                            "item_categories": [character_alias],
+                            "random": 5
+                        })
                 starting_items.append({"items": [mode_name]})
 
-            match_name = mode.get("match_name", "match")
+            match_name = mode.get("match_name", "Match")
             # if there are mode specific characters
             mode_characters = {*mode.get("characters", set())}
             # remove duplicates from global characters
@@ -102,7 +114,7 @@ for file in scriptdir.glob("*.yaml"):
                 for char in specific_mode_characters:
                     j_items.append({
                         "name": f"{mode_name} - {char}",
-                        "category": [f"{mode_name} {playable_alias}"],
+                        "category": [f"{mode_name} {sub_character_alias}"],
                         "progression": True,
                         "count": 1
                     })
@@ -116,6 +128,12 @@ for file in scriptdir.glob("*.yaml"):
                         "requires": f"|{mode_name}| AND |{item}|"
                     })
         elif mode_type == "score-based":
+            j_items.append({
+                "name": mode_name,
+                "category": ["Game Modes"],
+                "progression": True,
+                "count": 1
+                })
             if mode.get("starting", False):
                 starting_items.append({"items": [mode_name]})
             bp = mode.get("breakpoint", 1)
@@ -124,8 +142,46 @@ for file in scriptdir.glob("*.yaml"):
                 j_locations.append({
                     "name": f"{mode_name} - Reach score {score+bp}",
                     "category": [mode_name],
-                    "requires": f"|{mode_name}|{f' AND |@{playable_alias}:{percent}%|' if char_global and percent else ''}"
+                    "requires": f"|{mode_name}|{f' AND |@{character_alias}:{percent}%|' if char_global and percent else ''}"
                 })
+        elif mode_type == "run-based":
+            run_alias = mode.get("run_alias", "Run")
+            run_count = mode.get("run_count", 5)
+            cpr = mode.get("checks_per_run", 1)
+            j_items.append({
+                "name": f"One {mode_name} {run_alias}",
+                "category": ["Game Modes"],
+                "progression": True,
+                "count": run_count
+                })
+            if mode.get("starting", False):
+                starting_items.append({"items": [f"One {mode_name} {run_alias}"], "random": min(5, run_count)})
+            for run in range(run_count):
+                for check in range(cpr):
+                    j_locations.append({
+                        "name": f"{mode_name} - {run_alias} {run+1} - {check+1}",
+                        "category": [mode_name],
+                        "requires": f"|One {mode_name} {run_alias}:{run+1}|"
+                    })
+        elif mode_type == "story-based":
+            chapter_alias = mode.get("chapter_alias", "Chapter")
+            chapter_count = mode.get("chapter_count", 5)
+            cpc = mode.get("checks_per_chapter", 1)
+            j_items.append({
+                "name": f"Progressive {mode_name} {chapter_alias}",
+                "category": ["Game Modes"],
+                "progression": True,
+                "count": chapter_count
+                })
+            if mode.get("starting", False):
+                starting_items.append({"items": [f"Progressive {mode_name} {chapter_alias}"], "random": min(5, chapter_count)})
+            for chapter in range(chapter_count):
+                for check in range(cpc):
+                    j_locations.append({
+                        "name": f"{mode_name} - {chapter_alias} {chapter+1} - {check+1}",
+                        "category": [mode_name],
+                        "requires": f"|Progressive {mode_name} {chapter_alias}:{chapter+1}|"
+                    })
         else:
             raise ValueError(f"Game Mode {mode_name} uses an invalid mode type")
 

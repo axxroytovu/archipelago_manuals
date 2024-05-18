@@ -9,7 +9,7 @@ meta:
   - Link
   - Yoshi
   - Kirby
-  playable-alias: Fighter
+  character_alias: Fighter
   filler_name: Sticker
 game_modes:
 - name: Online Play
@@ -28,10 +28,10 @@ game_modes:
 - name: Cruel Smash
   type: score-based
   max_score: 6
-- name: Mob Smash
-  type: character-based
-  match_name: Contest
-  victory_count: 1
+- name: Endless Mob Smash
+  type: run-based
+  run_count: 10
+  checks_per_run: 3 
 characters:
 - Mario
 - Donkey Kong

@@ -3,7 +3,7 @@ meta:
   player_name: Axxroy
   game_name: MagicArena
   victory_macguffin_name: Rank Up
-  playable_alias: Deck
+  character_alias: Deck
   filler_name: Bulk Common
 game_modes:
 # Common 1v1 modes
@@ -68,6 +68,7 @@ game_modes:
   - Sylvan Wisdom
 - name: Color Challenge
   type: character-based
+  character_alias: Color
   characters:
   - White
   - Blue
