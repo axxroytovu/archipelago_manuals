@@ -48,6 +48,8 @@ There are 4 types of game modes. All game mode definitions must have at minimum:
 - `name`: The name of the game mode
 - `type`: defines the behavior of the game mode, see the options below
 
+Any mode may be defined as the starting game mode with `starting: true`. This will put enough items into the starting inventory to play some of that game mode.
+
 #### `character-based`
 
 These game modes are tied to unlocking specific characters, and then achieving victories with those characters.

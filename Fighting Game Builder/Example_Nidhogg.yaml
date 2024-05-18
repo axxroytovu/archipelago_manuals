@@ -1,0 +1,14 @@
+template_version: 1
+meta:
+  player_name: Axxroy
+  game_name: Nidhogg
+  # this is mostly a joke but it technically works within the framework
+game_modes:
+- name: Single Player
+  type: run-based
+  run_count: 20
+  starting: true
+- name: Online
+  type: run-based
+  run_count: 20
+  checks_per_run: 2
