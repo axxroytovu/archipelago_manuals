@@ -6,6 +6,7 @@ meta:
   playable_alias: Deck
   filler_name: Bulk Common
 game_modes:
+# Common 1v1 modes
 - name: Standard
   type: character-based
   victory_count: 3
@@ -33,10 +34,45 @@ game_modes:
   - Jund Midrange
   - Mono White Humans
   - Black Midrange
+- name: Standard Brawl
+  type: character-based
+  victory_count: 3
+  characters:
+  - Jodah the Unifier
+  - Etali Primal Conqueror
+  - Calix, Guided by Fate
+  - Harbin, Vanguard Aviator
+  - Kaya, Intangible Slayer
+# Other game modes
 - name: Quick Draft
-  type: score-based
-  max_score: 7
-- name: Color Challenges
-  type: score-based
-  max_score: 25
+  type: run-based
+  checks_per_run: 3
+  run_count: 5
+- name: Jump In!
+  type: run-based
+  checks_per_run: 2
+  run_count: 5
+- name: Starter Deck Duel
+  type: character-based
+  victory_count: 2
+  characters:
+  - Arcane Aggression
+  - Charging Ahead
+  - Grave Secrets
+  - Growing Hope
+  - High-Flying Valor
+  - Legions of Phyrexia
+  - Rebel Armory
+  - Savage Salvagers
+  - Scrapyard Sacrifice
+  - Sylvan Wisdom
+- name: Color Challenge
+  type: character-based
+  characters:
+  - White
+  - Blue
+  - Black
+  - Red
+  - Green
+  victory_count: 5
   starting: true

@@ -1,6 +1,6 @@
 template_version: 1
 meta:
-  player_name: Player
+  player_name: Axxroy
   game_name: SmashUltimate
   victory_macguffin_name: Spirit
   starting_characters:
@@ -9,7 +9,6 @@ meta:
   - Link
   - Yoshi
   - Kirby
-  #character_subset: 25
   playable-alias: Fighter
   filler_name: Sticker
 game_modes:
