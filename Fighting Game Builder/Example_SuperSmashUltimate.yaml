@@ -1,0 +1,124 @@
+template_version: 1
+meta:
+  player_name: Axxroy
+  game_name: SmashUltimate
+  victory_macguffin_name: Spirit
+  starting_characters:
+  - Mario
+  - Donkey Kong
+  - Link
+  - Yoshi
+  - Kirby
+  character_alias: Fighter
+  filler_name: Sticker
+game_modes:
+- name: Online Play
+  type: character-based
+  match_name: Smash
+  victory_count: 3
+- name: Vs NPC
+  type: character-based
+  match_name: Smash
+  victory_count: 2
+  starting: true
+- name: Home Run Contest
+  type: score-based
+  max_score: 200
+  breakpoint: 50
+- name: Cruel Smash
+  type: score-based
+  max_score: 6
+- name: Endless Mob Smash
+  type: run-based
+  run_count: 10
+  checks_per_run: 3 
+characters:
+- Mario
+- Donkey Kong
+- Link
+- Samus
+- Yoshi
+- Kirby
+- Fox McCloud
+- Pikachu
+- Dark Samus
+- Luigi
+- Ness
+- Captain Falcon
+- Jigglypuff
+- Princess Peach
+- Princess Daisy
+- Bowser
+- Ice Climbers
+- Sheik
+- Princess Zelda
+- Dr. Mario
+- Pichu
+- Falco Lombardi
+- Marth
+- Lucina
+- Young Link
+- Ganondorf
+- Mewtwo
+- Roy
+- Chrom
+- Mr. Game & Watch
+- Meta Knight
+- Pit
+- Dark Pit
+- Zero Suit Samus
+- Wario
+- Solid Snake
+- Ike
+- Pokémon Trainer
+- Squirtle
+- Ivysaur
+- Charizard
+- Diddy Kong
+- Lucas
+- Sonic
+- King Dedede
+- Pikmin and Olimar
+- Lucario
+- R.O.B.
+- Toon Link
+- Wolf O'Donnell
+- Villager
+- Mega Man
+- Wii Fit Trainer
+- Rosalina and Luma
+- Little Mac
+- Greninja
+- Mii Brawler
+- Mii Swordfighter
+- Mii Gunner
+- Palutena
+- Pac-Man
+- Robin
+- Shulk
+- Bowser Jr.
+- Duck Hunt
+- Ryu
+- Ken Masters
+- Cloud Strife
+- Corrin
+- Bayonetta
+- Inkling
+- Ridley
+- Simon Belmont
+- Richter Belmont
+- King K. Rool
+- Isabelle
+- Incineroar
+- Piranha Plant
+- Joker
+- Hero
+- Banjo and Kazooie
+- Terry
+- Byleth
+- Min Min
+- Steve
+- Sephiroth
+- Pyra/Mythra
+- Kazuya Mishima
+- Sora
