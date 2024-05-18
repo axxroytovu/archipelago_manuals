@@ -3,12 +3,7 @@ meta:
   player_name: Axxroy
   game_name: StreetFighter6
   victory_macguffin_name: Trophy
-  starting_characters:
-  - Ken
-  - Luke
-  - Ryu
-  - Chun-Li
-  - Guile
+  starting_characters: 5
   #character_subset: 25
   character_alias: Fighter
   filler_name: Dropped Combo

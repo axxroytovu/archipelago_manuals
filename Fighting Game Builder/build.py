@@ -137,10 +137,11 @@ for file in scriptdir.glob("*.yaml"):
             if mode.get("starting", False):
                 starting_items.append({"items": [mode_name]})
             bp = mode.get("breakpoint", 1)
-            for score in range(0, mode["max_score"], bp):
-                percent = int(100 * score/mode["max_score"])
+            max_score = mode["max_score"]
+            for score in range(0, max_score, bp):
+                percent = int(100 * score/max_score)
                 j_locations.append({
-                    "name": f"{mode_name} - Reach score {score+bp}",
+                    "name": f"{mode_name} - Reach score {min(score+bp, max_score)}",
                     "category": [mode_name],
                     "requires": f"|{mode_name}|{f' AND |@{character_alias}:{percent}%|' if char_global and percent else ''}"
                 })
