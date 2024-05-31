@@ -214,7 +214,7 @@ for file in scriptdir.glob("*.yaml"):
         "name": macguffin_name,
         "category": ["Victory"],
         "count": victory_count,
-        "progression": True
+        "progression_skip_balancing": True
     })
 
     gamename = f"Manual_{game_meta['game_name']}_{game_meta['player_name']}"
@@ -241,7 +241,8 @@ for file in scriptdir.glob("*.yaml"):
             "game": game_meta['game_name'],
             "creator": game_meta["player_name"],
             "filler_item_name": game_meta.get("filler_name", "Nothing"),
-            "starting_items": starting_items
+            "starting_items": starting_items,
+            "death_link": True
         }, game_file, indent=2, sort_keys=False)
 
     finalpath = tempfolder / Path(gamename.lower()+'.apworld')
@@ -256,8 +257,9 @@ for file in scriptdir.glob("*.yaml"):
             "description": "Built with Axxroy's Fighting Game Builder",
             "game": gamename,
             gamename: {
-                "progression_balancing": 0,
-                "accessibility": "items"
+                "progression_balancing": 50,
+                "accessibility": "items",
+                "death_link": True
             }
         },
         yfile, sort_keys=False)
