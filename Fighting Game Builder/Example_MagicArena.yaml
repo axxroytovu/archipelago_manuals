@@ -1,0 +1,79 @@
+template_version: 1
+meta:
+  player_name: Axxroy
+  game_name: MagicArena
+  victory_macguffin_name: Rank Up
+  character_alias: Deck
+  filler_name: Bulk Common
+game_modes:
+# Common 1v1 modes
+- name: Standard
+  type: character-based
+  victory_count: 3
+  characters:
+  - Esper Midrange
+  - Mono-Red Aggro
+  - Azorius Control
+  - Bant Poison
+  - Domain
+- name: Explorer 
+  type: character-based
+  victory_count: 3
+  characters:
+  - Izzet Phoenix
+  - Rakdos Vampires
+  - Niv to Light
+  - Amalia Combo
+  - Izzet Ensoul
+  - Azorius Spirits
+- name: Historic
+  type: character-based
+  victory_count: 3
+  characters:
+  - 5c Gates
+  - Jund Midrange
+  - Mono White Humans
+  - Black Midrange
+- name: Standard Brawl
+  type: character-based
+  victory_count: 3
+  characters:
+  - Jodah the Unifier
+  - Etali Primal Conqueror
+  - Calix, Guided by Fate
+  - Harbin, Vanguard Aviator
+  - Kaya, Intangible Slayer
+# Other game modes
+- name: Quick Draft
+  type: run-based
+  checks_per_run: 3
+  run_count: 5
+- name: Jump In!
+  type: run-based
+  checks_per_run: 2
+  run_count: 5
+- name: Starter Deck Duel
+  type: character-based
+  victory_count: 2
+  characters:
+  - Arcane Aggression
+  - Charging Ahead
+  - Grave Secrets
+  - Growing Hope
+  - High-Flying Valor
+  - Legions of Phyrexia
+  - Rebel Armory
+  - Savage Salvagers
+  - Scrapyard Sacrifice
+  - Sylvan Wisdom
+- name: Color Challenge
+  type: character-based
+  character_alias: Color
+  characters:
+  - White
+  - Blue
+  - Black
+  - Red
+  - Green
+  victory_count: 5
+  starting: true

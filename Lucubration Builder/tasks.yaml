@@ -1,0 +1,54 @@
+meta:
+  player_name: Player
+  traps: false
+  # Creates a number of checks per hour of work
+  checks_per_hour: 4
+tasks:
+- name: The Bible
+  type: book
+  start_chapter: 1
+  end_chapter: 31
+- name: Guitar
+  type: practice-specific
+  category: "Music"
+  hours_per_item: 1
+  items:
+  - All You Need Is Love
+  - Across the Universe
+  - Good Day Sunshine
+  - Help!
+  - Hey Jude
+- name: Pixel Art
+  type: practice-specific
+  category: "Art"
+  checks_per_item: 2
+  items:
+  - Mario
+  - Luigi
+  - Bowser
+  - Peach
+- name: German
+  type: practice-general
+  category: "Language Practice"
+  hours: 5
+  starting: true
+- name: Korean
+  type: practice-general
+  category: "Language Practice"
+  checks: 10
+- name: Daily Workout
+  type: workout
+  sets:
+  - 10 Pushups
+  - 10 Situps
+  - Half Mile Run
+  repetitions: 7
+- name: Knitting Projects
+  type: tied-projects
+  projects:
+  - name: Knit Hat
+    hours: 3
+  - name: Knit Socks
+    checks: 7
+  - name: Knit Sweater
+    hours: 10

@@ -8,16 +8,8 @@
     "progression": true
   },
   {
-    "count": "7",
+    "count": "13",
     "name": "Quest Rank Star",
-    "category": [
-      "Quest Rank"
-    ],
-    "progression": true
-  },
-  {
-    "count": "6",
-    "name": "Master Rank Star",
     "category": [
       "Quest Rank"
     ],
@@ -388,451 +380,486 @@
     "useful": true
   },
   {
-    "count": "1",
-    "name": "Berry Safe",
+    "count": "3",
+    "name": "Berry Safe Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Very Hap-peanut",
+    "count": "3",
+    "name": "Very Hap-peanut Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Triple Rose",
+    "count": "3",
+    "name": "Triple Rose Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Buddy Bond",
+    "count": "3",
+    "name": "Buddy Bond Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Elgado Special",
+    "count": "3",
+    "name": "Elgado Special Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Hot-to-Trot",
+    "count": "3",
+    "name": "Hot-to-Trot Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Hap-peanut",
+    "count": "3",
+    "name": "Hap-peanut Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Rosy",
+    "count": "3",
+    "name": "Rosy Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Wealthy Man",
+    "count": "3",
+    "name": "Wealthy Man Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "The Kamura",
+    "count": "3",
+    "name": "The Kamura Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Raisin d'etre",
+    "count": "3",
+    "name": "Raisin d'etre Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Secretheart",
+    "count": "3",
+    "name": "Secretheart Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Sweetheart",
+    "count": "3",
+    "name": "Sweetheart Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Peach Skill",
+    "count": "3",
+    "name": "Peach Skill Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Cool-to-the-Core",
+    "count": "3",
+    "name": "Cool-to-the-Core Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Mint-iature",
+    "count": "3",
+    "name": "Mint-iature Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Blastslash",
+    "count": "3",
+    "name": "Blastslash Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Beansplosion",
+    "count": "3",
+    "name": "Beansplosion Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Fruitflash",
+    "count": "3",
+    "name": "Fruitflash Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Sharp",
+    "count": "3",
+    "name": "Sharp Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Dizzybloom",
+    "count": "3",
+    "name": "Dizzybloom Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Invigorating",
+    "count": "3",
+    "name": "Invigorating Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Centering",
+    "count": "3",
+    "name": "Centering Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Balancing",
+    "count": "3",
+    "name": "Balancing Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Leg Day",
+    "count": "3",
+    "name": "Leg Day Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Pinea-full",
+    "count": "3",
+    "name": "Pinea-full Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Spud-luck",
+    "count": "3",
+    "name": "Spud-luck Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Dressage",
+    "count": "3",
+    "name": "Dressage Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Super Bestnut",
+    "count": "3",
+    "name": "Super Bestnut Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Bestnut",
+    "count": "3",
+    "name": "Bestnut Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Analeptic",
+    "count": "3",
+    "name": "Analeptic Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Medicinal",
+    "count": "3",
+    "name": "Medicinal Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Moongaze",
+    "count": "3",
+    "name": "Moongaze Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Cacaoutstanding",
+    "count": "3",
+    "name": "Cacaoutstanding Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Piping-hot Egg",
+    "count": "3",
+    "name": "Piping-hot Egg Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Lava-hot Egg",
+    "count": "3",
+    "name": "Lava-hot Egg Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Pure Water",
+    "count": "3",
+    "name": "Pure Water Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Waterfall",
+    "count": "3",
+    "name": "Waterfall Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Spicetingle",
+    "count": "3",
+    "name": "Spicetingle Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Spicejolt",
+    "count": "3",
+    "name": "Spicejolt Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Too-cool",
+    "count": "3",
+    "name": "Too-cool Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Sub-zero",
+    "count": "3",
+    "name": "Sub-zero Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Dragonsbane",
+    "count": "3",
+    "name": "Dragonsbane Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Dragonward",
+    "count": "3",
+    "name": "Dragonward Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Magnaroar",
+    "count": "3",
+    "name": "Magnaroar Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Magnacrisp",
+    "count": "3",
+    "name": "Magnacrisp Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Bee-utiful",
+    "count": "3",
+    "name": "Bee-utiful Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Chirp Chirp",
+    "count": "3",
+    "name": "Chirp Chirp Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Call-of-the-Wild",
+    "count": "3",
+    "name": "Call-of-the-Wild Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Buddy's Treat",
+    "count": "3",
+    "name": "Buddy's Treat Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Self-Kelp",
+    "count": "3",
+    "name": "Self-Kelp Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Amble Ramble",
+    "count": "3",
+    "name": "Amble Ramble Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Careless Caramel",
+    "count": "3",
+    "name": "Careless Caramel Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Easy-Breezy",
+    "count": "3",
+    "name": "Easy-Breezy Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Hide-and-Seek",
+    "count": "3",
+    "name": "Hide-and-Seek Dango",
     "category": [
       "Dango"
     ],
     "filler": true
   },
   {
-    "count": "1",
-    "name": "Gooey Chewy",
+    "count": "3",
+    "name": "Gooey Chewy Dango",
     "category": [
       "Dango"
     ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "You got this meowster!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "You gotta be kitten me!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "A clawsome quest!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Pawsitive reinforcement!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Don't stop meow!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Totally pawsome!",
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Get that meownster!",
     "filler": true
   }
 ]
