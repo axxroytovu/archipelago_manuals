@@ -1,6 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld
+from BaseClasses import MultiWorld, CollectionState
 import random
 from copy import copy
 
