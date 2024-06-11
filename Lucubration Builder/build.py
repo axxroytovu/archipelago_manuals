@@ -1,9 +1,10 @@
 import yaml
-import numpy as np
 import json
 import zipfile
 import os
 import shutil
+import numpy as np
+import math
 
 def zipdir(path, ziph):
     # ziph is zipfile handle
@@ -74,21 +75,26 @@ for task in y_data["tasks"]:
         else:
             cpi = task["checks_per_item"]
         for i_name in task["items"]:
+            if math.ceil(cpi/2) == 1:
+                final_name = i_name
+            else:
+                final_name = f"Progressive {i_name}"
             for i in range(cpi):
-                req = i//2 + 1
+                req = math.ceil((i+1)/2)
                 j_locations.append({
                     "name": f"{i_name} {i+1}",
                     "category": [task.get("category", task["name"])],
-                    "requires": f"|Progressive {i_name}:{req}|"
+                    "requires": f"|{final_name}:{req}|"
                 })
+            
             j_items.append({
-                "name": f"Progressive {i_name}",
+                "name": final_name,
                 "category": [task.get("category", task["name"])],
                 "progression": True,
-                "count": cpi
+                "count": math.ceil(cpi/2)
             })
             if task.get("starting", False):
-                starting_items.append(f"Progressive {i_name}")
+                starting_items.append(final_name)
     elif task["type"] == "workout":
         w_name = task["name"]
         for i in range(task["repetitions"]):
@@ -166,7 +172,7 @@ j_items.append({
     "name": "Productivity",
     "category": ["Victory"],
     "count": victory_count,
-    "progression": True
+    "progression_skip_balancing": True
 })
 
 gamename = f"Manual_Tasks_{y_data['meta']['player_name']}"
