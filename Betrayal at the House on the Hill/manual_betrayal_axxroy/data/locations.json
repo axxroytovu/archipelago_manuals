@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Abandoned Room",
+        "region": "Starting"
+    },
+    {
+        "name": "Charred Room",
+        "region": "Starting"
+    },
+    {
+        "name": "Kitchen",
+        "region": "Starting"
+    },
+    {
+        "name": "Bloody Room",
+        "region": "Upstairs Main"
+    },
+    {
+        "name": "Vault - 1",
+        "region": "Upstairs Main"
+    },
+    {
+        "name": "Vault - 2",
+        "region": "Upstairs Main"
+    },
+    {
+        "name": "Gallery",
+        "region": "Upstairs Main"
+    },
+    {
+        "name": "Junk Room",
+        "region": "Upstairs Main"
+    },
+    {
+        "name": "Furnace Room",
+        "region": "Basement Main"
+    },
+    {
+        "name": "Wine Cellar",
+        "region": "Basement Main"
+    },
+    {
+        "name": "Gymnasium",
+        "region": "Basement Main"
+    },
+    {
+        "name": "Larder",
+        "region": "Basement Main"
+    },
+    {
+        "name": "Dining Room",
+        "region": "Main Upgrade"
+    },
+    {
+        "name": "Balcony",
+        "region": "Upstairs Upgrade"
+    },
+    {
+        "name": "Storeroom",
+        "region": "Upstairs Upgrade"
+    },
+    {
+        "name": "Master Bedroom",
+        "region": "Upstairs Upgrade"
+    },
+    {
+        "name": "Servants Quarters",
+        "region": "Upstairs Upgrade"
+    },
+    {
+        "name": "Pentagram Chamber",
+        "region": "Basement Upgrade",
+        "victory": true,
+        "requires": "|Angel Feather| AND |Book| AND |Holy Symbol|"
+    },
+    {
+        "name": "Catacombs",
+        "region": "Basement Upgrade"
+    },
+    {
+        "name": "Theater",
+        "region": "Main Expansion"
+    },
+    {
+        "name": "Study",
+        "region": "Main Expansion"
+    },
+    {
+        "name": "Drawing Room",
+        "region": "Upstairs Expansion"
+    },
+    {
+        "name": "Solarium",
+        "region": "Upstairs Expansion"
+    },
+    {
+        "name": "Laundry",
+        "region": "Basement Expansion"
+    },
+    {
+        "name": "Arsenal",
+        "region": "Basement Expansion"
+    },
+    {
+        "name": "Storm Cellar",
+        "region": "Basement Expansion"
+    },
+    {
+        "name": "Dungeon",
+        "region": "Basement Expansion"
+    },
+    {
+        "name": "Nursery",
+        "region": "Roof"
+    },
+    {
+        "name": "Rookery",
+        "region": "Roof"
+    },
+    {
+        "name": "Sewing Room",
+        "region": "Roof"
+    }
+]

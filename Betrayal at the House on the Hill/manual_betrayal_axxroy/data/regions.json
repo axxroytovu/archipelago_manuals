@@ -1,0 +1,35 @@
+{
+    "Starting": {
+        "starting": true,
+        "connects_to": ["Upstairs Main", "Basement Main", "Main Upgrade", "Main Expansion"]
+    },
+    "Upstairs Main": {
+        "requires": "|Upstairs Main Pack|",
+        "connects_to": ["Upstairs Upgrade", "Upstairs Expansion", "Roof"]
+    },
+    "Basement Main": {
+        "requires": "|Basement Main Pack|",
+        "connects_to": ["Basement Expansion", "Basement Upgrade"]
+    },
+    "Main Upgrade": {
+        "requires": "|Main Floor Upgrade Pack| AND |Time Boost +3:1|"
+    },
+    "Main Expansion": {
+        "requires": "|Main Floor Expansion Pack| AND |Time Boost +3:2|"
+    },
+    "Basement Upgrade": {
+        "requires": "|Basement Upgrade Pack| AND |Time Boost +3:2|"
+    },
+    "Basement Expansion": {
+        "requires": "|Basement Expansion Pack| AND |Time Boost +3:3|"
+    },
+    "Upstairs Upgrade": {
+        "requires": "|Upstairs Upgrade Pack| AND |Time Boost +3:1|"
+    },
+    "Upstairs Expansion": {
+        "requires": "|Upstairs Expansion Pack| AND |Time Boost +3:2|"
+    },
+    "Roof": {
+        "requires": "|Roof Pack| AND |Time Boost +3:3|"
+    }
+}
