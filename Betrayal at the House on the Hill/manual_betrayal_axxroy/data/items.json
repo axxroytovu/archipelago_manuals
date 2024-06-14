@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Upstairs Main Pack",
+        "category": [
+            "Location Packs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Basement Main Pack",
+        "category": [
+            "Location Packs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Main Floor Upgrade Pack",
+        "category": [
+            "Location Packs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Upstairs Upgrade Pack",
+        "category": [
+            "Location Packs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Basement Upgrade Pack",
+        "category": [
+            "Location Packs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Main Floor Expansion Pack",
+        "category": [
+            "Location Packs",
+            "Widows Walk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Upstairs Expansion Pack",
+        "category": [
+            "Location Packs",
+            "Widows Walk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Basement Expansion Pack",
+        "category": [
+            "Location Packs",
+            "Widows Walk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Roof Pack",
+        "category": [
+            "Location Packs",
+            "Widows Walk"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Time Boost +3",
+        "category": ["Upgrades"],
+        "progression": true,
+        "count": 3
+    },
+    {
+        "name": "Angel Feather",
+        "category": ["Items", "Victory"],
+        "progression_skip_balancing": true
+    },
+    {
+        "name": "Book",
+        "category": ["Omens", "Victory"],
+        "progression_skip_balancing": true
+    },
+    {
+        "name": "Holy Symbol",
+        "category": ["Omens", "Victory"],
+        "progression_skip_balancing": true
+    },
+    {
+        "name": "Candle",
+        "category": ["Items"]
+    },
+    {
+        "name": "Bell",
+        "category": ["Items"]
+    },
+    {
+        "name": "Revolver",
+        "category": ["Items"]
+    },
+    {
+        "name": "Healing Salve",
+        "category": ["Items"]
+    },
+    {
+        "name": "Dark Dice",
+        "category": ["Items"]
+    },
+    {
+        "name": "Amulet of the Ages",
+        "category": ["Items"]
+    },
+    {
+        "name": "Armor",
+        "category": ["Items"]
+    },
+    {
+        "name": "Axe",
+        "category": ["Items"]
+    },
+    {
+        "name": "Idol",
+        "category": ["Items"]
+    },
+    {
+        "name": "Camcorder",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Chainsaw",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Smelling Salts",
+        "category": ["Items"]
+    },
+    {
+        "name": "Bottle",
+        "category": ["Items"]
+    },
+    {
+        "name": "Snake Oil",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Puzzle Box",
+        "category": ["Items"]
+    },
+    {
+        "name": "Rabbit's Foot",
+        "category": ["Items"]
+    },
+    {
+        "name": "Music Box",
+        "category": ["Items"]
+    },
+    {
+        "name": "Medical Kit",
+        "category": ["Items"]
+    },
+    {
+        "name": "Boomstick",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Effigy",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Pickpocket's Gloves",
+        "category": ["Items"]
+    },
+    {
+        "name": "Lucky Stone",
+        "category": ["Items"]
+    },
+    {
+        "name": "Chalk",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Blueprint",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Ceremonial Robe",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Device",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Teapot",
+        "category": ["Items"]
+    },
+    {
+        "name": "Locket",
+        "category": ["Items", "Widows Walk"]
+    },
+    {
+        "name": "Sacrificial Dagger",
+        "category": ["Items"]
+    },
+    {
+        "name": "Adrenaline Shot",
+        "category": ["Items"]
+    },
+    {
+        "name": "Dynamite",
+        "category": ["Items"]
+    },
+    {
+        "name": "Blood Dagger",
+        "category": ["Items"]
+    },
+    {
+        "name": "Crystal Ball",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Bite",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Madman",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Spear",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Spirit Board",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Box",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Letter",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Cat",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Mask",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Medallion",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Photograph",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Bloodstone",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Key",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Skull",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Ring",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Dog",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Girl",
+        "category": ["Omens"]
+    },
+    {
+        "name": "Vial",
+        "category": ["Omens", "Widows Walk"]
+    },
+    {
+        "name": "Rope",
+        "category": ["Omens", "Widows Walk"]
+    }
+]
