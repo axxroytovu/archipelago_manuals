@@ -1,124 +1,158 @@
 [
     {
         "name": "Abandoned Room",
-        "region": "Starting"
+        "region": "Starting",
+        "category": ["Ground", "Basement"]
     },
     {
         "name": "Charred Room",
-        "region": "Starting"
+        "region": "Starting",
+        "category": ["Upper", "Ground"]
     },
     {
         "name": "Kitchen",
-        "region": "Starting"
+        "region": "Starting",
+        "category": ["Ground", "Basement"]
     },
     {
         "name": "Bloody Room",
-        "region": "Upstairs Main"
+        "region": "Upstairs Main",
+        "category": ["Upper", "Ground"]
     },
     {
         "name": "Vault - 1",
-        "region": "Upstairs Main"
+        "region": "Upstairs Main",
+        "category": ["Upper", "Basement"]
     },
     {
         "name": "Vault - 2",
-        "region": "Upstairs Main"
+        "region": "Upstairs Main",
+        "category": ["Upper", "Basement"]
     },
     {
         "name": "Gallery",
-        "region": "Upstairs Main"
+        "region": "Upstairs Main",
+        "category": ["Upper"]
     },
     {
         "name": "Junk Room",
-        "region": "Upstairs Main"
+        "region": "Upstairs Main",
+        "category": ["Upper", "Ground", "Basement"]
     },
     {
         "name": "Furnace Room",
-        "region": "Basement Main"
+        "region": "Basement Main",
+        "category": ["Basement"]
     },
     {
         "name": "Wine Cellar",
-        "region": "Basement Main"
+        "region": "Basement Main",
+        "category": ["Basement"]
     },
     {
         "name": "Gymnasium",
-        "region": "Basement Main"
+        "region": "Basement Main",
+        "category": ["Upper", "Basement"]
     },
     {
         "name": "Larder",
-        "region": "Basement Main"
+        "region": "Basement Main",
+        "category": ["Basement"]
     },
     {
         "name": "Dining Room",
-        "region": "Main Upgrade"
+        "region": "Main Upgrade",
+        "category": ["Ground"]
     },
     {
         "name": "Balcony",
-        "region": "Upstairs Upgrade"
+        "region": "Upstairs Upgrade",
+        "category": ["Upper"]
     },
     {
         "name": "Storeroom",
-        "region": "Upstairs Upgrade"
+        "region": "Upstairs Upgrade",
+        "category": ["Upper", "Basement"]
     },
     {
         "name": "Master Bedroom",
-        "region": "Upstairs Upgrade"
+        "region": "Upstairs Upgrade",
+        "category": ["Upper"]
     },
     {
         "name": "Servants Quarters",
-        "region": "Upstairs Upgrade"
+        "region": "Upstairs Upgrade",
+        "category": ["Upper", "Basement"]
     },
     {
         "name": "Pentagram Chamber",
         "region": "Basement Upgrade",
+        "category": ["Basement"]
+    },
+    {
+        "name": "Disrupt the Ritual",
+        "category": ["Basement"],
         "victory": true,
         "requires": "|Angel Feather| AND |Book| AND |Holy Symbol|"
     },
     {
         "name": "Catacombs",
-        "region": "Basement Upgrade"
+        "region": "Basement Upgrade",
+        "category": ["Basement"]
     },
     {
         "name": "Theater",
-        "region": "Main Expansion"
+        "region": "Main Expansion",
+        "category": ["Widows Walk", "Upper", "Ground"]
     },
     {
         "name": "Study",
-        "region": "Main Expansion"
+        "region": "Main Expansion",
+        "category": ["Widows Walk", "Roof", "Upper", "Ground"]
     },
     {
         "name": "Drawing Room",
-        "region": "Upstairs Expansion"
+        "region": "Upstairs Expansion",
+        "category": ["Widows Walk", "Upper", "Roof"]
     },
     {
         "name": "Solarium",
-        "region": "Upstairs Expansion"
+        "region": "Upstairs Expansion",
+        "category": ["Widows Walk", "Upper", "Roof"]
     },
     {
         "name": "Laundry",
-        "region": "Basement Expansion"
+        "region": "Basement Expansion",
+        "category": ["Widows Walk", "Ground", "Basement"]
     },
     {
         "name": "Arsenal",
-        "region": "Basement Expansion"
+        "region": "Basement Expansion",
+        "category": ["Widows Walk", "Ground", "Basement"]
     },
     {
         "name": "Storm Cellar",
-        "region": "Basement Expansion"
+        "region": "Basement Expansion",
+        "category": ["Widows Walk", "Basement"]
     },
     {
         "name": "Dungeon",
-        "region": "Basement Expansion"
+        "region": "Basement Expansion",
+        "category": ["Widows Walk", "Basement Expansion"]
     },
     {
         "name": "Nursery",
-        "region": "Roof"
+        "region": "Roof",
+        "category": ["Widows Walk", "Roof", "Upper"]
     },
     {
         "name": "Rookery",
-        "region": "Roof"
+        "region": "Roof",
+        "category": ["Widows Walk", "Roof"]
     },
     {
         "name": "Sewing Room",
-        "region": "Roof"
+        "region": "Roof",
+        "category": ["Roof", "Widows Walk", "Upper"]
     }
 ]
