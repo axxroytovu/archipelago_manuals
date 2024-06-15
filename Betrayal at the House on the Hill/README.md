@@ -8,7 +8,9 @@ This scenario is based on the Treasure Hunt scenario from the main book, and by 
 
 Choose a character card and set up the play area as described in the rulebook. Separate all of the locations as listed in the Location Packs section below, and shuffle the Starting Items into the base starting locations deck.
 
-Your goal is to gather the three ritual components and bring them to the Pentagram Chamber and stop the darkness ritual. The three ritual components are the Angel Feather, the Holy Symbol, and the Book. You only have a certain amount of time before the house's corruption forces you away, so you may need to start over multiple times to reach your objective. To start out your timer starts at 3 turns; place the plastic clip on the 3 on the Turn/Damage track to represent the remaining turns. 
+Your goal is to gather the three ritual components and bring them to the Pentagram Chamber and stop the darkness ritual. The three ritual components are the Angel Feather, the Holy Symbol, and the Book. Note that the Pentagram Chamber has an Omen symbol on it, so you get a check for finding the Pentagram Chamber even if you don't have the ritual components.
+
+You only have a certain amount of time before the house's corruption forces you away, so you may need to start over multiple times to reach your objective. To start out your timer starts at 3 turns; place the plastic clip on the 3 on the Turn/Damage track to represent the remaining turns. 
 
 The evil aura of the house has drawn all manner of cursed creatures to the house. Take one of each small monster token (Goblin number 21, specter, ectoplasmic entity, were-creature, tentacle-spawn, zombie, and child of Kali) and place them in a bag. 
 
@@ -28,7 +30,7 @@ If the room has an Event icon, draw a card from the Event deck and resolve it as
 
 If the room has an Item or Event icon in it, unlock the corresponding Archipelago location. If the location has not been checked, this ends your movement. If the location has already been checked, you may continue moving through the room if you have enough speed.
 
-If the room has no icons on it, place a random Small Monster token on that space. Follow the Monster Instructions. 
+If the room has no icons on it and is not a "staircase" or "landing" (Dusty Hallway, Creaky Hallway, Chasm, or Collapsed Room), place a random Small Monster token on that space. Follow the Monster Instructions. 
 
 ## Clues
 
@@ -83,7 +85,7 @@ At the end of each of your turns the Monster(s) take their turn. For each monste
 
 ### Items and Omens
 
-You'll receive items and omens from the multiworld. Add the items to your inventory immediately. When you start a new game, you start with any items found in the multiworld.
+You'll receive items and omens from the multiworld. Add the items to your inventory immediately. When you start a new game, you start with any items found in the multiworld. If you receive items or omens from the game in any other way, you do not keep those when you start a new game.
 
 ### Time Boosts +3
 
@@ -106,7 +108,7 @@ You will also receive packs of tiles as identified below:
 
 #### Upstairs Main Pack
 
-- Upper Landing (no monster)
+- Upper Landing
 - Bedroom (e)
 - Bloody Room (i)
 - Vault (ii)
@@ -116,9 +118,9 @@ You will also receive packs of tiles as identified below:
 
 #### Basement Main Pack
 
-- Basement Landing (no monster)
+- Basement Landing
 - Furnace Room (o)
-- Stairs from Basement (no monster)
+- Stairs from Basement
 - Wine Cellar (i)
 - Gymnasium (o)
 - Research Laboratory (e)
@@ -129,10 +131,10 @@ You will also receive packs of tiles as identified below:
 - Patio (e)
 - Garden (e)
 - Dining Room (o)
-- Dusty Hallway
+- Dusty Hallway (MONSTER)
 - Library (e)
 - Graveyard (e)
-- Mystic Elevator (no monster)
+- Mystic Elevator
 - Game Room (e)
 
 #### Upstairs Upgrade Pack
@@ -141,24 +143,24 @@ You will also receive packs of tiles as identified below:
 - Storeroom (i)
 - Organ Room (e)
 - Attic (e)
-- Creaky Hallway
+- Creaky Hallway (MONSTER)
 - Master Bedroom (o)
 - Servants Quarters (o)
 
 #### Basement Upgrade Pack
 
-- Chasm
+- Chasm (MONSTER)
 - Pentagram Chamber (o - goal)
 - Underground Lake (e)
 - Crypt (e)
 - Operating Laboratory (e)
-- Coal Chute (no monster)
-- Collapsed Room
+- Coal Chute
+- Collapsed Room (MONSTER)
 - Catacombs (o)
 
 #### Main Floor Expansion (Widows Walk Expansion)
 
-- Spiral Staircase
+- Spiral Staircase 
 - Tree House (e)
 - Theater (o)
 - Study (o)
