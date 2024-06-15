@@ -1,5 +1,6 @@
 {
     "Widows Walk": {
-        "yaml_option": ["widows_walk"]
+        "yaml_option": ["widows_walk"],
+        "hidden": true
     }
 }
