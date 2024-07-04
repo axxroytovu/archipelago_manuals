@@ -9,7 +9,7 @@ Ironsworn for Archipelago is a way to play a solo tabletop roleplaying game whil
 Description of Archipelago from Archipelago.gg:
 > This is a cross-game modification system which randomizes different games, then uses the result to build a single unified multi-player game. Items from one game may be present in another, and you will need your fellow players to find items you need in their games to help you complete your own.
 
-Description of Ironsworn rom IronswornRPG.com:
+Description of Ironsworn from IronswornRPG.com:
 > In the Ironsworn tabletop roleplaying game, you are a hero sworn to undertake perilous quests in the dark fantasy setting of the Ironlands. Others live out their lives hardly venturing beyond the walls of their village or steading, but you are different. You will explore untracked wilds, fight desperate battles, forge bonds with isolated communities, and reveal the secrets of this harsh land.
 
 This document provides additional rules, mechanisms, items, monsters, and dungeons for Ironsworn, while the content of this repository includes a `.apworld` file and `.yaml` file for integration with the Archipelago randomizer.
