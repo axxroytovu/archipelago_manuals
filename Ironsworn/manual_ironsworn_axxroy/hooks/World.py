@@ -72,6 +72,14 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     for k, v in duplicate_games.items():
         if k in valid_games:
             valid_games.add(v)
+
+    group_items = set()
+    for group in multiworld.groups.values():
+        if player not in group["players"]:
+            continue
+        for item in multiworld.itempool:
+            if item.name in group["item_pool"] and item.player in group["players"]:
+                group_items.add(item.name)
     
     items_to_remove = []
     assets = []
@@ -103,12 +111,19 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             relics.append(i)
     
     world.random.shuffle(assets)
+    assets.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(traps)
+    traps.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(quests)
+    quests.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(items)
+    items.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(relics)
+    relics.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(dungeons)
+    dungeons.sort(key=lambda i: i.name not in group_items)
     world.random.shuffle(starting)
+    starting.sort(key=lambda i: i.name not in group_items)
     asset_index = 0
     while len(current_assets) < 3:
         if assets[asset_index].name.split(" - ")[0] in current_assets:
@@ -147,6 +162,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     
     for i in items_to_remove:
         item_pool.remove(i)
+    
+    def gfin():
+        return multiworld.random.choice([i.name for i in items if i in items_to_remove])
+
+    world.get_filler_item_name = gfin
 
     return item_pool
 
