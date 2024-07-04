@@ -7,19 +7,16 @@
             "https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class"
         ],
         "apworld_description": [
-            "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.",
-            "This allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.",
-            "The key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,",
-            "the player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
+            "Ironsworn for Archipelago is a way to play a solo tabletop roleplaying game while integrated with the Archipelago multi-world randomizer."
         ],
         "web": {
             "_comment": "for more info check github https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class",
             "theme": "grass",
-            "bug_report_page": "https://discord.gg/T5bcsVHByx",
+            "bug_report_page": "https://discordapp.com/channels/1097532591650910289/1176596312125358211",
             "tutorials": [
                 {
-                    "name": "Multiworld Setup Guide",
-                    "description": "A guide to setting up manual game integration for Archipelago multiworld games.",
+                    "name": "Ironsworn Setup Guide",
+                    "description": "A guide to setting up Ironsworn for Archipelago multiworld games.",
                     "language": "English",
                     "file_name": "setup_en.md",
                     "link": "setup/en",
