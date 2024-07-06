@@ -110,7 +110,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             continue
         if region.name == "Victory":
             # print(region.locations)
-            locations_to_keep = ["__Manual Game Complete__", f"Required Keys: {required_keys}"]
+            locations_to_keep = ["Victory", f"Required Keys: {required_keys}"]
             possible_victories = [l.name for l in region.locations if "GAS Leak" in l.name]
             victory_puzzle = random.choice(possible_victories)
             locations_to_keep.append(victory_puzzle)
@@ -178,6 +178,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # victory_location = multiworld.get_location("__Manual Game Complete__", player)
     # victory_location.access_rule = lambda state, items=character_names, p=player: state.has_all(items, p)
 
+    print(victory1_location)
+    print(victory2_location)
     return item_pool
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
