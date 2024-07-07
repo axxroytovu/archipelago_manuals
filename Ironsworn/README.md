@@ -88,18 +88,21 @@ The following "items" can be sent to you through the Archipelago multiworld:
 
 ### Quests by Game
 
-#### DOOM (1993 and II)
+#### DOOM 1993
+
+1. A band of brigands is raiding the countryside using a strange weapon to destroy entire caravans. How will you overcome the advantage of the rocket launcher?
+2. 
+3. 
+4. 
+5. 
+
+#### DOOM II
 
 1. 
 2. 
 3. 
 4. 
 5. 
-6. 
-7. 
-8. 
-9. 
-10. 
 
 #### Final Fantasy XIV
 
