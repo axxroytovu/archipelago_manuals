@@ -32,7 +32,7 @@ description: Default Manual_MHRiseHub_Axxroy Template
 
 game: Manual_MHRiseHub_Axxroy
 requires:
-  version: 0.4.5 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.4.6 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_MHRiseHub_Axxroy:
   progression_balancing:
@@ -58,6 +58,38 @@ Manual_MHRiseHub_Axxroy:
     items: 50
     minimal: 0
 
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
   victory_condition:
     # Choose the victory condition
     high_rank: 0
@@ -77,3 +109,8 @@ Manual_MHRiseHub_Axxroy:
     reduced: 0
     normal: 50
     insane: 0
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 50
+    true: 0

@@ -1,4 +1,3 @@
-import random
 
 # called after the regions.json has been imported, but before ids, etc. have been assigned
 # if you need access to the locations after processing to add ids, etc., you should use the hooks in World.py

@@ -3,10 +3,13 @@ from worlds.generic.Rules import set_rule
 from .Regions import regionMap
 from .hooks import Rules
 from BaseClasses import MultiWorld, CollectionState
+from .Helpers import clamp, is_item_enabled
+
 import re
+import math
 
 if TYPE_CHECKING:
-    from src import ManualWorld
+    from . import ManualWorld
 
 def infix_to_postfix(expr, location):
     prec = {"&": 2, "|": 2, "!": 3}
@@ -61,19 +64,28 @@ def evaluate_postfix(expr: str, location: str) -> bool:
         raise KeyError("Invalid logic format for location/region {}.".format(location))
     return stack.pop()
 
-
-def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
+def set_rules(world: "ManualWorld", multiworld: MultiWorld, player: int):
     # this is only called when the area (think, location or region) has a "requires" field that is a string
     def checkRequireStringForArea(state: CollectionState, area: dict):
         requires_list = area["requires"]
+        # Generate item_counts here so it can be access each time this is called
+        if player not in world.item_counts:
+            real_pool = multiworld.get_items()
+            world.item_counts[player] = {i.name: real_pool.count(i) for i in real_pool if i.player == player}
+
+        # fallback if items_counts[player] not present (will not be accurate to hooks item count)
+        items_counts = world.get_item_counts()
+
         if requires_list == "":
             return True
 
-        for item in re.findall(r'\{(\w+)\(([^)]*)\)\}', area["requires"]):
+        for item in re.findall(r'\{(\w+)\(([^)]*)\)\}', requires_list):
             func_name = item[0]
             func_args = item[1].split(",")
+            if func_args == ['']:
+                func_args.pop()
             func = getattr(Rules, func_name)
-            result = func(base, world, state, player, *func_args)
+            result = func(world, multiworld, state, player, *func_args)
             if isinstance(result, bool):
                 requires_list = requires_list.replace("{" + func_name + "(" + item[1] + ")}", "1" if result else "0")
             else:
@@ -81,7 +93,7 @@ def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
 
 
         # parse user written statement into list of each item
-        for item in re.findall(r'\|[^|]+\|', area["requires"]):
+        for item in re.findall(r'\|[^|]+\|', requires_list):
             require_type = 'item'
 
             if '|@' in item:
@@ -90,25 +102,32 @@ def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
             item_base = item
             item = item.lstrip('|@$').rstrip('|')
 
-            item_parts = item.split(":")
+            item_parts = item.split(":")  # type: list[str]
             item_name = item
             item_count = "1"
 
 
             if len(item_parts) > 1:
-                item_name = item_parts[0]
-                item_count = item_parts[1]
+                item_name = item_parts[0].strip()
+                item_count = item_parts[1].strip()
 
             total = 0
 
             if require_type == 'category':
-                category_items = [item for item in base.item_name_to_item.values() if "category" in item and item_name in item["category"]]
+                category_items = [item for item in world.item_name_to_item.values() if "category" in item and item_name in item["category"]]
+                category_items_counts = sum([items_counts.get(category_item["name"], 0) for category_item in category_items])
                 if item_count.lower() == 'all':
-                    item_count = sum([int(base.item_name_to_item[category_item["name"]]['count']) for category_item in category_items])
+                    item_count = category_items_counts
                 elif item_count.lower() == 'half':
-                    item_count = sum([int(base.item_name_to_item[category_item["name"]]['count']) for category_item in category_items]) / 2
+                    item_count = int(category_items_counts / 2)
+                elif item_count.endswith('%') and len(item_count) > 1:
+                    percent = clamp(float(item_count[:-1]) / 100, 0, 1)
+                    item_count = math.ceil(category_items_counts * percent)
                 else:
-                    item_count = int(item_count)
+                    try:
+                        item_count = int(item_count)
+                    except ValueError as e:
+                        raise ValueError(f"Invalid item count `{item_name}` in {area}.") from e
 
                 for category_item in category_items:
                     total += state.count(category_item["name"], player)
@@ -116,10 +135,14 @@ def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
                     if total >= item_count:
                         requires_list = requires_list.replace(item_base, "1")
             elif require_type == 'item':
+                item_current_count = items_counts.get(item_name, 0)
                 if item_count.lower() == 'all':
-                    item_count = int(base.item_name_to_item[item_name]['count'])
+                    item_count = item_current_count
                 elif item_count.lower() == 'half':
-                    item_count = (base.item_name_to_item[item_name]['count']) / 2
+                    item_count = int(item_current_count / 2)
+                elif item_count.endswith('%') and len(item_count) > 1:
+                    percent = clamp(float(item_count[:-1]) / 100, 0, 1)
+                    item_count = math.ceil(item_current_count * percent)
                 else:
                     item_count = int(item_count)
 
@@ -197,20 +220,20 @@ def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
     used_location_names = []
     # Region access rules
     for region in regionMap.keys():
-        used_location_names.extend([l.name for l in world.get_region(region, player).locations])
+        used_location_names.extend([l.name for l in multiworld.get_region(region, player).locations])
         if region != "Menu":
-            for exitRegion in world.get_region(region, player).exits:
+            for exitRegion in multiworld.get_region(region, player).exits:
                 def fullRegionCheck(state: CollectionState, region=regionMap[region]):
                     return fullLocationOrRegionCheck(state, region)
 
-                set_rule(world.get_entrance(exitRegion.name, player), fullRegionCheck)
+                set_rule(multiworld.get_entrance(exitRegion.name, player), fullRegionCheck)
 
     # Location access rules
-    for location in base.location_table:
+    for location in world.location_table:
         if location["name"] not in used_location_names:
             continue
 
-        locFromWorld = world.get_location(location["name"], player)
+        locFromWorld = multiworld.get_location(location["name"], player)
 
         locationRegion = regionMap[location["region"]] if "region" in location else None
 
@@ -237,4 +260,4 @@ def set_rules(base: "ManualWorld", world: MultiWorld, player: int):
             set_rule(locFromWorld, allRegionsAccessible)
 
     # Victory requirement
-    world.completion_condition[player] = lambda state: state.has("__Victory__", player)
+    multiworld.completion_condition[player] = lambda state: state.has("__Victory__", player)

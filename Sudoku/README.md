@@ -52,7 +52,7 @@ Reveal Puzzle Average Time: This box allows you to click the "show time" checkma
 Puzzle Skip: This allows you to skip a particularly difficult puzzle and receive its check regardless. Puzzle skips cannot be used on the Victory Gauntlet.
 
 ### Traps
-Extra Puzzle: You may get assigned an extra puzzle. Once you finish your current puzzle, you must complete any assigned trap puzzles before you can move on to your next check puzzle. To complete a trap puzzle, choose a puzzle from the backlog that isn't assigned to you this game and complete it. You can choose randomly, or feel free to choose a puzzle that looks interesting, or even choose a puzzle you've completed for a previous game and want a second chance at. Puzzle Skips can be used to negate a trap if necessary.
+Extra Puzzle: You may get assigned an extra puzzle. Once you finish your current puzzle, you must complete a puzzle from the spreadsheet before you can move on to your next check puzzle. To complete a trap puzzle, choose a puzzle from the backlog that isn't assigned to you this game and complete it. You can choose randomly, or feel free to choose a puzzle that looks interesting, or even choose a puzzle you've completed for a previous game and want a second chance at. Puzzle Skips can be used to negate a trap if necessary.
 
 ### Filler
 Party Hat: Wooo!
