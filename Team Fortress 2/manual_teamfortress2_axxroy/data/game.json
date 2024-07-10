@@ -1,0 +1,19 @@
+{
+  "game": "TeamFortress2",
+  "creator": "Axxroy",
+  "filler_item_name": "Normal Hats",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Mercenaries"
+      ],
+      "random": 2
+    },
+    {
+      "items": [
+        "Arena"
+      ]
+    }
+  ],
+  "death_link": true
+}

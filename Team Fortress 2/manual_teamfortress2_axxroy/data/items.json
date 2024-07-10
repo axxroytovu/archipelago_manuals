@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Scout",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Engineer",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Sniper",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Soldier",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Demoman",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Pyro",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Medic",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Heavy",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Spy",
+    "category": [
+      "Mercenaries"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Arena",
+    "category": [
+      "Game Modes"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Capture the Flag",
+    "category": [
+      "Game Modes"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Control Point",
+    "category": [
+      "Game Modes"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "King of the Hill",
+    "category": [
+      "Game Modes"
+    ],
+    "progression": true,
+    "count": 1
+  },
+  {
+    "name": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Unusual Hats",
+    "category": [
+      "Victory"
+    ],
+    "count": 23,
+    "progression_skip_balancing": true
+  }
+]

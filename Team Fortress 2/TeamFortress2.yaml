@@ -1,0 +1,37 @@
+template_version: 1
+meta:
+  player_name: Axxroy
+  game_name: TeamFortress2
+  victory_macguffin_name: Unusual Hats
+  starting_characters: 2
+  #character_subset: 25
+  character_alias: Mercenaries
+  filler_name: Normal Hats
+game_modes:
+- name: Arena
+  type: character-based
+  match_name: Match
+  victory_count: 2
+  starting: true
+- name: Capture the Flag
+  type: character-based
+  match_name: Capture
+  victory_count: 4
+- name: Control Point
+  type: character-based
+  match_name: Point
+  victory_count: 4
+- name: King of the Hill
+  type: character-based
+  match_name: Match
+  victory_count: 2
+characters:
+- Scout
+- Soldier
+- Pyro
+- Demoman
+- Heavy
+- Engineer
+- Medic
+- Sniper
+- Spy
