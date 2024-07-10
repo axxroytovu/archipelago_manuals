@@ -19,7 +19,15 @@ game_modes:
   victory_count: 4
 - name: Control Point
   type: character-based
-  match_name: Point
+  match_name: Control Point
+  victory_count: 4
+- name: Payload
+  type: character-based
+  match_name: Checkpoint
+  victory_count: 4
+- name: Attack/Defend
+  type: character-based
+  match_name: Control Point
   victory_count: 4
 - name: King of the Hill
   type: character-based
