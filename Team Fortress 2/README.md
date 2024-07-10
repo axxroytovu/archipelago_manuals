@@ -10,7 +10,7 @@ Made using Axxroy's Fighting Game Builder: https://discord.com/channels/10975325
 
 You will unlock each of the 9 mercenaries (2 are available to start) and 4 main game modes (Arena is available at the start). Each game mode has a certain way to unlock locations as described below. You may only play as characters you have unlocked, and achieving objectives with each character unlock different locations. You may play any map for any game mode you have unlocked.
 
-Victory is achieved when you locate all 23 Unusual Hats. Let's be honest, that's really what TF2 is about.
+Victory is achieved when you locate all 41 Unusual Hats. Let's be honest, that's really what TF2 is about.
 
 ## Game Modes
 
