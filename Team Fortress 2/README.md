@@ -16,6 +16,13 @@ You will unlock each of the 9 mercenaries (2 are available to start) and 4 main 
 - Mann Co. Globetrotter: Win on all maps once
 - Australium Hunt: Collect a set number of Australium to complete the game
 
+### Progression
+
+- Classes: Scout, Soldier, Pyro, Demoman, Heavy, Engineer, Medic, Sniper, Spy
+- Weapons: All weapons and gadgets are Shuffled (This means you can be an Engineer with either only a PDA and can’t use guns or without a PDA and can’t build buildings or a Spy that can’t cloak or disguise [Disguise Kit can’t be in the starting weapon pool])
+- Maps and Game Modes (Pass Time and Mann Power disabled due to lack of players)
+
+
 ### Traps
 
 - Taunt Trap: Default taunt immediately 
