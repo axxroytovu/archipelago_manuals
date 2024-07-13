@@ -10,7 +10,24 @@ Made using Axxroy's Fighting Game Builder: https://discord.com/channels/10975325
 
 You will unlock each of the 9 mercenaries (2 are available to start) and 4 main game modes (Arena is available at the start). Each game mode has a certain way to unlock locations as described below. You may only play as characters you have unlocked, and achieving objectives with each character unlock different locations. You may play any map for any game mode you have unlocked.
 
-Victory is achieved when you locate all 23 Unusual Hats. Let's be honest, that's really what TF2 is about.
+### Goals
+
+- Default: Victory is achieved when you locate all 41 Unusual Hats. Let's be honest, that's really what TF2 is about.
+- Mann Co. Globetrotter: Win on all maps once
+- Australium Hunt: Collect a set number of Australium to complete the game
+
+### Traps
+
+- Taunt Trap: Default taunt immediately 
+- Killbind Trap: Use your killbind
+- Pyrovision Trap: Equip Pyrovision Goggles for one round
+- Schadenfreude Trap: Use your Schadenfreude Taunt (Do a default taunt if you don’t have one)
+
+### Optional Settings
+
+- MvM Enabled: adds MvM maps and game mode to the item pool. (Class and Weapon restrictions are disabled for these maps)
+- Shuffle Weapons/Equipment: All weapons and gadgets are added to the item pool (This means you can be an Engineer with either only a PDA and can’t use guns or without a PDA and can’t build buildings or a Spy that can’t cloak or disguise [Disguise Kit can’t be in the starting weapon pool])
+- Full Loadout: All classes start with a full loadout instead of one random weapon (Only applies to the Shuffle Weapon/Equipment setting)
 
 ## Game Modes
 
