@@ -1,0 +1,2 @@
+PyYAML==6.0.1
+pyinstaller==6.9.0

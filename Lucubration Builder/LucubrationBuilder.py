@@ -1,20 +1,40 @@
 import yaml
-import numpy as np
 import json
 import zipfile
-import os
+import logging
 import shutil
+import math
+import tkinter as tk
+from tkinter import filedialog
+from pathlib import Path
+import sys
 
-def zipdir(path, ziph):
-    # ziph is zipfile handle
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            ziph.write(os.path.join(root, file), 
-                       os.path.relpath(os.path.join(root, file), 
-                                       os.path.join(path, '..')))
+root = tk.Tk()
+root.withdraw()
 
-with open("tasks.yaml", 'r') as config_file:
+CURRENT_VERSION = 1
+scriptdir = Path(filedialog.askdirectory(title="Directory to output files"))
+tempfolder = scriptdir / ".temp"
+system_encoding = sys.getdefaultencoding()
+
+logger = logging.getLogger(scriptdir.name)
+logging.basicConfig(level=logging.INFO, format="%(name)s - %(message)s")
+shutil.rmtree(tempfolder, ignore_errors=True)
+
+logger.info("Generating Manual AP Worlds:")
+
+file = Path(filedialog.askopenfilename(filetypes=[("YAML", "*.yaml")], title="YAML input option file"))
+with open(file, 'r', encoding=system_encoding) as config_file:
     y_data = yaml.safe_load(config_file)
+
+if 'template_version' not in y_data or y_data['template_version'] < CURRENT_VERSION:
+    # expected skips
+    logger.debug("Skipping %s. Incompatible template version.", file.name)
+    quit()
+
+if not all(key in y_data for key in ["tasks", "meta"]):
+    raise ValueError(f"Missing/unsupported root keys in {file.name}")
+logger.info("Processing %s...", file.name)
 
 j_items = []
 j_locations = []
@@ -74,21 +94,26 @@ for task in y_data["tasks"]:
         else:
             cpi = task["checks_per_item"]
         for i_name in task["items"]:
+            if math.ceil(cpi/2) == 1:
+                final_name = i_name
+            else:
+                final_name = f"Progressive {i_name}"
             for i in range(cpi):
-                req = i//2 + 1
+                req = math.ceil((i+1)/2)
                 j_locations.append({
                     "name": f"{i_name} {i+1}",
                     "category": [task.get("category", task["name"])],
-                    "requires": f"|Progressive {i_name}:{req}|"
+                    "requires": f"|{final_name}:{req}|"
                 })
+            
             j_items.append({
-                "name": f"Progressive {i_name}",
+                "name": final_name,
                 "category": [task.get("category", task["name"])],
                 "progression": True,
-                "count": cpi
+                "count": math.ceil(cpi/2)
             })
             if task.get("starting", False):
-                starting_items.append(f"Progressive {i_name}")
+                starting_items.append(final_name)
     elif task["type"] == "workout":
         w_name = task["name"]
         for i in range(task["repetitions"]):
@@ -118,7 +143,7 @@ for task in y_data["tasks"]:
                 max_checks = max(max_checks, task["projects"][i]["checks"])
         for project in task["projects"]:
             p_name = project["name"]
-            breakpoints = np.linspace(1, max_checks, project["checks"], dtype="int")
+            breakpoints = range(1, max_checks+1, max_checks//project["checks"])
             for i in range(project["checks"]):
                 j_locations.append({
                     "name": f"{p_name} {i+1}",
@@ -166,27 +191,30 @@ j_items.append({
     "name": "Productivity",
     "category": ["Victory"],
     "count": victory_count,
-    "progression": True
+    "progression_skip_balancing": True
 })
 
 gamename = f"Manual_Tasks_{y_data['meta']['player_name']}"
 
-ofile = next(f for f in os.listdir(".") if ".apworld" in f and "stable" in f)
-ofolder = ofile.split(".")[0]
+ofile = Path(filedialog.askopenfilename(initialfile="*stable*.apworld", filetypes=[("APworld", "*.apworld")], title="Stable APWorld"))
+ofolder = tempfolder / ofile.stem
+
+logger.debug(json.dumps(j_items, indent=2))
+logger.debug(json.dumps(j_locations, indent=2))
 
 with zipfile.ZipFile(ofile, "r") as zfile:
-    zfile.extractall("")
+    zfile.extractall(tempfolder)
 
-with open(ofolder+"/data/items.json", "w") as item_file:
-    json.dump(j_items, item_file, indent=2)
+with open(ofolder/'data'/'items.json', "w", encoding=system_encoding) as item_file:
+    json.dump(j_items, item_file, indent=2, sort_keys=False)
 
-with open(ofolder+"/data/locations.json", "w") as location_file:
-    json.dump(j_locations, location_file, indent=2)
+with open(ofolder/'data'/'locations.json', "w", encoding=system_encoding) as location_file:
+    json.dump(j_locations, location_file, indent=2, sort_keys=False)
 
-with open(ofolder+"/data/regions.json", "w") as region_file:
+with open(ofolder/'data'/'regions.json', "w", encoding=system_encoding) as region_file:
     json.dump(dict(), region_file)
 
-with open(ofolder+"/data/game.json", "w") as game_file:
+with open(ofolder/'data'/'game.json', "w", encoding=system_encoding) as game_file:
     json.dump({
         "game": "Tasks",
         "creator": y_data["meta"]["player_name"],
@@ -199,14 +227,13 @@ with open(ofolder+"/data/game.json", "w") as game_file:
         ]
     }, game_file, indent=2)
 
-os.rename(ofolder, gamename.lower())
+finalpath = tempfolder / Path(gamename.lower()+'.apworld')
+shutil.move(tempfolder / ofile.stem, tempfolder / finalpath.stem)
+shutil.make_archive(str(finalpath), 'zip', root_dir= tempfolder, base_dir= finalpath.stem)
+shutil.move(finalpath.with_suffix(finalpath.suffix + '.zip'), scriptdir / finalpath.name)
+shutil.rmtree(tempfolder / finalpath.stem)
 
-with zipfile.ZipFile(gamename.lower()+".apworld", "w", zipfile.ZIP_DEFLATED) as zipf:
-    zipdir(gamename.lower()+"/", zipf)
-
-shutil.rmtree(gamename.lower())
-
-with open(gamename+".yaml", "w") as yfile:
+with open(scriptdir / Path(gamename).with_suffix(".yaml"), "w", encoding=system_encoding) as yfile:
     yaml.dump({
         "name": y_data['meta']['player_name'],
         "description": "Built with Axxroy's Lucubration Builder",
@@ -217,3 +244,6 @@ with open(gamename+".yaml", "w") as yfile:
         }
     },
     yfile)
+logger.info("%s completed with %d locations and %d items.",gamename, location_count, item_count)
+shutil.rmtree(tempfolder, ignore_errors=True)
+logger.info("All valid files completed.")
