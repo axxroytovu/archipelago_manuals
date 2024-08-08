@@ -1,0 +1,7 @@
+name: Axxroy{number}
+description: Built with Axxroy's Fighting Game Builder
+game: Manual_TeamFortress2_Axxroy
+Manual_TeamFortress2_Axxroy:
+  progression_balancing: 0
+  accessibility: items
+  death_link: true

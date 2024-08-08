@@ -1,0 +1,1280 @@
+[
+  {
+    "name": "Arena Sniper Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Sniper|"
+  },
+  {
+    "name": "Arena Sniper Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Sniper|"
+  },
+  {
+    "name": "Arena Demoman Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Demoman|"
+  },
+  {
+    "name": "Arena Demoman Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Demoman|"
+  },
+  {
+    "name": "Arena Soldier Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Soldier|"
+  },
+  {
+    "name": "Arena Soldier Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Soldier|"
+  },
+  {
+    "name": "Arena Medic Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Medic|"
+  },
+  {
+    "name": "Arena Medic Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Medic|"
+  },
+  {
+    "name": "Arena Pyro Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Pyro|"
+  },
+  {
+    "name": "Arena Pyro Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Pyro|"
+  },
+  {
+    "name": "Arena Engineer Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Engineer|"
+  },
+  {
+    "name": "Arena Engineer Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Engineer|"
+  },
+  {
+    "name": "Arena Spy Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Spy|"
+  },
+  {
+    "name": "Arena Spy Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Spy|"
+  },
+  {
+    "name": "Arena Heavy Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Heavy|"
+  },
+  {
+    "name": "Arena Heavy Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Heavy|"
+  },
+  {
+    "name": "Arena Scout Match 1",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Scout|"
+  },
+  {
+    "name": "Arena Scout Match 2",
+    "category": [
+      "Arena"
+    ],
+    "requires": "|Arena| AND |Scout|"
+  },
+  {
+    "name": "Capture the Flag Sniper Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Sniper|"
+  },
+  {
+    "name": "Capture the Flag Sniper Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Sniper|"
+  },
+  {
+    "name": "Capture the Flag Sniper Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Sniper|"
+  },
+  {
+    "name": "Capture the Flag Sniper Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Sniper|"
+  },
+  {
+    "name": "Capture the Flag Demoman Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Demoman|"
+  },
+  {
+    "name": "Capture the Flag Demoman Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Demoman|"
+  },
+  {
+    "name": "Capture the Flag Demoman Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Demoman|"
+  },
+  {
+    "name": "Capture the Flag Demoman Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Demoman|"
+  },
+  {
+    "name": "Capture the Flag Soldier Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Soldier|"
+  },
+  {
+    "name": "Capture the Flag Soldier Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Soldier|"
+  },
+  {
+    "name": "Capture the Flag Soldier Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Soldier|"
+  },
+  {
+    "name": "Capture the Flag Soldier Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Soldier|"
+  },
+  {
+    "name": "Capture the Flag Medic Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Medic|"
+  },
+  {
+    "name": "Capture the Flag Medic Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Medic|"
+  },
+  {
+    "name": "Capture the Flag Medic Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Medic|"
+  },
+  {
+    "name": "Capture the Flag Medic Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Medic|"
+  },
+  {
+    "name": "Capture the Flag Pyro Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Pyro|"
+  },
+  {
+    "name": "Capture the Flag Pyro Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Pyro|"
+  },
+  {
+    "name": "Capture the Flag Pyro Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Pyro|"
+  },
+  {
+    "name": "Capture the Flag Pyro Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Pyro|"
+  },
+  {
+    "name": "Capture the Flag Engineer Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Engineer|"
+  },
+  {
+    "name": "Capture the Flag Engineer Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Engineer|"
+  },
+  {
+    "name": "Capture the Flag Engineer Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Engineer|"
+  },
+  {
+    "name": "Capture the Flag Engineer Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Engineer|"
+  },
+  {
+    "name": "Capture the Flag Spy Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Spy|"
+  },
+  {
+    "name": "Capture the Flag Spy Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Spy|"
+  },
+  {
+    "name": "Capture the Flag Spy Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Spy|"
+  },
+  {
+    "name": "Capture the Flag Spy Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Spy|"
+  },
+  {
+    "name": "Capture the Flag Heavy Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Heavy|"
+  },
+  {
+    "name": "Capture the Flag Heavy Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Heavy|"
+  },
+  {
+    "name": "Capture the Flag Heavy Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Heavy|"
+  },
+  {
+    "name": "Capture the Flag Heavy Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Heavy|"
+  },
+  {
+    "name": "Capture the Flag Scout Capture 1",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Scout|"
+  },
+  {
+    "name": "Capture the Flag Scout Capture 2",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Scout|"
+  },
+  {
+    "name": "Capture the Flag Scout Capture 3",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Scout|"
+  },
+  {
+    "name": "Capture the Flag Scout Capture 4",
+    "category": [
+      "Capture the Flag"
+    ],
+    "requires": "|Capture the Flag| AND |Scout|"
+  },
+  {
+    "name": "Control Point Sniper Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Sniper|"
+  },
+  {
+    "name": "Control Point Sniper Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Sniper|"
+  },
+  {
+    "name": "Control Point Sniper Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Sniper|"
+  },
+  {
+    "name": "Control Point Sniper Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Sniper|"
+  },
+  {
+    "name": "Control Point Demoman Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Demoman|"
+  },
+  {
+    "name": "Control Point Demoman Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Demoman|"
+  },
+  {
+    "name": "Control Point Demoman Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Demoman|"
+  },
+  {
+    "name": "Control Point Demoman Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Demoman|"
+  },
+  {
+    "name": "Control Point Soldier Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Soldier|"
+  },
+  {
+    "name": "Control Point Soldier Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Soldier|"
+  },
+  {
+    "name": "Control Point Soldier Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Soldier|"
+  },
+  {
+    "name": "Control Point Soldier Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Soldier|"
+  },
+  {
+    "name": "Control Point Medic Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Medic|"
+  },
+  {
+    "name": "Control Point Medic Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Medic|"
+  },
+  {
+    "name": "Control Point Medic Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Medic|"
+  },
+  {
+    "name": "Control Point Medic Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Medic|"
+  },
+  {
+    "name": "Control Point Pyro Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Pyro|"
+  },
+  {
+    "name": "Control Point Pyro Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Pyro|"
+  },
+  {
+    "name": "Control Point Pyro Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Pyro|"
+  },
+  {
+    "name": "Control Point Pyro Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Pyro|"
+  },
+  {
+    "name": "Control Point Engineer Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Engineer|"
+  },
+  {
+    "name": "Control Point Engineer Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Engineer|"
+  },
+  {
+    "name": "Control Point Engineer Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Engineer|"
+  },
+  {
+    "name": "Control Point Engineer Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Engineer|"
+  },
+  {
+    "name": "Control Point Spy Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Spy|"
+  },
+  {
+    "name": "Control Point Spy Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Spy|"
+  },
+  {
+    "name": "Control Point Spy Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Spy|"
+  },
+  {
+    "name": "Control Point Spy Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Spy|"
+  },
+  {
+    "name": "Control Point Heavy Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Heavy|"
+  },
+  {
+    "name": "Control Point Heavy Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Heavy|"
+  },
+  {
+    "name": "Control Point Heavy Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Heavy|"
+  },
+  {
+    "name": "Control Point Heavy Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Heavy|"
+  },
+  {
+    "name": "Control Point Scout Control Point 1",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Scout|"
+  },
+  {
+    "name": "Control Point Scout Control Point 2",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Scout|"
+  },
+  {
+    "name": "Control Point Scout Control Point 3",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Scout|"
+  },
+  {
+    "name": "Control Point Scout Control Point 4",
+    "category": [
+      "Control Point"
+    ],
+    "requires": "|Control Point| AND |Scout|"
+  },
+  {
+    "name": "Payload Sniper Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Sniper|"
+  },
+  {
+    "name": "Payload Sniper Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Sniper|"
+  },
+  {
+    "name": "Payload Sniper Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Sniper|"
+  },
+  {
+    "name": "Payload Sniper Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Sniper|"
+  },
+  {
+    "name": "Payload Demoman Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Demoman|"
+  },
+  {
+    "name": "Payload Demoman Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Demoman|"
+  },
+  {
+    "name": "Payload Demoman Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Demoman|"
+  },
+  {
+    "name": "Payload Demoman Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Demoman|"
+  },
+  {
+    "name": "Payload Soldier Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Soldier|"
+  },
+  {
+    "name": "Payload Soldier Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Soldier|"
+  },
+  {
+    "name": "Payload Soldier Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Soldier|"
+  },
+  {
+    "name": "Payload Soldier Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Soldier|"
+  },
+  {
+    "name": "Payload Medic Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Medic|"
+  },
+  {
+    "name": "Payload Medic Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Medic|"
+  },
+  {
+    "name": "Payload Medic Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Medic|"
+  },
+  {
+    "name": "Payload Medic Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Medic|"
+  },
+  {
+    "name": "Payload Pyro Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Pyro|"
+  },
+  {
+    "name": "Payload Pyro Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Pyro|"
+  },
+  {
+    "name": "Payload Pyro Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Pyro|"
+  },
+  {
+    "name": "Payload Pyro Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Pyro|"
+  },
+  {
+    "name": "Payload Engineer Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Engineer|"
+  },
+  {
+    "name": "Payload Engineer Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Engineer|"
+  },
+  {
+    "name": "Payload Engineer Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Engineer|"
+  },
+  {
+    "name": "Payload Engineer Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Engineer|"
+  },
+  {
+    "name": "Payload Spy Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Spy|"
+  },
+  {
+    "name": "Payload Spy Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Spy|"
+  },
+  {
+    "name": "Payload Spy Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Spy|"
+  },
+  {
+    "name": "Payload Spy Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Spy|"
+  },
+  {
+    "name": "Payload Heavy Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Heavy|"
+  },
+  {
+    "name": "Payload Heavy Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Heavy|"
+  },
+  {
+    "name": "Payload Heavy Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Heavy|"
+  },
+  {
+    "name": "Payload Heavy Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Heavy|"
+  },
+  {
+    "name": "Payload Scout Checkpoint 1",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Scout|"
+  },
+  {
+    "name": "Payload Scout Checkpoint 2",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Scout|"
+  },
+  {
+    "name": "Payload Scout Checkpoint 3",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Scout|"
+  },
+  {
+    "name": "Payload Scout Checkpoint 4",
+    "category": [
+      "Payload"
+    ],
+    "requires": "|Payload| AND |Scout|"
+  },
+  {
+    "name": "Attack/Defend Sniper Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Sniper|"
+  },
+  {
+    "name": "Attack/Defend Sniper Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Sniper|"
+  },
+  {
+    "name": "Attack/Defend Sniper Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Sniper|"
+  },
+  {
+    "name": "Attack/Defend Sniper Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Sniper|"
+  },
+  {
+    "name": "Attack/Defend Demoman Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Demoman|"
+  },
+  {
+    "name": "Attack/Defend Demoman Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Demoman|"
+  },
+  {
+    "name": "Attack/Defend Demoman Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Demoman|"
+  },
+  {
+    "name": "Attack/Defend Demoman Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Demoman|"
+  },
+  {
+    "name": "Attack/Defend Soldier Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Soldier|"
+  },
+  {
+    "name": "Attack/Defend Soldier Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Soldier|"
+  },
+  {
+    "name": "Attack/Defend Soldier Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Soldier|"
+  },
+  {
+    "name": "Attack/Defend Soldier Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Soldier|"
+  },
+  {
+    "name": "Attack/Defend Medic Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Medic|"
+  },
+  {
+    "name": "Attack/Defend Medic Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Medic|"
+  },
+  {
+    "name": "Attack/Defend Medic Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Medic|"
+  },
+  {
+    "name": "Attack/Defend Medic Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Medic|"
+  },
+  {
+    "name": "Attack/Defend Pyro Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Pyro|"
+  },
+  {
+    "name": "Attack/Defend Pyro Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Pyro|"
+  },
+  {
+    "name": "Attack/Defend Pyro Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Pyro|"
+  },
+  {
+    "name": "Attack/Defend Pyro Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Pyro|"
+  },
+  {
+    "name": "Attack/Defend Engineer Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Engineer|"
+  },
+  {
+    "name": "Attack/Defend Engineer Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Engineer|"
+  },
+  {
+    "name": "Attack/Defend Engineer Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Engineer|"
+  },
+  {
+    "name": "Attack/Defend Engineer Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Engineer|"
+  },
+  {
+    "name": "Attack/Defend Spy Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Spy|"
+  },
+  {
+    "name": "Attack/Defend Spy Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Spy|"
+  },
+  {
+    "name": "Attack/Defend Spy Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Spy|"
+  },
+  {
+    "name": "Attack/Defend Spy Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Spy|"
+  },
+  {
+    "name": "Attack/Defend Heavy Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Heavy|"
+  },
+  {
+    "name": "Attack/Defend Heavy Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Heavy|"
+  },
+  {
+    "name": "Attack/Defend Heavy Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Heavy|"
+  },
+  {
+    "name": "Attack/Defend Heavy Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Heavy|"
+  },
+  {
+    "name": "Attack/Defend Scout Control Point 1",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Scout|"
+  },
+  {
+    "name": "Attack/Defend Scout Control Point 2",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Scout|"
+  },
+  {
+    "name": "Attack/Defend Scout Control Point 3",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Scout|"
+  },
+  {
+    "name": "Attack/Defend Scout Control Point 4",
+    "category": [
+      "Attack/Defend"
+    ],
+    "requires": "|Attack/Defend| AND |Scout|"
+  },
+  {
+    "name": "King of the Hill Sniper Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Sniper|"
+  },
+  {
+    "name": "King of the Hill Sniper Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Sniper|"
+  },
+  {
+    "name": "King of the Hill Demoman Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Demoman|"
+  },
+  {
+    "name": "King of the Hill Demoman Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Demoman|"
+  },
+  {
+    "name": "King of the Hill Soldier Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Soldier|"
+  },
+  {
+    "name": "King of the Hill Soldier Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Soldier|"
+  },
+  {
+    "name": "King of the Hill Medic Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Medic|"
+  },
+  {
+    "name": "King of the Hill Medic Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Medic|"
+  },
+  {
+    "name": "King of the Hill Pyro Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Pyro|"
+  },
+  {
+    "name": "King of the Hill Pyro Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Pyro|"
+  },
+  {
+    "name": "King of the Hill Engineer Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Engineer|"
+  },
+  {
+    "name": "King of the Hill Engineer Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Engineer|"
+  },
+  {
+    "name": "King of the Hill Spy Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Spy|"
+  },
+  {
+    "name": "King of the Hill Spy Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Spy|"
+  },
+  {
+    "name": "King of the Hill Heavy Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Heavy|"
+  },
+  {
+    "name": "King of the Hill Heavy Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Heavy|"
+  },
+  {
+    "name": "King of the Hill Scout Match 1",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Scout|"
+  },
+  {
+    "name": "King of the Hill Scout Match 2",
+    "category": [
+      "King of the Hill"
+    ],
+    "requires": "|King of the Hill| AND |Scout|"
+  },
+  {
+    "name": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Victory|",
+    "victory": true
+  },
+  {
+    "name": "Collect 41 Unusual Hats",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Unusual Hats:41|",
+    "place_item": [
+      "Victory"
+    ]
+  }
+]
