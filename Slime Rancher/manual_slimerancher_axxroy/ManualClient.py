@@ -1,5 +1,6 @@
 from __future__ import annotations
 import time
+import sys
 from typing import Any
 import typing
 from worlds import AutoWorldRegister, network_data_package
@@ -11,13 +12,13 @@ import ModuleUpdate
 ModuleUpdate.update()
 
 import Utils
-from kivy.metrics import dp
 
 if __name__ == "__main__":
     Utils.init_logging("ManualClient", exception_logger="Client")
 
 from NetUtils import ClientStatus
 from CommonClient import gui_enabled, logger, get_base_parser, ClientCommandProcessor, server_loop
+from MultiServer import mark_raw
 
 tracker_loaded = False
 try:
@@ -28,14 +29,34 @@ except ModuleNotFoundError:
     from CommonClient import CommonContext as SuperContext
 
 class ManualClientCommandProcessor(ClientCommandProcessor):
-    def _cmd_resync(self):
+    def _cmd_resync(self) -> bool:
         """Manually trigger a resync."""
-        self.output(f"Syncing items.")
+        self.output("Syncing items.")
         self.ctx.syncing = True
+        return True
+
+    @mark_raw
+    def _cmd_send(self, location_name: str) -> bool:
+        """Send a check"""
+        names = self.ctx.location_names_to_id.keys()
+        location_name, usable, response = Utils.get_intended_text(
+            location_name,
+            names
+        )
+        if usable:
+            location_id = self.ctx.location_names_to_id[location_name]
+            self.ctx.locations_checked.append(location_id)
+            self.ctx.syncing = True
+        else:
+            self.output(response)
+            return False
+
+
+
 
 
 class ManualContext(SuperContext):
-    command_processor: int = ManualClientCommandProcessor
+    command_processor = ManualClientCommandProcessor
     game = "not set"  # this is changed in server_auth below based on user input
     items_handling = 0b111  # full remote
     tags = {"AP"}
@@ -51,6 +72,18 @@ class ManualContext(SuperContext):
     set_deathlink = False
     last_death_link = 0
     deathlink_out = False
+
+    colors = {
+        'location_default': [219/255, 218/255, 213/255, 1],
+        'location_in_logic': [2/255, 242/255, 42/255, 1],
+        'category_even_default': [0.5, 0.5, 0.5, 0.1],
+        'category_odd_default': [1.0, 1.0, 1.0, 0.0],
+        'category_in_logic': [2/255, 82/255, 2/255, 1],
+        'deathlink_received': [1, 0, 0, 1],
+        'deathlink_primed': [1, 1, 1, 1],
+        'deathlink_sent': [0, 1, 0, 1],
+        'game_select_button': [200/255, 200/255, 200/255, 1],
+    }
 
     def __init__(self, server_address, password, game, player_name) -> None:
         super(ManualContext, self).__init__(server_address, password)
@@ -110,7 +143,7 @@ class ManualContext(SuperContext):
         return location
 
     def get_location_by_id(self, id) -> dict[str, Any]:
-        name = self.location_names[id]
+        name = self.location_names.lookup_in_game(id)
         return self.get_location_by_name(name)
 
     def get_item_by_name(self, name):
@@ -120,7 +153,7 @@ class ManualContext(SuperContext):
         return item
 
     def get_item_by_id(self, id):
-        name = self.item_names[id]
+        name = self.item_names.lookup_in_game(id)
         return self.get_item_by_name(name)
 
     def update_ids(self, data_package) -> None:
@@ -168,9 +201,9 @@ class ManualContext(SuperContext):
     def on_deathlink(self, data: typing.Dict[str, typing.Any]) -> None:
         super().on_deathlink(data)
         self.ui.death_link_button.text = f"Death Link: {data['source']}"
-        self.ui.death_link_button.background_color = [1, 0, 0, 1]
-        
-        
+        self.ui.death_link_button.background_color = self.colors['deathlink_received']
+
+
     def on_tracker_updated(self, reachable_locations: list[str]):
         self.tracker_reachable_locations = reachable_locations
         self.ui.update_tracker_and_locations_table(update_highlights=True)
@@ -180,20 +213,20 @@ class ManualContext(SuperContext):
         if events:
             self.ui.update_tracker_and_locations_table(update_highlights=True)
 
-    def run_gui(self):
-        """Import kivy UI system and start running it as self.ui_task."""
-        from kvui import GameManager
+    def make_gui(self) -> typing.Type["kvui.GameManager"]:
+        ui = super().make_gui()  # before the kivy imports so kvui gets loaded first
 
+        from kivy.metrics import dp
         from kivy.uix.button import Button
+        from kivy.uix.boxlayout import BoxLayout
+        from kivy.uix.dropdown import DropDown
+        from kivy.uix.gridlayout import GridLayout
         from kivy.uix.label import Label
         from kivy.uix.layout import Layout
-        from kivy.uix.boxlayout import BoxLayout
-        from kivy.uix.gridlayout import GridLayout
         from kivy.uix.scrollview import ScrollView
+        from kivy.uix.spinner import Spinner, SpinnerOption
         from kivy.uix.textinput import TextInput
-        from kivy.uix.tabbedpanel import TabbedPanelItem
         from kivy.uix.treeview import TreeView, TreeViewNode, TreeViewLabel
-        from kivy.clock import Clock
         from kivy.core.window import Window
 
         class TrackerAndLocationsLayout(GridLayout):
@@ -212,7 +245,14 @@ class ManualContext(SuperContext):
         class TreeViewScrollView(ScrollView, TreeViewNode):
             pass
 
-        class ManualManager(GameManager):
+        class GameSelectOption(SpinnerOption):
+            background_color = self.colors['game_select_button']
+
+        class GameSelectDropDown(DropDown):
+            # If someone can figure out how to give this a solid background, I'd be very happy.
+            pass
+
+        class ManualManager(ui):
             logging_pairs = [
                 ("Client", "Archipelago"),
                 ("Manual", "Manual"),
@@ -237,9 +277,11 @@ class ManualContext(SuperContext):
                 self.manual_game_layout = BoxLayout(orientation="horizontal", size_hint_y=None, height=dp(30))
 
                 game_bar_label = Label(text="Manual Game ID", size=(dp(150), dp(30)), size_hint_y=None, size_hint_x=None)
+                manuals = [w for w in AutoWorldRegister.world_types.keys() if "Manual_" in w]
+                manuals.sort()  # Sort by alphabetical order, not load order
                 self.manual_game_layout.add_widget(game_bar_label)
-                self.game_bar_text = TextInput(text=self.ctx.suggested_game,
-                                                size_hint_y=None, height=dp(30), multiline=False, write_tab=False)
+                self.game_bar_text = Spinner(text=self.ctx.suggested_game, size_hint_y=None, height=dp(30), sync_height=True,
+                                             values=manuals, option_cls=GameSelectOption, dropdown_cls=GameSelectDropDown)
                 self.manual_game_layout.add_widget(self.game_bar_text)
 
                 self.grid.add_widget(self.manual_game_layout, 3)
@@ -251,9 +293,6 @@ class ManualContext(SuperContext):
                 self.tracker_and_locations_panel = panel.content = TrackerAndLocationsLayout(cols = 2)
 
                 self.build_tracker_and_locations_table()
-
-                if tracker_loaded:
-                    self.ctx.build_gui(self)
 
                 return self.container
 
@@ -288,17 +327,17 @@ class ManualContext(SuperContext):
                     self.death_link_button = Button(text="Death Link: Primed",
                                                 size_hint_x=None, width=150)
                     self.connect_layout.add_widget(self.death_link_button)
-                    self.death_link_button.bind(on_press=self.send_death_link)
+                    self.death_link_button.bind(on_release=self.send_death_link)
 
             def send_death_link(self, *args):
                 if self.ctx.last_death_link:
                     self.ctx.last_death_link = 0
                     self.death_link_button.text = "Death Link: Primed"
-                    self.death_link_button.background_color = [1, 1, 1, 1]
+                    self.death_link_button.background_color = self.ctx.colors['deathlink_primed']
                 else:
                     self.ctx.deathlink_out = True
                     self.death_link_button.text = "Death Link: Sent"
-                    self.death_link_button.background_color = [0, 1, 0, 1]
+                    self.death_link_button.background_color = self.ctx.colors['deathlink_sent']
 
             def update_hints(self):
                 super().update_hints()
@@ -347,7 +386,7 @@ class ManualContext(SuperContext):
 
                 for location_id in self.ctx.missing_locations:
                     # holy nesting, wow
-                    location_name = self.ctx.location_names[location_id]
+                    location_name = self.ctx.location_names.lookup_in_game(location_id)
                     location = self.ctx.get_location_by_name(location_name)
 
                     if not location:
@@ -425,8 +464,8 @@ class ManualContext(SuperContext):
                     category_scroll.add_widget(category_layout)
 
                     for location_id in self.listed_locations[location_category]:
-                        location_button = TreeViewButton(text=self.ctx.location_names[location_id], size_hint=(None, None), height=30, width=400)
-                        location_button.bind(on_press=lambda *args, loc_id=location_id: self.location_button_callback(loc_id, *args))
+                        location_button = TreeViewButton(text=self.ctx.location_names.lookup_in_game(location_id), size_hint=(None, None), height=30, width=400)
+                        location_button.bind(on_release=lambda *args, loc_id=location_id: self.location_button_callback(loc_id, *args))
                         location_button.id = location_id
                         category_layout.add_widget(location_button)
 
@@ -438,7 +477,7 @@ class ManualContext(SuperContext):
                         victory_text = "VICTORY! (seed finished)" if victory_location["name"] == "__Manual Game Complete__" else "GOAL: " + victory_location["name"]
                         location_button = TreeViewButton(text=victory_text, size_hint=(None, None), height=30, width=400)
                         location_button.victory = True
-                        location_button.bind(on_press=self.victory_button_callback)
+                        location_button.bind(on_release=self.victory_button_callback)
                         category_layout.add_widget(location_button)
 
                 tracker_panel_scrollable.add_widget(tracker_panel)
@@ -498,7 +537,7 @@ class ManualContext(SuperContext):
 
                                 # Label (for new item listings)
                                 for network_item in self.ctx.items_received:
-                                    item_name = self.ctx.item_names[network_item.item]
+                                    item_name = self.ctx.item_names.lookup_in_game(network_item.item)
                                     item_data = self.ctx.get_item_by_name(item_name)
 
                                     if "category" not in item_data or not item_data["category"]:
@@ -564,7 +603,7 @@ class ManualContext(SuperContext):
                                         if location_button.text not in (self.ctx.location_table or AutoWorldRegister.world_types[self.ctx.game].location_name_to_location):
                                             category_count += 1
                                             if location_button.victory and "__Victory__" in self.ctx.tracker_reachable_events:
-                                                location_button.background_color=[2/255, 242/255, 42/255, 1]
+                                                location_button.background_color = self.ctx.colors['location_in_logic']
                                                 reachable_count += 1
                                             continue
 
@@ -576,10 +615,10 @@ class ManualContext(SuperContext):
                                             continue
 
                                         if location_button.text in self.ctx.tracker_reachable_locations:
-                                            location_button.background_color=[2/255, 242/255, 42/255, 1]
+                                            location_button.background_color = self.ctx.colors['location_in_logic']
                                             reachable_count += 1
                                         else:
-                                            location_button.background_color=[219/255, 218/255, 213/255, 1]
+                                            location_button.background_color = self.ctx.colors['location_default']
 
                                         category_count += 1
 
@@ -601,6 +640,15 @@ class ManualContext(SuperContext):
 
                                 category_name = re.sub(r"\s\(\d+\/?(\d+)?\)$", "", category_label.text)
                                 category_label.text = "%s (%s)" % (category_name, count_text)
+
+                                if reachable_count > 0:
+                                    # treeviewlabels don't have background color. because #justkivythings.
+                                    category_label.even_color = self.ctx.colors['category_in_logic']
+                                    category_label.odd_color = self.ctx.colors['category_in_logic']
+                                else:
+                                    category_label.even_color = self.ctx.colors['category_even_default']
+                                    category_label.odd_color = self.ctx.colors['category_odd_default']
+
                                 category_scrollview.size=(Window.width / 2, scrollview_height)
 
             def location_button_callback(self, location_id, button):
@@ -619,12 +667,7 @@ class ManualContext(SuperContext):
                 self.ctx.items_received.append("__Victory__")
                 self.ctx.syncing = True
 
-        self.ui = ManualManager(self)
-
-        if tracker_loaded:
-            self.load_kv()
-
-        self.ui_task = asyncio.create_task(self.ui.async_run(), name="UI")
+        return ManualManager
 
 async def game_watcher_manual(ctx: ManualContext):
     while not ctx.exit_event.is_set():
@@ -695,7 +738,10 @@ def launch() -> None:
     parser.add_argument('apmanual_file', default="", type=str, nargs="?",
                         help='Path to an APMANUAL file')
 
-    args, rest = parser.parse_known_args()
+    args = sys.argv[1:]
+    if "Manual Client" in args:
+        args.remove("Manual Client")
+    args, rest = parser.parse_known_args(args=args)
     colorama.init()
     asyncio.run(main(args))
     colorama.deinit()
