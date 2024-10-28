@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SlimeRancher",
+  "creator": "Axxroy",
+  "filler_item_name": "100 Newbucks",
+  "starting_items": []
+}
