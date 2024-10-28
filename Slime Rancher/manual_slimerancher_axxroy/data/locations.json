@@ -1,6 +1,448 @@
-[
-  {
-    "category": [],
-    "requires": []
-  }
-]
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Hobson's Note - The Lab",
+            "category": ["The Ranch", "Hobson's Notes"],
+            "region": "The Lab"
+        },
+        {
+            "name": "Hobson's Note - The Overgrowth",
+            "category": ["The Ranch", "Hobson's Notes"],
+            "region": "The Overgrowth"
+        },
+        {
+            "name": "Hobson's Note - The Docks",
+            "category": ["The Ranch", "Hobson's Notes"],
+            "region": "The Docks"
+        },
+        {
+            "name": "Hobson's Note - The Grotto",
+            "category": ["The Ranch", "Hobson's Notes"],
+            "region": "The Grotto"
+        },
+        {
+            "name": "Treasure Pod MKI - The Lab",
+            "category": ["The Ranch", "Treasure Pods"],
+            "region": "The Lab",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Phosphor Gordo - Dry Reef",
+            "category": ["Dry Reef - Main", "Gordos"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Tabby Gordo - Near Moss Blanket Door",
+            "category": ["Dry Reef - Main", "Gordos"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Tabby Gordo - Reef Beach",
+            "category": ["Dry Reef - Beach", "Gordos"],
+            "region": "Dry Reef Beach"
+        },
+        {
+            "name": "Pink Gordo - Bridge Island",
+            "category": ["Dry Reef - Main", "Gordos"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Hobson's Note - Outside Ranch",
+            "category": ["Dry Reef - Main", "Hobson's Notes"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Hobson's Note - Beach Rings",
+            "category": ["Dry Reef - Beach", "Hobson's Notes"],
+            "region": "Dry Reef Beach"
+        },
+        {
+            "name": "Hobson's Note - Hidden Cliff",
+            "category": ["Dry Reef - Side Path", "Hobson's Notes"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Hobson's Note - Tunnel to Quarry",
+            "category": ["Dry Reef - Main", "Hobson's Notes"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Hobson's Note - Cliff near Tabby Slimes",
+            "category": ["Dry Reef - Main", "Hobson's Notes"],
+            "region": "Dry Reef Main"
+        },
+        {
+            "name": "Treasure Pod MKII - Cliff above Quarry Tunnel",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKI - Phosphor Gordo",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Reef Beach Gate",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Reef Above Tabby Slimes",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKI - Near Tabby Gordo",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Ledge outside Overgrowth",
+            "category": ["Dry Reef - Beach", "Treasure Pods"],
+            "region": "Dry Reef Beach",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Reef Island Archway",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry",
+            "category": ["Dry Reef - Main", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Over Side Cliff",
+            "category": ["Dry Reef - Side Path", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Rock Largo Path",
+            "category": ["Dry Reef - Side Path", "Treasure Pods"],
+            "region": "Dry Reef Main",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Pink Gordo - Ring Island",
+            "category": ["Dry Reef - Ring Island", "Gordos"],
+            "region": "Dry Reef Ring Island"
+        },
+        {
+            "name": "Hobson's Note - Ring Island",
+            "category": ["Dry Reef - Ring Island", "Hobson's Notes"],
+            "region": "Dry Reef Ring Island"
+        },
+        {
+            "name": "Treasure Pod MKII - Ring Island Ledge",
+            "category": ["Dry Reef - Ring Island", "Treasure Pods"],
+            "region": "Dry Reef Ring Island",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Ring Island Flowers",
+            "category": ["Dry Reef - Ring Island", "Treasure Pods"],
+            "region": "Dry Reef Ring Island",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ring Island Alcove",
+            "category": ["Dry Reef - Ring Island", "Treasure Pods"],
+            "region": "Dry Reef Ring Island",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Rock Gordo - Main Cave",
+            "category": ["Indigo Quarry - Front", "Gordos"],
+            "region": "Indigo Quarry Front"
+        },
+        {
+            "name": "Rock Gordo - Island Teleporter",
+            "category": ["Indigo Quarry - Back", "Gordos"],
+            "region": "Indigo Quarry Back",
+            "requires": "|Progressive Jetpack|"
+        },
+        {
+            "name": "Rad Gordo - Indigo Cave",
+            "category": ["Indigo Quarry - Back", "Gordos"],
+            "region": "Indigo Quarry Back"
+        },
+        {
+            "name": "Hobson's Note - Indigo Quarry Entry",
+            "category": ["Indigo Quarry - Front", "Hobson's Notes"],
+            "region": "Indigo Quarry Front"
+        },
+        {
+            "name": "Hobson's Note - Crystal Slime Cave",
+            "category": ["Indigo Quarry - Front", "Hobson's Notes"],
+            "region": "Indigo Quarry Front"
+        },
+        {
+            "name": "Hobson's Note - Indigo Quarry Pond",
+            "category": ["Indigo Quarry - Front", "Hobson's Notes"],
+            "region": "Indigo Quarry Front"
+        },
+        {
+            "name": "Treasure Pod MKI - Quarry Entryway",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Quarry Entryway Ledge",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Near Quarry Exit Teleporter",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Crystal Slime Cave Pillar",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Through Crystal Slime Cave",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKII - In the Quarry Pond",
+            "category": ["Indigo Quarry - Front", "Treasure Pods"],
+            "region": "Indigo Quarry Front",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Near Island Teleport Gordo",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - In Quarry Wooden Structure",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Cliff Past Rad Gordo",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKII - Rad Gordo Cave",
+            "category": ["Indigo Quarry - Back", "Treasure Pods"],
+            "region": "Indigo Quarry Back",
+            "requires": "{TreasureLevel(2)"
+        },
+        {
+            "name": "Crystal Gordo - Ash Isle",
+            "category": ["Indigo Quarry - Ash Isle", "Gordos"],
+            "region": "Ash Isle"
+        },
+        {
+            "name": "Hobson's Note - Ash Isle",
+            "category": ["Indigo Quarry - Ash Isle", "Hobson's Notes"],
+            "region": "Ash Isle"
+        },
+        {
+            "name": "Treasure Pod MKII - Ash Isle Fireflower Patch",
+            "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
+            "region": "Ash Isle",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ash Isle Ledge",
+            "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
+            "region": "Ash Isle",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Honey Gordo - Moss Blanket Main Area",
+            "category": ["Moss Blanket - Front", "Gordos"],
+            "region": "Moss Blanket Main",
+            "requires": "|Progressive Jetpack|"
+        },
+        {
+            "name": "Hunter Gordo - Moss Blanket Hunter Swamp",
+            "category": ["Moss Blanket - Hunter Swamp", "Gordos"],
+            "region": "Hunter Swamp"
+        },
+        {
+            "name": "Hobson's Note - Moss Blanket Entrance",
+            "category": ["Moss Blanket - Main", "Hobson's Notes"],
+            "region": "Moss Blanket Main",
+            "requires": "|Progressive Jetpack|"
+        },
+        {
+            "name": "Hobson's Note - Moss Blanket Main Area",
+            "category": ["Moss Blanket - Main", "Hobson's Notes"],
+            "region": "Moss Blanket Main"
+        },
+        {
+            "name": "Hobson's Note - Pond Island Backside",
+            "category": ["Moss Blanket - Pond Island", "Hobson's Notes"],
+            "region": "Pond Island"
+        },
+        {
+            "name": "Hobson's Note - Entry to Hunter Swamp",
+            "category": ["Moss Blanket - Hunter Swamp", "Hobson's Notes"],
+            "region": "Hunter Swamp"
+        },
+        {
+            "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Moss Blanket Southern Island",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKII - Moustache Island",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
+            "category": ["Moss Blanket - ", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Under Structures Facing Pond Island",
+            "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
+            "region": "Pond Island",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - In Pond Island Pond",
+            "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
+            "region": "Pond Island",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Pond Island Backside",
+            "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
+            "region": "Pond Island",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Moss Blanket Flower Area",
+            "category": ["Moss Blanket - Back", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel",
+            "category": ["Moss Blanket - Back", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area",
+            "category": ["Moss Blanket - Back", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp",
+            "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
+            "region": "Hunter Swamp",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp",
+            "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
+            "region": "Hunter Swamp",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp",
+            "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
+            "region": "Hunter Swamp",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island",
+            "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
+            "region": "Hunter Swamp",
+            "requires": "{TreasureLevel(3)}"
+        }
+    ]
+}
+

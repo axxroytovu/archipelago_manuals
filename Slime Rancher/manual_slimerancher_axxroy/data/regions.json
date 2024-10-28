@@ -45,16 +45,26 @@
     },
     "Dry Reef Ring Island": {
         "connects_to": [],
-        "requires": "|Teleporter - Dry Reef to Ring Island|"
+        "requires": "|Teleporter - Dry Reef to Ring Island| AND |Progressive Jetpack|"
     },
     "Moss Blanket Main": {
         "connects_to": [
-            "Courtyard"
+            "Courtyard",
+            "Hunter Swamp",
+            "Pond Island"
         ],
         "entrance_requires": {
             "Dry Reef Main": "|Slime Gate Key - Dry Reef to Moss Blanket|",
             "Courtyard": "|Slime Gate Key - Moss Blanket to Courtyard|"
         }
+    },
+    "Hunter Swamp": {
+        "connects_to": [],
+        "requires": "|Progressive Jetpack|"
+    },
+    "Pond Island": {
+        "connects_to": [],
+        "requires": "|Progressive Jetpack|"
     },
     "Indigo Quarry Front": {
         "connects_to": [
@@ -69,7 +79,7 @@
         "connects_to": [
             "Indigo Quarry Front",
             "Courtyard",
-            "Indigo Isle"
+            "Ash Isle"
         ],
         "entrance_requires": {
             "Courtyard": "|Slime Gate Key - Indigo Quarry to Courtyard|",
@@ -87,9 +97,9 @@
             "Moss Blanket Main": "|Slime Gate Key - Moss Blanket to Courtyard|"
         }
     },
-    "Indigo Isle": {
+    "Ash Isle": {
         "connects_to": [],
-        "requires": "|Teleporter - Indigo Quarry to Indigo Isle|"
+        "requires": "|Teleporter - Indigo Quarry to Ash Isle| AND |Progressive Jetpack|"
     },
     "Ancient Ruins": {
         "connects_to": [
