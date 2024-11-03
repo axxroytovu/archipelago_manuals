@@ -1,0 +1,627 @@
+[
+    {
+        "count": "4",
+        "name": "Progressive Tank Booster",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": "3",
+        "name": "Progressive Treasure Cracker",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "progression": true
+    },
+    {
+        "count": "3",
+        "name": "Progressive Power Core",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": "4",
+        "name": "Progressive Heart Module",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": "1",
+        "name": "Golden Sureshot",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Pulse Wave",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": 2,
+        "name": "Progressive Dash Boots",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": "2",
+        "name": "Progressive Jetpack",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Water Tank",
+        "category": [
+            "Vackpack Upgrades"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Dry Reef Beach",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Dry Reef to Indigo Quarry",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Dry Reef to Moss Blanket",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Moss Blanket to Courtyard",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Indigo Quarry to Courtyard",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Courtyard to Ancient Ruins",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Ancient Ruins Teleporter",
+        "category": [
+            "Slime Gates",
+            "Teleporters"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Glass Desert East",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Slime Gate Key - Glass Desert West",
+        "category": [
+            "Slime Gates"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Map Data - Dry Reef",
+        "category": [
+            "Map Data"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Map Data - Moss Blanket",
+        "category": [
+            "Map Data"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Map Data - Indigo Quarry",
+        "category": [
+            "Map Data"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Map Data - Ancient Ruins",
+        "category": [
+            "Map Data"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Map Data - Glass Desert",
+        "category": [
+            "Map Data"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Teleporter - Dry Reef to Ring Island",
+        "category": [
+            "Teleporters"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Teleporter - Overgrowth to Dry Reef",
+        "category": [
+            "Teleporters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Teleporter - The Grotto to Indigo Quarry",
+        "category": [
+            "Teleporters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Teleporter - Indigo Quarry to Ash Isle",
+        "category": [
+            "Teleporters"
+        ],
+        "progression": true
+    },
+    {
+        "count": "0",
+        "name": "4x Novice Drill",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "3x Advanced Drill",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "2x Master Drill",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Titan Drill",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "4x Novice Pump",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "3x Advanced Pump",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "2x Master Pump",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Abyssal Pump",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "4x Novice Apiary",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "3x Advanced Apiary",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "2x Master Apiary",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Royal Apiary",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Pink Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Blue Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Violet Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Grey Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Green Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Red Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Amber Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Gold Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Berry Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Cocoa Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "2x Butterscotch Teleporter",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Pink Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Blue Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Violet Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Grey Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Green Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Red Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Amber Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Gold Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Berry Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Cocoa Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "1x Butterscotch Warp Depot",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Market Link",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Med Station",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Hydro Turret",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Super Hydro Turret",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Spring Pad",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Refinery Link",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Novice Gordo Snare",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Advanced Gordo Snare",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Master Gordo Snare",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "2x Drone",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Advanced Drone",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Portable Water Tap",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 0,
+        "name": "1x Dash Pad",
+        "category": [
+            "Gadgets"
+        ],
+        "filler": true
+    },
+    {
+        "count": 1,
+        "name": "Ranch Expansion - The Grotto",
+        "category": [
+            "Ranch Upgrades"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Ranch Expansion - The Overgrowth",
+        "category": [
+            "Ranch Upgrades"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Ranch Expansion - The Docks",
+        "category": [
+            "Ranch Upgrades"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Ranch Expansion - The Lab",
+        "category": [
+            "Ranch Upgrades"
+        ],
+        "progression": true
+    }
+]

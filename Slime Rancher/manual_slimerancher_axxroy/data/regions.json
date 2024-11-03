@@ -1,0 +1,121 @@
+{
+    "Ranch": {
+        "starting": true,
+        "connects_to": [
+            "The Grotto",
+            "The Overgrowth",
+            "The Lab",
+            "Dry Reef Main"
+        ],
+        "requires": []
+    },
+    "The Grotto": {
+        "connects_to": [],
+        "requires": "|Ranch Expansion - The Grotto|"
+    },
+    "The Overgrowth": {
+        "connects_to": [
+            "The Docks",
+            "Dry Reef Beach"
+        ],
+        "requires": "|Ranch Expansion - The Overgrowth|"
+    },
+    "The Lab": {
+        "connects_to": [],
+        "requires": "|Ranch Expansion - The Lab|"
+    },
+    "The Docks": {
+        "connects_to": [],
+        "requires": "|Ranch Expansion - The Docks|"
+    },
+    "Dry Reef Beach": {
+        "connects_to": [
+            "Dry Reef Ring Island"
+        ],
+        "entrance_requires": {
+            "Dry Reef Main": "|Slime Gate Key - Dry Reef Beach|"
+        }
+    },
+    "Dry Reef Main": {
+        "connects_to": [
+            "Dry Reef Beach",
+            "Moss Blanket Main",
+            "Indigo Quarry Front"
+        ],
+        "requires": []
+    },
+    "Dry Reef Ring Island": {
+        "connects_to": [],
+        "requires": "|Teleporter - Dry Reef to Ring Island| AND |Progressive Jetpack|"
+    },
+    "Moss Blanket Main": {
+        "connects_to": [
+            "Courtyard",
+            "Hunter Swamp",
+            "Pond Island"
+        ],
+        "entrance_requires": {
+            "Dry Reef Main": "|Slime Gate Key - Dry Reef to Moss Blanket|",
+            "Courtyard": "|Slime Gate Key - Moss Blanket to Courtyard|"
+        }
+    },
+    "Hunter Swamp": {
+        "connects_to": [],
+        "requires": "|Progressive Jetpack|"
+    },
+    "Pond Island": {
+        "connects_to": [],
+        "requires": "|Progressive Jetpack|"
+    },
+    "Indigo Quarry Front": {
+        "connects_to": [
+            "Indigo Quarry Back"
+        ],
+        "entrance_requires": {
+            "Dry Reef Main": "|Slime Gate Key - Dry Reef to Indigo Quarry|",
+            "Indigo Quarry Back": "|Progressive Jetpack|"
+        }
+    },
+    "Indigo Quarry Back": {
+        "connects_to": [
+            "Indigo Quarry Front",
+            "Courtyard",
+            "Ash Isle"
+        ],
+        "entrance_requires": {
+            "Courtyard": "|Slime Gate Key - Indigo Quarry to Courtyard|",
+            "Indigo Quarry Front": "|Progressive Jetpack|"
+        }
+    },
+    "Courtyard": {
+        "connects_to": [
+            "Ancient Ruins",
+            "Indigo Quarry Back",
+            "Moss Blanket Main"
+        ],
+        "entrance_requires": {
+            "Indigo Quarry Back": "|Slime Gate Key - Indigo Quarry to Courtyard|",
+            "Moss Blanket Main": "|Slime Gate Key - Moss Blanket to Courtyard|"
+        }
+    },
+    "Ash Isle": {
+        "connects_to": [],
+        "requires": "|Teleporter - Indigo Quarry to Ash Isle| AND |Progressive Jetpack|"
+    },
+    "Ancient Ruins": {
+        "connects_to": [
+            "Glass Desert Front"
+        ],
+        "requires": "|Slime Gate Key - Courtyard to Ancient Ruins| AND {slime(rock)} AND {slime(phosphor)} AND {slime(tabby)} AND {slime(honey)} AND {slime(boom)} AND {slime(rad)}"
+    },
+    "Glass Desert Front": {
+        "connects_to": [
+            "Glass Desert Back"
+        ],
+        "requires": "|Slime Gate Key - Ancient Ruins Teleporter|"
+    },
+    "Glass Desert Back": {
+        "connects_to": [],
+        "requires": "|Slime Gate Key - Glass Desert West| OR |Slime Gate Key - Glass Desert East|"
+    }
+}
