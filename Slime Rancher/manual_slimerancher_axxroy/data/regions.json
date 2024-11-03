@@ -4,7 +4,8 @@
         "connects_to": [
             "The Grotto",
             "The Overgrowth",
-            "The Lab"
+            "The Lab",
+            "Dry Reef Main"
         ],
         "requires": []
     },

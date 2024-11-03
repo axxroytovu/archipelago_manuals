@@ -27,3 +27,48 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
 def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def TreasureLevel(world: World, multiworld: MultiWorld, state: CollectionState, player: int, level: str):
+    """Defines the requirements to access the treasure cracker"""
+    lab_access = (level == "1") or state.can_reach_region("The Lab", player)
+    items = state.has("Progressive Treasure Cracker", player, int(level))
+    return lab_access and items
+
+def slime(world: World, multiworld: MultiWorld, state: CollectionState, player: int, slime_type: str):
+    need_docks = False
+    match slime_type:
+        case "pink":
+            available = ["Ranch"]
+        case "tabby":
+            available = ["Dry Reef Main"]
+        case "phosphor":
+            available = ["Dry Reef Main"]
+        case "honey":
+            available = ["Moss Blanket Main"]
+        case "hunter":
+            available = ["Hunter Swamp"]
+        case "quantum":
+            available = ["Ancient Ruins"]
+        case "dervish":
+            available = ["Glass Desert Front"]
+        case "tangle":
+            available = ["Glass Desert Front"]
+        case "rock":
+            available = ["Dry Reef Main"]
+        case "rad":
+            available = ["Indigo Quarry Front", "Indigo Quarry Back"]
+        case "boom":
+            available = ["Indigo Quarry Front", "Moss Blanket Main"]
+        case "crystal":
+            available = ["Indigo Quarry Front", "Indigo Quarry Back"]
+        case "mosaic":
+            available = ["Glass Desert Back"]
+        case "puddle":
+            available = ["Indigo Quarry Front", "Pond Island"]
+            need_docks = True
+        case "fire":
+            available = ["Glass Desert Front"]
+    
+    docks_access = (not need_docks) or state.can_reach_region("The Docks", player) 
+    return docks_access and any([state.can_reach_region(r, player) for r in available])
+        

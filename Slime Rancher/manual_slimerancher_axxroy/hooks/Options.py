@@ -33,9 +33,16 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+def Ranchsanity(Range):
+    """Adds a number of locations for creating a functioning ranch with a specific largo combination"""
+    display_name = "Number of locations devoted to ranching largos"
+    range_start = 0
+    range_end = 80
+    default = 0
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["Ranchsanity"] = Ranchsanity
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

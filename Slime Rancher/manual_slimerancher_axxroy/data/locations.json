@@ -442,6 +442,310 @@
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
             "requires": "{TreasureLevel(3)}"
+        }, 
+        {
+            "name": "Boom Gordo - Ancient Ruins Tower",
+            "category": ["Ancient Ruins - Lower", "Gordos"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Quantum Gordo - Ancient Ruins Back",
+            "category": ["Ancient Ruins - Upper", "Gordos"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Hobson's Note - Ancient Ruins Lower Entry",
+            "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Hobson's Note - Ancient Ruins Lower Side Area",
+            "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Hobson's Note - Ancient Ruins Upper Enclosed",
+            "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Hobson's Note - Desert Teleporter Room",
+            "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
+            "region": "Ancient Ruins"
+        },
+        {
+            "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKII - Ruins Southeast Corner",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Ruins Hidden Waterfall",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Ruins Door Puzzle",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKI - Ruins Sunburst Tree",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(1)}"
+        },
+        {
+            "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Ruins Boom Gordo",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ruins Climb a Building",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKII - Ruins Last Room Shortcut",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Top of the Ruins",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ruins Secret Vines Room",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ruins North Around a Corner",
+            "category": ["Ancient Ruins - Upper", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Near Teleporter Slime Gate",
+            "category": ["Ancient Ruins - Lower", "Treasure Pods"],
+            "region": "Ancient Ruins",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Dervish Gordo - Clifftop",
+            "category": ["Glass Desert - Front", "Gordos"],
+            "region": "Glass Desert Front",
+            "requires": "|Progressive Jetpack|"
+        },
+        {
+            "name": "Tangle Gordo - Desert Center",
+            "category": ["Glass Desert - Front", "Gordos"],
+            "region": "Glass Desert Front"
+        },
+        {
+            "name": "Mosaic Gordo - Cliff Blocker",
+            "category": ["Glass Desert - Back", "Gordos"],
+            "region": "Glass Desert Back",
+            "requires": "|Progressive Jetpack|"
+        },
+        {
+            "name": "Hobson's Note - Below Dervish Gordo",
+            "category": ["Glass Desert - Front", "Hobson's Notes"],
+            "region": "Glass Desert - Front"
+        },
+        {
+            "name": "Hobson's Note - Desert Ruins Cave",
+            "category": ["Glass Desert - Front", "Hobson's Notes"],
+            "region": "Glass Desert - Front"
+        },
+        {
+            "name": "Hobson's Note - Desert Ruins After Slime Doors",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert - Back"
+        },
+        {
+            "name": "Hobson's Note - Northern Desert Ruins Rooftop",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert - Back"
+        },
+        {
+            "name": "Hobson's Note - Final Archway",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert - Back"
+        },
+        {
+            "name": "Hobson's Note - Final Quantum Door",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert - Back"
+        },
+        {
+            "name": "Hobson's Note - Final Shrine",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert - Back"
+        },
+        {
+            "name": "Hobson's Note - Victory",
+            "category": ["Glass Desert - Back"],
+            "region": "Glass Desert - Back",
+            "victory": true
+        },
+        {
+            "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Below Mosaic Statue Island",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path",
+            "category": ["Glass Desert - Back", "Treasure Pods"],
+            "region": "Glass Desert - Back",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Very Top of First Desert Ruin",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - Corner Below Dervish Gordo",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "Treasure Pod MKIII - Behind Desert Portal Room",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+        },
+        {
+            "name": "Treasure Pod MKII - In the Desert Portal Room",
+            "category": ["Glass Desert - Front", "Treasure Pods"],
+            "region": "Glass Desert - Front",
+            "requires": "{TreasureLevel(2)}"
         }
     ]
 }

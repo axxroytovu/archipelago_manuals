@@ -34,7 +34,12 @@ import logging
 # Use this function to change the valid filler items to be created to replace item links or starting items.
 # Default value is the `filler_item_name` from game.json
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
-    return False
+    category = multiworld.random.random()
+    if category < 1/3:
+        return False
+    elif category < 2/3:
+        return multiworld.random.choice(["4x Novice Drill", "3x Advanced Drill", "2x Master Drill", "1x Titan Drill", "4x Novice Pump", "3x Advanced Pump", "2x Master Pump", "1x Abyssal Pump", "4x Novice Apiary", "3x Advanced Apiary", "2x Master Apiary", "1x Royal Apiary"])
+    return multiworld.random.choice(["1x Market Link", "1x Med Station", "1x Hydro Turret", "1x Super Hydro Turret", "1x Spring Pad", "1x Refinery Link", "1x Novice Gordo Snare", "1x Advanced Gordo Snare", "1x Master Gordo Snare", "2x Drone", "1x Advanced Drone", "1x Portable Water Tap", "1x Dash Pad"])
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
@@ -43,7 +48,10 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
-    locationNamesToRemove = [] # List of location names
+
+    ranchsanity_locations = [l["name"] for l in world.location_table if "Ranchsanity" in l["categories"]]
+    multiworld.random.shuffle(ranchsanity_locations)
+    locationNamesToRemove = ranchsanity_locations[get_option_value(multiworld, player, "Ranchsanity"):]
 
     # Add your code here to calculate which locations to remove
 
