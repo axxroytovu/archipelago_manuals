@@ -94,7 +94,7 @@
             "name": "Treasure Pod MKI - Reef Above Tabby Slimes",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)}"
         },
         {
             "name": "Treasure Pod MKI - Near Tabby Gordo",
@@ -611,6 +611,11 @@
         },
         {
             "name": "Hobson's Note - Victory",
+            "category": ["Glass Desert - Back", "Hobson's Notes"],
+            "region": "Glass Desert Back"
+        },
+        {
+            "name": "Hobson's Note - Victory GOAL",
             "category": ["Glass Desert - Back"],
             "region": "Glass Desert Back",
             "victory": true
@@ -918,6 +923,12 @@
             "category": ["7Zee Rewards"],
             "region": "Ranch",
             "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}"
+        },
+        {
+            "name": "7zee Rewards Level 28 - GOAL",
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}",
+            "victory": true
         }
     ]
 }

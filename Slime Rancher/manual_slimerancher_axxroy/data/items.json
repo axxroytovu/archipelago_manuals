@@ -3,7 +3,7 @@
         "count": "4",
         "name": "Progressive Tank Booster",
         "category": [
-            "Vacpack Upgrades"
+            "Vackpack Upgrades"
         ],
         "useful": true
     },
@@ -124,7 +124,7 @@
         "name": "Slime Gate Key - Ancient Ruins Teleporter",
         "category": [
             "Slime Gates",
-            "Teleporter"
+            "Teleporters"
         ],
         "progression": true
     },

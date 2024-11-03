@@ -215,7 +215,7 @@ class ManualContext(SuperContext):
 
     def run_gui(self):
         """Import kivy UI system from make_gui() and start running it as self.ui_task."""
-        if hasattr(SuperContext, "make_gui"):
+        if not hasattr(SuperContext, "make_gui()"):
             # Call the real one if it exists
             return super().run_gui()
 

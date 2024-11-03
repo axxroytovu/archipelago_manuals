@@ -106,7 +106,7 @@
         "connects_to": [
             "Glass Desert Front"
         ],
-        "requires": "|Slime Gate Key - Courtyard to Ancient Ruins|"
+        "requires": "|Slime Gate Key - Courtyard to Ancient Ruins| AND {slime(rock)} AND {slime(phosphor)} AND {slime(tabby)} AND {slime(honey)} AND {slime(boom)} AND {slime(rad)}"
     },
     "Glass Desert Front": {
         "connects_to": [

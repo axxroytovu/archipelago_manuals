@@ -51,7 +51,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     if hasattr(multiworld, "re_gen_passthrough"):
         return
 
-    ranchsanity_locations = [l["name"] for l in world.location_table if "Ranchsanity" in l["category"]]
+    ranchsanity_locations = [l["name"] for l in world.location_table if "Ranchsanity" in l.get("category", [])]
     multiworld.random.shuffle(ranchsanity_locations)
     locationNamesToRemove = ranchsanity_locations[get_option_value(multiworld, player, "Ranchsanity"):]
 

@@ -30,7 +30,7 @@ def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, 
 
 def TreasureLevel(world: World, multiworld: MultiWorld, state: CollectionState, player: int, level: str):
     """Defines the requirements to access the treasure cracker"""
-    lab_access = (level == "1") or state.can_reach_region("The Lab", player)
+    lab_access = (level == "1") or state.has("Ranch Expansion - The Lab", player)
     items = state.has("Progressive Treasure Cracker", player, int(level))
     return lab_access and items
 
@@ -64,7 +64,7 @@ def slime(world: World, multiworld: MultiWorld, state: CollectionState, player: 
         case "mosaic":
             available = ["Glass Desert Back"]
         case "puddle":
-            available = ["Indigo Quarry Front", "Pond Island"]
+            available = ["Indigo Quarry Front", "Pond Island", "Ring Island"]
             need_docks = True
         case "fire":
             available = ["Glass Desert Front"]
