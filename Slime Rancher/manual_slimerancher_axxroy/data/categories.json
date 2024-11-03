@@ -1,5 +1,7 @@
 {
-  "Hobson's Notes": : {
-    "yaml_option": ["Notesanity"]
-  }
+    "Hobson's Notes": {
+        "yaml_option": [
+            "Notesanity"
+        ]
+    }
 }

@@ -33,9 +33,8 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
-def Ranchsanity(Range):
+class Ranchsanity(Range):
     """Adds a number of locations for creating a functioning ranch with a specific largo combination"""
-    display_name = "Number of locations devoted to ranching largos"
     range_start = 0
     range_end = 80
     default = 0

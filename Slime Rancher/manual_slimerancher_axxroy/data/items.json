@@ -202,14 +202,14 @@
   },
   {
     "count": 1,
-    "name": "Teleporter - Indigo Quarry to Indigo Isle",
+    "name": "Teleporter - Indigo Quarry to Ash Isle",
     "category": [
       "Teleporters"
     ],
     "progression": true
   },
   {
-    "count": "1",
+    "count": "0",
     "name": "4x Novice Drill",
     "category": [
       "Gadgets"
@@ -217,7 +217,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "3x Advanced Drill",
     "category": [
       "Gadgets"
@@ -225,7 +225,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "2x Master Drill",
     "category": [
       "Gadgets"
@@ -233,7 +233,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Titan Drill",
     "category": [
       "Gadgets"
@@ -241,7 +241,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "4x Novice Pump",
     "category": [
       "Gadgets"
@@ -249,7 +249,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "3x Advanced Pump",
     "category": [
       "Gadgets"
@@ -257,7 +257,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "2x Master Pump",
     "category": [
       "Gadgets"
@@ -265,7 +265,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Abyssal Pump",
     "category": [
       "Gadgets"
@@ -273,7 +273,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "4x Novice Apiary",
     "category": [
       "Gadgets"
@@ -281,7 +281,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "3x Advanced Apiary",
     "category": [
       "Gadgets"
@@ -289,7 +289,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "2x Master Apiary",
     "category": [
       "Gadgets"
@@ -297,7 +297,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Royal Apiary",
     "category": [
       "Gadgets"
@@ -481,7 +481,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Market Link",
     "category": [
       "Gadgets"
@@ -489,7 +489,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Med Station",
     "category": [
       "Gadgets"
@@ -497,7 +497,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Hydro Turret",
     "category": [
       "Gadgets"
@@ -505,7 +505,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Super Hydro Turret",
     "category": [
       "Gadgets"
@@ -513,7 +513,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Spring Pad",
     "category": [
       "Gadgets"
@@ -521,7 +521,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Refinery Link",
     "category": [
       "Gadgets"
@@ -529,7 +529,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Novice Gordo Snare",
     "category": [
       "Gadgets"
@@ -537,7 +537,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Advanced Gordo Snare",
     "category": [
       "Gadgets"
@@ -545,7 +545,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Master Gordo Snare",
     "category": [
       "Gadgets"
@@ -553,15 +553,15 @@
     "filler": true
   },
   {
-    "count": 1,
-    "name": "1x Drone",
+    "count": 0,
+    "name": "2x Drone",
     "category": [
       "Gadgets"
     ],
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Advanced Drone",
     "category": [
       "Gadgets"
@@ -569,7 +569,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Portable Water Tap",
     "category": [
       "Gadgets"
@@ -577,7 +577,7 @@
     "filler": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "1x Dash Pad",
     "category": [
       "Gadgets"

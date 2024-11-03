@@ -48,8 +48,10 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
+    if hasattr(multiworld, "re_gen_passthrough"):
+        return
 
-    ranchsanity_locations = [l["name"] for l in world.location_table if "Ranchsanity" in l["categories"]]
+    ranchsanity_locations = [l["name"] for l in world.location_table if "Ranchsanity" in l["category"]]
     multiworld.random.shuffle(ranchsanity_locations)
     locationNamesToRemove = ranchsanity_locations[get_option_value(multiworld, player, "Ranchsanity"):]
 
