@@ -3,5 +3,6 @@
   "game": "SlimeRancher",
   "creator": "Axxroy",
   "filler_item_name": "100 Newbucks",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true
 }

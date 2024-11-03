@@ -746,6 +746,178 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(2)}"
+        },
+        {
+            "name": "7zee Rewards Level 1 - Initiate",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(pink)}"
+        },
+        {
+            "name": "7zee Rewards Level 2 - Pioneer I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(pink)}"
+        },
+        {
+            "name": "7zee Rewards Level 3 - Pioneer II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(tabby)}"
+        },
+        {
+            "name": "7zee Rewards Level 4 - Pioneer III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(tabby)}"
+        },
+        {
+            "name": "7zee Rewards Level 5 - Skylark I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(rock)}"
+        },
+        {
+            "name": "7zee Rewards Level 6 - Skylark II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(rock)}"
+        },
+        {
+            "name": "7zee Rewards Level 7 - Skylark III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(phosphor)}"
+        },
+        {
+            "name": "7zee Rewards Level 8 - Rolling Beetle I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(phosphor)}"
+        },
+        {
+            "name": "7zee Rewards Level 9 - Rolling Beetle II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(boom)}"
+        },
+        {
+            "name": "7zee Rewards Level 10 - Rolling Beetle III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(boom)}"
+        },
+        {
+            "name": "7zee Rewards Level 11 - Playful Fox I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} or {slime(rad)}"
+        },
+        {
+            "name": "7zee Rewards Level 12 - Playful Fox II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} or {slime(rad)}"
+        },
+        {
+            "name": "7zee Rewards Level 13 - Playful Fox III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} and {slime(rad)}"
+        },
+        {
+            "name": "7zee Rewards Level 14 - Silver Storm I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} and {slime(rad)}"
+        },
+        {
+            "name": "7zee Rewards Level 15 - Silver Storm II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} and {slime(crystal)}"
+        },
+        {
+            "name": "7zee Rewards Level 16 - Silver Storm III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(honey)} and {slime(crystal)}"
+        },
+        {
+            "name": "7zee Rewards Level 17 - Dancing Mongoose I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)}"
+        },
+        {
+            "name": "7zee Rewards Level 18 - Dancing Mongoose II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)}"
+        },
+        {
+            "name": "7zee Rewards Level 19 - Dancing Mongoose III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(quantum)}",
+            "place_item": ["Progressive Dash Boots"]
+        },
+        {
+            "name": "7zee Rewards Level 20 - Endless Mountain I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(quantum)}",
+            "place_item": ["Progressive Tank Booster"]
+        },
+        {
+            "name": "7zee Rewards Level 21 - Endless Mountain II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(dervish)}",
+            "place_item": ["Progressive Heart Module"]
+        },
+        {
+            "name": "7zee Rewards Level 22 - Endless Mountain III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(dervish)}",
+            "place_item": ["Golden Sureshot"]
+        },
+        {
+            "name": "7zee Rewards Level 23 - Wander Wolf I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(tangle)}"
+        },
+        {
+            "name": "7zee Rewards Level 24 - Wander Wolf II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(tangle)}"
+        },
+        {
+            "name": "7zee Rewards Level 25 - Wander Wolf III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}"
+        },
+        {
+            "name": "7zee Rewards Level 26 - Golden Owl I",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}"
+        },
+        {
+            "name": "7zee Rewards Level 27 - Golden Owl II",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}"
+        },
+        {
+            "name": "7zee Rewards Level 28 - Golden Owl III",
+            "category": ["7Zee Rewards"],
+            "region": "Ranch",
+            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}"
         }
     ]
 }

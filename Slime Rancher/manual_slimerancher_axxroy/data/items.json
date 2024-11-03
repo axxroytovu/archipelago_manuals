@@ -24,13 +24,18 @@
     "useful": true
   },
   {
-    "count": "3",
+    "count": "4",
     "name": "Progressive Heart Module",
     "category": [
       "Vackpack Upgrades"
     ],
     "useful": true
   },
+  {
+    "count": "1",
+    "name": "Golden Sureshot",
+    "category": ["Vackpack Upgrades"],
+    "useful": true
   {
     "count": 1,
     "name": "Pulse Wave",
@@ -40,8 +45,8 @@
     "useful": true
   },
   {
-    "count": 1,
-    "name": "Dash Boots",
+    "count": 2,
+    "name": "Progressive Dash Boots",
     "category": [
       "Vackpack Upgrades"
     ],
