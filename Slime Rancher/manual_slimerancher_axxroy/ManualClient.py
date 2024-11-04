@@ -215,7 +215,7 @@ class ManualContext(SuperContext):
 
     def run_gui(self):
         """Import kivy UI system from make_gui() and start running it as self.ui_task."""
-        if not hasattr(SuperContext, "make_gui()"):
+        if hasattr(SuperContext, "make_gui"):
             # Call the real one if it exists
             return super().run_gui()
 
@@ -226,7 +226,11 @@ class ManualContext(SuperContext):
         self.ui_task = asyncio.create_task(self.ui.async_run(), name="UI")
 
     def make_gui(self) -> typing.Type["kvui.GameManager"]:
-        ui = super().make_gui()  # before the kivy imports so kvui gets loaded first
+        if hasattr(SuperContext, "make_gui"):
+            ui = super().make_gui()  # before the kivy imports so kvui gets loaded first
+        else:
+            from kvui import GameManager
+            ui = GameManager
 
         from kivy.metrics import dp
         from kivy.uix.button import Button
