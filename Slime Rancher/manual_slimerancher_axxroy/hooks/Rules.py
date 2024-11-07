@@ -64,7 +64,7 @@ def slime(world: World, multiworld: MultiWorld, state: CollectionState, player: 
         case "mosaic":
             available = ["Glass Desert Back"]
         case "puddle":
-            available = ["Indigo Quarry Front", "Pond Island", "Ring Island"]
+            available = ["Indigo Quarry Front", "Pond Island", "Dry Reef Ring Island"]
             need_docks = True
         case "fire":
             available = ["Glass Desert Front"]
