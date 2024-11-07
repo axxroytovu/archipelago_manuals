@@ -1,0 +1,13 @@
+﻿{
+    "name": "Slime Rancher AP Tracker",
+    "game_name": "Slime Rancher",
+    "package_version": "0.0.1",
+    "package_uid": "ap_slimerancher",
+    "author": "Axxroy",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        }
+    }
+}
