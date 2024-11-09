@@ -5,7 +5,7 @@
         "chest_opened_img": "images/items/chest_x.png",
         "children": [
             {
-                "name": "Ranch Collectables"
+                "name": "Ranch Collectables",
                 "sections": [
                     {
                         "name": "Hobson's Note - The Lab"
