@@ -1,0 +1,36 @@
+[
+    {
+        "name": "World Map",
+        "chest_unopened_img": "images/items/treasurepod.png",
+        "chest_opened_img": "images/items/chest_x.png",
+        "children": [
+            {
+                "name": "Ranch Collectables"
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Lab"
+                    },
+                    {
+                        "name": "Hobson's Note - The Overgrowth"
+                    },
+                    {
+                        "name": "Hobson's Note - The Docks"
+                    },
+                    {
+                        "name": "Hobson's Note - The Grotto"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1425,
+                        "y": 1365
+                    }
+                ]
+            }
+        ]
+    }
+]
