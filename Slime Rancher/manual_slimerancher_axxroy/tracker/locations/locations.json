@@ -1264,7 +1264,7 @@
                     {
                         "map": "moss_blanket",
                         "x": 297,
-                        "y": 845
+                        "y": 485
                     }
                 ]
             },
@@ -1934,7 +1934,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 292,
                         "y": 578
                     }
@@ -2021,7 +2021,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 322,
                         "y": 467
                     }
@@ -2036,7 +2036,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 329,
                         "y": 728
                     }
@@ -2051,7 +2051,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 402,
                         "y": 661
                     }
@@ -2066,7 +2066,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 333,
                         "y": 390
                     }
@@ -2081,7 +2081,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 283,
                         "y": 300
                     }
@@ -2096,7 +2096,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 251,
                         "y": 225
                     }
@@ -2111,7 +2111,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 251,
                         "y": 181
                     }
@@ -2126,7 +2126,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 251,
                         "y": 108
                     }
@@ -2141,7 +2141,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 251,
                         "y": 38
                     }
@@ -2156,7 +2156,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 324,
                         "y": 321
                     }
@@ -2171,7 +2171,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 410,
                         "y": 378
                     }
@@ -2186,7 +2186,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 386,
                         "y": 248
                     }
@@ -2201,7 +2201,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 402,
                         "y": 307
                     }
@@ -2216,7 +2216,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 503,
                         "y": 465
                     }
@@ -2231,7 +2231,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 466,
                         "y": 399
                     }
@@ -2246,7 +2246,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 276,
                         "y": 475
                     }
@@ -2261,7 +2261,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 323,
                         "y": 510
                     }
@@ -2276,7 +2276,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 291,
                         "y": 442
                     }
@@ -2291,7 +2291,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 148,
                         "y": 493
                     }
@@ -2306,7 +2306,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 91,
                         "y": 620
                     }
@@ -2321,7 +2321,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 187,
                         "y": 602
                     }
@@ -2336,7 +2336,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 366,
                         "y": 550
                     }
@@ -2351,7 +2351,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 379,
                         "y": 614
                     }
@@ -2366,7 +2366,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 458,
                         "y": 565
                     }
@@ -2381,7 +2381,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 298,
                         "y": 680
                     }
@@ -2396,7 +2396,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 323,
                         "y": 762
                     }
@@ -2411,7 +2411,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 239,
                         "y": 770
                     }
@@ -2426,7 +2426,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 244,
                         "y": 713
                     }
@@ -2441,7 +2441,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 209,
                         "y": 1046
                     }
@@ -2456,7 +2456,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "ancient_ruins",
+                        "map": "glass_desert",
                         "x": 198,
                         "y": 1011
                     }

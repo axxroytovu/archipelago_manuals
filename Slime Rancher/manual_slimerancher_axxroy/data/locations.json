@@ -556,7 +556,7 @@
             "requires": "{TreasureLevel(1)}",
             "map": "moss_blanket",
             "main_coord": [877,794],
-            "local_coord": [297,845]
+            "local_coord": [297,485]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
@@ -851,7 +851,7 @@
             "name": "Tangle Gordo - Desert Center",
             "category": ["Glass Desert - Front", "Gordos"],
             "region": "Glass Desert Front",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2679,925],
             "local_coord": [292,578]
         },
@@ -860,7 +860,7 @@
             "category": ["Glass Desert - Back", "Gordos"],
             "region": "Glass Desert Back",
             "requires": "|Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2698,809],
             "local_coord": [322,467]
         },
@@ -868,7 +868,7 @@
             "name": "Hobson's Note - Below Dervish Gordo",
             "category": ["Glass Desert - Front", "Hobson's Notes"],
             "region": "Glass Desert Front",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2718,1082],
             "local_coord": [329,728]
         },
@@ -876,7 +876,7 @@
             "name": "Hobson's Note - Desert Ruins Cave",
             "category": ["Glass Desert - Front", "Hobson's Notes"],
             "region": "Glass Desert Front",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2801,1003],
             "local_coord": [402,661]
         },
@@ -884,7 +884,7 @@
             "name": "Hobson's Note - Desert Ruins After Slime Doors",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2723,734],
             "local_coord": [333,390]
         },
@@ -892,7 +892,7 @@
             "name": "Hobson's Note - Northern Desert Ruins Rooftop",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2679,645],
             "local_coord": [283,300]
         },
@@ -900,7 +900,7 @@
             "name": "Hobson's Note - Final Archway",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2642,566],
             "local_coord": [251,225]
         },
@@ -908,7 +908,7 @@
             "name": "Hobson's Note - Final Quantum Door",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2642,520],
             "local_coord": [251,181]
         },
@@ -916,7 +916,7 @@
             "name": "Hobson's Note - Final Shrine",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2642,442],
             "local_coord": [251,108]
         },
@@ -924,7 +924,7 @@
             "name": "Hobson's Note - Victory",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
             "region": "Glass Desert Back",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2642,379],
             "local_coord": [251,38]
         },
@@ -939,7 +939,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2707,659],
             "local_coord": [324,321]
         },
@@ -948,7 +948,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2801,712],
             "local_coord": [410,378]
         },
@@ -957,7 +957,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2775,590],
             "local_coord": [386,248]
         },
@@ -966,7 +966,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2795,651],
             "local_coord": [402,307]
         },
@@ -975,7 +975,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)}",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2888,806],
             "local_coord": [503,465]
         },
@@ -984,7 +984,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2862,753],
             "local_coord": [466,399]
         },
@@ -993,7 +993,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2674,806],
             "local_coord": [276,475]
         },
@@ -1002,7 +1002,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2711,846],
             "local_coord": [323,510]
         },
@@ -1011,7 +1011,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(2)}",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2682,783],
             "local_coord": [291,442]
         },
@@ -1020,7 +1020,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2525,893],
             "local_coord": [148,493]
         },
@@ -1029,7 +1029,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2474,961],
             "local_coord": [91,620]
         },
@@ -1038,7 +1038,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2564,934],
             "local_coord": [187,602]
         },
@@ -1054,7 +1054,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2741,891],
             "local_coord": [366,550]
         },
@@ -1063,7 +1063,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2751,957],
             "local_coord": [379,614]
         },
@@ -1072,7 +1072,7 @@
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2857,991],
             "local_coord": [458,565]
         },
@@ -1081,7 +1081,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2690,1015],
             "local_coord": [298,680]
         },
@@ -1090,7 +1090,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2722,1114],
             "local_coord": [323,762]
         },
@@ -1099,7 +1099,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2626,1122],
             "local_coord": [239,770]
         },
@@ -1108,7 +1108,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(2)}",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2642,1060],
             "local_coord": [244,713]
         },
@@ -1117,7 +1117,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2587,1379],
             "local_coord": [209,1046]
         },
@@ -1126,7 +1126,7 @@
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
             "requires": "{TreasureLevel(2)}",
-            "map": "ancient_ruins",
+            "map": "glass_desert",
             "main_coord": [2587,1379],
             "local_coord": [198,1011]
         },
