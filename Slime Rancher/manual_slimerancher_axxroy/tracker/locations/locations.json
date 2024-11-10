@@ -1855,6 +1855,612 @@
                         "y": 208
                     }
                 ]
+            },
+            {
+                "name": "Glass Desert - Front",
+                "sections": [
+                    {
+                        "name": "Dervish Gordo - Clifftop"
+                    },
+                    {
+                        "name": "Tangle Gordo - Desert Center"
+                    },
+                    {
+                        "name": "Hobson's Note - Below Dervish Gordo"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Ruins Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Very Top of First Desert Ruin"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Corner Below Dervish Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Behind Desert Portal Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 2685,
+                        "y": 1084
+                    }
+                ]
+            },
+            {
+                "name": "Dervish Gordo - Clifftop",
+                "sections": [
+                    {
+                        "name": "Dervish Gordo - Clifftop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 282,
+                        "y": 730
+                    }
+                ]
+            },
+            {
+                "name": "Tangle Gordo - Desert Center",
+                "sections": [
+                    {
+                        "name": "Tangle Gordo - Desert Center"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 292,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "Glass Desert - Back",
+                "sections": [
+                    {
+                        "name": "Mosaic Gordo - Cliff Blocker"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Ruins After Slime Doors"
+                    },
+                    {
+                        "name": "Hobson's Note - Northern Desert Ruins Rooftop"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Archway"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Quantum Door"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Shrine"
+                    },
+                    {
+                        "name": "Hobson's Note - Victory"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Below Mosaic Statue Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 2699,
+                        "y": 724
+                    }
+                ]
+            },
+            {
+                "name": "Mosaic Gordo - Cliff Blocker",
+                "sections": [
+                    {
+                        "name": "Mosaic Gordo - Cliff Blocker"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 322,
+                        "y": 467
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Below Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Below Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 329,
+                        "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Ruins Cave",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Ruins Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 402,
+                        "y": 661
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Ruins After Slime Doors",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Ruins After Slime Doors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 333,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Northern Desert Ruins Rooftop",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Northern Desert Ruins Rooftop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 283,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Archway",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Archway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 251,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Quantum Door",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Quantum Door"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 251,
+                        "y": 181
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Shrine",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Shrine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 251,
+                        "y": 108
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Victory",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Victory"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 251,
+                        "y": 38
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 324,
+                        "y": 321
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 410,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 386,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 402,
+                        "y": 307
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 503,
+                        "y": 465
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 466,
+                        "y": 399
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 276,
+                        "y": 475
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 323,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 291,
+                        "y": 442
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 148,
+                        "y": 493
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 91,
+                        "y": 620
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Below Mosaic Statue Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Below Mosaic Statue Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 187,
+                        "y": 602
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 366,
+                        "y": 550
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 379,
+                        "y": 614
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 458,
+                        "y": 565
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 298,
+                        "y": 680
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 323,
+                        "y": 762
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Very Top of First Desert Ruin",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Very Top of First Desert Ruin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 239,
+                        "y": 770
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Corner Below Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Corner Below Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 244,
+                        "y": 713
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Behind Desert Portal Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Behind Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 209,
+                        "y": 1046
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - In the Desert Portal Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - In the Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 198,
+                        "y": 1011
+                    }
+                ]
             }
         ]
     }
