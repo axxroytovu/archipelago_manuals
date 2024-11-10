@@ -502,10 +502,16 @@
             "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
         },
         {
-            "name": "Treasure Pod MKII - Moustache Island",
+            "name": "Treasure Pod MKII - Distant Island",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
             "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|"
+        },
+        {
+            "name": "Treasure Pod MKIII - Moustache Island",
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2| AND |Teleporter - Moustache Island|"
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
