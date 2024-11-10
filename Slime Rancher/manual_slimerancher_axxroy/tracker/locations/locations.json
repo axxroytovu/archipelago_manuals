@@ -451,6 +451,504 @@
                         "y": 217
                     }
                 ]
+            },
+            {
+                "name": "Dry Reef - Ring Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Ring Island"
+                    },
+                    {
+                        "name": "Hobson's Note - Ring Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ring Island Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ring Island Flowers"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ring Island Alcove"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 666,
+                        "y": 1464
+                    }
+                ]
+            },
+            {
+                "name": "Pink Gordo - Ring Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Ring Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 120,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ring Island",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ring Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 127,
+                        "y": 591
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ring Island Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ring Island Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 125,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ring Island Flowers",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ring Island Flowers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 199,
+                        "y": 468
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ring Island Alcove",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ring Island Alcove"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 171,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Front",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Main Cave"
+                    },
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Entry"
+                    },
+                    {
+                        "name": "Hobson's Note - Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Entryway"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Entryway Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Crystal Slime Cave Pillar"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Through Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Quarry Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1466,
+                        "y": 1106
+                    }
+                ]
+            },
+            {
+                "name": "Rock Gordo - Main Cave",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Main Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 308,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Back",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Island Teleporter"
+                    },
+                    {
+                        "name": "Rad Gordo - Indigo Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Near Quarry Exit Teleporter"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Island Teleport Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In Quarry Wooden Structure"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Cliff Past Rad Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rad Gordo Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1455,
+                        "y": 936
+                    }
+                ]
+            },
+            {
+                "name": "Rock Gordo - Island Teleporter",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Island Teleporter"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Island Teleport Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 480,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Rad Gordo - Indigo Cave",
+                "sections": [
+                    {
+                        "name": "Rad Gordo - Indigo Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rad Gordo Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 357,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Indigo Quarry Entry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Entryway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 182,
+                        "y": 253
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Crystal Slime Cave",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Crystal Slime Cave Pillar"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 548,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Indigo Quarry Pond",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Quarry Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 461,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Quarry Entryway Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Entryway Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 182,
+                        "y": 213
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Near Quarry Exit Teleporter",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Near Quarry Exit Teleporter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 202,
+                        "y": 115
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 286,
+                        "y": 243
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 463,
+                        "y": 299
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Through Crystal Slime Cave",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Through Crystal Slime Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 487,
+                        "y": 239
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 385,
+                        "y": 31
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - In Quarry Wooden Structure",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - In Quarry Wooden Structure"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 282,
+                        "y": 173
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Cliff Past Rad Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Cliff Past Rad Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 383,
+                        "y": 157
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Crystal Gordo - Ash Isle"
+                    },
+                    {
+                        "name": "Hobson's Note - Ash Isle"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ash Isle Fireflower Patch"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ash Isle Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1621,
+                        "y": 557
+                    }
+                ]
+            },
+            {
+                "name": "Crystal Gordo - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Crystal Gordo - Ash Isle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 838,
+                        "y": 252
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ash Isle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 814,
+                        "y": 286
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ash Isle Fireflower Patch",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ash Isle Fireflower Patch"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 894,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ash Isle Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ash Isle Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 894,
+                        "y": 148
+                    }
+                ]
             }
         ]
     }

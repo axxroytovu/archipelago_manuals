@@ -208,167 +208,242 @@
         {
             "name": "Pink Gordo - Ring Island",
             "category": ["Dry Reef - Ring Island", "Gordos"],
-            "region": "Dry Reef Ring Island"
+            "region": "Dry Reef Ring Island",
+            "map": "dry_reef",
+            "main_coord": [626,1400],
+            "local_coord": [120,432]
         },
         {
             "name": "Hobson's Note - Ring Island",
             "category": ["Dry Reef - Ring Island", "Hobson's Notes"],
-            "region": "Dry Reef Ring Island"
+            "region": "Dry Reef Ring Island",
+            "map": "dry_reef",
+            "main_coord": [645,1560],
+            "local_coord": [127,591]
         },
         {
             "name": "Treasure Pod MKII - Ring Island Ledge",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "dry_reef",
+            "main_coord": [640,1495],
+            "local_coord": [125,518]
         },
         {
             "name": "Treasure Pod MKI - Ring Island Flowers",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [719,1445],
+            "local_coord": [199,468]
         },
         {
             "name": "Treasure Pod MKIII - Ring Island Alcove",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "dry_reef",
+            "main_coord": [700,1420],
+            "local_coord": [171,441]
         },
         {
             "name": "Rock Gordo - Main Cave",
             "category": ["Indigo Quarry - Front", "Gordos"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1408,1100],
+            "local_coord": [308,300]
         },
         {
             "name": "Rock Gordo - Island Teleporter",
             "category": ["Indigo Quarry - Back", "Gordos"],
             "region": "Indigo Quarry Back",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "indigo_quarry",
+            "main_coord": [1592,871],
+            "local_coord": [480,55]
         },
         {
             "name": "Rad Gordo - Indigo Cave",
             "category": ["Indigo Quarry - Back", "Gordos"],
-            "region": "Indigo Quarry Back"
+            "region": "Indigo Quarry Back",
+            "map": "indigo_quarry",
+            "main_coord": [1466,1037],
+            "local_coord": [357,225]
         },
         {
             "name": "Hobson's Note - Indigo Quarry Entry",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1280,1058],
+            "local_coord": [182,253]
         },
         {
             "name": "Hobson's Note - Crystal Slime Cave",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1644,1103],
+            "local_coord": [548,315]
         },
         {
             "name": "Hobson's Note - Indigo Quarry Pond",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1559,1016],
+            "local_coord": [461,209]
         },
         {
             "name": "Treasure Pod MKI - Quarry Entryway",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Hobson's Note - Indigo Quarry Entry"
         },
         {
             "name": "Treasure Pod MKIII - Quarry Entryway Ledge",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1292,1022],
+            "local_coord": [182,213]
         },
         {
             "name": "Treasure Pod MKII - Near Quarry Exit Teleporter",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1307,926],
+            "local_coord": [202,115]
         },
         {
             "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1393,1045],
+            "local_coord": [286,243]
         },
         {
             "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Rock Gordo - Main Cave"
         },
         {
             "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "indigo_quarry",
+            "main_coord": [1576,1107],
+            "local_coord": [463,299]
         },
         {
             "name": "Treasure Pod MKII - Crystal Slime Cave Pillar",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Hobson's Note - Crystal Slime Cave"
         },
         {
             "name": "Treasure Pod MKIII - Through Crystal Slime Cave",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1581,1402],
+            "local_coord": [487,239]
         },
         {
             "name": "Treasure Pod MKII - In the Quarry Pond",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Hobson's Note - Indigo Quarry Pond"
         },
         {
             "name": "Treasure Pod MKI - Near Island Teleport Gordo",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map_link": "Rock Gordo - Island Teleporter"
         },
         {
             "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "indigo_quarry",
+            "main_coord": [1490,847],
+            "local_coord": [385,31]
         },
         {
             "name": "Treasure Pod MKII - In Quarry Wooden Structure",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1390,968],
+            "local_coord": [282,173]
         },
         {
             "name": "Treasure Pod MKIII - Cliff Past Rad Gordo",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "indigo_quarry",
+            "main_coord": [1488,972],
+            "local_coord": [383,157]
         },
         {
             "name": "Treasure Pod MKII - Rad Gordo Cave",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Rad Gordo - Indigo Cave"
         },
         {
             "name": "Crystal Gordo - Ash Isle",
             "category": ["Indigo Quarry - Ash Isle", "Gordos"],
-            "region": "Ash Isle"
+            "region": "Ash Isle",
+            "map": "indigo_quarry",
+            "main_coord": [1588,581],
+            "local_coord": [838,252]
         },
         {
             "name": "Hobson's Note - Ash Isle",
             "category": ["Indigo Quarry - Ash Isle", "Hobson's Notes"],
-            "region": "Ash Isle"
+            "region": "Ash Isle",
+            "map": "indigo_quarry",
+            "main_coord": [1576,617],
+            "local_coord": [814,286]
         },
         {
             "name": "Treasure Pod MKII - Ash Isle Fireflower Patch",
             "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
             "region": "Ash Isle",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1661,556],
+            "local_coord": [894,275]
         },
         {
             "name": "Treasure Pod MKIII - Ash Isle Ledge",
             "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
             "region": "Ash Isle",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1660,474],
+            "local_coord": [894,148]
         },
         {
             "name": "Honey Gordo - Moss Blanket Main Area",
