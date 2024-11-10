@@ -1483,6 +1483,378 @@
                         "y": 173
                     }
                 ]
+            },
+            {
+                "name": "Ancient Ruins - Lower",
+                "sections": [
+                    {
+                        "name": "Boom Gordo - Ancient Ruins Tower"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Entry"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Side Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Southeast Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ruins Hidden Waterfall"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Door Puzzle"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ruins Sunburst Tree"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Boom Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Near Teleporter Slime Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1263,
+                        "y": 544
+                    }
+                ]
+            },
+            {
+                "name": "Boom Gordo - Ancient Ruins Tower",
+                "sections": [
+                    {
+                        "name": "Boom Gordo - Ancient Ruins Tower"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Boom Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 187,
+                        "y": 406
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Ruins - Upper",
+                "sections": [
+                    {
+                        "name": "Quantum Gordo - Ancient Ruins Back"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Upper Enclosed"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Teleporter Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Climb a Building"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Last Room Shortcut"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Top of the Ruins"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Secret Vines Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins North Around a Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1281,
+                        "y": 471
+                    }
+                ]
+            },
+            {
+                "name": "Quantum Gordo - Ancient Ruins Back",
+                "sections": [
+                    {
+                        "name": "Quantum Gordo - Ancient Ruins Back"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 341,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Lower Entry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 232,
+                        "y": 508
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Lower Side Area",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Side Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 166,
+                        "y": 470
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Upper Enclosed",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Upper Enclosed"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 207,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Teleporter Room",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Teleporter Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 206,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 178,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 345,
+                        "y": 504
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Southeast Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Southeast Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 330,
+                        "y": 479
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ruins Hidden Waterfall",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ruins Hidden Waterfall"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 297,
+                        "y": 395
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Door Puzzle",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Door Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 217,
+                        "y": 449
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ruins Sunburst Tree",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ruins Sunburst Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 252,
+                        "y": 419
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 289,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Climb a Building",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Climb a Building"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 312,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Last Room Shortcut",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Last Room Shortcut"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 235,
+                        "y": 360
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Top of the Ruins",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Top of the Ruins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 275,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Secret Vines Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Secret Vines Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 272,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins North Around a Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins North Around a Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 192,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Near Teleporter Slime Gate",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Near Teleporter Slime Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 232,
+                        "y": 208
+                    }
+                ]
             }
         ]
     }

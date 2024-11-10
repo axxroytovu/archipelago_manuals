@@ -669,116 +669,174 @@
         {
             "name": "Boom Gordo - Ancient Ruins Tower",
             "category": ["Ancient Ruins - Lower", "Gordos"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1215,530],
+            "local_coord": [187,406]
         },
         {
             "name": "Quantum Gordo - Ancient Ruins Back",
             "category": ["Ancient Ruins - Upper", "Gordos"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1359,411],
+            "local_coord": [341,285]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Lower Entry",
             "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1258,630],
+            "local_coord": [232,508]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Lower Side Area",
             "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1187,600],
+            "local_coord": [166,470]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Upper Enclosed",
             "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1224,466],
+            "local_coord": [207,340]
         },
         {
             "name": "Hobson's Note - Desert Teleporter Room",
             "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1221,201],
+            "local_coord": [206,86]
         },
         {
             "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1207,641],
+            "local_coord": [178,510]
         },
         {
             "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "ancient_ruins",
+            "main_coord": [1372,635],
+            "local_coord": [345,504]
         },
         {
             "name": "Treasure Pod MKII - Ruins Southeast Corner",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1371,617],
+            "local_coord": [330,479]
         },
         {
             "name": "Treasure Pod MKI - Ruins Hidden Waterfall",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "ancient_ruins",
+            "main_coord": [1323,516],
+            "local_coord": [297,395]
         },
         {
             "name": "Treasure Pod MKII - Ruins Door Puzzle",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1230,582],
+            "local_coord": [217,449]
         },
         {
             "name": "Treasure Pod MKI - Ruins Sunburst Tree",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "ancient_ruins",
+            "main_coord": [1273,550],
+            "local_coord": [252,419]
         },
         {
             "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1310,560],
+            "local_coord": [289,432]
         },
         {
             "name": "Treasure Pod MKII - Ruins Boom Gordo",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Boom Gordo - Ancient Ruins Tower"
         },
         {
             "name": "Treasure Pod MKIII - Ruins Climb a Building",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "ancient_ruins",
+            "main_coord": [1341,427],
+            "local_coord": [312,301]
         },
         {
             "name": "Treasure Pod MKII - Ruins Last Room Shortcut",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1264,498],
+            "local_coord": [235,360]
         },
         {
             "name": "Treasure Pod MKIII - Top of the Ruins",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1288,474],
+            "local_coord": [275,345]
         },
         {
             "name": "Treasure Pod MKIII - Ruins Secret Vines Room",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1300,493],
+            "local_coord": [272,378]
         },
         {
             "name": "Treasure Pod MKIII - Ruins North Around a Corner",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1213,384],
+            "local_coord": [192,264]
         },
         {
             "name": "Treasure Pod MKII - Near Teleporter Slime Gate",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1251,331],
+            "local_coord": [232,208]
         },
         {
             "name": "Dervish Gordo - Clifftop",
