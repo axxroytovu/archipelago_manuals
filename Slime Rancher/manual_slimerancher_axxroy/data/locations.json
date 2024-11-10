@@ -4,139 +4,206 @@
         {
             "name": "Hobson's Note - The Lab",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Lab"
+            "region": "The Lab",
+            "map": "dry_reef",
+            "main_coord": [1384,1519],
+            "local_coord": [860,547]
         },
         {
             "name": "Hobson's Note - The Overgrowth",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Overgrowth"
+            "region": "The Overgrowth",
+            "map": "dry_reef",
+            "main_coord": [1109,1404],
+            "local_coord": [597,446]
         },
         {
             "name": "Hobson's Note - The Docks",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Docks"
+            "region": "The Docks",
+            "map": "dry_reef",
+            "main_coord": [1102,1603],
+            "local_coord": [581,625]
         },
         {
             "name": "Hobson's Note - The Grotto",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Grotto"
+            "region": "The Grotto",
+            "map": "dry_reef",
+            "local_coord": [685,366],
+            "main_coord": [1391,1337]
         },
         {
             "name": "Treasure Pod MKI - The Lab",
             "category": ["The Ranch", "Treasure Pods"],
             "region": "The Lab",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [1381,1507],
+            "local_coord": [844,542]
         },
         {
             "name": "Phosphor Gordo - Dry Reef",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1017,1154],
+            "local_coord": [492,179]
         },
         {
             "name": "Tabby Gordo - Near Moss Blanket Door",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [953,1085],
+            "local_coord": [428,109]
         },
         {
             "name": "Tabby Gordo - Reef Beach",
             "category": ["Dry Reef - Beach", "Gordos"],
-            "region": "Dry Reef Beach"
+            "region": "Dry Reef Beach",
+            "map": "dry_reef",
+            "main_coord": [982,1396],
+            "local_coord": [441, 441]
         },
         {
             "name": "Pink Gordo - Bridge Island",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1101,1223],
+            "local_coord": [570,248]
         },
         {
             "name": "Hobson's Note - Outside Ranch",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1257,1232],
+            "local_coord": [735,271]
         },
         {
             "name": "Hobson's Note - Beach Rings",
             "category": ["Dry Reef - Beach", "Hobson's Notes"],
-            "region": "Dry Reef Beach"
+            "region": "Dry Reef Beach",
+            "map": "dry_reef",
+            "main_coord": [946,1354],
+            "local_coord": [400,370]
         },
         {
             "name": "Hobson's Note - Hidden Cliff",
             "category": ["Dry Reef - Side Path", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1331,1172],
+            "local_coord": [814,195]
         },
         {
             "name": "Hobson's Note - Tunnel to Quarry",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1176,1052],
+            "local_coord": [618,99]
         },
         {
             "name": "Hobson's Note - Cliff near Tabby Slimes",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [918,1110],
+            "local_coord": [396,141]
         },
         {
             "name": "Treasure Pod MKII - Cliff above Quarry Tunnel",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1086,1084],
+            "local_coord": [586,101]
         },
         {
             "name": "Treasure Pod MKI - Phosphor Gordo",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Phosphor Gordo - Dry Reef"
         },
         {
             "name": "Treasure Pod MKI - Reef Beach Gate",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [943,1235],
+            "local_coord": [427,250]
         },
         {
             "name": "Treasure Pod MKI - Reef Above Tabby Slimes",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Hobson's Note - Cliff near Tabby Slimes"
         },
         {
             "name": "Treasure Pod MKI - Near Tabby Gordo",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Tabby Gordo - Near Moss Blanket Door"
         },
         {
             "name": "Treasure Pod MKII - Ledge outside Overgrowth",
             "category": ["Dry Reef - Beach", "Treasure Pods"],
             "region": "Dry Reef Beach",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "dry_reef",
+            "main_coord": [1080,1350],
+            "local_coord": [560,362]
         },
         {
             "name": "Treasure Pod MKII - Reef Island Archway",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1139,1279],
+            "local_coord": [619,303]
         },
         {
             "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [1181,1237],
+            "local_coord": [662,263]
         },
         {
             "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map_link": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
         },
         {
             "name": "Treasure Pod MKI - Over Side Cliff",
             "category": ["Dry Reef - Side Path", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1318,1232],
+            "local_coord": [796,270]
         },
         {
             "name": "Treasure Pod MKII - Rock Largo Path",
             "category": ["Dry Reef - Side Path", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1443, 1188],
+            "local_coord": [919,217]
         },
         {
             "name": "Pink Gordo - Ring Island",

@@ -1,11 +1,9 @@
 [
     {
         "name": "World Map",
-        "chest_unopened_img": "images/items/treasurepod.png",
-        "chest_opened_img": "images/items/chest_x.png",
         "children": [
             {
-                "name": "Ranch Collectables",
+                "name": "The Ranch",
                 "sections": [
                     {
                         "name": "Hobson's Note - The Lab"
@@ -26,8 +24,431 @@
                 "map_locations": [
                     {
                         "map": "world_map",
-                        "x": 1425,
-                        "y": 1365
+                        "x": 1273,
+                        "y": 1474
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Lab",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 860,
+                        "y": 547
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Overgrowth",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 597,
+                        "y": 446
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Docks",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Docks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 581,
+                        "y": 625
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Grotto",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Grotto"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 685,
+                        "y": 366
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - The Lab",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 844,
+                        "y": 542
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Main",
+                "sections": [
+                    {
+                        "name": "Phosphor Gordo - Dry Reef"
+                    },
+                    {
+                        "name": "Tabby Gordo - Near Moss Blanket Door"
+                    },
+                    {
+                        "name": "Pink Gordo - Bridge Island"
+                    },
+                    {
+                        "name": "Hobson's Note - Outside Ranch"
+                    },
+                    {
+                        "name": "Hobson's Note - Tunnel to Quarry"
+                    },
+                    {
+                        "name": "Hobson's Note - Cliff near Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Cliff above Quarry Tunnel"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Phosphor Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Beach Gate"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Above Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Tabby Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Reef Island Archway"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1077,
+                        "y": 1169
+                    }
+                ]
+            },
+            {
+                "name": "Phosphor Gordo - Dry Reef",
+                "sections": [
+                    {
+                        "name": "Phosphor Gordo - Dry Reef"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Phosphor Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 492,
+                        "y": 179
+                    }
+                ]
+            },
+            {
+                "name": "Tabby Gordo - Near Moss Blanket Door",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Near Moss Blanket Door"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Tabby Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 428,
+                        "y": 109
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Beach",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Reef Beach"
+                    },
+                    {
+                        "name": "Hobson's Note - Beach Rings"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ledge outside Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1002,
+                        "y": 1366
+                    }
+                ]
+            },
+            {
+                "name": "Tabby Gordo - Reef Beach",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Reef Beach"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 441,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Pink Gordo - Bridge Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Bridge Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 570,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Outside Ranch",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Outside Ranch"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 735,
+                        "y": 271
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Beach Rings",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Beach Rings"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 400,
+                        "y": 370
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Side Path",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Hidden Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Over Side Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rock Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1364,
+                        "y": 1197
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Hidden Cliff",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Hidden Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 814,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Tunnel to Quarry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Tunnel to Quarry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 618,
+                        "y": 99
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Cliff near Tabby Slimes",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Cliff near Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Above Tabby Slimes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 396,
+                        "y": 141
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Cliff above Quarry Tunnel",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Cliff above Quarry Tunnel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 586,
+                        "y": 101
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Reef Beach Gate",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Reef Beach Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 427,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ledge outside Overgrowth",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ledge outside Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 560,
+                        "y": 362
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Reef Island Archway",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Reef Island Archway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 619,
+                        "y": 303
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 662,
+                        "y": 263
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Over Side Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Over Side Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 796,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Rock Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Rock Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 919,
+                        "y": 217
                     }
                 ]
             }
