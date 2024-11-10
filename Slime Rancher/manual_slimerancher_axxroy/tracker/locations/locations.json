@@ -949,6 +949,540 @@
                         "y": 148
                     }
                 ]
+            },
+            {
+                "name": "Moss Blanket - Front",
+                "sections": [
+                    {
+                        "name": "Honey Gordo - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 763,
+                        "y": 869
+                    }
+                ]
+            },
+            {
+                "name": "Honey Gordo - Moss Blanket Main Area",
+                "sections": [
+                    {
+                        "name": "Honey Gordo - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 179,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hunter Gordo - Moss Blanket Hunter Swamp"
+                    },
+                    {
+                        "name": "Hobson's Note - Entry to Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 874,
+                        "y": 489
+                    }
+                ]
+            },
+            {
+                "name": "Hunter Gordo - Moss Blanket Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hunter Gordo - Moss Blanket Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 206,
+                        "y": 101
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Main",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Entrance"
+                    },
+                    {
+                        "name": "Hobson's Note - Moss Blanket Main Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 983,
+                        "y": 843
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Moss Blanket Entrance",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Entrance"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 431,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Moss Blanket Main Area",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 334,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Pond Island",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Pond Island Backside"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Under Structures Facing Pond Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - In Pond Island Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 761,
+                        "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Pond Island Backside",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 108,
+                        "y": 398
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Entry to Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Entry to Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 246,
+                        "y": 288
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 485,
+                        "y": 520
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 488,
+                        "y": 583
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 339,
+                        "y": 599
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Islands",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Southern Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Distant Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moustache Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 587,
+                        "y": 996
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Southern Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Southern Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 99,
+                        "y": 606
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Distant Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Distant Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 192,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moustache Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moustache Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 78,
+                        "y": 748
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 297,
+                        "y": 845
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 380,
+                        "y": 498
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - ",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 919,
+                        "y": 743
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 336,
+                        "y": 443
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Under Structures Facing Pond Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Under Structures Facing Pond Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 277,
+                        "y": 431
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - In Pond Island Pond",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - In Pond Island Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 188,
+                        "y": 404
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Pond Island Backside",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 114,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Back",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Flower Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 947,
+                        "y": 642
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Flower Area",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Flower Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 357,
+                        "y": 373
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 317,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 401,
+                        "y": 289
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 416,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 426,
+                        "y": 153
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 259,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 113,
+                        "y": 173
+                    }
+                ]
             }
         ]
     }

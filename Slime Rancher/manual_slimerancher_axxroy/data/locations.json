@@ -449,147 +449,222 @@
             "name": "Honey Gordo - Moss Blanket Main Area",
             "category": ["Moss Blanket - Front", "Gordos"],
             "region": "Moss Blanket Main",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [763,869],
+            "local_coord": [179,578]
         },
         {
             "name": "Hunter Gordo - Moss Blanket Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Gordos"],
-            "region": "Hunter Swamp"
+            "region": "Hunter Swamp",
+            "map": "moss_blanket",
+            "main_coord": [806,416],
+            "local_coord": [206,101]
         },
         {
             "name": "Hobson's Note - Moss Blanket Entrance",
             "category": ["Moss Blanket - Main", "Hobson's Notes"],
             "region": "Moss Blanket Main",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1023,844],
+            "local_coord": [431,537]
         },
         {
             "name": "Hobson's Note - Moss Blanket Main Area",
             "category": ["Moss Blanket - Main", "Hobson's Notes"],
-            "region": "Moss Blanket Main"
+            "region": "Moss Blanket Main",
+            "map": "moss_blanket",
+            "main_coord": [926,843],
+            "local_coord": [334,540]
         },
         {
             "name": "Hobson's Note - Pond Island Backside",
             "category": ["Moss Blanket - Pond Island", "Hobson's Notes"],
-            "region": "Pond Island"
+            "region": "Pond Island",
+            "map": "moss_blanket",
+            "main_coord": [699,699],
+            "local_coord": [108,398]
         },
         {
             "name": "Hobson's Note - Entry to Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Hobson's Notes"],
-            "region": "Hunter Swamp"
+            "region": "Hunter Swamp",
+            "map": "moss_blanket",
+            "main_coord": [839,600],
+            "local_coord": [246,288]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1069,823],
+            "local_coord": [485,520]
         },
         {
             "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1089,892],
+            "local_coord": [488,583]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [933,906],
+            "local_coord": [339,599]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Southern Island",
-            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "moss_blanket",
+            "main_coord": [681,909],
+            "local_coord": [99,606]
         },
         {
             "name": "Treasure Pod MKII - Distant Island",
-            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|",
+            "map": "moss_blanket",
+            "main_coord": [778,1037],
+            "local_coord": [192,732]
         },
         {
             "name": "Treasure Pod MKIII - Moustache Island",
-            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2| AND |Teleporter - Moustache Island|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2| AND |Teleporter - Moustache Island|",
+            "map": "moss_blanket",
+            "main_coord": [303,1042],
+            "local_coord": [78,748]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [877,794],
+            "local_coord": [297,845]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [968,805],
+            "local_coord": [380,498]
         },
         {
             "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
             "category": ["Moss Blanket - ", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [919,743],
+            "local_coord": [336,443]
         },
         {
             "name": "Treasure Pod MKII - Under Structures Facing Pond Island",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [863,727],
+            "local_coord": [277,431]
         },
         {
             "name": "Treasure Pod MKIII - In Pond Island Pond",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [778,695],
+            "local_coord": [188,404]
         },
         {
             "name": "Treasure Pod MKII - Pond Island Backside",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [707,664],
+            "local_coord": [114,369]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Flower Area",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [943,676],
+            "local_coord": [357,373]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [904,653],
+            "local_coord": [317,340]
         },
         {
             "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [994,599],
+            "local_coord": [401,289]
         },
         {
             "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [1020,520],
+            "local_coord": [416,221]
         },
         {
             "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [1018,453],
+            "local_coord": [426,153]
         },
         {
             "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [863,474],
+            "local_coord": [259,178]
         },
         {
             "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [700,475],
+            "local_coord": [113,173]
         }, 
         {
             "name": "Boom Gordo - Ancient Ruins Tower",
