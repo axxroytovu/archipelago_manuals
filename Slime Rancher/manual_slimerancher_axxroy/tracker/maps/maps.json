@@ -1,0 +1,38 @@
+[
+    {
+        "name": "world_map",
+        "location_size": 30,
+        "location_border_thickness": 4,
+        "img": "images/maps/WorldMap.png"
+    },
+    {
+        "name": "ancient_ruins",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Ancient Ruins.png"
+    },
+    {
+        "name": "glass_desert",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Glass Desert.png"
+    },
+    {
+        "name": "indigo_quarry",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Indigo Quarry.png"
+    },
+    {
+        "name": "dry_reef",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Dry Reef.png"
+    },
+    {
+        "name": "moss_blanket",
+        "location_size": 15,
+        "location_border_thickness": 2,
+        "img": "images/maps/Moss Blanket.png"
+    }
+]

@@ -217,6 +217,14 @@
         "progression": true
     },
     {
+        "count": 1,
+        "name": "Teleporter - Moustache Island",
+        "category": [
+            "Teleporters"
+        ],
+        "progression": true
+    },
+    {
         "count": "0",
         "name": "4x Novice Drill",
         "category": [

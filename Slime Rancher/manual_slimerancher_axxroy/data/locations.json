@@ -4,615 +4,929 @@
         {
             "name": "Hobson's Note - The Lab",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Lab"
+            "region": "The Lab",
+            "map": "dry_reef",
+            "main_coord": [1384,1519],
+            "local_coord": [860,547]
         },
         {
             "name": "Hobson's Note - The Overgrowth",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Overgrowth"
+            "region": "The Overgrowth",
+            "map": "dry_reef",
+            "main_coord": [1109,1404],
+            "local_coord": [597,446]
         },
         {
             "name": "Hobson's Note - The Docks",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Docks"
+            "region": "The Docks",
+            "map": "dry_reef",
+            "main_coord": [1102,1603],
+            "local_coord": [581,625]
         },
         {
             "name": "Hobson's Note - The Grotto",
             "category": ["The Ranch", "Hobson's Notes"],
-            "region": "The Grotto"
+            "region": "The Grotto",
+            "map": "dry_reef",
+            "local_coord": [685,366],
+            "main_coord": [1391,1337]
         },
         {
             "name": "Treasure Pod MKI - The Lab",
             "category": ["The Ranch", "Treasure Pods"],
             "region": "The Lab",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [1381,1507],
+            "local_coord": [844,542]
         },
         {
             "name": "Phosphor Gordo - Dry Reef",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1017,1154],
+            "local_coord": [492,179]
         },
         {
             "name": "Tabby Gordo - Near Moss Blanket Door",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [953,1085],
+            "local_coord": [428,109]
         },
         {
             "name": "Tabby Gordo - Reef Beach",
             "category": ["Dry Reef - Beach", "Gordos"],
-            "region": "Dry Reef Beach"
+            "region": "Dry Reef Beach",
+            "map": "dry_reef",
+            "main_coord": [982,1396],
+            "local_coord": [441, 441]
         },
         {
             "name": "Pink Gordo - Bridge Island",
             "category": ["Dry Reef - Main", "Gordos"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1101,1223],
+            "local_coord": [570,248]
         },
         {
             "name": "Hobson's Note - Outside Ranch",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1257,1232],
+            "local_coord": [735,271]
         },
         {
             "name": "Hobson's Note - Beach Rings",
             "category": ["Dry Reef - Beach", "Hobson's Notes"],
-            "region": "Dry Reef Beach"
+            "region": "Dry Reef Beach",
+            "map": "dry_reef",
+            "main_coord": [946,1354],
+            "local_coord": [400,370]
         },
         {
             "name": "Hobson's Note - Hidden Cliff",
             "category": ["Dry Reef - Side Path", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1331,1172],
+            "local_coord": [814,195]
         },
         {
             "name": "Hobson's Note - Tunnel to Quarry",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [1176,1052],
+            "local_coord": [618,99]
         },
         {
             "name": "Hobson's Note - Cliff near Tabby Slimes",
             "category": ["Dry Reef - Main", "Hobson's Notes"],
-            "region": "Dry Reef Main"
+            "region": "Dry Reef Main",
+            "map": "dry_reef",
+            "main_coord": [918,1110],
+            "local_coord": [396,141]
         },
         {
             "name": "Treasure Pod MKII - Cliff above Quarry Tunnel",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1086,1084],
+            "local_coord": [586,101]
         },
         {
             "name": "Treasure Pod MKI - Phosphor Gordo",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Phosphor Gordo - Dry Reef"
         },
         {
             "name": "Treasure Pod MKI - Reef Beach Gate",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [943,1235],
+            "local_coord": [427,250]
         },
         {
             "name": "Treasure Pod MKI - Reef Above Tabby Slimes",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Hobson's Note - Cliff near Tabby Slimes"
         },
         {
             "name": "Treasure Pod MKI - Near Tabby Gordo",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Tabby Gordo - Near Moss Blanket Door"
         },
         {
             "name": "Treasure Pod MKII - Ledge outside Overgrowth",
             "category": ["Dry Reef - Beach", "Treasure Pods"],
             "region": "Dry Reef Beach",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "dry_reef",
+            "main_coord": [1080,1350],
+            "local_coord": [560,362]
         },
         {
             "name": "Treasure Pod MKII - Reef Island Archway",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1139,1279],
+            "local_coord": [619,303]
         },
         {
             "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [1181,1237],
+            "local_coord": [662,263]
         },
         {
             "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry",
             "category": ["Dry Reef - Main", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map_link": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
         },
         {
             "name": "Treasure Pod MKI - Over Side Cliff",
             "category": ["Dry Reef - Side Path", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1318,1232],
+            "local_coord": [796,270]
         },
         {
             "name": "Treasure Pod MKII - Rock Largo Path",
             "category": ["Dry Reef - Side Path", "Treasure Pods"],
             "region": "Dry Reef Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "dry_reef",
+            "main_coord": [1443, 1188],
+            "local_coord": [919,217]
         },
         {
             "name": "Pink Gordo - Ring Island",
             "category": ["Dry Reef - Ring Island", "Gordos"],
-            "region": "Dry Reef Ring Island"
+            "region": "Dry Reef Ring Island",
+            "map": "dry_reef",
+            "main_coord": [626,1400],
+            "local_coord": [120,432]
         },
         {
             "name": "Hobson's Note - Ring Island",
             "category": ["Dry Reef - Ring Island", "Hobson's Notes"],
-            "region": "Dry Reef Ring Island"
+            "region": "Dry Reef Ring Island",
+            "map": "dry_reef",
+            "main_coord": [645,1560],
+            "local_coord": [127,591]
         },
         {
             "name": "Treasure Pod MKII - Ring Island Ledge",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "dry_reef",
+            "main_coord": [640,1495],
+            "local_coord": [125,518]
         },
         {
             "name": "Treasure Pod MKI - Ring Island Flowers",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "dry_reef",
+            "main_coord": [719,1445],
+            "local_coord": [199,468]
         },
         {
             "name": "Treasure Pod MKIII - Ring Island Alcove",
             "category": ["Dry Reef - Ring Island", "Treasure Pods"],
             "region": "Dry Reef Ring Island",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "dry_reef",
+            "main_coord": [700,1420],
+            "local_coord": [171,441]
         },
         {
             "name": "Rock Gordo - Main Cave",
             "category": ["Indigo Quarry - Front", "Gordos"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1408,1100],
+            "local_coord": [308,300]
         },
         {
             "name": "Rock Gordo - Island Teleporter",
             "category": ["Indigo Quarry - Back", "Gordos"],
             "region": "Indigo Quarry Back",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "indigo_quarry",
+            "main_coord": [1592,871],
+            "local_coord": [480,55]
         },
         {
             "name": "Rad Gordo - Indigo Cave",
             "category": ["Indigo Quarry - Back", "Gordos"],
-            "region": "Indigo Quarry Back"
+            "region": "Indigo Quarry Back",
+            "map": "indigo_quarry",
+            "main_coord": [1466,1037],
+            "local_coord": [357,225]
         },
         {
             "name": "Hobson's Note - Indigo Quarry Entry",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1280,1058],
+            "local_coord": [182,253]
         },
         {
             "name": "Hobson's Note - Crystal Slime Cave",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1644,1103],
+            "local_coord": [548,315]
         },
         {
             "name": "Hobson's Note - Indigo Quarry Pond",
             "category": ["Indigo Quarry - Front", "Hobson's Notes"],
-            "region": "Indigo Quarry Front"
+            "region": "Indigo Quarry Front",
+            "map": "indigo_quarry",
+            "main_coord": [1559,1016],
+            "local_coord": [461,209]
         },
         {
             "name": "Treasure Pod MKI - Quarry Entryway",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Hobson's Note - Indigo Quarry Entry"
         },
         {
             "name": "Treasure Pod MKIII - Quarry Entryway Ledge",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1292,1022],
+            "local_coord": [182,213]
         },
         {
             "name": "Treasure Pod MKII - Near Quarry Exit Teleporter",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1307,926],
+            "local_coord": [202,115]
         },
         {
             "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1393,1045],
+            "local_coord": [286,243]
         },
         {
             "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map_link": "Rock Gordo - Main Cave"
         },
         {
             "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "indigo_quarry",
+            "main_coord": [1576,1107],
+            "local_coord": [463,299]
         },
         {
             "name": "Treasure Pod MKII - Crystal Slime Cave Pillar",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Hobson's Note - Crystal Slime Cave"
         },
         {
             "name": "Treasure Pod MKIII - Through Crystal Slime Cave",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1581,1402],
+            "local_coord": [487,239]
         },
         {
             "name": "Treasure Pod MKII - In the Quarry Pond",
             "category": ["Indigo Quarry - Front", "Treasure Pods"],
             "region": "Indigo Quarry Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Hobson's Note - Indigo Quarry Pond"
         },
         {
             "name": "Treasure Pod MKI - Near Island Teleport Gordo",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map_link": "Rock Gordo - Island Teleporter"
         },
         {
             "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "indigo_quarry",
+            "main_coord": [1490,847],
+            "local_coord": [385,31]
         },
         {
             "name": "Treasure Pod MKII - In Quarry Wooden Structure",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1390,968],
+            "local_coord": [282,173]
         },
         {
             "name": "Treasure Pod MKIII - Cliff Past Rad Gordo",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "indigo_quarry",
+            "main_coord": [1488,972],
+            "local_coord": [383,157]
         },
         {
             "name": "Treasure Pod MKII - Rad Gordo Cave",
             "category": ["Indigo Quarry - Back", "Treasure Pods"],
             "region": "Indigo Quarry Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Rad Gordo - Indigo Cave"
         },
         {
             "name": "Crystal Gordo - Ash Isle",
             "category": ["Indigo Quarry - Ash Isle", "Gordos"],
-            "region": "Ash Isle"
+            "region": "Ash Isle",
+            "map": "indigo_quarry",
+            "main_coord": [1588,581],
+            "local_coord": [838,252]
         },
         {
             "name": "Hobson's Note - Ash Isle",
             "category": ["Indigo Quarry - Ash Isle", "Hobson's Notes"],
-            "region": "Ash Isle"
+            "region": "Ash Isle",
+            "map": "indigo_quarry",
+            "main_coord": [1576,617],
+            "local_coord": [814,286]
         },
         {
             "name": "Treasure Pod MKII - Ash Isle Fireflower Patch",
             "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
             "region": "Ash Isle",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "indigo_quarry",
+            "main_coord": [1661,556],
+            "local_coord": [894,275]
         },
         {
             "name": "Treasure Pod MKIII - Ash Isle Ledge",
             "category": ["Indigo Quarry - Ash Isle", "Treasure Pods"],
             "region": "Ash Isle",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "indigo_quarry",
+            "main_coord": [1660,474],
+            "local_coord": [894,148]
         },
         {
             "name": "Honey Gordo - Moss Blanket Main Area",
             "category": ["Moss Blanket - Front", "Gordos"],
             "region": "Moss Blanket Main",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [763,869],
+            "local_coord": [179,578]
         },
         {
             "name": "Hunter Gordo - Moss Blanket Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Gordos"],
-            "region": "Hunter Swamp"
+            "region": "Hunter Swamp",
+            "map": "moss_blanket",
+            "main_coord": [806,416],
+            "local_coord": [206,101]
         },
         {
             "name": "Hobson's Note - Moss Blanket Entrance",
             "category": ["Moss Blanket - Main", "Hobson's Notes"],
             "region": "Moss Blanket Main",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1023,844],
+            "local_coord": [431,537]
         },
         {
             "name": "Hobson's Note - Moss Blanket Main Area",
             "category": ["Moss Blanket - Main", "Hobson's Notes"],
-            "region": "Moss Blanket Main"
+            "region": "Moss Blanket Main",
+            "map": "moss_blanket",
+            "main_coord": [926,843],
+            "local_coord": [334,540]
         },
         {
             "name": "Hobson's Note - Pond Island Backside",
             "category": ["Moss Blanket - Pond Island", "Hobson's Notes"],
-            "region": "Pond Island"
+            "region": "Pond Island",
+            "map": "moss_blanket",
+            "main_coord": [699,699],
+            "local_coord": [108,398]
         },
         {
             "name": "Hobson's Note - Entry to Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Hobson's Notes"],
-            "region": "Hunter Swamp"
+            "region": "Hunter Swamp",
+            "map": "moss_blanket",
+            "main_coord": [839,600],
+            "local_coord": [246,288]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1069,823],
+            "local_coord": [485,520]
         },
         {
             "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [1089,892],
+            "local_coord": [488,583]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(1)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [933,906],
+            "local_coord": [339,599]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Southern Island",
-            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "moss_blanket",
+            "main_coord": [681,909],
+            "local_coord": [99,606]
         },
         {
-            "name": "Treasure Pod MKII - Moustache Island",
-            "category": ["Moss Blanket - Main", "Treasure Pods"],
+            "name": "Treasure Pod MKII - Distant Island",
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack:2|",
+            "map": "moss_blanket",
+            "main_coord": [778,1037],
+            "local_coord": [192,732]
+        },
+        {
+            "name": "Treasure Pod MKIII - Moustache Island",
+            "category": ["Moss Blanket - Islands", "Treasure Pods"],
+            "region": "Moss Blanket Main",
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2| AND |Teleporter - Moustache Island|",
+            "map": "moss_blanket",
+            "main_coord": [303,1042],
+            "local_coord": [78,748]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [877,794],
+            "local_coord": [297,485]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
             "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [968,805],
+            "local_coord": [380,498]
         },
         {
             "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
             "category": ["Moss Blanket - ", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [919,743],
+            "local_coord": [336,443]
         },
         {
             "name": "Treasure Pod MKII - Under Structures Facing Pond Island",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [863,727],
+            "local_coord": [277,431]
         },
         {
             "name": "Treasure Pod MKIII - In Pond Island Pond",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [778,695],
+            "local_coord": [188,404]
         },
         {
             "name": "Treasure Pod MKII - Pond Island Backside",
             "category": ["Moss Blanket - Pond Island", "Treasure Pods"],
             "region": "Pond Island",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [707,664],
+            "local_coord": [114,369]
         },
         {
             "name": "Treasure Pod MKI - Moss Blanket Flower Area",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [943,676],
+            "local_coord": [357,373]
         },
         {
             "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "moss_blanket",
+            "main_coord": [904,653],
+            "local_coord": [317,340]
         },
         {
             "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area",
             "category": ["Moss Blanket - Back", "Treasure Pods"],
             "region": "Moss Blanket Main",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "moss_blanket",
+            "main_coord": [994,599],
+            "local_coord": [401,289]
         },
         {
             "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [1020,520],
+            "local_coord": [416,221]
         },
         {
             "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [1018,453],
+            "local_coord": [426,153]
         },
         {
             "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "moss_blanket",
+            "main_coord": [863,474],
+            "local_coord": [259,178]
         },
         {
             "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island",
             "category": ["Moss Blanket - Hunter Swamp", "Treasure Pods"],
             "region": "Hunter Swamp",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "moss_blanket",
+            "main_coord": [700,475],
+            "local_coord": [113,173]
         }, 
         {
             "name": "Boom Gordo - Ancient Ruins Tower",
             "category": ["Ancient Ruins - Lower", "Gordos"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1215,530],
+            "local_coord": [187,406]
         },
         {
             "name": "Quantum Gordo - Ancient Ruins Back",
             "category": ["Ancient Ruins - Upper", "Gordos"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1359,411],
+            "local_coord": [341,285]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Lower Entry",
             "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1258,630],
+            "local_coord": [232,508]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Lower Side Area",
             "category": ["Ancient Ruins - Lower", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1187,600],
+            "local_coord": [166,470]
         },
         {
             "name": "Hobson's Note - Ancient Ruins Upper Enclosed",
             "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1224,466],
+            "local_coord": [207,340]
         },
         {
             "name": "Hobson's Note - Desert Teleporter Room",
             "category": ["Ancient Ruins - Upper", "Hobson's Notes"],
-            "region": "Ancient Ruins"
+            "region": "Ancient Ruins",
+            "map": "ancient_ruins",
+            "main_coord": [1221,201],
+            "local_coord": [206,86]
         },
         {
             "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1207,641],
+            "local_coord": [178,510]
         },
         {
             "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "ancient_ruins",
+            "main_coord": [1372,635],
+            "local_coord": [345,504]
         },
         {
             "name": "Treasure Pod MKII - Ruins Southeast Corner",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1371,617],
+            "local_coord": [330,479]
         },
         {
             "name": "Treasure Pod MKI - Ruins Hidden Waterfall",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "ancient_ruins",
+            "main_coord": [1323,516],
+            "local_coord": [297,395]
         },
         {
             "name": "Treasure Pod MKII - Ruins Door Puzzle",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1230,582],
+            "local_coord": [217,449]
         },
         {
             "name": "Treasure Pod MKI - Ruins Sunburst Tree",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(1)}"
+            "requires": "{TreasureLevel(1)}",
+            "map": "ancient_ruins",
+            "main_coord": [1273,550],
+            "local_coord": [252,419]
         },
         {
             "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1310,560],
+            "local_coord": [289,432]
         },
         {
             "name": "Treasure Pod MKII - Ruins Boom Gordo",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map_link": "Boom Gordo - Ancient Ruins Tower"
         },
         {
             "name": "Treasure Pod MKIII - Ruins Climb a Building",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "ancient_ruins",
+            "main_coord": [1341,427],
+            "local_coord": [312,301]
         },
         {
             "name": "Treasure Pod MKII - Ruins Last Room Shortcut",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1264,498],
+            "local_coord": [235,360]
         },
         {
             "name": "Treasure Pod MKIII - Top of the Ruins",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1288,474],
+            "local_coord": [275,345]
         },
         {
             "name": "Treasure Pod MKIII - Ruins Secret Vines Room",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1300,493],
+            "local_coord": [272,378]
         },
         {
             "name": "Treasure Pod MKIII - Ruins North Around a Corner",
             "category": ["Ancient Ruins - Upper", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "ancient_ruins",
+            "main_coord": [1213,384],
+            "local_coord": [192,264]
         },
         {
             "name": "Treasure Pod MKII - Near Teleporter Slime Gate",
             "category": ["Ancient Ruins - Lower", "Treasure Pods"],
             "region": "Ancient Ruins",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "ancient_ruins",
+            "main_coord": [1251,331],
+            "local_coord": [232,208]
         },
         {
             "name": "Dervish Gordo - Clifftop",
             "category": ["Glass Desert - Front", "Gordos"],
             "region": "Glass Desert Front",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2676,1083],
+            "local_coord": [282,730]
         },
         {
             "name": "Tangle Gordo - Desert Center",
             "category": ["Glass Desert - Front", "Gordos"],
-            "region": "Glass Desert Front"
+            "region": "Glass Desert Front",
+            "map": "glass_desert",
+            "main_coord": [2679,925],
+            "local_coord": [292,578]
         },
         {
             "name": "Mosaic Gordo - Cliff Blocker",
             "category": ["Glass Desert - Back", "Gordos"],
             "region": "Glass Desert Back",
-            "requires": "|Progressive Jetpack|"
+            "requires": "|Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2698,809],
+            "local_coord": [322,467]
         },
         {
             "name": "Hobson's Note - Below Dervish Gordo",
             "category": ["Glass Desert - Front", "Hobson's Notes"],
-            "region": "Glass Desert Front"
+            "region": "Glass Desert Front",
+            "map": "glass_desert",
+            "main_coord": [2718,1082],
+            "local_coord": [329,728]
         },
         {
             "name": "Hobson's Note - Desert Ruins Cave",
             "category": ["Glass Desert - Front", "Hobson's Notes"],
-            "region": "Glass Desert Front"
+            "region": "Glass Desert Front",
+            "map": "glass_desert",
+            "main_coord": [2801,1003],
+            "local_coord": [402,661]
         },
         {
             "name": "Hobson's Note - Desert Ruins After Slime Doors",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2723,734],
+            "local_coord": [333,390]
         },
         {
             "name": "Hobson's Note - Northern Desert Ruins Rooftop",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2679,645],
+            "local_coord": [283,300]
         },
         {
             "name": "Hobson's Note - Final Archway",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2642,566],
+            "local_coord": [251,225]
         },
         {
             "name": "Hobson's Note - Final Quantum Door",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2642,520],
+            "local_coord": [251,181]
         },
         {
             "name": "Hobson's Note - Final Shrine",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2642,442],
+            "local_coord": [251,108]
         },
         {
             "name": "Hobson's Note - Victory",
             "category": ["Glass Desert - Back", "Hobson's Notes"],
-            "region": "Glass Desert Back"
+            "region": "Glass Desert Back",
+            "map": "glass_desert",
+            "main_coord": [2642,379],
+            "local_coord": [251,38]
         },
         {
             "name": "Hobson's Note - Victory GOAL",
@@ -624,133 +938,197 @@
             "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2707,659],
+            "local_coord": [324,321]
         },
         {
             "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2801,712],
+            "local_coord": [410,378]
         },
         {
             "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "glass_desert",
+            "main_coord": [2775,590],
+            "local_coord": [386,248]
         },
         {
             "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2795,651],
+            "local_coord": [402,307]
         },
         {
             "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)}"
+            "requires": "{TreasureLevel(3)}",
+            "map": "glass_desert",
+            "main_coord": [2888,806],
+            "local_coord": [503,465]
         },
         {
             "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "glass_desert",
+            "main_coord": [2862,753],
+            "local_coord": [466,399]
         },
         {
             "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack:2|",
+            "map": "glass_desert",
+            "main_coord": [2674,806],
+            "local_coord": [276,475]
         },
         {
             "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2711,846],
+            "local_coord": [323,510]
         },
         {
             "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "glass_desert",
+            "main_coord": [2682,783],
+            "local_coord": [291,442]
         },
         {
             "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2525,893],
+            "local_coord": [148,493]
         },
         {
             "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2474,961],
+            "local_coord": [91,620]
         },
         {
             "name": "Treasure Pod MKIII - Below Mosaic Statue Island",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2564,934],
+            "local_coord": [187,602]
         },
         {
             "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map_link": "Tangle Gordo - Desert Center"
         },
         {
             "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2741,891],
+            "local_coord": [366,550]
         },
         {
             "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2751,957],
+            "local_coord": [379,614]
         },
         {
             "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path",
             "category": ["Glass Desert - Back", "Treasure Pods"],
             "region": "Glass Desert Back",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2857,991],
+            "local_coord": [458,565]
         },
         {
             "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2690,1015],
+            "local_coord": [298,680]
         },
         {
             "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(2)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2722,1114],
+            "local_coord": [323,762]
         },
         {
             "name": "Treasure Pod MKII - Very Top of First Desert Ruin",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2626,1122],
+            "local_coord": [239,770]
         },
         {
             "name": "Treasure Pod MKII - Corner Below Dervish Gordo",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "glass_desert",
+            "main_coord": [2642,1060],
+            "local_coord": [244,713]
         },
         {
             "name": "Treasure Pod MKIII - Behind Desert Portal Room",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|"
+            "requires": "{TreasureLevel(3)} AND |Progressive Jetpack|",
+            "map": "glass_desert",
+            "main_coord": [2587,1379],
+            "local_coord": [209,1046]
         },
         {
             "name": "Treasure Pod MKII - In the Desert Portal Room",
             "category": ["Glass Desert - Front", "Treasure Pods"],
             "region": "Glass Desert Front",
-            "requires": "{TreasureLevel(2)}"
+            "requires": "{TreasureLevel(2)}",
+            "map": "glass_desert",
+            "main_coord": [2587,1379],
+            "local_coord": [198,1011]
         },
         {
             "name": "7zee Rewards Level 1 - Initiate",

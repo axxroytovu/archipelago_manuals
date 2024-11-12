@@ -1,0 +1,2467 @@
+[
+    {
+        "name": "World Map",
+        "children": [
+            {
+                "name": "The Ranch",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Lab"
+                    },
+                    {
+                        "name": "Hobson's Note - The Overgrowth"
+                    },
+                    {
+                        "name": "Hobson's Note - The Docks"
+                    },
+                    {
+                        "name": "Hobson's Note - The Grotto"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1273,
+                        "y": 1474
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Lab",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 860,
+                        "y": 547
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Overgrowth",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 597,
+                        "y": 446
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Docks",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Docks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 581,
+                        "y": 625
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - The Grotto",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - The Grotto"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 685,
+                        "y": 366
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - The Lab",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - The Lab"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 844,
+                        "y": 542
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Main",
+                "sections": [
+                    {
+                        "name": "Phosphor Gordo - Dry Reef"
+                    },
+                    {
+                        "name": "Tabby Gordo - Near Moss Blanket Door"
+                    },
+                    {
+                        "name": "Pink Gordo - Bridge Island"
+                    },
+                    {
+                        "name": "Hobson's Note - Outside Ranch"
+                    },
+                    {
+                        "name": "Hobson's Note - Tunnel to Quarry"
+                    },
+                    {
+                        "name": "Hobson's Note - Cliff near Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Cliff above Quarry Tunnel"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Phosphor Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Beach Gate"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Above Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Tabby Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Reef Island Archway"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1077,
+                        "y": 1169
+                    }
+                ]
+            },
+            {
+                "name": "Phosphor Gordo - Dry Reef",
+                "sections": [
+                    {
+                        "name": "Phosphor Gordo - Dry Reef"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Phosphor Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 492,
+                        "y": 179
+                    }
+                ]
+            },
+            {
+                "name": "Tabby Gordo - Near Moss Blanket Door",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Near Moss Blanket Door"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Tabby Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 428,
+                        "y": 109
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Beach",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Reef Beach"
+                    },
+                    {
+                        "name": "Hobson's Note - Beach Rings"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ledge outside Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1002,
+                        "y": 1366
+                    }
+                ]
+            },
+            {
+                "name": "Tabby Gordo - Reef Beach",
+                "sections": [
+                    {
+                        "name": "Tabby Gordo - Reef Beach"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 441,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Pink Gordo - Bridge Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Bridge Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 570,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Outside Ranch",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Outside Ranch"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 735,
+                        "y": 271
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Beach Rings",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Beach Rings"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 400,
+                        "y": 370
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Side Path",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Hidden Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Over Side Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rock Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1364,
+                        "y": 1197
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Hidden Cliff",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Hidden Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 814,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Tunnel to Quarry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Tunnel to Quarry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 618,
+                        "y": 99
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Cliff near Tabby Slimes",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Cliff near Tabby Slimes"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Reef Above Tabby Slimes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 396,
+                        "y": 141
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Cliff above Quarry Tunnel",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Cliff above Quarry Tunnel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 586,
+                        "y": 101
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Reef Beach Gate",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Reef Beach Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 427,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ledge outside Overgrowth",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ledge outside Overgrowth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 560,
+                        "y": 362
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Reef Island Archway",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Reef Island Archway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 619,
+                        "y": 303
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Hidden Cliff near Ranch Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Cave near Ranch Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 662,
+                        "y": 263
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Over Side Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Over Side Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 796,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Rock Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Rock Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 919,
+                        "y": 217
+                    }
+                ]
+            },
+            {
+                "name": "Dry Reef - Ring Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Ring Island"
+                    },
+                    {
+                        "name": "Hobson's Note - Ring Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ring Island Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ring Island Flowers"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ring Island Alcove"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 666,
+                        "y": 1464
+                    }
+                ]
+            },
+            {
+                "name": "Pink Gordo - Ring Island",
+                "sections": [
+                    {
+                        "name": "Pink Gordo - Ring Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 120,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ring Island",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ring Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 127,
+                        "y": 591
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ring Island Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ring Island Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 125,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ring Island Flowers",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ring Island Flowers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 199,
+                        "y": 468
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ring Island Alcove",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ring Island Alcove"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dry_reef",
+                        "x": 171,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Front",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Main Cave"
+                    },
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Entry"
+                    },
+                    {
+                        "name": "Hobson's Note - Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Entryway"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Entryway Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Crystal Slime Cave Pillar"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Through Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Quarry Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1466,
+                        "y": 1106
+                    }
+                ]
+            },
+            {
+                "name": "Rock Gordo - Main Cave",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Main Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Cave Grass near Rock Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 308,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Back",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Island Teleporter"
+                    },
+                    {
+                        "name": "Rad Gordo - Indigo Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Near Quarry Exit Teleporter"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Island Teleport Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In Quarry Wooden Structure"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Cliff Past Rad Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rad Gordo Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1455,
+                        "y": 936
+                    }
+                ]
+            },
+            {
+                "name": "Rock Gordo - Island Teleporter",
+                "sections": [
+                    {
+                        "name": "Rock Gordo - Island Teleporter"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Near Island Teleport Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 480,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Rad Gordo - Indigo Cave",
+                "sections": [
+                    {
+                        "name": "Rad Gordo - Indigo Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Rad Gordo Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 357,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Indigo Quarry Entry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Entry"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Quarry Entryway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 182,
+                        "y": 253
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Crystal Slime Cave",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Crystal Slime Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Crystal Slime Cave Pillar"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 548,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Indigo Quarry Pond",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Indigo Quarry Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Quarry Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 461,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Quarry Entryway Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Entryway Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 182,
+                        "y": 213
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Near Quarry Exit Teleporter",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Near Quarry Exit Teleporter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 202,
+                        "y": 115
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Quarry Cave Stalactite near Rock Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 286,
+                        "y": 243
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Quarry 3rd Area Coral Columns"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 463,
+                        "y": 299
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Through Crystal Slime Cave",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Through Crystal Slime Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 487,
+                        "y": 239
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Rock Quarry Rad Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 385,
+                        "y": 31
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - In Quarry Wooden Structure",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - In Quarry Wooden Structure"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 282,
+                        "y": 173
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Cliff Past Rad Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Cliff Past Rad Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 383,
+                        "y": 157
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Quarry - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Crystal Gordo - Ash Isle"
+                    },
+                    {
+                        "name": "Hobson's Note - Ash Isle"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ash Isle Fireflower Patch"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ash Isle Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1621,
+                        "y": 557
+                    }
+                ]
+            },
+            {
+                "name": "Crystal Gordo - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Crystal Gordo - Ash Isle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 838,
+                        "y": 252
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ash Isle",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ash Isle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 814,
+                        "y": 286
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ash Isle Fireflower Patch",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ash Isle Fireflower Patch"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 894,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ash Isle Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ash Isle Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "indigo_quarry",
+                        "x": 894,
+                        "y": 148
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Front",
+                "sections": [
+                    {
+                        "name": "Honey Gordo - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 763,
+                        "y": 869
+                    }
+                ]
+            },
+            {
+                "name": "Honey Gordo - Moss Blanket Main Area",
+                "sections": [
+                    {
+                        "name": "Honey Gordo - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 179,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hunter Gordo - Moss Blanket Hunter Swamp"
+                    },
+                    {
+                        "name": "Hobson's Note - Entry to Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 874,
+                        "y": 489
+                    }
+                ]
+            },
+            {
+                "name": "Hunter Gordo - Moss Blanket Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hunter Gordo - Moss Blanket Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 206,
+                        "y": 101
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Main",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Entrance"
+                    },
+                    {
+                        "name": "Hobson's Note - Moss Blanket Main Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 983,
+                        "y": 843
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Moss Blanket Entrance",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Entrance"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 431,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Moss Blanket Main Area",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Moss Blanket Main Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 334,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Pond Island",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Pond Island Backside"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Under Structures Facing Pond Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - In Pond Island Pond"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 761,
+                        "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Pond Island Backside",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 108,
+                        "y": 398
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Entry to Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Entry to Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 246,
+                        "y": 288
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Entry Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 485,
+                        "y": 520
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Wooden Staircase Moss Blanket Escape"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 488,
+                        "y": 583
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Area South Cliff"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 339,
+                        "y": 599
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Islands",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Southern Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Distant Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moustache Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 587,
+                        "y": 996
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Southern Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Southern Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 99,
+                        "y": 606
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Distant Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Distant Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 192,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moustache Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moustache Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 78,
+                        "y": 748
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Main Hidden Ravine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 297,
+                        "y": 485
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Main Under a Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 380,
+                        "y": 498
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - ",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 919,
+                        "y": 743
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 336,
+                        "y": 443
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Under Structures Facing Pond Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Under Structures Facing Pond Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 277,
+                        "y": 431
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - In Pond Island Pond",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - In Pond Island Pond"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 188,
+                        "y": 404
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Pond Island Backside",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Pond Island Backside"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 114,
+                        "y": 369
+                    }
+                ]
+            },
+            {
+                "name": "Moss Blanket - Back",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Flower Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 947,
+                        "y": 642
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Moss Blanket Flower Area",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Moss Blanket Flower Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 357,
+                        "y": 373
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Moss Blanket Under Log Tunnel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 317,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Underwater in Moss Blanket Bridges Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 401,
+                        "y": 289
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Alcove at end of Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 416,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Island Ledge in Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 426,
+                        "y": 153
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Tree Roots in Hunter Swamp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 259,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Hunter Swamp Lone Tree Stump Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "moss_blanket",
+                        "x": 113,
+                        "y": 173
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Ruins - Lower",
+                "sections": [
+                    {
+                        "name": "Boom Gordo - Ancient Ruins Tower"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Entry"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Side Area"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Southeast Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ruins Hidden Waterfall"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Door Puzzle"
+                    },
+                    {
+                        "name": "Treasure Pod MKI - Ruins Sunburst Tree"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Boom Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Near Teleporter Slime Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1263,
+                        "y": 544
+                    }
+                ]
+            },
+            {
+                "name": "Boom Gordo - Ancient Ruins Tower",
+                "sections": [
+                    {
+                        "name": "Boom Gordo - Ancient Ruins Tower"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Boom Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 187,
+                        "y": 406
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Ruins - Upper",
+                "sections": [
+                    {
+                        "name": "Quantum Gordo - Ancient Ruins Back"
+                    },
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Upper Enclosed"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Teleporter Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Climb a Building"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Ruins Last Room Shortcut"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Top of the Ruins"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Secret Vines Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ruins North Around a Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 1281,
+                        "y": 471
+                    }
+                ]
+            },
+            {
+                "name": "Quantum Gordo - Ancient Ruins Back",
+                "sections": [
+                    {
+                        "name": "Quantum Gordo - Ancient Ruins Back"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 341,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Lower Entry",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 232,
+                        "y": 508
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Lower Side Area",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Lower Side Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 166,
+                        "y": 470
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Ancient Ruins Upper Enclosed",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Ancient Ruins Upper Enclosed"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 207,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Teleporter Room",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Teleporter Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 206,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Alcove Near Ruins Entrance"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 178,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Southeast Ruined Building"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 345,
+                        "y": 504
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Southeast Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Southeast Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 330,
+                        "y": 479
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ruins Hidden Waterfall",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ruins Hidden Waterfall"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 297,
+                        "y": 395
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Door Puzzle",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Door Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 217,
+                        "y": 449
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKI - Ruins Sunburst Tree",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKI - Ruins Sunburst Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 252,
+                        "y": 419
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins East Exterior Jumping Pathway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 289,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Climb a Building",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Climb a Building"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 312,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Ruins Last Room Shortcut",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Ruins Last Room Shortcut"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 235,
+                        "y": 360
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Top of the Ruins",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Top of the Ruins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 275,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins Secret Vines Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins Secret Vines Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 272,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ruins North Around a Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ruins North Around a Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 192,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Near Teleporter Slime Gate",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Near Teleporter Slime Gate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ancient_ruins",
+                        "x": 232,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Glass Desert - Front",
+                "sections": [
+                    {
+                        "name": "Dervish Gordo - Clifftop"
+                    },
+                    {
+                        "name": "Tangle Gordo - Desert Center"
+                    },
+                    {
+                        "name": "Hobson's Note - Below Dervish Gordo"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Ruins Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Very Top of First Desert Ruin"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Corner Below Dervish Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Behind Desert Portal Room"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - In the Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 2685,
+                        "y": 1084
+                    }
+                ]
+            },
+            {
+                "name": "Dervish Gordo - Clifftop",
+                "sections": [
+                    {
+                        "name": "Dervish Gordo - Clifftop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 282,
+                        "y": 730
+                    }
+                ]
+            },
+            {
+                "name": "Tangle Gordo - Desert Center",
+                "sections": [
+                    {
+                        "name": "Tangle Gordo - Desert Center"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Above Tangle Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 292,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "Glass Desert - Back",
+                "sections": [
+                    {
+                        "name": "Mosaic Gordo - Cliff Blocker"
+                    },
+                    {
+                        "name": "Hobson's Note - Desert Ruins After Slime Doors"
+                    },
+                    {
+                        "name": "Hobson's Note - Northern Desert Ruins Rooftop"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Archway"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Quantum Door"
+                    },
+                    {
+                        "name": "Hobson's Note - Final Shrine"
+                    },
+                    {
+                        "name": "Hobson's Note - Victory"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Below Mosaic Statue Island"
+                    },
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_map",
+                        "x": 2699,
+                        "y": 724
+                    }
+                ]
+            },
+            {
+                "name": "Mosaic Gordo - Cliff Blocker",
+                "sections": [
+                    {
+                        "name": "Mosaic Gordo - Cliff Blocker"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 322,
+                        "y": 467
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Below Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Below Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 329,
+                        "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Ruins Cave",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Ruins Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 402,
+                        "y": 661
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Desert Ruins After Slime Doors",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Desert Ruins After Slime Doors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 333,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Northern Desert Ruins Rooftop",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Northern Desert Ruins Rooftop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 283,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Archway",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Archway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 251,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Quantum Door",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Quantum Door"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 251,
+                        "y": 181
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Final Shrine",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Final Shrine"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 251,
+                        "y": 108
+                    }
+                ]
+            },
+            {
+                "name": "Hobson's Note - Victory",
+                "sections": [
+                    {
+                        "name": "Hobson's Note - Victory"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 251,
+                        "y": 38
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Top of Northern Desert Ruins Next To Dervish Statue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 324,
+                        "y": 321
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Desert Ruins Platform in Northeastern Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 410,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Desert Northeastern Most Ruined Tower"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 386,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Desert Northern Shore Ledge Around Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 402,
+                        "y": 307
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 503,
+                        "y": 465
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Eastern Desert Largo Path Jetpack Ledge Around Corner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 466,
+                        "y": 399
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Cliffs Above Desert Western Desert Largo Path Exit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 276,
+                        "y": 475
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Beneath Bridge After Mosaic Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 323,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Underneath Desert Ruins Before Mosaic Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 291,
+                        "y": 442
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Ledge Over Quicksand Near Western Desert Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 148,
+                        "y": 493
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Broken Pillar In Quicksand Near Mosaic Statue Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 91,
+                        "y": 620
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Below Mosaic Statue Island",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Below Mosaic Statue Island"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 187,
+                        "y": 602
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - High Cliff After Mosaic Gordo Return Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 366,
+                        "y": 550
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Eastern Desert Cave Upper Floor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 379,
+                        "y": 614
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Hidden Below Ruins Before Eastern Largo Path"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 458,
+                        "y": 565
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Clifftop South of Tangle Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 298,
+                        "y": 680
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Pillar Top East of Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 323,
+                        "y": 762
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Very Top of First Desert Ruin",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Very Top of First Desert Ruin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 239,
+                        "y": 770
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - Corner Below Dervish Gordo",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - Corner Below Dervish Gordo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 244,
+                        "y": 713
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKIII - Behind Desert Portal Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKIII - Behind Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 209,
+                        "y": 1046
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Pod MKII - In the Desert Portal Room",
+                "sections": [
+                    {
+                        "name": "Treasure Pod MKII - In the Desert Portal Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "glass_desert",
+                        "x": 198,
+                        "y": 1011
+                    }
+                ]
+            }
+        ]
+    }
+]
