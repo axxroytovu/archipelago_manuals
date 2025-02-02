@@ -26,5 +26,4 @@ def before_is_location_enabled(multiworld: MultiWorld, player: int, location: "M
     valid_process = multiworld.worlds[player].options.processes.value
     valid_items = valid_items.union(valid_process)
     valid_items = valid_items.union(["Straight"])
-    print(valid_items)
     return all([item in valid_items for item in location.get("itemset", {})])

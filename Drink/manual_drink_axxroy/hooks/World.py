@@ -47,7 +47,6 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     valid_locations = [k for k, v in world.location_name_to_location.items() if all([i in total_items for i in v.get("itemset", {})])]
     for loc_name in valid_locations:
         collected_items = collected_items.union(world.location_name_to_location[loc_name].get("itemset", []))
-    print(collected_items, total_items, valid_locations)
     valid_items = valid_items.intersection(collected_items)
     valid_items = valid_items.union(["Hydrate!", "Shot!"])
     valid_process = valid_process.intersection(collected_items)
