@@ -1,7 +1,8 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, ItemSet
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
+from ..Items import item_name_to_id
 from typing import Type
 
 
@@ -32,8 +33,17 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class MyIngredients(ItemSet):
+    """A list of the ingredients and preparation methods you have access to"""
+    default = set(item_name_to_id.keys())
+    default.remove("__Victory__")
+    default.remove("Shot!")
+    default.remove("Hydrate!")
+    default = frozenset(default)
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["ingredients"] = MyIngredients
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
