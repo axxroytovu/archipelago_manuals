@@ -198,5 +198,9 @@
 "Vodka Neat": {
     "preparation": "Straight",
     "ingredients": ["Vodka"]
+},
+"Tequila Sunrise": {
+    "preparation": "Shaken",
+    "ingredients": ["Orange (juice)", "Tequila", "Triple Sec"]
 }
 }

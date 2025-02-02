@@ -20,13 +20,13 @@ def after_load_item_file(item_table: list) -> list:
         item_table.append({
             "name": item_name,
             "category": ["Ingredients"] + (["Starting"] if item_name in starting_items else []),
-            "progression": true
+            "progression": True
         })
     for method in sorted(list(methods)):
         item_table.append({
             "name": method,
             "category": ["Preparations"],
-            "progression": true
+            "progression": True
         })
     return item_table
 
@@ -43,12 +43,14 @@ def after_load_location_file(location_table: list) -> list:
         location_table.append({
             "name": loc_name + " - 0",
             "category": [loc_data["preparation"]],
-            "requires": f"|{loc_data['preparation']}| and |" + "| and |".join(loc_data["ingredients"]) + "|"
+            "requires": f"|{loc_data['preparation']}| and |" + "| and |".join(loc_data["ingredients"]) + "|",
+            "itemset": [loc_data["preparation"]] + loc_data["ingredients"]
         })
         location_table.append({
             "name": loc_name + " - 1",
             "category": [loc_data["preparation"]],
-            "requires": f"|{loc_data['preparation']}| and |" + "| and |".join(loc_data["ingredients"]) + "|"
+            "requires": f"|{loc_data['preparation']}| and |" + "| and |".join(loc_data["ingredients"]) + "|",
+            "itemset": [loc_data["preparation"]] + loc_data["ingredients"]
         })
     return location_table
 
