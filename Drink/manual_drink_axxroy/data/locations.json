@@ -4,12 +4,14 @@
         {
             "name": "Water Neat - 0",
             "category": ["Straight"],
-            "requires": "|Straight|"
+            "requires": "|Straight|",
+            "itemset": ["Straight"]
         },
         {
             "name": "Water Neat - 1",
             "category": ["Straight"],
-            "requires": "|Straight|"
+            "requires": "|Straight|",
+            "itemset": ["Straight"]
         }
     ]
 }

@@ -38,7 +38,21 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    pass
+    valid_items = multiworld.worlds[player].options.ingredients.value
+    valid_process = multiworld.worlds[player].options.processes.value
+    valid_process = valid_process.union(["Straight"])
+    total_items = valid_items.union(valid_process)
+    
+    collected_items = set()
+    valid_locations = [k for k, v in world.location_name_to_location.items() if all([i in total_items for i in v.get("itemset", {})])]
+    for loc_name in valid_locations:
+        collected_items = collected_items.union(world.location_name_to_location[loc_name].get("itemset", []))
+    print(collected_items, total_items, valid_locations)
+    valid_items = valid_items.intersection(collected_items)
+    valid_items = valid_items.union(["Hydrate!", "Shot!"])
+    valid_process = valid_process.intersection(collected_items)
+    multiworld.worlds[player].options.ingredients.value = valid_items
+    multiworld.worlds[player].options.processes.value = valid_process
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
