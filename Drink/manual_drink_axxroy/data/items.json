@@ -1,0 +1,13 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Shot!",
+            "category": [
+                "Trap"
+            ],
+            "trap": true,
+            "count": 0
+        }
+    ]
+}

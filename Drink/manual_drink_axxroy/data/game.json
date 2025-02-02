@@ -1,0 +1,16 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "Drink",
+    "creator": "Axxroy",
+
+    "starting_items": [
+        {
+            "item_categories": ["Starting"],
+            "random": 2
+        }
+    ],
+    "filler_item_name": "Hydrate!",
+
+    "death_link": true,
+    "starting_index": 1
+}

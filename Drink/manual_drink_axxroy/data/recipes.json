@@ -1,0 +1,202 @@
+{
+"Aperol Spritz": {
+    "preparation": "On Ice",
+    "ingredients": ["Prosecco/Champagne", "Aperol"]
+},
+"Appletini": {
+    "preparation": "Shaken",
+    "ingredients": ["Vodka", "Apple Schnapps", "Lemon (juice)"]
+},
+"Bellini": {
+    "preparation": "Stirred",
+    "ingredients": ["Prosecco/Champagne"]
+},
+"Bloody Mary": {
+    "preparation": "Stirred",
+    "ingredients": ["Vodka", "Tomato Juice", "Lemon (juice)"]
+},
+"Boulevardier": {
+    "preparation": "Stirred",
+    "ingredients": ["Bourbon", "Campari", "Vermouth"]
+},
+"Caipirinha": {
+    "preparation": "Muddled",
+    "ingredients": ["Cachaca", "Lime (juice)"]
+},
+"Cosmopolitan": {
+    "preparation": "Shaken",
+    "ingredients": ["Vodka", "Cointreau", "Lime (juice)", "Cranberry"]
+},
+"Daiquiri": {
+    "preparation": "Shaken",
+    "ingredients": ["Rum", "Lime (juice)"]
+},
+"Espresso Martini": {
+    "preparation": "Shaken",
+    "ingredients": ["Vodka", "Kahlua", "Espresso"]
+},
+"Fernandito": {
+    "preparation": "Stirred",
+    "ingredients": ["Bitters", "Cola"]
+},
+"French 75": {
+    "preparation": "Shaken",
+    "ingredients": ["Gin", "Prosecco/Champagne", "Lemon (juice)"]
+},
+"French Connection": {
+    "preparation": "Stirred",
+    "ingredients": ["Brandy", "Amaretto"]
+},
+"French Martini": {
+    "preparation": "Shaken",
+    "ingredients": ["Vodka", "Raspberry Liquor", "Pineapple (juice)"]
+},
+"Gimlet": {
+    "preparation": "Shaken",
+    "ingredients": ["Gin", "Lime (juice)"]
+},
+"Gin & Tonic": {
+    "preparation": "Stirred",
+    "ingredients": ["Gin", "Tonic/Soda Water"]
+},
+"Hurricane": {
+    "preparation": "Shaken",
+    "ingredients": ["Rum", "Lime (juice)", "Orange (juice)"]
+},
+"Irish Coffee": {
+    "preparation": "Stirred",
+    "ingredients": ["Whiskey", "Drip Coffee", "Cream"]
+},
+"John Collins": {
+    "preparation": "Stirred",
+    "ingredients": ["Gin", "Lemon (juice)", "Tonic/Soda Water"]
+},
+"KIR": {
+    "preparation": "Straight",
+    "ingredients": ["White Wine", "Crème de Cassis"]
+},
+"Long Island Iced Tea": {
+    "preparation": "Stirred",
+    "ingredients": ["Vodka", "Tequila", "Rum", "Gin", "Cointreau", "Lemon (juice)", "Cola"]
+},
+"Mai Tai": {
+    "preparation": "Shaken",
+    "ingredients": ["Rum", "Lime (juice)", "Curacao"]
+},
+"Manhattan": {
+    "preparation": "Stirred",
+    "ingredients": ["Whiskey", "Vermouth", "Bitters"]
+},
+"Margarita": {
+    "preparation": "Shaken",
+    "ingredients": ["Tequila", "Triple Sec", "Lime (juice)"]
+},
+"Gin Martini": {
+    "preparation": "Stirred",
+    "ingredients": ["Gin", "Vermouth"]
+},
+"Vodka Martini": {
+    "preparation": "Stirred",
+    "ingredients": ["Vodka", "Vermouth"]
+},
+"Mimosa": {
+    "preparation": "Stirred",
+    "ingredients": ["Prosecco/Champagne", "Orange (juice)"]
+},
+"Mojito": {
+    "preparation": "Muddled",
+    "ingredients": ["Rum", "Lime (juice)", "Mint", "Tonic/Soda Water"]
+},
+"Moscow Mule": {
+    "preparation": "Stirred",
+    "ingredients": ["Vodka", "Ginger Beer", "Lime (juice)"]
+},
+"Negroni": {
+    "preparation": "Stirred",
+    "ingredients": ["Gin", "Campari", "Vermouth"]
+},
+"New York Sour": {
+    "preparation": "Shaken",
+    "ingredients": ["Whiskey", "Lemon (juice)", "Egg White", "Red Wine"]
+},
+"Old Fashioned": {
+    "preparation": "Muddled",
+    "ingredients": ["Whiskey", "Bitters"]
+},
+"Paloma": {
+    "preparation": "Stirred",
+    "ingredients": ["Tequila", "Lime (juice)", "Grapefruit (juice)", "Tonic/Soda Water"]
+},
+"Piña Colada": {
+    "preparation": "Blended",
+    "ingredients": ["Rum", "Coconut Cream", "Pineapple (juice)"]
+},
+"Ramos Fizz": {
+    "preparation": "Shaken",
+    "ingredients": ["Gin", "Lime (juice)", "Lemon (juice)", "Cream", "Egg White", "Vanilla Extract"]
+},
+"Rusty Nail": {
+    "preparation": "Stirred",
+    "ingredients": ["Whiskey", "Drambuie"]
+},
+"Sazerac": {
+    "preparation": "Stirred",
+    "ingredients": ["Cognac", "Absinthe", "Bitters"]
+},
+"Sidecar": {
+    "preparation": "Shaken",
+    "ingredients": ["Cognac", "Triple Sec", "Lemon (juice)"]
+},
+"Tom Collins": {
+    "preparation": "Shaken",
+    "ingredients": ["Gin", "Lemon (juice)", "Tonic/Soda Water"]
+},
+"Vesper": {
+    "preparation": "Shaken",
+    "ingredients": ["Gin", "Vodka", "Lillet Blanc"]
+},
+"Whiskey Sour": {
+    "preparation": "Shaken",
+    "ingredients": ["Whiskey", "Lemon (juice)", "Egg White"]
+},
+"White Russian": {
+    "preparation": "Stirred",
+    "ingredients": ["Vodka", "Kahlua", "Cream"]
+},
+"Yellow Bird": {
+    "preparation": "Shaken",
+    "ingredients": ["Rum", "Galliano", "Triple Sec", "Lime (juice)"]
+},
+"Zombie": {
+    "preparation": "Blended",
+    "ingredients": ["Rum", "Lime (juice)", "Grenadine", "Bitters"]
+},
+"Whiskey Neat": {
+    "preparation": "Straight",
+    "ingredients": ["Whiskey"]
+},
+"Tequila Neat": {
+    "preparation": "Straight",
+    "ingredients": ["Tequila"]
+},
+"Rum Neat": {
+    "preparation": "Straight",
+    "ingredients": ["Rum"]
+},
+"White Wine": {
+    "preparation": "Straight",
+    "ingredients": ["White Wine"]
+},
+"Red Wine": {
+    "preparation": "Straight",
+    "ingredients": ["Red Wine"]
+},
+"Prosecco/Champagne": {
+    "preparation": "Straight",
+    "ingredients": ["Prosecco/Champagne"]
+},
+"Vodka Neat": {
+    "preparation": "Straight",
+    "ingredients": ["Vodka"]
+}
+}

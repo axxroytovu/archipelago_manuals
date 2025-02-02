@@ -1,0 +1,16 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Water Neat - 0",
+            "category": ["Straight"],
+            "requires": "|Straight|"
+        },
+        {
+            "name": "Water Neat - 1",
+            "category": ["Straight"],
+            "requires": "|Straight|"
+        }
+    ]
+}
+
