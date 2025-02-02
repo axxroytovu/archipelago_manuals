@@ -7,6 +7,9 @@
         {
             "item_categories": ["Starting"],
             "random": 3
+        },
+        {
+            "items": ["Straight"]
         }
     ],
     "filler_item_name": "Hydrate!",
