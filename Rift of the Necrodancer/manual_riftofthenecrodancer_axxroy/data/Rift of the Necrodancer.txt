@@ -1,0 +1,63 @@
+#Any "comment" in these files start with #.
+#Items here must be on a new line.
+#List: Rhythm Heaven Fever Main Games - Created By: Kayay
+
+#$game=Rift of the Necrodancer
+#$creator=Axxroy
+#$filler_item_name=Perfect Hit
+#$musicSheet=Diamond
+#$traps=Shopkeep Mode Trap
+#$sort_diable=True
+
+##Songs
+Disco Disaster
+Elusional
+Visualize Yourself
+Spookhouse Pop
+Om and On
+Morning Dove
+Heph's Mess
+Amalgamaniac
+Hang Ten Heph
+Count Funkula
+Overthinker
+Cryp2que
+Nocturning
+Glass Cages
+Hallow Queen
+Progenitor
+Matriarch
+Under the Thunder
+Eldritch House
+Ravevenge
+Rift Within
+Suzu's Quest
+Necropolis
+Baboosh
+Necro Sonatica
+She Banned
+King's Ruse
+What's in the Box
+Brave the Harvester
+Final Fugue
+Twombtorial
+Portamello
+
+##Super Meat Boy Songs
+Slugger's Refrain
+Got Danged
+Bootus Bleez
+
+##Minigames
+A Bit of a Stretch
+Lunch Rush
+Voguelike
+Show Time!
+Take a Breather
+
+##Boss Battles
+Harmonie
+Deep Blues
+Matron
+Reaper
+The Necrodancer
