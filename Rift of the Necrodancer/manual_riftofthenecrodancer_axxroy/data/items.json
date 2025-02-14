@@ -1,0 +1,431 @@
+[
+    {
+        "count": 15,
+        "name": "Diamond",
+        "category": [
+            "(Diamond)"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Shopkeep Mode Trap",
+        "category": [
+            "(Traps)"
+        ],
+        "trap": true
+    },
+    {
+        "name": "A Bit of a Stretch",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Minigames"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Amalgamaniac",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Baboosh",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bootus Bleez",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Super Meat Boy Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Brave the Harvester",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Count Funkula",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cryp2que",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Deep Blues",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Boss Battles"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Disco Disaster",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Eldritch House",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Elusional",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Final Fugue",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Glass Cages",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Got Danged",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Super Meat Boy Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hallow Queen",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hang Ten Heph",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Harmonie",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Boss Battles"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Heph's Mess",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "King's Ruse",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lunch Rush",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Minigames"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Matriarch",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Matron",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Boss Battles"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Morning Dove",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Necro Sonatica",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Necropolis",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nocturning",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Om and On",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Overthinker",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Portamello",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Progenitor",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ravevenge",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Reaper",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Boss Battles"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rift Within",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "She Banned",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Show Time!",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Minigames"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Slugger's Refrain",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Super Meat Boy Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spookhouse Pop",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Suzu's Quest",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Take a Breather",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Minigames"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Necrodancer",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Boss Battles"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Twombtorial",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Under the Thunder",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Visualize Yourself",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Voguelike",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Minigames"
+        ],
+        "progression": true
+    },
+    {
+        "name": "What's in the Box",
+        "count": 1,
+        "category": [
+            "(Songs)",
+            "Songs"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Goal Song",
+        "category": [
+            "(Goal Information Item)"
+        ],
+        "progression": true
+    }
+]

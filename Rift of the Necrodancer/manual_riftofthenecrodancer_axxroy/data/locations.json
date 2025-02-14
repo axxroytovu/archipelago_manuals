@@ -1,0 +1,833 @@
+[
+    {
+        "name": "Finished Goal Song",
+        "category": [],
+        "requires": "|Goal Song|",
+        "victory": true
+    },
+    {
+        "name": "A Bit of a Stretch - 0",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|A Bit of a Stretch|"
+    },
+    {
+        "name": "A Bit of a Stretch - 1",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|A Bit of a Stretch|"
+    },
+    {
+        "name": "Amalgamaniac - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Amalgamaniac|"
+    },
+    {
+        "name": "Amalgamaniac - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Amalgamaniac|"
+    },
+    {
+        "name": "Baboosh - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Baboosh|"
+    },
+    {
+        "name": "Baboosh - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Baboosh|"
+    },
+    {
+        "name": "Bootus Bleez - 0",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Bootus Bleez|"
+    },
+    {
+        "name": "Bootus Bleez - 1",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Bootus Bleez|"
+    },
+    {
+        "name": "Brave the Harvester - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Brave the Harvester|"
+    },
+    {
+        "name": "Brave the Harvester - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Brave the Harvester|"
+    },
+    {
+        "name": "Count Funkula - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Count Funkula|"
+    },
+    {
+        "name": "Count Funkula - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Count Funkula|"
+    },
+    {
+        "name": "Cryp2que - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Cryp2que|"
+    },
+    {
+        "name": "Cryp2que - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Cryp2que|"
+    },
+    {
+        "name": "Deep Blues - 0",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Deep Blues|"
+    },
+    {
+        "name": "Deep Blues - 1",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Deep Blues|"
+    },
+    {
+        "name": "Disco Disaster - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Disco Disaster|"
+    },
+    {
+        "name": "Disco Disaster - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Disco Disaster|"
+    },
+    {
+        "name": "Eldritch House - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Eldritch House|"
+    },
+    {
+        "name": "Eldritch House - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Eldritch House|"
+    },
+    {
+        "name": "Elusional - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Elusional|"
+    },
+    {
+        "name": "Elusional - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Elusional|"
+    },
+    {
+        "name": "Final Fugue - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Final Fugue|"
+    },
+    {
+        "name": "Final Fugue - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Final Fugue|"
+    },
+    {
+        "name": "Glass Cages - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Glass Cages|"
+    },
+    {
+        "name": "Glass Cages - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Glass Cages|"
+    },
+    {
+        "name": "Got Danged - 0",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Got Danged|"
+    },
+    {
+        "name": "Got Danged - 1",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Got Danged|"
+    },
+    {
+        "name": "Hallow Queen - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Hallow Queen|"
+    },
+    {
+        "name": "Hallow Queen - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Hallow Queen|"
+    },
+    {
+        "name": "Hang Ten Heph - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Hang Ten Heph|"
+    },
+    {
+        "name": "Hang Ten Heph - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Hang Ten Heph|"
+    },
+    {
+        "name": "Harmonie - 0",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Harmonie|"
+    },
+    {
+        "name": "Harmonie - 1",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Harmonie|"
+    },
+    {
+        "name": "Heph's Mess - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Heph's Mess|"
+    },
+    {
+        "name": "Heph's Mess - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Heph's Mess|"
+    },
+    {
+        "name": "King's Ruse - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|King's Ruse|"
+    },
+    {
+        "name": "King's Ruse - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|King's Ruse|"
+    },
+    {
+        "name": "Lunch Rush - 0",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Lunch Rush|"
+    },
+    {
+        "name": "Lunch Rush - 1",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Lunch Rush|"
+    },
+    {
+        "name": "Matriarch - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Matriarch|"
+    },
+    {
+        "name": "Matriarch - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Matriarch|"
+    },
+    {
+        "name": "Matron - 0",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Matron|"
+    },
+    {
+        "name": "Matron - 1",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Matron|"
+    },
+    {
+        "name": "Morning Dove - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Morning Dove|"
+    },
+    {
+        "name": "Morning Dove - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Morning Dove|"
+    },
+    {
+        "name": "Necro Sonatica - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Necro Sonatica|"
+    },
+    {
+        "name": "Necro Sonatica - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Necro Sonatica|"
+    },
+    {
+        "name": "Necropolis - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Necropolis|"
+    },
+    {
+        "name": "Necropolis - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Necropolis|"
+    },
+    {
+        "name": "Nocturning - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Nocturning|"
+    },
+    {
+        "name": "Nocturning - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Nocturning|"
+    },
+    {
+        "name": "Om and On - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Om and On|"
+    },
+    {
+        "name": "Om and On - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Om and On|"
+    },
+    {
+        "name": "Overthinker - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Overthinker|"
+    },
+    {
+        "name": "Overthinker - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Overthinker|"
+    },
+    {
+        "name": "Portamello - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Portamello|"
+    },
+    {
+        "name": "Portamello - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Portamello|"
+    },
+    {
+        "name": "Progenitor - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Progenitor|"
+    },
+    {
+        "name": "Progenitor - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Progenitor|"
+    },
+    {
+        "name": "Ravevenge - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Ravevenge|"
+    },
+    {
+        "name": "Ravevenge - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Ravevenge|"
+    },
+    {
+        "name": "Reaper - 0",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Reaper|"
+    },
+    {
+        "name": "Reaper - 1",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|Reaper|"
+    },
+    {
+        "name": "Rift Within - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Rift Within|"
+    },
+    {
+        "name": "Rift Within - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Rift Within|"
+    },
+    {
+        "name": "She Banned - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|She Banned|"
+    },
+    {
+        "name": "She Banned - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|She Banned|"
+    },
+    {
+        "name": "Show Time! - 0",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Show Time!|"
+    },
+    {
+        "name": "Show Time! - 1",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Show Time!|"
+    },
+    {
+        "name": "Slugger's Refrain - 0",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Slugger's Refrain|"
+    },
+    {
+        "name": "Slugger's Refrain - 1",
+        "category": [
+            "(Song List)",
+            "Super Meat Boy Songs"
+        ],
+        "requires": "|Slugger's Refrain|"
+    },
+    {
+        "name": "Spookhouse Pop - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Spookhouse Pop|"
+    },
+    {
+        "name": "Spookhouse Pop - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Spookhouse Pop|"
+    },
+    {
+        "name": "Suzu's Quest - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Suzu's Quest|"
+    },
+    {
+        "name": "Suzu's Quest - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Suzu's Quest|"
+    },
+    {
+        "name": "Take a Breather - 0",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Take a Breather|"
+    },
+    {
+        "name": "Take a Breather - 1",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Take a Breather|"
+    },
+    {
+        "name": "The Necrodancer - 0",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|The Necrodancer|"
+    },
+    {
+        "name": "The Necrodancer - 1",
+        "category": [
+            "(Song List)",
+            "Boss Battles"
+        ],
+        "requires": "|The Necrodancer|"
+    },
+    {
+        "name": "Twombtorial - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Twombtorial|"
+    },
+    {
+        "name": "Twombtorial - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Twombtorial|"
+    },
+    {
+        "name": "Under the Thunder - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Under the Thunder|"
+    },
+    {
+        "name": "Under the Thunder - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Under the Thunder|"
+    },
+    {
+        "name": "Visualize Yourself - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Visualize Yourself|"
+    },
+    {
+        "name": "Visualize Yourself - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|Visualize Yourself|"
+    },
+    {
+        "name": "Voguelike - 0",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Voguelike|"
+    },
+    {
+        "name": "Voguelike - 1",
+        "category": [
+            "(Song List)",
+            "Minigames"
+        ],
+        "requires": "|Voguelike|"
+    },
+    {
+        "name": "What's in the Box - 0",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|What's in the Box|"
+    },
+    {
+        "name": "What's in the Box - 1",
+        "category": [
+            "(Song List)",
+            "Songs"
+        ],
+        "requires": "|What's in the Box|"
+    },
+    {
+        "name": "Diamonds Needed - 1",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:1|"
+    },
+    {
+        "name": "Diamonds Needed - 2",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:2|"
+    },
+    {
+        "name": "Diamonds Needed - 3",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:3|"
+    },
+    {
+        "name": "Diamonds Needed - 4",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:4|"
+    },
+    {
+        "name": "Diamonds Needed - 5",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:5|"
+    },
+    {
+        "name": "Diamonds Needed - 6",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:6|"
+    },
+    {
+        "name": "Diamonds Needed - 7",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:7|"
+    },
+    {
+        "name": "Diamonds Needed - 8",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:8|"
+    },
+    {
+        "name": "Diamonds Needed - 9",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:9|"
+    },
+    {
+        "name": "Diamonds Needed - 10",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:10|"
+    },
+    {
+        "name": "Diamonds Needed - 11",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:11|"
+    },
+    {
+        "name": "Diamonds Needed - 12",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:12|"
+    },
+    {
+        "name": "Diamonds Needed - 13",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:13|"
+    },
+    {
+        "name": "Diamonds Needed - 14",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:14|"
+    },
+    {
+        "name": "Diamonds Needed - 15",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:15|"
+    }
+]
