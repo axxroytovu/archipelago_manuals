@@ -1,0 +1,25 @@
+{
+  "Round 1": {
+    "starting": true,
+    "connects_to": [
+      "Round 2"
+    ],
+    "requires": []
+  },
+  "Round 2": {
+    "connects_to": [
+      "Round 3"
+    ],
+    "requires": "|Progressive Round:1|"
+  },
+  "Round 3": {
+    "connects_to": [
+      "Round 4"
+    ],
+    "requires": "|Progressive Round:2| AND |Reduced Difficulty:1|"
+  },
+  "Round 4": {
+    "connects_to": [],
+    "requires": "|Progressive Round:3| AND |Reduced Difficulty:2|"
+  }
+}

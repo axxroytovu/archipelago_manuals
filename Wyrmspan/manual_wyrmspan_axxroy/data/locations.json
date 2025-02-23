@@ -1,0 +1,424 @@
+[
+  {
+    "name": "Beat Automata after Round 1",
+    "region": "Round 1",
+    "category": [
+      "Round 1"
+    ]
+  },
+  {
+    "name": "Beat Automata after Round 2",
+    "region": "Round 2",
+    "category": [
+      "Round 2"
+    ]
+  },
+  {
+    "name": "Beat Automata after Round 3",
+    "region": "Round 3",
+    "category": [
+      "Round 3"
+    ]
+  },
+  {
+    "name": "Beat Automata after Round 4",
+    "region": "Round 4",
+    "victory": true,
+    "category": [
+      "Round 4"
+    ]
+  },
+  {
+    "name": "Place 1 cube on the guild tracker",
+    "region": "Round 1",
+    "category": [
+      "Round 1"
+    ]
+  },
+  {
+    "name": "Place 2 cubes on the guild tracker",
+    "region": "Round 2",
+    "category": [
+      "Round 2"
+    ]
+  },
+  {
+    "name": "Place 3 cubes on the guild tracker",
+    "region": "Round 3",
+    "category": [
+      "Round 3"
+    ]
+  },
+  {
+    "name": "Place 4 cubes on the guild tracker",
+    "region": "Round 4",
+    "category": [
+      "Round 4"
+    ]
+  },
+  {
+    "name": "Win the round 1 objective",
+    "region": "Round 1",
+    "category": [ "Round 1" ]
+  },
+  {
+    "name": "Win the round 2 objective",
+    "region": "Round 2",
+    "category": [ "Round 2" ]
+  },
+  {
+    "name": "Win the round 3 objective",
+    "region": "Round 3",
+    "category": [ "Round 3" ]
+  },
+  {
+    "name": "Win the round 4 objective",
+    "region": "Round 4",
+    "category": [ "Round 4" ]
+  },
+  {
+    "name": "End a round with 2 eggs",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round with 3 eggs",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round with 6 eggs",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round with 11 eggs",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round with 4 egg capacity",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round with 8 egg capacity",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round with 11 egg capacity",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round with 18 egg capacity",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Playful dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Playful dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Playful dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Shy dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Shy dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Shy dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Helpful dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Helpful dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Helpful dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Aggressive dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Aggressive dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Aggressive dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Hatchling",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Hatchling",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Hatchling",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Small dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Small dragons",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Small dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 4 Small dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Medium dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Medium dragons",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Medium dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 4 Medium dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 1 Large dragon",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Large dragons",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Large dragons",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 4 Large dragons",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round wih 2 Cave cards",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round wih 3 Cave cards",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round wih 5 Cave cards",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round wih 8 Cave cards",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round with 2 cards in your Amethyst Abyss",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round with 3 cards in your Amethyst Abyss",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round with 5 cards in your Amethyst Abyss",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round with 6 cards in your Amethyst Abyss",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round with 2 cards in your Crimson Cavern",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round with 3 cards in your Crimson Cavern",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round with 5 cards in your Crimson Cavern",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round with 6 cards in your Crimson Cavern",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End a round with 2 cards in your Golden Grotto",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End a round with 3 cards in your Golden Grotto",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End a round with 5 cards in your Golden Grotto",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End a round with 6 cards in your Golden Grotto",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End the round with 2 dragons with 0-2 cost",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End the round with 3 dragons with 0-2 cost",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End the round with 4 dragons with 0-2 cost",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End the round with 5 dragons with 0-2 cost",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End the round with 1 dragons with 3+ cost",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End the round with 2 dragons with 3+ cost",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End the round with 3 dragons with 3+ cost",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End the round with 4 dragons with 3+ cost",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End the round with 2 dragons with Activated abilities",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End the round with 4 dragons with Activated abilities",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End the round with 6 dragons with Activated abilities",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End the round with 1 dragon with Play or Round abilities",
+    "region": "Round 2",
+    "category": [ "Round 2", "Objective" ]
+  },
+  {
+    "name": "End the round with 2 dragons with Play or Round abilities",
+    "region": "Round 3",
+    "category": [ "Round 3", "Objective" ]
+  },
+  {
+    "name": "End the round with 3 dragons with Play or Round abilities",
+    "region": "Round 4",
+    "category": [ "Round 4", "Objective" ]
+  },
+  {
+    "name": "End the round with 1 cached resource",
+    "region": "Round 1",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End the round with 2 cached resource",
+    "region": "Round 2",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End the round with 4 cached resource",
+    "region": "Round 3",
+    "category": [ "Round 1", "Objective" ]
+  },
+  {
+    "name": "End the round with 6 cached resource",
+    "region": "Round 4",
+    "category": [ "Round 1", "Objective" ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "count": "3",
+    "name": "Progressive Round",
+    "category": [
+      "Progress"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Reduced Difficulty",
+    "category": [
+      "Progress"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Starting Egg",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Starting Card",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Card Display Slot - Dragon",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Card Display Slot - Cave",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Starting Coin Each Round",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": 0,
+    "name": "Lose an Egg",
+    "category": [
+      "Consumable"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Discard a Card",
+    "category": [
+      "Consumable"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Bonus Egg",
+    "category": [
+      "Consumable"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bonus Resource",
+    "category": [
+      "Consumable"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bonus Card",
+    "category": [
+      "Consumable"
+    ],
+    "filler": true
+  }
+]
