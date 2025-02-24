@@ -1,6 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState
+from BaseClasses import MultiWorld, CollectionState, ItemClassification
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -48,6 +48,33 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
+    
+    events = {
+        "pink": ["Ranch"],
+        "tabby": ["Dry Reef Main"],
+        "phosphor": ["Dry Reef Main"],
+        "honey": ["Moss Blanket Main"],
+        "hunter": ["Hunter Swamp"],
+        "quantum": ["Ancient Ruins"],
+        "dervish": ["Glass Desert Front"],
+        "tangle": ["Glass Desert Front"],
+        "rock": ["Dry Reef Main"],
+        "rad": ["Indigo Quarry Front", "Indigo Quarry Back"],
+        "boom": ["Indigo Quarry Front", "Moss Blanket Main"],
+        "crystal": ["Indigo Quarry Front", "Indigo Quarry Back"],
+        "mosaic": ["Glass Desert Back"],
+        "puddle": ["Indigo Quarry Front", "Pond Island", "Dry Reef Ring Island"],
+        "fire": ["Glass Desert Front"]
+    }
+
+    for e_name, regions in events.items():
+        for region in regions:
+            e_region = multiworld.get_region(region, player)
+            e_item = ManualItem(e_name, ItemClassification.progression, None, player=player)
+            e_loc = ManualLocation(player, f"{e_name}_{region}", None, e_region)
+            e_region.locations.append(e_loc)
+            e_loc.place_locked_item(e_item)
+
     if hasattr(multiworld, "re_gen_passthrough"):
         return
 

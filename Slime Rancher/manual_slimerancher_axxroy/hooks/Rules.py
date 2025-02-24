@@ -35,40 +35,5 @@ def TreasureLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
     return lab_access and items
 
 def slime(world: World, multiworld: MultiWorld, state: CollectionState, player: int, slime_type: str):
-    need_docks = False
-    match slime_type:
-        case "pink":
-            available = ["Ranch"]
-        case "tabby":
-            available = ["Dry Reef Main"]
-        case "phosphor":
-            available = ["Dry Reef Main"]
-        case "honey":
-            available = ["Moss Blanket Main"]
-        case "hunter":
-            available = ["Hunter Swamp"]
-        case "quantum":
-            available = ["Ancient Ruins"]
-        case "dervish":
-            available = ["Glass Desert Front"]
-        case "tangle":
-            available = ["Glass Desert Front"]
-        case "rock":
-            available = ["Dry Reef Main"]
-        case "rad":
-            available = ["Indigo Quarry Front", "Indigo Quarry Back"]
-        case "boom":
-            available = ["Indigo Quarry Front", "Moss Blanket Main"]
-        case "crystal":
-            available = ["Indigo Quarry Front", "Indigo Quarry Back"]
-        case "mosaic":
-            available = ["Glass Desert Back"]
-        case "puddle":
-            available = ["Indigo Quarry Front", "Pond Island", "Dry Reef Ring Island"]
-            need_docks = True
-        case "fire":
-            available = ["Glass Desert Front"]
-    
-    docks_access = (not need_docks) or state.can_reach_region("The Docks", player) 
-    return docks_access and any([state.can_reach_region(r, player) for r in available])
-        
+    docks_access = (slime_type != "puddle") or state.has_all(["Ranch Expansion - The Docks", "Ranch Expansion - The Overgrowth"]) 
+    return docks_access and state.has(slime_type, player)
