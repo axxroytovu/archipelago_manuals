@@ -35,5 +35,10 @@ def TreasureLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
     return lab_access and items
 
 def slime(world: World, multiworld: MultiWorld, state: CollectionState, player: int, slime_type: str):
-    docks_access = (slime_type != "puddle") or state.has_all(["Ranch Expansion - The Docks", "Ranch Expansion - The Overgrowth"]) 
+    if slime_type == 'all':
+        return all([slime(world, multiworld, state, player, s) for s in [
+            "pink", "tabby", "phosphor", "honey", "hunter",
+            "quantum", "dervish", "tangle", "rock", "rad",
+            "boom", "crystal", "mosaic", "puddle", "fire"]])
+    docks_access = (slime_type != "puddle") or state.has_all(["Ranch Expansion - The Docks", "Ranch Expansion - The Overgrowth"], player) 
     return docks_access and state.has(slime_type, player)

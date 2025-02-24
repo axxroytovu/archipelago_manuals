@@ -1305,7 +1305,7 @@
         {
             "name": "7zee Rewards Level 28 - GOAL",
             "region": "Ranch",
-            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}",
+            "requires": "{slime(all)}",
             "victory": true
         }
     ]
