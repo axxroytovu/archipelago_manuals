@@ -569,7 +569,7 @@
         },
         {
             "name": "Treasure Pod MKI - Cliff Above Moss Blanket Boom Largo Path",
-            "category": ["Moss Blanket - ", "Treasure Pods"],
+            "category": ["Moss Blanket - Main", "Treasure Pods"],
             "region": "Moss Blanket Main",
             "requires": "{TreasureLevel(1)}",
             "map": "moss_blanket",
@@ -1305,7 +1305,7 @@
         {
             "name": "7zee Rewards Level 28 - GOAL",
             "region": "Ranch",
-            "requires": "{slime(hunter)} and {slime(crystal)} and {slime(mosaic)}",
+            "requires": "{slime(all)}",
             "victory": true
         }
     ]
