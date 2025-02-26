@@ -12,7 +12,7 @@ As an example, you may have a location that requires you to collect 10 shards fr
 
 ## Add the events
 
-Events are added in `after_create_regions`. You are essentially adding locations and items with `Null` as the ID.
+Events are added in `after_create_regions`. You are essentially adding locations and items with `None` as the ID.
 
 ```py
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
