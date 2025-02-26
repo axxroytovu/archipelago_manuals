@@ -2,9 +2,11 @@
 
 ## What are events? Why is this useful?
 
-Archipelago is full of items, but there are ways to use fake events and items to influence logic. These are called events.
+Archipelago is full of items, but there are ways to use fake events and items to influence logic. These are called events. Events are not locations, and they won't show up in the client. But event items can be used in logic to simplify complicated chains.
 
 If you have particularly complicated logic for a specific location, you can reference events which have their own logic.
+
+This is a replacement for significant use of the `CanReachLocation` function, or many games which use locked items to emulate this functionality.
 
 As an example, you may have a location that requires you to collect 10 shards from across the map. Each of those shards could send a normal archipelago item, as well as have an "event_shard" that tells the logic that you could reach that location. Then you can add a second location that requires 10 "event_shard" items.
 
