@@ -86,6 +86,22 @@
         "requires": "|Brave the Harvester|"
     },
     {
+        "name": "Confronting Myself - 0",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Confronting Myself|"
+    },
+    {
+        "name": "Confronting Myself - 1",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Confronting Myself|"
+    },
+    {
         "name": "Count Funkula - 0",
         "category": [
             "(Song List)",
@@ -502,6 +518,22 @@
         "requires": "|Ravevenge|"
     },
     {
+        "name": "Reach for the Summit - 0",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Reach for the Summit|"
+    },
+    {
+        "name": "Reach for the Summit - 1",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Reach for the Summit|"
+    },
+    {
         "name": "Reaper - 0",
         "category": [
             "(Song List)",
@@ -518,6 +550,38 @@
         "requires": "|Reaper|"
     },
     {
+        "name": "Resurrections (Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Resurrections (Remix)|"
+    },
+    {
+        "name": "Resurrections (Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Resurrections (Remix)|"
+    },
+    {
+        "name": "Resurrections - 0",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Resurrections|"
+    },
+    {
+        "name": "Resurrections - 1",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Resurrections|"
+    },
+    {
         "name": "Rift Within - 0",
         "category": [
             "(Song List)",
@@ -532,6 +596,22 @@
             "Songs"
         ],
         "requires": "|Rift Within|"
+    },
+    {
+        "name": "Scattered and Lost - 0",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Scattered and Lost|"
+    },
+    {
+        "name": "Scattered and Lost - 1",
+        "category": [
+            "(Song List)",
+            "Celeste Songs"
+        ],
+        "requires": "|Scattered and Lost|"
     },
     {
         "name": "She Banned - 0",
@@ -829,5 +909,12 @@
             "(!Goal Amount!)"
         ],
         "requires": "|Diamond:15|"
+    },
+    {
+        "name": "Diamonds Needed - 16",
+        "category": [
+            "(!Goal Amount!)"
+        ],
+        "requires": "|Diamond:16|"
     }
 ]
